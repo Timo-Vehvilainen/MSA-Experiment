@@ -1,0 +1,64 @@
+/*
+***	INCLUDE				msa_subroutines.pcl
+***					
+***	This external pcl-file requires that the following things are in place in order to work:
+***		
+***		- a picture called "display", which includes a text stimulus called "progress".
+***		- a trial called log_event, which includes a stimulus event called log_code
+***			
+***	The following subroutines are included. To read more about their
+***	functionality, see inside subroutines.pcl
+***
+***	 	- string int_to_hex ( int )
+***		- double hex_to_double ( string )
+***		- string get_latest_signal ( input_port )
+***		- check_init ( input_port )
+***		- bool check_echo ( string, input_port )
+***		- bool send_command ( string, input_port, output_port )
+***		- void wait_for_start_temp ( input_port, output_port )
+***
+***						--- needs to be placed in the same folder as this file ---
+*/
+
+progress.set_caption("Fetching subroutines...", true);
+display.present();
+
+include_once "msa_subroutines.pcl";
+
+/*
+***	INCLUDE				msa_initialization.pcl
+***
+***	This external pcl-file requires that the following things are in place in order to work:
+***		
+***		- msa_subroutines.pcl must be included
+***		- a picture called "display", which includes a text stimulus called "progress".
+***		- a trial called log_event, which includes a stimulus event called log_code
+***					
+***	This pcl file makes sure that the ports are correctly set, establishes a syncronised communication with 
+***	the device, and sends calibration & experiment-related data to the device. 
+*** 	Upon completion, initialization.pcl provides four variables, that may be used afterwards: 
+***	
+***		- array <string> calibration_data: includes string representations for the commands given 
+***			to the device in order to calibrate it for the correct thermod. These commands may be changed
+***			from the experiment parameters (advanced parameter editor).
+***		
+***		- array <string> experiment_data: includes string representations for the commands given 
+***			to the device in order to set the default temperatures and slopes. These commands may be changed
+***			from the experiment parameters. 
+***			The values this array holds are as follows, in order:
+***				- The starting temperature
+***				- The slope to the starting temperature
+***				- The slope to the target temperature
+***				- The target temperature		
+***
+***		- input_port iport
+***
+***		- output_port oport
+***
+***							--- needs to be placed in the same folder as this file ---
+*/
+
+progress.set_caption("Initializing ports...", true);
+display.present();
+
+include_once "msa_initialization.pcl";

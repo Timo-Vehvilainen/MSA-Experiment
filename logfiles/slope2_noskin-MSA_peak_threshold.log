@@ -1,0 +1,3068 @@
+Scenario - MSA_peak_threshold
+Logfile written - 08/08/2014 13:38:00
+
+Subject	Trial	Event Type	Code	Event(str)	Temperature(num)	VAS(num)	Target_temperature(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+slope2_noskin	0	Port Input	73					14417	14417	2
+slope2_noskin	0	Port Input	78					14427	14427	1
+slope2_noskin	0	Port Input	70					14437	14437	1
+slope2_noskin	0	Port Input	48					14457	14457	1
+slope2_noskin	0	Port Input	49					14467	14467	1
+slope2_noskin	0	Port Input	46					14477	14477	1
+slope2_noskin	0	Port Input	48					14487	14487	1
+slope2_noskin	0	Port Input	51					14497	14497	1
+slope2_noskin	1	Save Logfile	Initialised	Initialised				14500	0	13			0		other	0
+slope2_noskin	1	Port Input	71					15727	1227	1
+slope2_noskin	1	Port Input	49					15737	1237	1
+slope2_noskin	1	Port Input	53					15747	1247	1
+slope2_noskin	1	Port Input	102					15757	1257	1
+slope2_noskin	1	Port Input	72					17237	2737	1
+slope2_noskin	1	Port Input	49					17247	2747	1
+slope2_noskin	1	Port Input	98					17257	2757	1
+slope2_noskin	1	Port Input	102					17267	2767	1
+slope2_noskin	1	Port Input	79					18737	4237	1
+slope2_noskin	1	Port Input	48					18747	4247	1
+slope2_noskin	1	Port Input	49					18757	4257	1
+slope2_noskin	1	Port Input	98					18767	4267	1
+slope2_noskin	1	Port Input	78					20238	5738	1
+slope2_noskin	1	Port Input	49					20247	5747	1
+slope2_noskin	1	Port Input	57					20257	5757	1
+slope2_noskin	1	Port Input	102					20267	5767	1
+slope2_noskin	1	Port Input	75					21737	7237	1
+slope2_noskin	1	Port Input	49					21747	7247	1
+slope2_noskin	1	Port Input	101					21757	7257	1
+slope2_noskin	1	Port Input	53					21767	7267	1
+slope2_noskin	1	Port Input	76					23237	8737	2
+slope2_noskin	1	Port Input	49					23247	8747	1
+slope2_noskin	1	Port Input	100					23257	8757	1
+slope2_noskin	1	Port Input	50					23267	8767	1
+slope2_noskin	1	Port Input	66					24877	10377	2
+slope2_noskin	1	Port Input	49					24887	10387	1
+slope2_noskin	1	Port Input	55					24897	10397	1
+slope2_noskin	1	Port Input	99					24907	10407	1
+slope2_noskin	1	Port Input	82					26427	11927	1
+slope2_noskin	1	Port Input	48					26437	11937	1
+slope2_noskin	1	Port Input	51					26457	11957	1
+slope2_noskin	1	Port Input	50					26467	11967	1
+slope2_noskin	1	Port Input	83					27937	13437	1
+slope2_noskin	1	Port Input	48					27947	13447	1
+slope2_noskin	1	Port Input	49					27957	13457	1
+slope2_noskin	1	Port Input	52					27967	13467	1
+slope2_noskin	1	Port Input	84					29437	14937	1
+slope2_noskin	1	Port Input	49					29447	14947	1
+slope2_noskin	1	Port Input	55					29457	14957	1
+slope2_noskin	1	Port Input	99					29467	14967	1
+slope2_noskin	1	Port Input	67					31227	16727	1
+slope2_noskin	1	Port Input	48					31237	16737	1
+slope2_noskin	1	Port Input	48					31247	16747	1
+slope2_noskin	1	Port Input	48					31257	16757	1
+slope2_noskin	1	Port Input	77					32707	18207	1
+slope2_noskin	1	Port Input	49					32727	18227	1
+slope2_noskin	1	Port Input	55					32737	18237	1
+slope2_noskin	1	Port Input	102					32747	18247	1
+slope2_noskin	2	Save Logfile	Measurement,38.3, ,38	Measurement	38.3	 	38	33145	0	18			0		other	0
+slope2_noskin	2	Port Input	77					34557	1412	1
+slope2_noskin	2	Port Input	49					34577	1432	1
+slope2_noskin	2	Port Input	55					34587	1442	1
+slope2_noskin	2	Port Input	102					34597	1452	1
+slope2_noskin	3	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	36993	0	21			0		other	0
+slope2_noskin	3	Port Input	77					38197	1204	2
+slope2_noskin	3	Port Input	49					38217	1224	1
+slope2_noskin	3	Port Input	56					38227	1234	1
+slope2_noskin	3	Port Input	48					38237	1244	1
+slope2_noskin	4	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	40633	0	38			0		other	0
+slope2_noskin	4	Port Input	77					41867	1234	2
+slope2_noskin	4	Port Input	49					41887	1254	1
+slope2_noskin	4	Port Input	56					41897	1264	1
+slope2_noskin	4	Port Input	48					41907	1274	1
+slope2_noskin	4	Response	1					44161	3528	1
+slope2_noskin	5	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	44303	0	39			0		other	0
+slope2_noskin	5	Port Input	77					45537	1234	1
+slope2_noskin	5	Port Input	49					45557	1254	1
+slope2_noskin	5	Port Input	56					45567	1264	1
+slope2_noskin	5	Port Input	48					45577	1274	1
+slope2_noskin	5	Response	1					45708	1405	92
+slope2_noskin	5	Response	1					47421	3118	1
+slope2_noskin	6	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	47973	0	26			0		other	0
+slope2_noskin	6	Response	1					48944	971	1
+slope2_noskin	6	Port Input	77					49207	1234	1
+slope2_noskin	6	Port Input	49					49227	1254	1
+slope2_noskin	6	Port Input	55					49237	1264	1
+slope2_noskin	6	Port Input	102					49247	1274	1
+slope2_noskin	7	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	51643	0	27			0		other	0
+slope2_noskin	7	Port Input	77					52867	1224	1
+slope2_noskin	7	Port Input	49					52887	1244	1
+slope2_noskin	7	Port Input	55					52888	1245	92
+slope2_noskin	7	Port Input	102					52888	1245	92
+slope2_noskin	8	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	55303	0	30			0		other	0
+slope2_noskin	8	Port Input	77					56537	1234	1
+slope2_noskin	8	Port Input	49					56557	1254	1
+slope2_noskin	8	Port Input	55					56558	1255	40
+slope2_noskin	8	Port Input	102					56558	1255	40
+slope2_noskin	9	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	58973	0	57			0		other	0
+slope2_noskin	9	Port Input	77					60187	1214	2
+slope2_noskin	9	Port Input	49					60207	1234	1
+slope2_noskin	9	Port Input	55					60217	1244	1
+slope2_noskin	9	Port Input	102					60227	1254	1
+slope2_noskin	10	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	62623	0	43			0		other	0
+slope2_noskin	10	Response	4					63238	615	1
+slope2_noskin	10	Port Input	77					63847	1224	1
+slope2_noskin	10	Port Input	49					63867	1244	1
+slope2_noskin	10	Port Input	55					63877	1254	1
+slope2_noskin	10	Port Input	102					63887	1264	1
+slope2_noskin	11	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	66283	0	30			0		other	0
+slope2_noskin	11	Port Input	84					67517	1234	1
+slope2_noskin	11	Port Input	49					67527	1244	1
+slope2_noskin	11	Port Input	97					67537	1254	1
+slope2_noskin	11	Port Input	52					67547	1264	1
+slope2_noskin	11	Port Input	67					69057	2774	1
+slope2_noskin	11	Port Input	48					69067	2784	1
+slope2_noskin	11	Port Input	48					69077	2794	1
+slope2_noskin	11	Port Input	51					69087	2804	1
+slope2_noskin	12	Save Logfile	Initiate Peak,38.3, ,42	Initiate Peak	38.3	 	42	69453	0	34			0		other	0
+slope2_noskin	12	Port Input	77					70567	1114	1
+slope2_noskin	12	Port Input	49					70587	1134	1
+slope2_noskin	12	Port Input	55					70597	1144	1
+slope2_noskin	12	Port Input	102					70607	1154	1
+slope2_noskin	13	Save Logfile	Measurement,38.3, ,42	Measurement	38.3	 	42	73033	0	33			0		other	0
+slope2_noskin	13	Port Input	77					74177	1144	1
+slope2_noskin	13	Port Input	49					74197	1164	1
+slope2_noskin	13	Port Input	56					74207	1174	1
+slope2_noskin	13	Port Input	51					74217	1184	1
+slope2_noskin	14	Save Logfile	Measurement,38.7, ,42	Measurement	38.7	 	42	76613	0	34			0		other	0
+slope2_noskin	14	Port Input	77					77837	1224	1
+slope2_noskin	14	Port Input	49					77857	1244	1
+slope2_noskin	14	Port Input	56					77867	1254	1
+slope2_noskin	14	Port Input	99					77877	1264	1
+slope2_noskin	15	Save Logfile	Measurement,39.6, ,42	Measurement	39.6	 	42	80273	0	36			0		other	0
+slope2_noskin	15	Port Input	77					81497	1224	1
+slope2_noskin	15	Port Input	49					81517	1244	1
+slope2_noskin	15	Port Input	57					81527	1254	1
+slope2_noskin	15	Port Input	52					81537	1264	1
+slope2_noskin	16	Save Logfile	Measurement,40.4, ,42	Measurement	40.4	 	42	83933	0	37			0		other	0
+slope2_noskin	16	Port Input	77					85167	1234	1
+slope2_noskin	16	Port Input	49					85187	1254	1
+slope2_noskin	16	Port Input	57					85197	1264	1
+slope2_noskin	16	Port Input	99					85207	1274	1
+slope2_noskin	17	Save Logfile	Measurement,41.2, ,42	Measurement	41.2	 	42	87603	0	37			0		other	0
+slope2_noskin	17	Port Input	77					88827	1224	1
+slope2_noskin	17	Port Input	49					88847	1244	1
+slope2_noskin	17	Port Input	97					88857	1254	1
+slope2_noskin	17	Port Input	51					88867	1264	1
+slope2_noskin	17	Port Input	70					88897	1294	1
+slope2_noskin	17	Port Input	49					88917	1314	1
+slope2_noskin	17	Port Input	97					88927	1324	1
+slope2_noskin	17	Port Input	51					88937	1334	1
+slope2_noskin	18	Save Logfile	Measurement,41.9, ,42	Measurement	41.9	 	42	91263	0	40			0		other	0
+slope2_noskin	19	Save Logfile	Peak Temperature,41.9, ,42	Peak Temperature	41.9	 	42	91596	0	40			0		other	0
+slope2_noskin	19	Port Input	67					92717	1121	1
+slope2_noskin	19	Port Input	48					92727	1131	1
+slope2_noskin	19	Port Input	48					92737	1141	1
+slope2_noskin	19	Port Input	48					92747	1151	1
+slope2_noskin	19	Port Input	77					94197	2601	1
+slope2_noskin	19	Port Input	49					94217	2621	1
+slope2_noskin	19	Port Input	57					94227	2631	1
+slope2_noskin	19	Port Input	100					94237	2641	1
+slope2_noskin	20	Save Logfile	Measurement,41.3, ,38	Measurement	41.3	 	38	94634	0	42			0		other	0
+slope2_noskin	20	Port Input	77					95817	1183	1
+slope2_noskin	20	Port Input	49					95837	1203	1
+slope2_noskin	20	Port Input	57					95847	1213	1
+slope2_noskin	20	Port Input	53					95857	1223	1
+slope2_noskin	21	Save Logfile	Measurement,40.5, ,38	Measurement	40.5	 	38	96254	0	45			0		other	0
+slope2_noskin	21	Port Input	77					97487	1233	1
+slope2_noskin	21	Port Input	49					97507	1253	1
+slope2_noskin	21	Port Input	56					97517	1263	1
+slope2_noskin	21	Port Input	101					97527	1273	1
+slope2_noskin	22	Save Logfile	Measurement,39.8, ,38	Measurement	39.8	 	38	97925	0	44			0		other	0
+slope2_noskin	22	Port Input	77					99157	1232	1
+slope2_noskin	22	Port Input	49					99158	1233	40
+slope2_noskin	22	Port Input	56					99158	1233	40
+slope2_noskin	22	Port Input	54					99197	1272	2
+slope2_noskin	23	Save Logfile	Measurement,39, ,38	Measurement	39	 	38	99594	0	46			0		other	0
+slope2_noskin	23	Port Input	77					100817	1223	1
+slope2_noskin	23	Port Input	49					100837	1243	1
+slope2_noskin	23	Port Input	56					100847	1253	1
+slope2_noskin	23	Port Input	48					100857	1263	1
+slope2_noskin	24	Save Logfile	Measurement,38.4, ,38	Measurement	38.4	 	38	101255	0	46			0		other	0
+slope2_noskin	24	Port Input	77					102487	1232	1
+slope2_noskin	24	Port Input	49					102507	1252	1
+slope2_noskin	24	Port Input	55					102517	1262	1
+slope2_noskin	24	Port Input	101					102527	1272	1
+slope2_noskin	25	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	104923	0	48			0		other	0
+slope2_noskin	25	Port Input	77					106147	1224	1
+slope2_noskin	25	Port Input	49					106167	1244	1
+slope2_noskin	25	Port Input	55					106177	1254	1
+slope2_noskin	25	Port Input	102					106187	1264	1
+slope2_noskin	26	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	108583	0	48			0		other	0
+slope2_noskin	26	Port Input	77					109807	1224	1
+slope2_noskin	26	Port Input	49					109827	1244	1
+slope2_noskin	26	Port Input	55					109837	1254	1
+slope2_noskin	26	Port Input	102					109847	1264	1
+slope2_noskin	27	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	112243	0	54			0		other	0
+slope2_noskin	27	Port Input	77					113477	1234	1
+slope2_noskin	27	Port Input	49					113497	1254	1
+slope2_noskin	27	Port Input	55					113507	1264	1
+slope2_noskin	27	Port Input	102					113517	1274	1
+slope2_noskin	28	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	115913	0	51			0		other	0
+slope2_noskin	28	Port Input	77					117137	1224	1
+slope2_noskin	28	Port Input	49					117157	1244	1
+slope2_noskin	28	Port Input	55					117167	1254	1
+slope2_noskin	28	Port Input	101					117177	1264	1
+slope2_noskin	29	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	119573	0	52			0		other	0
+slope2_noskin	29	Port Input	77					120807	1234	1
+slope2_noskin	29	Port Input	49					120827	1254	1
+slope2_noskin	29	Port Input	55					120837	1264	1
+slope2_noskin	29	Port Input	101					120847	1274	1
+slope2_noskin	30	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	123243	0	55			0		other	0
+slope2_noskin	30	Port Input	77					124467	1224	1
+slope2_noskin	30	Port Input	49					124487	1244	1
+slope2_noskin	30	Port Input	55					124497	1254	1
+slope2_noskin	30	Port Input	101					124507	1264	1
+slope2_noskin	31	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	126903	0	55			0		other	0
+slope2_noskin	31	Port Input	77					128127	1224	1
+slope2_noskin	31	Port Input	49					128147	1244	1
+slope2_noskin	31	Port Input	55					128157	1254	1
+slope2_noskin	31	Port Input	101					128167	1264	1
+slope2_noskin	32	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	130563	0	55			0		other	0
+slope2_noskin	32	Port Input	77					131797	1234	1
+slope2_noskin	32	Port Input	49					131817	1254	1
+slope2_noskin	32	Port Input	55					131827	1264	1
+slope2_noskin	32	Port Input	101					131837	1274	1
+slope2_noskin	33	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	134233	0	56			0		other	0
+slope2_noskin	33	Port Input	77					135457	1224	1
+slope2_noskin	33	Port Input	49					135477	1244	1
+slope2_noskin	33	Port Input	55					135487	1254	1
+slope2_noskin	33	Port Input	101					135497	1264	1
+slope2_noskin	34	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	137893	0	57			0		other	0
+slope2_noskin	34	Port Input	77					139117	1224	1
+slope2_noskin	34	Port Input	49					139137	1244	1
+slope2_noskin	34	Port Input	55					139147	1254	1
+slope2_noskin	34	Port Input	101					139157	1264	1
+slope2_noskin	35	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	141553	0	60			0		other	0
+slope2_noskin	35	Port Input	77					142787	1234	1
+slope2_noskin	35	Port Input	49					142807	1254	1
+slope2_noskin	35	Port Input	55					142817	1264	1
+slope2_noskin	35	Port Input	101					142827	1274	1
+slope2_noskin	36	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	145223	0	61			0		other	0
+slope2_noskin	36	Port Input	77					146447	1224	1
+slope2_noskin	36	Port Input	49					146467	1244	1
+slope2_noskin	36	Port Input	55					146477	1254	1
+slope2_noskin	36	Port Input	101					146487	1264	1
+slope2_noskin	37	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	148883	0	61			0		other	0
+slope2_noskin	37	Port Input	77					150117	1234	1
+slope2_noskin	37	Port Input	49					150137	1254	1
+slope2_noskin	37	Port Input	55					150147	1264	1
+slope2_noskin	37	Port Input	101					150157	1274	1
+slope2_noskin	38	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	152553	0	62			0		other	0
+slope2_noskin	38	Port Input	77					153777	1224	1
+slope2_noskin	38	Port Input	49					153797	1244	1
+slope2_noskin	38	Port Input	55					153807	1254	1
+slope2_noskin	38	Port Input	101					153817	1264	1
+slope2_noskin	38	Response	1					155055	2502	1
+slope2_noskin	39	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	156213	0	65			0		other	0
+slope2_noskin	39	Response	1					156844	631	1
+slope2_noskin	39	Port Input	77					157457	1244	1
+slope2_noskin	39	Port Input	49					157477	1264	1
+slope2_noskin	39	Port Input	55					157487	1274	1
+slope2_noskin	39	Port Input	101					157497	1284	1
+slope2_noskin	39	Response	1					158393	2180	1
+slope2_noskin	40	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	159894	0	65			0		other	0
+slope2_noskin	40	Response	1					159978	84	3
+slope2_noskin	40	Port Input	77					161117	1223	1
+slope2_noskin	40	Port Input	49					161137	1243	1
+slope2_noskin	40	Port Input	55					161147	1253	1
+slope2_noskin	40	Port Input	101					161157	1263	1
+slope2_noskin	41	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	163553	0	69			0		other	0
+slope2_noskin	41	Port Input	77					164787	1234	1
+slope2_noskin	41	Port Input	49					164807	1254	1
+slope2_noskin	41	Port Input	55					164817	1264	1
+slope2_noskin	41	Port Input	101					164827	1274	1
+slope2_noskin	42	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	167223	0	67			0		other	0
+slope2_noskin	42	Port Input	77					168447	1224	1
+slope2_noskin	42	Port Input	49					168467	1244	1
+slope2_noskin	42	Port Input	55					168477	1254	1
+slope2_noskin	42	Port Input	101					168487	1264	1
+slope2_noskin	43	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	170883	0	68			0		other	0
+slope2_noskin	43	Port Input	77					172097	1214	1
+slope2_noskin	43	Port Input	49					172117	1234	1
+slope2_noskin	43	Port Input	55					172127	1244	1
+slope2_noskin	43	Port Input	101					172137	1254	1
+slope2_noskin	44	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	174533	0	71			0		other	0
+slope2_noskin	44	Port Input	77					175757	1224	1
+slope2_noskin	44	Port Input	49					175777	1244	1
+slope2_noskin	44	Port Input	55					175787	1254	1
+slope2_noskin	44	Port Input	101					175797	1264	1
+slope2_noskin	45	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	178193	0	73			0		other	0
+slope2_noskin	45	Port Input	77					179427	1234	1
+slope2_noskin	45	Port Input	49					179447	1254	1
+slope2_noskin	45	Port Input	55					179457	1264	1
+slope2_noskin	45	Port Input	101					179467	1274	1
+slope2_noskin	46	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	181863	0	72			0		other	0
+slope2_noskin	46	Response	4					182343	480	1
+slope2_noskin	46	Port Input	77					183087	1224	1
+slope2_noskin	46	Port Input	49					183107	1244	1
+slope2_noskin	46	Port Input	55					183117	1254	1
+slope2_noskin	46	Port Input	101					183127	1264	1
+slope2_noskin	47	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	185523	0	74			0		other	0
+slope2_noskin	47	Port Input	84					186757	1234	1
+slope2_noskin	47	Port Input	49					186767	1244	1
+slope2_noskin	47	Port Input	99					186777	1254	1
+slope2_noskin	47	Port Input	99					186786	1263	2
+slope2_noskin	47	Port Input	67					188297	2774	1
+slope2_noskin	47	Port Input	48					188307	2784	1
+slope2_noskin	47	Port Input	48					188316	2793	2
+slope2_noskin	47	Port Input	51					188327	2804	1
+slope2_noskin	48	Save Logfile	Initiate Peak,38.2, ,46	Initiate Peak	38.2	 	46	188693	0	88			0		other	0
+slope2_noskin	48	Port Input	77					189857	1164	1
+slope2_noskin	48	Port Input	49					189877	1184	1
+slope2_noskin	48	Port Input	55					189886	1193	2
+slope2_noskin	48	Port Input	101					189896	1203	2
+slope2_noskin	49	Save Logfile	Measurement,38.2, ,46	Measurement	38.2	 	46	192293	0	101			0		other	0
+slope2_noskin	49	Port Input	77					193577	1284	1
+slope2_noskin	49	Port Input	49					193596	1303	2
+slope2_noskin	49	Port Input	56					193607	1314	1
+slope2_noskin	49	Port Input	51					193617	1324	1
+slope2_noskin	50	Save Logfile	Measurement,38.7, ,46	Measurement	38.7	 	46	196014	0	82			0		other	0
+slope2_noskin	50	Port Input	77					197247	1233	1
+slope2_noskin	50	Port Input	49					197266	1252	2
+slope2_noskin	50	Port Input	56					197276	1262	2
+slope2_noskin	50	Port Input	98					197286	1272	2
+slope2_noskin	51	Save Logfile	Measurement,39.5, ,46	Measurement	39.5	 	46	199683	0	78			0		other	0
+slope2_noskin	51	Port Input	77					200907	1224	1
+slope2_noskin	51	Port Input	49					200926	1243	2
+slope2_noskin	51	Port Input	57					200937	1254	1
+slope2_noskin	51	Port Input	52					200947	1264	1
+slope2_noskin	52	Save Logfile	Measurement,40.4, ,46	Measurement	40.4	 	46	203343	0	82			0		other	0
+slope2_noskin	52	Port Input	77					204567	1224	1
+slope2_noskin	52	Port Input	49					204587	1244	1
+slope2_noskin	52	Port Input	57					204596	1253	2
+slope2_noskin	52	Port Input	98					204606	1263	2
+slope2_noskin	53	Save Logfile	Measurement,41.1, ,46	Measurement	41.1	 	46	207003	0	82			0		other	0
+slope2_noskin	53	Port Input	77					208237	1234	1
+slope2_noskin	53	Port Input	49					208256	1253	2
+slope2_noskin	53	Port Input	97					208266	1263	2
+slope2_noskin	53	Port Input	51					208276	1273	2
+slope2_noskin	54	Save Logfile	Measurement,41.9, ,46	Measurement	41.9	 	46	210673	0	85			0		other	0
+slope2_noskin	54	Port Input	77					211897	1224	1
+slope2_noskin	54	Port Input	49					211916	1243	2
+slope2_noskin	54	Port Input	97					211926	1253	2
+slope2_noskin	54	Port Input	98					211936	1263	2
+slope2_noskin	55	Save Logfile	Measurement,42.7, ,46	Measurement	42.7	 	46	214340	0	88			0		other	0
+slope2_noskin	55	Port Input	77					215567	1227	1
+slope2_noskin	55	Port Input	49					215586	1246	2
+slope2_noskin	55	Port Input	98					215596	1256	2
+slope2_noskin	55	Port Input	50					215606	1266	2
+slope2_noskin	56	Save Logfile	Measurement,43.4, ,46	Measurement	43.4	 	46	218003	0	85			0		other	0
+slope2_noskin	56	Port Input	77					219227	1224	1
+slope2_noskin	56	Port Input	49					219246	1243	2
+slope2_noskin	56	Port Input	98					219256	1253	2
+slope2_noskin	56	Port Input	97					219266	1263	2
+slope2_noskin	57	Save Logfile	Measurement,44.2, ,46	Measurement	44.2	 	46	221663	0	86			0		other	0
+slope2_noskin	57	Port Input	77					222886	1223	2
+slope2_noskin	57	Port Input	49					222906	1243	2
+slope2_noskin	57	Port Input	99					222916	1253	2
+slope2_noskin	57	Port Input	50					222926	1263	2
+slope2_noskin	58	Save Logfile	Measurement,45, ,46	Measurement	45	 	46	225323	0	86			0		other	0
+slope2_noskin	58	Port Input	77					226557	1234	1
+slope2_noskin	58	Port Input	49					226576	1253	2
+slope2_noskin	58	Port Input	99					226586	1263	2
+slope2_noskin	58	Port Input	57					226596	1273	2
+slope2_noskin	58	Port Input	70					227347	2024	1
+slope2_noskin	58	Port Input	49					227367	2044	1
+slope2_noskin	58	Port Input	99					227376	2053	2
+slope2_noskin	58	Port Input	98					227386	2063	2
+slope2_noskin	59	Save Logfile	Measurement,45.9, ,46	Measurement	45.9	 	46	229016	0	93			0		other	0
+slope2_noskin	60	Save Logfile	Peak Temperature,45.9, ,46	Peak Temperature	45.9	 	46	229322	0	92			0		other	0
+slope2_noskin	60	Port Input	67					230496	1174	2
+slope2_noskin	60	Port Input	48					230506	1184	2
+slope2_noskin	60	Port Input	48					230516	1194	2
+slope2_noskin	60	Port Input	48					230526	1204	2
+slope2_noskin	60	Port Input	77					231976	2654	2
+slope2_noskin	60	Port Input	49					231996	2674	2
+slope2_noskin	60	Port Input	99					232006	2684	2
+slope2_noskin	60	Port Input	55					232016	2694	2
+slope2_noskin	61	Save Logfile	Measurement,45.5, ,38	Measurement	45.5	 	38	232414	0	93			0		other	0
+slope2_noskin	61	Port Input	77					233716	1302	2
+slope2_noskin	61	Port Input	49					233736	1322	2
+slope2_noskin	61	Port Input	98					233746	1332	1
+slope2_noskin	61	Port Input	102					233756	1342	2
+slope2_noskin	62	Save Logfile	Measurement,44.7, ,38	Measurement	44.7	 	38	234154	0	92			0		other	0
+slope2_noskin	62	Port Input	77					235376	1222	2
+slope2_noskin	62	Port Input	49					235396	1242	1
+slope2_noskin	62	Port Input	98					235406	1252	2
+slope2_noskin	62	Port Input	55					235416	1262	2
+slope2_noskin	63	Save Logfile	Measurement,43.9, ,38	Measurement	43.9	 	38	235815	0	92			0		other	0
+slope2_noskin	63	Port Input	77					237046	1231	2
+slope2_noskin	63	Port Input	49					237066	1251	1
+slope2_noskin	63	Port Input	97					237076	1261	1
+slope2_noskin	63	Port Input	102					237086	1271	2
+slope2_noskin	64	Save Logfile	Measurement,43.1, ,38	Measurement	43.1	 	38	237484	0	96			0		other	0
+slope2_noskin	64	Port Input	77					238706	1222	2
+slope2_noskin	64	Port Input	49					238726	1242	2
+slope2_noskin	64	Port Input	97					238736	1252	2
+slope2_noskin	64	Port Input	54					238746	1262	2
+slope2_noskin	65	Save Logfile	Measurement,42.2, ,38	Measurement	42.2	 	38	239145	0	96			0		other	0
+slope2_noskin	65	Port Input	77					240376	1231	2
+slope2_noskin	65	Port Input	49					240396	1251	2
+slope2_noskin	65	Port Input	57					240406	1261	1
+slope2_noskin	65	Port Input	101					240416	1271	2
+slope2_noskin	66	Save Logfile	Measurement,41.4, ,38	Measurement	41.4	 	38	240814	0	97			0		other	0
+slope2_noskin	66	Port Input	77					242036	1222	2
+slope2_noskin	66	Port Input	49					242056	1242	2
+slope2_noskin	66	Port Input	57					242066	1252	2
+slope2_noskin	66	Port Input	53					242076	1262	2
+slope2_noskin	67	Save Logfile	Measurement,40.5, ,38	Measurement	40.5	 	38	242474	0	98			0		other	0
+slope2_noskin	67	Port Input	77					243707	1233	1
+slope2_noskin	67	Port Input	49					243726	1252	2
+slope2_noskin	67	Port Input	56					243736	1262	1
+slope2_noskin	67	Port Input	100					243746	1272	1
+slope2_noskin	68	Save Logfile	Measurement,39.7, ,38	Measurement	39.7	 	38	244145	0	99			0		other	0
+slope2_noskin	68	Port Input	77					245366	1221	2
+slope2_noskin	68	Port Input	49					245386	1241	1
+slope2_noskin	68	Port Input	56					245396	1251	2
+slope2_noskin	68	Port Input	53					245406	1261	1
+slope2_noskin	69	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	245804	0	451			0		other	0
+slope2_noskin	69	Port Input	77					247367	1563	1
+slope2_noskin	69	Port Input	49					247386	1582	2
+slope2_noskin	69	Port Input	55					247396	1592	1
+slope2_noskin	69	Port Input	101					247406	1602	1
+slope2_noskin	70	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	249804	0	135			0		other	0
+slope2_noskin	70	Port Input	77					251037	1233	1
+slope2_noskin	70	Port Input	49					251057	1253	1
+slope2_noskin	70	Port Input	55					251067	1263	1
+slope2_noskin	70	Port Input	100					251076	1272	1
+slope2_noskin	71	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	253473	0	128			0		other	0
+slope2_noskin	71	Port Input	77					254696	1223	1
+slope2_noskin	71	Port Input	49					254716	1243	1
+slope2_noskin	71	Port Input	55					254726	1253	1
+slope2_noskin	71	Port Input	101					254736	1263	1
+slope2_noskin	72	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	257133	0	104			0		other	0
+slope2_noskin	72	Port Input	77					258366	1233	2
+slope2_noskin	72	Port Input	49					258386	1253	1
+slope2_noskin	72	Port Input	55					258396	1263	1
+slope2_noskin	72	Port Input	101					258406	1273	1
+slope2_noskin	73	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	260803	0	613			0		other	0
+slope2_noskin	73	Port Input	77					262526	1723	1
+slope2_noskin	73	Port Input	49					262546	1743	1
+slope2_noskin	73	Port Input	55					262556	1753	1
+slope2_noskin	73	Port Input	100					262566	1763	1
+slope2_noskin	74	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	264963	0	113			0		other	0
+slope2_noskin	74	Port Input	77					266186	1223	1
+slope2_noskin	74	Port Input	49					266206	1243	1
+slope2_noskin	74	Port Input	55					266216	1253	1
+slope2_noskin	74	Port Input	101					266226	1263	1
+slope2_noskin	75	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	268623	0	113			0		other	0
+slope2_noskin	75	Port Input	77					269857	1234	1
+slope2_noskin	75	Port Input	49					269877	1254	1
+slope2_noskin	75	Port Input	55					269886	1263	1
+slope2_noskin	75	Port Input	101					269896	1273	1
+slope2_noskin	76	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	272293	0	130			0		other	0
+slope2_noskin	76	Port Input	77					273686	1393	1
+slope2_noskin	76	Port Input	49					273706	1413	1
+slope2_noskin	76	Port Input	55					273716	1423	1
+slope2_noskin	76	Port Input	101					273726	1433	1
+slope2_noskin	77	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	276123	0	112			0		other	0
+slope2_noskin	77	Port Input	77					277347	1224	1
+slope2_noskin	77	Port Input	49					277366	1243	2
+slope2_noskin	77	Port Input	55					277377	1254	1
+slope2_noskin	77	Port Input	101					277386	1263	1
+slope2_noskin	78	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	279783	0	140			0		other	0
+slope2_noskin	78	Port Input	77					281176	1393	1
+slope2_noskin	78	Port Input	49					281196	1413	1
+slope2_noskin	78	Port Input	55					281206	1423	1
+slope2_noskin	78	Port Input	101					281216	1433	1
+slope2_noskin	79	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	283613	0	116			0		other	0
+slope2_noskin	79	Port Input	77					284837	1224	1
+slope2_noskin	79	Port Input	49					284856	1243	1
+slope2_noskin	79	Port Input	55					284866	1253	1
+slope2_noskin	79	Port Input	101					284877	1264	1
+slope2_noskin	80	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	287273	0	140			0		other	0
+slope2_noskin	80	Port Input	77					288676	1403	1
+slope2_noskin	80	Port Input	49					288696	1423	1
+slope2_noskin	80	Port Input	55					288706	1433	1
+slope2_noskin	80	Port Input	101					288716	1443	1
+slope2_noskin	81	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	291113	0	118			0		other	0
+slope2_noskin	81	Port Input	77					292337	1224	1
+slope2_noskin	81	Port Input	49					292356	1243	1
+slope2_noskin	81	Port Input	55					292366	1253	1
+slope2_noskin	81	Port Input	101					292377	1264	1
+slope2_noskin	82	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	294773	0	138			0		other	0
+slope2_noskin	82	Port Input	77					296166	1393	1
+slope2_noskin	82	Port Input	49					296186	1413	1
+slope2_noskin	82	Port Input	55					296196	1423	1
+slope2_noskin	82	Port Input	101					296206	1433	1
+slope2_noskin	82	Response	1					296422	1649	1
+slope2_noskin	82	Response	1					298027	3254	1
+slope2_noskin	83	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	298603	0	118			0		other	0
+slope2_noskin	83	Response	1					299572	969	1
+slope2_noskin	83	Port Input	77					299857	1254	1
+slope2_noskin	83	Port Input	49					299877	1274	1
+slope2_noskin	83	Port Input	55					299886	1283	1
+slope2_noskin	83	Port Input	101					299896	1293	1
+slope2_noskin	83	Response	1					300950	2347	1
+slope2_noskin	84	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	302293	0	144			0		other	0
+slope2_noskin	84	Port Input	77					303676	1383	1
+slope2_noskin	84	Port Input	49					303696	1403	1
+slope2_noskin	84	Port Input	55					303706	1413	1
+slope2_noskin	84	Port Input	101					303716	1423	1
+slope2_noskin	85	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	306113	0	121			0		other	0
+slope2_noskin	85	Port Input	77					307506	1393	1
+slope2_noskin	85	Port Input	49					307526	1413	1
+slope2_noskin	85	Port Input	55					307536	1423	1
+slope2_noskin	85	Port Input	102					307546	1433	1
+slope2_noskin	86	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	309943	0	123			0		other	0
+slope2_noskin	86	Port Input	77					311336	1393	1
+slope2_noskin	86	Port Input	49					311356	1413	1
+slope2_noskin	86	Port Input	55					311366	1423	1
+slope2_noskin	86	Port Input	102					311376	1433	1
+slope2_noskin	87	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	313773	0	122			0		other	0
+slope2_noskin	87	Port Input	77					315146	1373	1
+slope2_noskin	87	Port Input	49					315166	1393	1
+slope2_noskin	87	Port Input	55					315176	1403	1
+slope2_noskin	87	Port Input	101					315186	1413	1
+slope2_noskin	88	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	317583	0	147			0		other	0
+slope2_noskin	88	Port Input	77					318976	1393	1
+slope2_noskin	88	Port Input	49					318996	1413	2
+slope2_noskin	88	Port Input	55					318999	1416	15
+slope2_noskin	88	Port Input	102					319016	1433	1
+slope2_noskin	89	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	321413	0	145			0		other	0
+slope2_noskin	89	Port Input	77					322816	1403	1
+slope2_noskin	89	Port Input	49					322836	1423	1
+slope2_noskin	89	Port Input	55					322846	1433	1
+slope2_noskin	89	Port Input	102					322856	1443	1
+slope2_noskin	90	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	325253	0	130			0		other	0
+slope2_noskin	90	Port Input	77					326646	1393	1
+slope2_noskin	90	Port Input	49					326666	1413	1
+slope2_noskin	90	Port Input	55					326676	1423	1
+slope2_noskin	90	Port Input	102					326686	1433	1
+slope2_noskin	91	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	329083	0	126			0		other	0
+slope2_noskin	91	Response	4					329539	456	1
+slope2_noskin	91	Port Input	77					330306	1223	1
+slope2_noskin	91	Port Input	49					330326	1243	1
+slope2_noskin	91	Port Input	55					330336	1253	1
+slope2_noskin	91	Port Input	102					330346	1263	1
+slope2_noskin	92	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	332743	0	132			0		other	0
+slope2_noskin	92	Port Input	84					334136	1393	1
+slope2_noskin	92	Port Input	49					334146	1403	1
+slope2_noskin	92	Port Input	102					334156	1413	1
+slope2_noskin	92	Port Input	52					334166	1423	1
+slope2_noskin	92	Port Input	67					335677	2934	1
+slope2_noskin	92	Port Input	48					335686	2943	1
+slope2_noskin	92	Port Input	48					335696	2953	1
+slope2_noskin	92	Port Input	51					335706	2963	1
+slope2_noskin	93	Save Logfile	Initiate Peak,38.3, ,50	Initiate Peak	38.3	 	50	336073	0	129			0		other	0
+slope2_noskin	93	Port Input	77					337276	1203	1
+slope2_noskin	93	Port Input	49					337296	1223	1
+slope2_noskin	93	Port Input	55					337306	1233	1
+slope2_noskin	93	Port Input	102					337316	1243	1
+slope2_noskin	94	Save Logfile	Measurement,38.3, ,50	Measurement	38.3	 	50	339713	0	163			0		other	0
+slope2_noskin	94	Port Input	77					341126	1413	1
+slope2_noskin	94	Port Input	49					341146	1433	1
+slope2_noskin	94	Port Input	56					341156	1443	1
+slope2_noskin	94	Port Input	51					341166	1453	1
+slope2_noskin	95	Save Logfile	Measurement,38.7, ,50	Measurement	38.7	 	50	343563	0	139			0		other	0
+slope2_noskin	95	Port Input	77					344956	1393	1
+slope2_noskin	95	Port Input	49					344976	1413	1
+slope2_noskin	95	Port Input	56					344986	1423	1
+slope2_noskin	95	Port Input	99					344996	1433	1
+slope2_noskin	96	Save Logfile	Measurement,39.6, ,50	Measurement	39.6	 	50	347393	0	129			0		other	0
+slope2_noskin	96	Port Input	77					348626	1233	1
+slope2_noskin	96	Port Input	49					348646	1253	1
+slope2_noskin	96	Port Input	57					348656	1263	1
+slope2_noskin	96	Port Input	52					348666	1273	1
+slope2_noskin	97	Save Logfile	Measurement,40.4, ,50	Measurement	40.4	 	50	351063	0	2402			0		other	0
+slope2_noskin	97	Port Input	77					354616	3553	1
+slope2_noskin	97	Port Input	49					354636	3573	1
+slope2_noskin	97	Port Input	97					354646	3583	1
+slope2_noskin	97	Port Input	49					354656	3593	1
+slope2_noskin	98	Save Logfile	Measurement,41.7, ,50	Measurement	41.7	 	50	357053	0	136			0		other	0
+slope2_noskin	98	Port Input	77					358286	1233	1
+slope2_noskin	98	Port Input	49					358306	1253	1
+slope2_noskin	98	Port Input	97					358316	1263	1
+slope2_noskin	98	Port Input	57					358326	1273	1
+slope2_noskin	99	Save Logfile	Measurement,42.5, ,50	Measurement	42.5	 	50	360723	0	138			0		other	0
+slope2_noskin	99	Port Input	77					362116	1393	1
+slope2_noskin	99	Port Input	49					362136	1413	1
+slope2_noskin	99	Port Input	98					362146	1423	1
+slope2_noskin	99	Port Input	49					362156	1433	1
+slope2_noskin	100	Save Logfile	Measurement,43.3, ,50	Measurement	43.3	 	50	364553	0	144			0		other	0
+slope2_noskin	100	Port Input	77					365946	1393	1
+slope2_noskin	100	Port Input	49					365966	1413	1
+slope2_noskin	100	Port Input	98					365976	1423	1
+slope2_noskin	100	Port Input	57					365986	1433	1
+slope2_noskin	101	Save Logfile	Measurement,44.1, ,50	Measurement	44.1	 	50	368383	0	1562			0		other	0
+slope2_noskin	101	Port Input	77					371106	2723	1
+slope2_noskin	101	Port Input	49					371126	2743	1
+slope2_noskin	101	Port Input	99					371136	2753	1
+slope2_noskin	101	Port Input	52					371146	2763	1
+slope2_noskin	102	Save Logfile	Measurement,45.2, ,50	Measurement	45.2	 	50	373543	0	1250			0		other	0
+slope2_noskin	102	Port Input	77					375936	2393	1
+slope2_noskin	102	Port Input	49					375966	2423	1
+slope2_noskin	102	Port Input	99					375976	2433	1
+slope2_noskin	102	Port Input	101					375986	2443	1
+slope2_noskin	103	Save Logfile	Measurement,46.2, ,50	Measurement	46.2	 	50	378383	0	165			0		other	0
+slope2_noskin	103	Port Input	77					379766	1383	1
+slope2_noskin	103	Port Input	49					379786	1403	1
+slope2_noskin	103	Port Input	100					379796	1413	1
+slope2_noskin	103	Port Input	54					379806	1423	1
+slope2_noskin	104	Save Logfile	Measurement,47, ,50	Measurement	47	 	50	382203	0	163			0		other	0
+slope2_noskin	104	Port Input	77					383596	1393	1
+slope2_noskin	104	Port Input	49					383616	1413	1
+slope2_noskin	104	Port Input	100					383626	1423	1
+slope2_noskin	104	Port Input	101					383636	1433	1
+slope2_noskin	105	Save Logfile	Measurement,47.8, ,50	Measurement	47.8	 	50	386033	0	149			0		other	0
+slope2_noskin	105	Port Input	77					387426	1393	1
+slope2_noskin	105	Port Input	49					387446	1413	1
+slope2_noskin	105	Port Input	101					387456	1423	1
+slope2_noskin	105	Port Input	54					387466	1433	1
+slope2_noskin	106	Save Logfile	Measurement,48.6, ,50	Measurement	48.6	 	50	389864	0	151			0		other	0
+slope2_noskin	106	Port Input	77					391256	1392	1
+slope2_noskin	106	Port Input	49					391276	1412	1
+slope2_noskin	106	Port Input	101					391286	1422	1
+slope2_noskin	106	Port Input	101					391296	1432	1
+slope2_noskin	107	Save Logfile	Measurement,49.4, ,50	Measurement	49.4	 	50	393693	0	148			0		other	0
+slope2_noskin	107	Port Input	70					393693	0	148
+slope2_noskin	107	Port Input	49					393693	0	148
+slope2_noskin	107	Port Input	102					393693	0	148
+slope2_noskin	107	Port Input	52					393693	0	148
+slope2_noskin	107	Port Input	77					395086	1393	1
+slope2_noskin	107	Port Input	49					395106	1413	1
+slope2_noskin	107	Port Input	102					395116	1423	1
+slope2_noskin	107	Port Input	54					395126	1433	1
+slope2_noskin	108	Save Logfile	Measurement,50.2, ,50	Measurement	50.2	 	50	397523	0	167			0		other	0
+slope2_noskin	109	Save Logfile	Peak Temperature,50.2, ,50	Peak Temperature	50.2	 	50	398024	0	150			0		other	0
+slope2_noskin	109	Port Input	67					399256	1232	1
+slope2_noskin	109	Port Input	48					399266	1242	1
+slope2_noskin	109	Port Input	48					399276	1252	1
+slope2_noskin	109	Port Input	48					399286	1262	1
+slope2_noskin	109	Port Input	77					400736	2712	1
+slope2_noskin	109	Port Input	49					400756	2732	1
+slope2_noskin	109	Port Input	101					400766	2742	1
+slope2_noskin	109	Port Input	51					400776	2752	1
+slope2_noskin	110	Save Logfile	Measurement,48.3, ,38	Measurement	48.3	 	38	401174	0	148			0		other	0
+slope2_noskin	110	Port Input	77					402416	1242	1
+slope2_noskin	110	Port Input	49					402436	1262	1
+slope2_noskin	110	Port Input	100					402446	1272	1
+slope2_noskin	110	Port Input	97					402456	1282	1
+slope2_noskin	111	Save Logfile	Measurement,47.4, ,38	Measurement	47.4	 	38	402855	0	153			0		other	0
+slope2_noskin	111	Port Input	77					404246	1391	1
+slope2_noskin	111	Port Input	49					404266	1411	1
+slope2_noskin	111	Port Input	100					404276	1421	1
+slope2_noskin	111	Port Input	49					404286	1431	1
+slope2_noskin	112	Save Logfile	Measurement,46.5, ,38	Measurement	46.5	 	38	404685	0	179			0		other	0
+slope2_noskin	112	Port Input	77					406076	1391	1
+slope2_noskin	112	Port Input	49					406096	1411	1
+slope2_noskin	112	Port Input	99					406106	1421	1
+slope2_noskin	112	Port Input	55					406116	1431	1
+slope2_noskin	113	Save Logfile	Measurement,45.5, ,38	Measurement	45.5	 	38	406514	0	156			0		other	0
+slope2_noskin	113	Port Input	77					407906	1392	1
+slope2_noskin	113	Port Input	49					407926	1412	1
+slope2_noskin	113	Port Input	98					407936	1422	1
+slope2_noskin	113	Port Input	100					407946	1432	1
+slope2_noskin	114	Save Logfile	Measurement,44.5, ,38	Measurement	44.5	 	38	408346	0	177			0		other	0
+slope2_noskin	114	Port Input	77					409796	1450	1
+slope2_noskin	114	Port Input	49					409826	1480	2
+slope2_noskin	114	Port Input	98					409836	1490	1
+slope2_noskin	114	Port Input	51					409846	1500	1
+slope2_noskin	115	Save Logfile	Measurement,43.5, ,38	Measurement	43.5	 	38	410262	0	217			0		other	0
+slope2_noskin	115	Port Input	77					411746	1484	1
+slope2_noskin	115	Port Input	49					411766	1504	1
+slope2_noskin	115	Port Input	97					411776	1514	1
+slope2_noskin	115	Port Input	56					411786	1524	1
+slope2_noskin	116	Save Logfile	Measurement,42.4, ,38	Measurement	42.4	 	38	412184	0	158			0		other	0
+slope2_noskin	116	Port Input	77					413559	1375	27
+slope2_noskin	116	Port Input	49					413596	1412	1
+slope2_noskin	116	Port Input	57					413606	1422	1
+slope2_noskin	116	Port Input	102					413616	1432	1
+slope2_noskin	117	Save Logfile	Measurement,41.5, ,38	Measurement	41.5	 	38	414019	0	463			0		other	0
+slope2_noskin	117	Port Input	77					415736	1717	1
+slope2_noskin	117	Port Input	49					415756	1737	1
+slope2_noskin	117	Port Input	57					415766	1747	1
+slope2_noskin	117	Port Input	51					415776	1757	1
+slope2_noskin	118	Save Logfile	Measurement,40.3, ,38	Measurement	40.3	 	38	416177	0	243			0		other	0
+slope2_noskin	118	Port Input	77					417566	1389	1
+slope2_noskin	118	Port Input	49					417586	1409	1
+slope2_noskin	118	Port Input	56					417596	1419	1
+slope2_noskin	118	Port Input	57					417606	1429	1
+slope2_noskin	119	Save Logfile	Measurement,39.3, ,38	Measurement	39.3	 	38	418005	0	312			0		other	0
+slope2_noskin	119	Port Input	77					419566	1561	1
+slope2_noskin	119	Port Input	49					419586	1581	1
+slope2_noskin	119	Port Input	56					419596	1591	1
+slope2_noskin	119	Port Input	48					419606	1601	1
+slope2_noskin	120	Save Logfile	Measurement,38.4, ,38	Measurement	38.4	 	38	420005	0	175			0		other	0
+slope2_noskin	120	Port Input	77					421379	1374	31
+slope2_noskin	120	Port Input	49					421436	1431	1
+slope2_noskin	120	Port Input	55					421446	1441	1
+slope2_noskin	120	Port Input	100					421456	1451	1
+slope2_noskin	121	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	423933	0	174			0		other	0
+slope2_noskin	121	Port Input	77					425236	1303	1
+slope2_noskin	121	Port Input	49					425256	1323	1
+slope2_noskin	121	Port Input	55					425266	1333	1
+slope2_noskin	121	Port Input	101					425276	1343	1
+slope2_noskin	122	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	427674	0	173			0		other	0
+slope2_noskin	122	Port Input	77					429076	1402	1
+slope2_noskin	122	Port Input	49					429106	1432	1
+slope2_noskin	122	Port Input	55					429116	1442	1
+slope2_noskin	122	Port Input	101					429126	1452	1
+slope2_noskin	123	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	431523	0	169			0		other	0
+slope2_noskin	123	Port Input	77					432896	1373	1
+slope2_noskin	123	Port Input	49					432916	1393	1
+slope2_noskin	123	Port Input	55					432926	1403	1
+slope2_noskin	123	Port Input	101					432936	1413	1
+slope2_noskin	124	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	435333	0	166			0		other	0
+slope2_noskin	124	Port Input	77					436726	1393	1
+slope2_noskin	124	Port Input	49					436746	1413	1
+slope2_noskin	124	Port Input	55					436756	1423	1
+slope2_noskin	124	Port Input	101					436766	1433	1
+slope2_noskin	125	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	439163	0	190			0		other	0
+slope2_noskin	125	Port Input	77					440556	1393	1
+slope2_noskin	125	Port Input	49					440576	1413	1
+slope2_noskin	125	Port Input	55					440586	1423	1
+slope2_noskin	125	Port Input	101					440596	1433	1
+slope2_noskin	126	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	442993	0	193			0		other	0
+slope2_noskin	126	Response	1					443186	193	16
+slope2_noskin	126	Port Input	77					444406	1413	1
+slope2_noskin	126	Port Input	49					444426	1433	1
+slope2_noskin	126	Port Input	55					444436	1443	1
+slope2_noskin	126	Port Input	101					444446	1453	1
+slope2_noskin	126	Response	1					445044	2051	1
+slope2_noskin	126	Response	1					446598	3605	1
+slope2_noskin	127	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	446846	0	179			0		other	0
+slope2_noskin	127	Port Input	77					448236	1390	1
+slope2_noskin	127	Port Input	49					448266	1420	1
+slope2_noskin	127	Port Input	55					448276	1430	1
+slope2_noskin	127	Port Input	101					448286	1440	1
+slope2_noskin	128	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	450674	0	180			0		other	0
+slope2_noskin	128	Port Input	77					452056	1382	1
+slope2_noskin	128	Port Input	49					452076	1402	1
+slope2_noskin	128	Port Input	55					452086	1412	1
+slope2_noskin	128	Port Input	101					452097	1423	1
+slope2_noskin	129	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	454493	0	176			0		other	0
+slope2_noskin	129	Port Input	77					455876	1383	1
+slope2_noskin	129	Port Input	49					455896	1403	1
+slope2_noskin	129	Port Input	55					455906	1413	1
+slope2_noskin	129	Port Input	101					455916	1423	1
+slope2_noskin	130	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	458313	0	178			0		other	0
+slope2_noskin	130	Response	4					458750	437	1
+slope2_noskin	130	Port Input	77					459706	1393	1
+slope2_noskin	130	Port Input	49					459726	1413	1
+slope2_noskin	130	Port Input	55					459736	1423	1
+slope2_noskin	130	Port Input	101					459746	1433	1
+slope2_noskin	131	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	462143	0	176			0		other	0
+slope2_noskin	131	Port Input	84					463706	1563	1
+slope2_noskin	131	Port Input	50					463716	1573	1
+slope2_noskin	131	Port Input	49					463726	1583	1
+slope2_noskin	131	Port Input	50					463736	1593	1
+slope2_noskin	131	Port Input	67					465246	3103	1
+slope2_noskin	131	Port Input	48					465256	3113	1
+slope2_noskin	131	Port Input	48					465266	3123	1
+slope2_noskin	131	Port Input	51					465276	3133	1
+slope2_noskin	132	Save Logfile	Initiate Peak,38.2, ,53	Initiate Peak	38.2	 	53	465644	0	177			0		other	0
+slope2_noskin	132	Port Input	77					466896	1252	1
+slope2_noskin	132	Port Input	49					466926	1282	1
+slope2_noskin	132	Port Input	55					466936	1292	1
+slope2_noskin	132	Port Input	102					466946	1302	1
+slope2_noskin	133	Save Logfile	Measurement,38.3, ,53	Measurement	38.3	 	53	469344	0	183			0		other	0
+slope2_noskin	133	Port Input	77					470696	1352	1
+slope2_noskin	133	Port Input	49					470716	1372	1
+slope2_noskin	133	Port Input	56					470726	1382	1
+slope2_noskin	133	Port Input	51					470736	1392	1
+slope2_noskin	134	Save Logfile	Measurement,38.7, ,53	Measurement	38.7	 	53	473133	0	203			0		other	0
+slope2_noskin	134	Port Input	77					474526	1393	1
+slope2_noskin	134	Port Input	49					474546	1413	1
+slope2_noskin	134	Port Input	56					474556	1423	1
+slope2_noskin	134	Port Input	100					474566	1433	1
+slope2_noskin	135	Save Logfile	Measurement,39.7, ,53	Measurement	39.7	 	53	476963	0	184			0		other	0
+slope2_noskin	135	Port Input	77					478356	1393	1
+slope2_noskin	135	Port Input	49					478376	1413	1
+slope2_noskin	135	Port Input	57					478386	1423	1
+slope2_noskin	135	Port Input	53					478396	1433	1
+slope2_noskin	136	Save Logfile	Measurement,40.5, ,53	Measurement	40.5	 	53	480793	0	182			0		other	0
+slope2_noskin	136	Port Input	77					482186	1393	1
+slope2_noskin	136	Port Input	49					482206	1413	1
+slope2_noskin	136	Port Input	57					482216	1423	1
+slope2_noskin	136	Port Input	100					482226	1433	1
+slope2_noskin	137	Save Logfile	Measurement,41.3, ,53	Measurement	41.3	 	53	484624	0	184			0		other	0
+slope2_noskin	137	Port Input	77					486016	1392	1
+slope2_noskin	137	Port Input	49					486036	1412	1
+slope2_noskin	137	Port Input	97					486046	1422	1
+slope2_noskin	137	Port Input	53					486056	1432	1
+slope2_noskin	138	Save Logfile	Measurement,42.1, ,53	Measurement	42.1	 	53	488453	0	250			0		other	0
+slope2_noskin	138	Port Input	77					489846	1393	1
+slope2_noskin	138	Port Input	49					489866	1413	1
+slope2_noskin	138	Port Input	97					489876	1423	1
+slope2_noskin	138	Port Input	101					489886	1433	1
+slope2_noskin	139	Save Logfile	Measurement,43, ,53	Measurement	43	 	53	492283	0	208			0		other	0
+slope2_noskin	139	Port Input	77					493676	1393	1
+slope2_noskin	139	Port Input	49					493696	1413	1
+slope2_noskin	139	Port Input	98					493706	1423	1
+slope2_noskin	139	Port Input	54					493716	1433	1
+slope2_noskin	140	Save Logfile	Measurement,43.8, ,53	Measurement	43.8	 	53	496113	0	191			0		other	0
+slope2_noskin	140	Port Input	77					497506	1393	1
+slope2_noskin	140	Port Input	49					497526	1413	1
+slope2_noskin	140	Port Input	98					497536	1423	1
+slope2_noskin	140	Port Input	101					497546	1433	1
+slope2_noskin	141	Save Logfile	Measurement,44.6, ,53	Measurement	44.6	 	53	499943	0	191			0		other	0
+slope2_noskin	141	Port Input	77					501336	1393	1
+slope2_noskin	141	Port Input	49					501356	1413	1
+slope2_noskin	141	Port Input	99					501366	1423	1
+slope2_noskin	141	Port Input	54					501376	1433	1
+slope2_noskin	142	Save Logfile	Measurement,45.4, ,53	Measurement	45.4	 	53	503773	0	186			0		other	0
+slope2_noskin	142	Port Input	77					505166	1393	1
+slope2_noskin	142	Port Input	49					505186	1413	1
+slope2_noskin	142	Port Input	99					505196	1423	1
+slope2_noskin	142	Port Input	101					505206	1433	1
+slope2_noskin	143	Save Logfile	Measurement,46.2, ,53	Measurement	46.2	 	53	507603	0	226			0		other	0
+slope2_noskin	143	Port Input	77					508996	1393	1
+slope2_noskin	143	Port Input	49					509016	1413	1
+slope2_noskin	143	Port Input	100					509026	1423	1
+slope2_noskin	143	Port Input	54					509036	1433	1
+slope2_noskin	144	Save Logfile	Measurement,47, ,53	Measurement	47	 	53	511433	0	221			0		other	0
+slope2_noskin	144	Port Input	77					512826	1393	1
+slope2_noskin	144	Port Input	49					512846	1413	1
+slope2_noskin	144	Port Input	100					512855	1422	2
+slope2_noskin	144	Port Input	101					512865	1432	2
+slope2_noskin	145	Save Logfile	Measurement,47.8, ,53	Measurement	47.8	 	53	515263	0	198			0		other	0
+slope2_noskin	145	Port Input	77					516656	1393	1
+slope2_noskin	145	Port Input	49					516675	1412	2
+slope2_noskin	145	Port Input	101					516685	1422	2
+slope2_noskin	145	Port Input	54					516695	1432	2
+slope2_noskin	146	Save Logfile	Measurement,48.6, ,53	Measurement	48.6	 	53	519093	0	193			0		other	0
+slope2_noskin	146	Port Input	77					520486	1393	1
+slope2_noskin	146	Port Input	49					520505	1412	2
+slope2_noskin	146	Port Input	101					520516	1423	1
+slope2_noskin	146	Port Input	101					520525	1432	2
+slope2_noskin	147	Save Logfile	Measurement,49.4, ,53	Measurement	49.4	 	53	522923	0	200			0		other	0
+slope2_noskin	147	Port Input	77					524316	1393	1
+slope2_noskin	147	Port Input	49					524336	1413	1
+slope2_noskin	147	Port Input	102					524345	1422	2
+slope2_noskin	147	Port Input	54					524355	1432	2
+slope2_noskin	148	Save Logfile	Measurement,50.2, ,53	Measurement	50.2	 	53	526753	0	221			0		other	0
+slope2_noskin	148	Port Input	77					528156	1403	1
+slope2_noskin	148	Port Input	49					528176	1423	1
+slope2_noskin	148	Port Input	102					528185	1432	2
+slope2_noskin	148	Port Input	101					528195	1442	2
+slope2_noskin	149	Save Logfile	Measurement,51, ,53	Measurement	51	 	53	530593	0	221			0		other	0
+slope2_noskin	149	Port Input	77					531986	1393	1
+slope2_noskin	149	Port Input	50					532006	1413	1
+slope2_noskin	149	Port Input	48					532015	1422	2
+slope2_noskin	149	Port Input	55					532025	1432	2
+slope2_noskin	150	Save Logfile	Measurement,51.9, ,53	Measurement	51.9	 	53	534424	0	212			0		other	0
+slope2_noskin	150	Port Input	77					535816	1392	1
+slope2_noskin	150	Port Input	50					535835	1411	2
+slope2_noskin	150	Port Input	48					535845	1421	2
+slope2_noskin	150	Port Input	101					535855	1431	2
+slope2_noskin	150	Port Input	70					537076	2652	1
+slope2_noskin	150	Port Input	50					537105	2681	2
+slope2_noskin	150	Port Input	49					537115	2691	2
+slope2_noskin	150	Port Input	49					537125	2701	2
+slope2_noskin	151	Save Logfile	Measurement,52.9, ,53	Measurement	52.9	 	53	538253	0	199			0		other	0
+slope2_noskin	152	Save Logfile	Peak Temperature,52.9, ,53	Peak Temperature	52.9	 	53	538748	0	198			0		other	0
+slope2_noskin	152	Port Input	67					540025	1277	2
+slope2_noskin	152	Port Input	48					540035	1287	2
+slope2_noskin	152	Port Input	48					540045	1297	2
+slope2_noskin	152	Port Input	48					540055	1307	2
+slope2_noskin	152	Port Input	77					541506	2758	1
+slope2_noskin	152	Port Input	50					541526	2778	1
+slope2_noskin	152	Port Input	48					541535	2787	2
+slope2_noskin	152	Port Input	101					541546	2798	1
+slope2_noskin	153	Save Logfile	Measurement,52.6, ,38	Measurement	52.6	 	38	541944	0	208			0		other	0
+slope2_noskin	153	Port Input	77					543305	1361	2
+slope2_noskin	153	Port Input	50					543325	1381	2
+slope2_noskin	153	Port Input	48					543335	1391	2
+slope2_noskin	153	Port Input	52					543345	1401	2
+slope2_noskin	154	Save Logfile	Measurement,51.6, ,38	Measurement	51.6	 	38	543745	0	203			0		other	0
+slope2_noskin	154	Port Input	77					545135	1390	2
+slope2_noskin	154	Port Input	49					545156	1411	1
+slope2_noskin	154	Port Input	102					545165	1420	2
+slope2_noskin	154	Port Input	98					545176	1431	1
+slope2_noskin	155	Save Logfile	Measurement,50.7, ,38	Measurement	50.7	 	38	545575	0	236			0		other	0
+slope2_noskin	155	Port Input	77					546965	1390	2
+slope2_noskin	155	Port Input	49					546985	1410	2
+slope2_noskin	155	Port Input	102					546995	1420	2
+slope2_noskin	155	Port Input	49					547005	1430	2
+slope2_noskin	156	Save Logfile	Measurement,49.7, ,38	Measurement	49.7	 	38	547406	0	205			0		other	0
+slope2_noskin	156	Port Input	77					548806	1400	1
+slope2_noskin	156	Port Input	49					548825	1419	2
+slope2_noskin	156	Port Input	101					548835	1429	2
+slope2_noskin	156	Port Input	55					548845	1439	2
+slope2_noskin	157	Save Logfile	Measurement,48.7, ,38	Measurement	48.7	 	38	549245	0	229			0		other	0
+slope2_noskin	157	Port Input	77					550635	1390	2
+slope2_noskin	157	Port Input	49					550656	1411	1
+slope2_noskin	157	Port Input	100					550665	1420	2
+slope2_noskin	157	Port Input	100					550675	1430	2
+slope2_noskin	158	Save Logfile	Measurement,47.7, ,38	Measurement	47.7	 	38	551075	0	209			0		other	0
+slope2_noskin	158	Port Input	77					552465	1390	2
+slope2_noskin	158	Port Input	49					552485	1410	1
+slope2_noskin	158	Port Input	100					552495	1420	2
+slope2_noskin	158	Port Input	50					552505	1430	1
+slope2_noskin	159	Save Logfile	Measurement,46.6, ,38	Measurement	46.6	 	38	552905	0	210			0		other	0
+slope2_noskin	159	Port Input	77					554295	1390	2
+slope2_noskin	159	Port Input	49					554315	1410	2
+slope2_noskin	159	Port Input	99					554325	1420	2
+slope2_noskin	159	Port Input	56					554335	1430	2
+slope2_noskin	160	Save Logfile	Measurement,45.6, ,38	Measurement	45.6	 	38	554735	0	228			0		other	0
+slope2_noskin	160	Port Input	77					556126	1391	1
+slope2_noskin	160	Port Input	49					556145	1410	1
+slope2_noskin	160	Port Input	98					556155	1420	2
+slope2_noskin	160	Port Input	101					556165	1430	2
+slope2_noskin	161	Save Logfile	Measurement,44.6, ,38	Measurement	44.6	 	38	556565	0	209			0		other	0
+slope2_noskin	161	Port Input	77					557956	1391	1
+slope2_noskin	161	Port Input	49					557975	1410	1
+slope2_noskin	161	Port Input	98					557985	1420	1
+slope2_noskin	161	Port Input	51					557995	1430	1
+slope2_noskin	162	Save Logfile	Measurement,43.5, ,38	Measurement	43.5	 	38	558394	0	235			0		other	0
+slope2_noskin	162	Port Input	77					559795	1401	2
+slope2_noskin	162	Port Input	49					559815	1421	2
+slope2_noskin	162	Port Input	97					559826	1432	1
+slope2_noskin	162	Port Input	97					559835	1441	2
+slope2_noskin	163	Save Logfile	Measurement,42.6, ,38	Measurement	42.6	 	38	560234	0	214			0		other	0
+slope2_noskin	163	Port Input	77					561625	1391	2
+slope2_noskin	163	Port Input	49					561645	1411	1
+slope2_noskin	163	Port Input	97					561655	1421	2
+slope2_noskin	163	Port Input	48					561665	1431	1
+slope2_noskin	164	Save Logfile	Measurement,41.6, ,38	Measurement	41.6	 	38	562064	0	214			0		other	0
+slope2_noskin	164	Port Input	77					563455	1391	2
+slope2_noskin	164	Port Input	49					563475	1411	1
+slope2_noskin	164	Port Input	57					563485	1421	1
+slope2_noskin	164	Port Input	54					563495	1431	2
+slope2_noskin	165	Save Logfile	Measurement,40.6, ,38	Measurement	40.6	 	38	563895	0	239			0		other	0
+slope2_noskin	165	Port Input	77					565285	1390	2
+slope2_noskin	165	Port Input	49					565305	1410	1
+slope2_noskin	165	Port Input	56					565315	1420	2
+slope2_noskin	165	Port Input	100					565325	1430	2
+slope2_noskin	166	Save Logfile	Measurement,39.7, ,38	Measurement	39.7	 	38	565725	0	226			0		other	0
+slope2_noskin	166	Port Input	77					567116	1391	1
+slope2_noskin	166	Port Input	49					567135	1410	1
+slope2_noskin	166	Port Input	56					567145	1420	1
+slope2_noskin	166	Port Input	51					567155	1430	1
+slope2_noskin	167	Save Logfile	Measurement,38.7, ,38	Measurement	38.7	 	38	567555	0	246			0		other	0
+slope2_noskin	167	Port Input	77					568955	1400	2
+slope2_noskin	167	Port Input	49					568975	1420	1
+slope2_noskin	167	Port Input	55					568985	1430	1
+slope2_noskin	167	Port Input	102					568995	1440	2
+slope2_noskin	168	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	571393	0	248			0		other	0
+slope2_noskin	168	Port Input	77					572785	1392	1
+slope2_noskin	168	Port Input	49					572805	1412	2
+slope2_noskin	168	Port Input	55					572815	1422	1
+slope2_noskin	168	Port Input	101					572825	1432	1
+slope2_noskin	169	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	575223	0	233			0		other	0
+slope2_noskin	169	Port Input	77					576615	1392	2
+slope2_noskin	169	Port Input	49					576635	1412	2
+slope2_noskin	169	Port Input	55					576645	1422	1
+slope2_noskin	169	Port Input	102					576655	1432	1
+slope2_noskin	170	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	579053	0	219			0		other	0
+slope2_noskin	170	Port Input	77					580445	1392	2
+slope2_noskin	170	Port Input	49					580465	1412	1
+slope2_noskin	170	Port Input	55					580475	1422	1
+slope2_noskin	170	Port Input	102					580485	1432	1
+slope2_noskin	171	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	582883	0	222			0		other	0
+slope2_noskin	171	Port Input	77					584275	1392	2
+slope2_noskin	171	Port Input	49					584295	1412	1
+slope2_noskin	171	Port Input	55					584305	1422	1
+slope2_noskin	171	Port Input	101					584315	1432	1
+slope2_noskin	172	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	586713	0	245			0		other	0
+slope2_noskin	172	Port Input	77					588105	1392	1
+slope2_noskin	172	Port Input	49					588125	1412	1
+slope2_noskin	172	Port Input	55					588135	1422	1
+slope2_noskin	172	Port Input	102					588145	1432	1
+slope2_noskin	173	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	590543	0	248			0		other	0
+slope2_noskin	173	Port Input	77					591935	1392	1
+slope2_noskin	173	Port Input	49					591955	1412	1
+slope2_noskin	173	Port Input	55					591965	1422	1
+slope2_noskin	173	Port Input	102					591975	1432	1
+slope2_noskin	174	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	594373	0	233			0		other	0
+slope2_noskin	174	Response	2					595473	1100	1
+slope2_noskin	174	Port Input	77					595765	1392	1
+slope2_noskin	174	Port Input	49					595785	1412	1
+slope2_noskin	174	Port Input	55					595795	1422	1
+slope2_noskin	174	Port Input	102					595805	1432	1
+slope2_noskin	174	Response	2					597341	2968	1
+slope2_noskin	175	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	598203	0	233			0		other	0
+slope2_noskin	175	Response	2					599084	881	1
+slope2_noskin	175	Port Input	77					599615	1412	1
+slope2_noskin	175	Port Input	49					599635	1432	1
+slope2_noskin	175	Port Input	55					599645	1442	1
+slope2_noskin	175	Port Input	102					599655	1452	1
+slope2_noskin	175	Response	2					600644	2441	1
+slope2_noskin	176	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	602053	0	227			0		other	0
+slope2_noskin	176	Response	2					602399	346	1
+slope2_noskin	176	Port Input	77					603445	1392	1
+slope2_noskin	176	Port Input	49					603465	1412	1
+slope2_noskin	176	Port Input	55					603475	1422	1
+slope2_noskin	176	Port Input	102					603485	1432	1
+slope2_noskin	176	Response	2					603949	1896	1
+slope2_noskin	176	Response	2					605813	3760	1
+slope2_noskin	177	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	605883	0	261			0		other	0
+slope2_noskin	177	Port Input	77					607285	1402	1
+slope2_noskin	177	Port Input	49					607305	1422	1
+slope2_noskin	177	Port Input	55					607315	1432	1
+slope2_noskin	177	Port Input	102					607325	1442	2
+slope2_noskin	177	Response	2					607553	1670	1
+slope2_noskin	177	Response	2					609254	3371	1
+slope2_noskin	178	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	609723	0	275			0		other	0
+slope2_noskin	178	Response	2					611051	1328	1
+slope2_noskin	178	Port Input	77					611275	1552	1
+slope2_noskin	178	Port Input	49					611295	1572	1
+slope2_noskin	178	Port Input	55					611305	1582	1
+slope2_noskin	178	Port Input	102					611315	1592	1
+slope2_noskin	178	Response	2					612760	3037	1
+slope2_noskin	179	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	613713	0	232			0		other	0
+slope2_noskin	179	Response	2					614343	630	1
+slope2_noskin	179	Port Input	77					615095	1382	1
+slope2_noskin	179	Port Input	49					615115	1402	1
+slope2_noskin	179	Port Input	56					615125	1412	1
+slope2_noskin	179	Port Input	48					615135	1422	1
+slope2_noskin	179	Response	2					616034	2321	1
+slope2_noskin	179	Response	2					617496	3783	1
+slope2_noskin	180	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	617533	0	259			0		other	0
+slope2_noskin	180	Port Input	77					618935	1402	1
+slope2_noskin	180	Port Input	49					618955	1422	1
+slope2_noskin	180	Port Input	56					618965	1432	1
+slope2_noskin	180	Port Input	48					618975	1442	1
+slope2_noskin	180	Response	2					619280	1747	1
+slope2_noskin	180	Response	2					621036	3503	1
+slope2_noskin	181	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	621373	0	262			0		other	0
+slope2_noskin	181	Response	2					622632	1259	1
+slope2_noskin	181	Port Input	77					622775	1402	1
+slope2_noskin	181	Port Input	49					622795	1422	1
+slope2_noskin	181	Port Input	56					622805	1432	1
+slope2_noskin	181	Port Input	48					622815	1442	1
+slope2_noskin	181	Response	2					624199	2826	1
+slope2_noskin	182	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	625213	0	242			0		other	0
+slope2_noskin	182	Response	2					625842	629	1
+slope2_noskin	182	Port Input	77					626595	1382	2
+slope2_noskin	182	Port Input	49					626615	1402	1
+slope2_noskin	182	Port Input	56					626625	1412	1
+slope2_noskin	182	Port Input	48					626635	1422	1
+slope2_noskin	182	Response	2					627466	2253	1
+slope2_noskin	183	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	629033	0	237			0		other	0
+slope2_noskin	183	Port Input	77					630415	1382	1
+slope2_noskin	183	Port Input	49					630435	1402	1
+slope2_noskin	183	Port Input	56					630445	1412	1
+slope2_noskin	183	Port Input	48					630455	1422	1
+slope2_noskin	184	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	632853	0	243			0		other	0
+slope2_noskin	184	Port Input	77					634245	1392	1
+slope2_noskin	184	Port Input	49					634265	1412	1
+slope2_noskin	184	Port Input	56					634275	1422	1
+slope2_noskin	184	Port Input	48					634285	1432	1
+slope2_noskin	185	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	636683	0	271			0		other	0
+slope2_noskin	185	Port Input	77					638095	1412	1
+slope2_noskin	185	Port Input	49					638115	1432	1
+slope2_noskin	185	Port Input	56					638125	1442	1
+slope2_noskin	185	Port Input	48					638135	1452	1
+slope2_noskin	186	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	640533	0	371			0		other	0
+slope2_noskin	186	Port Input	77					642075	1542	1
+slope2_noskin	186	Port Input	49					642095	1562	1
+slope2_noskin	186	Port Input	56					642105	1572	1
+slope2_noskin	186	Port Input	48					642115	1582	1
+slope2_noskin	187	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	644513	0	250			0		other	0
+slope2_noskin	187	Port Input	77					645905	1392	1
+slope2_noskin	187	Port Input	49					645925	1412	1
+slope2_noskin	187	Port Input	56					645988	1475	2
+slope2_noskin	187	Port Input	48					645995	1482	1
+slope2_noskin	188	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	648344	0	270			0		other	0
+slope2_noskin	188	Port Input	77					649755	1411	1
+slope2_noskin	188	Port Input	49					649775	1431	1
+slope2_noskin	188	Port Input	56					649785	1441	1
+slope2_noskin	188	Port Input	48					649795	1451	1
+slope2_noskin	189	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	652193	0	274			0		other	0
+slope2_noskin	189	Port Input	77					653735	1542	1
+slope2_noskin	189	Port Input	49					653755	1562	1
+slope2_noskin	189	Port Input	56					653765	1572	1
+slope2_noskin	189	Port Input	48					653775	1582	1
+slope2_noskin	190	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	656173	0	250			0		other	0
+slope2_noskin	190	Port Input	77					657565	1392	1
+slope2_noskin	190	Port Input	49					657585	1412	1
+slope2_noskin	190	Port Input	56					657595	1422	1
+slope2_noskin	190	Port Input	48					657605	1432	1
+slope2_noskin	191	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	660003	0	272			0		other	0
+slope2_noskin	191	Port Input	77					661415	1412	1
+slope2_noskin	191	Port Input	49					661435	1432	1
+slope2_noskin	191	Port Input	56					661445	1442	1
+slope2_noskin	191	Port Input	48					661455	1452	1
+slope2_noskin	192	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	663853	0	279			0		other	0
+slope2_noskin	192	Port Input	77					665395	1542	1
+slope2_noskin	192	Port Input	49					665415	1562	1
+slope2_noskin	192	Port Input	56					665425	1572	1
+slope2_noskin	192	Port Input	48					665435	1582	1
+slope2_noskin	193	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	667833	0	250			0		other	0
+slope2_noskin	193	Port Input	77					669225	1392	1
+slope2_noskin	193	Port Input	49					669245	1412	1
+slope2_noskin	193	Port Input	56					669255	1422	1
+slope2_noskin	193	Port Input	48					669265	1432	1
+slope2_noskin	194	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	671663	0	280			0		other	0
+slope2_noskin	194	Port Input	77					673085	1422	1
+slope2_noskin	194	Port Input	49					673105	1442	1
+slope2_noskin	194	Port Input	56					673115	1452	1
+slope2_noskin	194	Port Input	48					673125	1462	1
+slope2_noskin	195	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	675523	0	290			0		other	0
+slope2_noskin	195	Port Input	77					677035	1512	1
+slope2_noskin	195	Port Input	49					677055	1532	1
+slope2_noskin	195	Port Input	56					677065	1542	1
+slope2_noskin	195	Port Input	48					677075	1552	1
+slope2_noskin	196	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	679504	0	259			0		other	0
+slope2_noskin	196	Port Input	77					680865	1361	1
+slope2_noskin	196	Port Input	49					680885	1381	1
+slope2_noskin	196	Port Input	56					680895	1391	1
+slope2_noskin	196	Port Input	48					680905	1401	1
+slope2_noskin	197	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	683303	0	282			0		other	0
+slope2_noskin	197	Port Input	77					684695	1392	1
+slope2_noskin	197	Port Input	49					684715	1412	1
+slope2_noskin	197	Port Input	56					684725	1422	1
+slope2_noskin	197	Port Input	48					684735	1432	1
+slope2_noskin	198	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	687133	0	323			0		other	0
+slope2_noskin	198	Port Input	77					688695	1562	1
+slope2_noskin	198	Port Input	49					688715	1582	1
+slope2_noskin	198	Port Input	56					688725	1592	1
+slope2_noskin	198	Port Input	48					688735	1602	1
+slope2_noskin	199	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	691133	0	260			0		other	0
+slope2_noskin	199	Response	4					691133	0	22
+slope2_noskin	199	Port Input	84					692525	1392	1
+slope2_noskin	199	Port Input	49					692535	1402	1
+slope2_noskin	199	Port Input	52					692545	1412	1
+slope2_noskin	199	Port Input	97					692565	1432	1
+slope2_noskin	199	Port Input	67					694065	2932	1
+slope2_noskin	199	Port Input	48					694075	2942	1
+slope2_noskin	199	Port Input	48					694085	2952	1
+slope2_noskin	199	Port Input	51					694095	2962	1
+slope2_noskin	200	Save Logfile	Initiate Peak,38.4, ,33	Initiate Peak	38.4	 	33	694463	0	262			0		other	0
+slope2_noskin	200	Port Input	77					695805	1342	1
+slope2_noskin	200	Port Input	49					695821	1358	40
+slope2_noskin	200	Port Input	56					695821	1358	40
+slope2_noskin	200	Port Input	48					695821	1358	40
+slope2_noskin	201	Save Logfile	Measurement,38.4, ,33	Measurement	38.4	 	33	698243	0	280			0		other	0
+slope2_noskin	201	Port Input	77					699686	1443	1
+slope2_noskin	201	Port Input	49					699705	1462	1
+slope2_noskin	201	Port Input	55					699715	1472	1
+slope2_noskin	201	Port Input	57					699725	1482	1
+slope2_noskin	202	Save Logfile	Measurement,37.7, ,33	Measurement	37.7	 	33	702123	0	293			0		other	0
+slope2_noskin	202	Port Input	77					703515	1392	1
+slope2_noskin	202	Port Input	49					703545	1422	1
+slope2_noskin	202	Port Input	55					703555	1432	1
+slope2_noskin	203	Save Logfile	Measurement,37.7, ,33	Measurement	37.7	 	33	705954	0	305			0		other	0
+slope2_noskin	203	Port Input	48					707515	1561	1
+slope2_noskin	203	Port Input	77					707535	1581	1
+slope2_noskin	203	Port Input	49					707545	1591	1
+slope2_noskin	203	Port Input	54					707555	1601	1
+slope2_noskin	204	Save Logfile	Measurement,36.8, ,33	Measurement	36.8	 	33	709955	0	431			0		other	0
+slope2_noskin	204	Port Input	56					711505	1550	1
+slope2_noskin	204	Port Input	77					711525	1570	1
+slope2_noskin	204	Port Input	49					711535	1580	1
+slope2_noskin	204	Port Input	53					711545	1590	1
+slope2_noskin	205	Save Logfile	Measurement,36, ,33	Measurement	36	 	33	713944	0	315			0		other	0
+slope2_noskin	205	Port Input	102					715505	1561	1
+slope2_noskin	205	Port Input	77					715525	1581	1
+slope2_noskin	205	Port Input	49					715535	1591	1
+slope2_noskin	205	Port Input	53					715545	1601	1
+slope2_noskin	206	Save Logfile	Measurement,35.1, ,33	Measurement	35.1	 	33	717944	0	306			0		other	0
+slope2_noskin	206	Port Input	54					719505	1561	1
+slope2_noskin	206	Port Input	77					719525	1581	1
+slope2_noskin	206	Port Input	49					719535	1591	1
+slope2_noskin	206	Port Input	52					719545	1601	1
+slope2_noskin	206	Port Input	101					721555	3611	1
+slope2_noskin	206	Port Input	70					721575	3631	1
+slope2_noskin	206	Port Input	49					721585	3641	1
+slope2_noskin	206	Port Input	52					721595	3651	1
+slope2_noskin	207	Save Logfile	Measurement,33.4, ,33	Measurement	33.4	 	33	721944	0	282			0		other	0
+slope2_noskin	207	Port Input	57					723335	1391	1
+slope2_noskin	207	Port Input	77					723355	1411	1
+slope2_noskin	207	Port Input	49					723365	1421	1
+slope2_noskin	207	Port Input	52					723375	1431	1
+slope2_noskin	208	Save Logfile	Measurement,32.9, ,33	Measurement	32.9	 	33	725774	0	293			0		other	0
+slope2_noskin	209	Save Logfile	Peak Temperature,32.9, ,33	Peak Temperature	32.9	 	33	726268	0	278			0		other	0
+slope2_noskin	209	Port Input	54					727625	1357	1
+slope2_noskin	209	Port Input	67					727635	1367	1
+slope2_noskin	209	Port Input	48					727645	1377	1
+slope2_noskin	209	Port Input	48					727655	1387	1
+slope2_noskin	209	Port Input	48					729105	2837	1
+slope2_noskin	209	Port Input	77					729125	2857	1
+slope2_noskin	209	Port Input	49					729135	2867	1
+slope2_noskin	209	Port Input	53					729145	2877	1
+slope2_noskin	210	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	729546	0	283			0		other	0
+slope2_noskin	210	Port Input	102					730995	1449	1
+slope2_noskin	210	Port Input	77					731015	1469	1
+slope2_noskin	210	Port Input	49					731025	1479	1
+slope2_noskin	210	Port Input	54					731035	1489	1
+slope2_noskin	211	Save Logfile	Measurement,35.1, ,38	Measurement	35.1	 	38	731436	0	304			0		other	0
+slope2_noskin	211	Port Input	97					732985	1549	1
+slope2_noskin	211	Port Input	77					733005	1569	1
+slope2_noskin	211	Port Input	49					733015	1579	1
+slope2_noskin	211	Port Input	55					733025	1589	1
+slope2_noskin	212	Save Logfile	Measurement,36.2, ,38	Measurement	36.2	 	38	733426	0	318			0		other	0
+slope2_noskin	212	Port Input	54					734985	1559	1
+slope2_noskin	212	Port Input	77					735005	1579	1
+slope2_noskin	212	Port Input	49					735015	1589	1
+slope2_noskin	212	Port Input	55					735025	1599	1
+slope2_noskin	213	Save Logfile	Measurement,37.4, ,38	Measurement	37.4	 	38	735426	0	304			0		other	0
+slope2_noskin	213	Port Input	102					736985	1559	1
+slope2_noskin	213	Port Input	77					737005	1579	1
+slope2_noskin	213	Port Input	49					737015	1589	1
+slope2_noskin	213	Port Input	56					737025	1599	1
+slope2_noskin	214	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	739424	0	288			0		other	0
+slope2_noskin	214	Port Input	50					740815	1391	1
+slope2_noskin	214	Port Input	77					740835	1411	1
+slope2_noskin	214	Port Input	49					740845	1421	1
+slope2_noskin	214	Port Input	56					740855	1431	1
+slope2_noskin	215	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	743254	0	299			0		other	0
+slope2_noskin	215	Port Input	48					744645	1391	1
+slope2_noskin	215	Port Input	77					744665	1411	1
+slope2_noskin	215	Port Input	49					744675	1421	1
+slope2_noskin	215	Port Input	56					744685	1431	1
+slope2_noskin	216	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	747084	0	304			0		other	0
+slope2_noskin	216	Response	2					748475	1391	1
+slope2_noskin	216	Port Input	48					748645	1561	1
+slope2_noskin	216	Port Input	77					748665	1581	1
+slope2_noskin	216	Port Input	49					748675	1591	1
+slope2_noskin	216	Port Input	56					748685	1601	1
+slope2_noskin	216	Response	2					750253	3169	1
+slope2_noskin	217	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	751084	0	290			0		other	0
+slope2_noskin	217	Response	2					751845	761	1
+slope2_noskin	217	Port Input	48					752505	1421	1
+slope2_noskin	217	Port Input	77					752525	1441	1
+slope2_noskin	217	Port Input	49					752535	1451	1
+slope2_noskin	217	Port Input	56					752545	1461	1
+slope2_noskin	217	Response	2					753400	2316	1
+slope2_noskin	218	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	754944	0	304			0		other	0
+slope2_noskin	218	Response	2					754944	0	25
+slope2_noskin	218	Port Input	48					756485	1541	1
+slope2_noskin	218	Port Input	77					756505	1561	1
+slope2_noskin	218	Port Input	49					756515	1571	1
+slope2_noskin	218	Port Input	55					756525	1581	1
+slope2_noskin	219	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	758924	0	318			0		other	0
+slope2_noskin	219	Port Input	102					760485	1561	1
+slope2_noskin	219	Port Input	77					760505	1581	1
+slope2_noskin	219	Port Input	49					760515	1591	1
+slope2_noskin	219	Port Input	56					760525	1601	1
+slope2_noskin	220	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	762924	0	317			0		other	0
+slope2_noskin	220	Port Input	48					764475	1551	1
+slope2_noskin	220	Port Input	77					764495	1571	1
+slope2_noskin	220	Port Input	49					764505	1581	1
+slope2_noskin	220	Port Input	55					764515	1591	1
+slope2_noskin	221	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	766914	0	288			0		other	0
+slope2_noskin	221	Port Input	102					768345	1431	1
+slope2_noskin	221	Port Input	77					768365	1451	1
+slope2_noskin	221	Port Input	49					768375	1461	1
+slope2_noskin	221	Port Input	55					768385	1471	1
+slope2_noskin	222	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	770784	0	312			0		other	0
+slope2_noskin	222	Port Input	102					772295	1511	1
+slope2_noskin	222	Port Input	77					772315	1531	1
+slope2_noskin	222	Port Input	49					772325	1541	1
+slope2_noskin	222	Port Input	55					772335	1551	1
+slope2_noskin	223	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	774734	0	312			0		other	0
+slope2_noskin	223	Response	4					775705	971	1
+slope2_noskin	223	Port Input	102					776295	1561	1
+slope2_noskin	223	Port Input	77					776315	1581	1
+slope2_noskin	223	Port Input	49					776325	1591	1
+slope2_noskin	223	Port Input	55					776335	1601	1
+slope2_noskin	224	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	778734	0	328			0		other	0
+slope2_noskin	224	Port Input	102					780285	1551	1
+slope2_noskin	224	Port Input	84					780295	1561	1
+slope2_noskin	224	Port Input	49					780305	1571	1
+slope2_noskin	224	Port Input	49					780325	1591	1
+slope2_noskin	224	Port Input	56					781825	3091	1
+slope2_noskin	224	Port Input	67					781835	3101	1
+slope2_noskin	224	Port Input	48					781845	3111	1
+slope2_noskin	224	Port Input	48					781855	3121	1
+slope2_noskin	225	Save Logfile	Initiate Peak,38.3, ,28	Initiate Peak	38.3	 	28	782223	0	304			0		other	0
+slope2_noskin	225	Port Input	51					783605	1382	1
+slope2_noskin	225	Port Input	77					783625	1402	1
+slope2_noskin	225	Port Input	49					783635	1412	1
+slope2_noskin	225	Port Input	55					783645	1422	1
+slope2_noskin	225	Port Input	102					787105	4882	1
+slope2_noskin	225	Port Input	77					787125	4902	1
+slope2_noskin	225	Port Input	49					787135	4912	1
+slope2_noskin	225	Port Input	55					787145	4922	1
+slope2_noskin	226	Save Logfile	Measurement,38.3, ,28	Measurement	38.3	 	28	789544	0	322			0		other	0
+slope2_noskin	226	Port Input	57					791115	1571	1
+slope2_noskin	226	Port Input	77					791135	1591	1
+slope2_noskin	226	Port Input	49					791145	1601	1
+slope2_noskin	226	Port Input	55					791155	1611	1
+slope2_noskin	227	Save Logfile	Measurement,37.7, ,28	Measurement	37.7	 	28	793554	0	294			0		other	0
+slope2_noskin	227	Port Input	48					794945	1391	1
+slope2_noskin	227	Port Input	77					794965	1411	1
+slope2_noskin	227	Port Input	49					794975	1421	1
+slope2_noskin	227	Port Input	54					794985	1431	1
+slope2_noskin	228	Save Logfile	Measurement,36.8, ,28	Measurement	36.8	 	28	797385	0	319			0		other	0
+slope2_noskin	228	Port Input	56					798935	1550	1
+slope2_noskin	228	Port Input	77					798955	1570	1
+slope2_noskin	228	Port Input	49					798965	1580	1
+slope2_noskin	228	Port Input	53					798975	1590	1
+slope2_noskin	229	Save Logfile	Measurement,36, ,28	Measurement	36	 	28	801374	0	332			0		other	0
+slope2_noskin	229	Port Input	102					802935	1561	1
+slope2_noskin	229	Port Input	77					802955	1581	1
+slope2_noskin	229	Port Input	49					802965	1591	1
+slope2_noskin	229	Port Input	53					802975	1601	1
+slope2_noskin	230	Save Logfile	Measurement,35.1, ,28	Measurement	35.1	 	28	805374	0	319			0		other	0
+slope2_noskin	230	Port Input	54					806935	1561	1
+slope2_noskin	230	Port Input	77					806955	1581	1
+slope2_noskin	230	Port Input	49					806965	1591	2
+slope2_noskin	230	Port Input	52					806975	1601	1
+slope2_noskin	231	Save Logfile	Measurement,34.2, ,28	Measurement	34.2	 	28	809374	0	299			0		other	0
+slope2_noskin	231	Port Input	101					810925	1551	1
+slope2_noskin	231	Port Input	77					810945	1571	1
+slope2_noskin	231	Port Input	49					810955	1581	1
+slope2_noskin	231	Port Input	52					810965	1591	1
+slope2_noskin	232	Save Logfile	Measurement,33.4, ,28	Measurement	33.4	 	28	813364	0	325			0		other	0
+slope2_noskin	232	Port Input	53					814925	1561	1
+slope2_noskin	232	Port Input	77					814945	1581	1
+slope2_noskin	232	Port Input	49					814955	1591	1
+slope2_noskin	232	Port Input	51					814965	1601	1
+slope2_noskin	233	Save Logfile	Measurement,32.5, ,28	Measurement	32.5	 	28	817365	0	328			0		other	0
+slope2_noskin	233	Port Input	100					818925	1560	1
+slope2_noskin	233	Port Input	77					818945	1580	1
+slope2_noskin	233	Port Input	49					818955	1590	1
+slope2_noskin	233	Port Input	51					818965	1600	1
+slope2_noskin	234	Save Logfile	Measurement,31.7, ,28	Measurement	31.7	 	28	821364	0	356			0		other	0
+slope2_noskin	234	Port Input	52					822925	1561	1
+slope2_noskin	234	Port Input	77					822945	1581	1
+slope2_noskin	234	Port Input	49					822955	1591	1
+slope2_noskin	234	Port Input	50					822965	1601	1
+slope2_noskin	235	Save Logfile	Measurement,30.8, ,28	Measurement	30.8	 	28	825364	0	324			0		other	0
+slope2_noskin	235	Port Input	99					826915	1551	1
+slope2_noskin	235	Port Input	77					826935	1571	1
+slope2_noskin	235	Port Input	49					826944	1580	2
+slope2_noskin	235	Port Input	50					826954	1590	2
+slope2_noskin	236	Save Logfile	Measurement,30, ,28	Measurement	30	 	28	829354	0	307			0		other	0
+slope2_noskin	236	Port Input	51					830915	1561	1
+slope2_noskin	236	Port Input	77					830935	1581	1
+slope2_noskin	236	Port Input	49					830944	1590	2
+slope2_noskin	236	Port Input	49					830954	1600	2
+slope2_noskin	236	Port Input	98					832505	3151	1
+slope2_noskin	236	Port Input	70					832535	3181	1
+slope2_noskin	236	Port Input	49					832544	3190	2
+slope2_noskin	236	Port Input	49					832554	3200	2
+slope2_noskin	237	Save Logfile	Measurement,28.3, ,28	Measurement	28.3	 	28	833354	0	344			0		other	0
+slope2_noskin	237	Port Input	55					834935	1581	1
+slope2_noskin	237	Port Input	77					834954	1600	2
+slope2_noskin	237	Port Input	49					834964	1610	2
+slope2_noskin	237	Port Input	49					834974	1620	2
+slope2_noskin	238	Save Logfile	Measurement,27.9, ,28	Measurement	27.9	 	28	837374	0	336			0		other	0
+slope2_noskin	239	Save Logfile	Peak Temperature,27.9, ,28	Peak Temperature	27.9	 	28	838015	0	319			0		other	0
+slope2_noskin	239	Port Input	53					839425	1410	1
+slope2_noskin	239	Port Input	67					839434	1419	2
+slope2_noskin	239	Port Input	48					839444	1429	2
+slope2_noskin	239	Port Input	48					839454	1439	2
+slope2_noskin	239	Port Input	48					840905	2890	1
+slope2_noskin	239	Port Input	77					840925	2910	1
+slope2_noskin	239	Port Input	49					840934	2919	2
+slope2_noskin	239	Port Input	51					840945	2930	1
+slope2_noskin	240	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	841346	0	336			0		other	0
+slope2_noskin	240	Port Input	50					842905	1559	1
+slope2_noskin	240	Port Input	77					842924	1578	2
+slope2_noskin	240	Port Input	49					842934	1588	2
+slope2_noskin	240	Port Input	51					842944	1598	2
+slope2_noskin	241	Save Logfile	Measurement,30.6, ,38	Measurement	30.6	 	38	843346	0	339			0		other	0
+slope2_noskin	241	Port Input	101					844905	1559	1
+slope2_noskin	241	Port Input	77					844924	1578	2
+slope2_noskin	241	Port Input	49					844934	1588	2
+slope2_noskin	241	Port Input	52					844944	1598	2
+slope2_noskin	242	Save Logfile	Measurement,31.8, ,38	Measurement	31.8	 	38	845346	0	328			0		other	0
+slope2_noskin	242	Response	2					846400	1054	1
+slope2_noskin	242	Port Input	56					846905	1559	1
+slope2_noskin	242	Port Input	77					846925	1579	1
+slope2_noskin	242	Port Input	49					846934	1588	2
+slope2_noskin	242	Port Input	53					846944	1598	2
+slope2_noskin	243	Save Logfile	Measurement,32.8, ,38	Measurement	32.8	 	38	847346	0	333			0		other	0
+slope2_noskin	243	Response	2					848341	995	1
+slope2_noskin	243	Port Input	50					848895	1549	1
+slope2_noskin	243	Port Input	77					848914	1568	2
+slope2_noskin	243	Port Input	49					848924	1578	2
+slope2_noskin	243	Port Input	53					848934	1588	2
+slope2_noskin	244	Save Logfile	Measurement,33.8, ,38	Measurement	33.8	 	38	849336	0	329			0		other	0
+slope2_noskin	244	Response	2					850292	956	1
+slope2_noskin	244	Port Input	100					850904	1568	2
+slope2_noskin	244	Port Input	77					850925	1589	1
+slope2_noskin	244	Port Input	49					850934	1598	2
+slope2_noskin	244	Port Input	54					850944	1608	2
+slope2_noskin	245	Save Logfile	Measurement,34.9, ,38	Measurement	34.9	 	38	851346	0	344			0		other	0
+slope2_noskin	245	Response	2					851879	533	1
+slope2_noskin	245	Port Input	55					852895	1549	1
+slope2_noskin	245	Port Input	77					852914	1568	2
+slope2_noskin	245	Port Input	49					852924	1578	2
+slope2_noskin	245	Port Input	55					852934	1588	2
+slope2_noskin	246	Save Logfile	Measurement,35.9, ,38	Measurement	35.9	 	38	853336	0	352			0		other	0
+slope2_noskin	246	Response	2					853771	435	1
+slope2_noskin	246	Port Input	50					854905	1569	1
+slope2_noskin	246	Port Input	77					854924	1588	2
+slope2_noskin	246	Port Input	49					854934	1598	2
+slope2_noskin	246	Port Input	55					854944	1608	2
+slope2_noskin	247	Save Logfile	Measurement,37, ,38	Measurement	37	 	38	855346	0	329			0		other	0
+slope2_noskin	247	Port Input	99					856905	1559	1
+slope2_noskin	247	Port Input	77					856924	1578	2
+slope2_noskin	247	Port Input	49					856934	1588	2
+slope2_noskin	247	Port Input	56					856944	1598	2
+slope2_noskin	248	Save Logfile	Measurement,38, ,38	Measurement	38	 	38	857346	0	350			0		other	0
+slope2_noskin	248	Port Input	50					858895	1549	1
+slope2_noskin	248	Port Input	77					858914	1568	2
+slope2_noskin	248	Port Input	49					858924	1578	2
+slope2_noskin	248	Port Input	56					858934	1588	2
+slope2_noskin	249	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	861334	0	362			0		other	0
+slope2_noskin	249	Port Input	49					862904	1570	2
+slope2_noskin	249	Port Input	77					862924	1590	2
+slope2_noskin	249	Port Input	49					862934	1600	2
+slope2_noskin	249	Port Input	55					862944	1610	1
+slope2_noskin	250	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	865344	0	350			0		other	0
+slope2_noskin	250	Port Input	102					866905	1561	1
+slope2_noskin	250	Port Input	77					866934	1590	2
+slope2_noskin	250	Port Input	49					866944	1600	1
+slope2_noskin	250	Port Input	56					866954	1610	2
+slope2_noskin	251	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	869354	0	332			0		other	0
+slope2_noskin	251	Port Input	48					870894	1540	2
+slope2_noskin	251	Port Input	77					870914	1560	2
+slope2_noskin	251	Port Input	49					870924	1570	2
+slope2_noskin	251	Port Input	55					870934	1580	2
+slope2_noskin	252	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	873334	0	358			0		other	0
+slope2_noskin	252	Port Input	102					874905	1571	1
+slope2_noskin	252	Port Input	77					874924	1590	2
+slope2_noskin	252	Port Input	49					874934	1600	1
+slope2_noskin	252	Port Input	55					874944	1610	2
+slope2_noskin	253	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	877345	0	341			0		other	0
+slope2_noskin	253	Port Input	102					878895	1550	1
+slope2_noskin	253	Port Input	77					878914	1569	2
+slope2_noskin	253	Port Input	49					878924	1579	2
+slope2_noskin	253	Port Input	55					878934	1589	1
+slope2_noskin	254	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	881334	0	356			0		other	0
+slope2_noskin	254	Port Input	102					882875	1541	1
+slope2_noskin	254	Port Input	77					882894	1560	1
+slope2_noskin	254	Port Input	49					882904	1570	1
+slope2_noskin	254	Port Input	55					882914	1580	1
+slope2_noskin	255	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	885314	0	328			0		other	0
+slope2_noskin	255	Port Input	102					887035	1721	1
+slope2_noskin	255	Port Input	77					887054	1740	2
+slope2_noskin	255	Port Input	49					887064	1750	1
+slope2_noskin	255	Port Input	55					887074	1760	2
+slope2_noskin	256	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	889474	0	327			0		other	0
+slope2_noskin	256	Port Input	102					891035	1561	1
+slope2_noskin	256	Port Input	77					891054	1580	2
+slope2_noskin	256	Port Input	49					891064	1590	1
+slope2_noskin	256	Port Input	55					891074	1600	1
+slope2_noskin	257	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	893474	0	350			0		other	0
+slope2_noskin	257	Port Input	102					895035	1561	1
+slope2_noskin	257	Port Input	77					895054	1580	2
+slope2_noskin	257	Port Input	49					895064	1590	1
+slope2_noskin	257	Port Input	55					895074	1600	1
+slope2_noskin	258	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	897474	0	371			0		other	0
+slope2_noskin	258	Port Input	102					899024	1550	3
+slope2_noskin	258	Port Input	77					899045	1571	1
+slope2_noskin	258	Port Input	49					899055	1581	1
+slope2_noskin	258	Port Input	55					899064	1590	1
+slope2_noskin	259	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	901464	0	378			0		other	0
+slope2_noskin	259	Port Input	102					903024	1560	1
+slope2_noskin	259	Port Input	77					903044	1580	1
+slope2_noskin	259	Port Input	49					903054	1590	1
+slope2_noskin	259	Port Input	55					903064	1600	1
+slope2_noskin	259	Response	4					904646	3182	1
+slope2_noskin	260	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	905464	0	359			0		other	0
+slope2_noskin	260	Port Input	102					907025	1561	1
+slope2_noskin	260	Port Input	84					907034	1570	1
+slope2_noskin	260	Port Input	48					907044	1580	1
+slope2_noskin	260	Port Input	101					907054	1590	1
+slope2_noskin	260	Port Input	54					908536	3072	40
+slope2_noskin	260	Port Input	67					908536	3072	40
+slope2_noskin	260	Port Input	48					908584	3120	1
+slope2_noskin	260	Port Input	48					908594	3130	1
+slope2_noskin	261	Save Logfile	Initiate Peak,38.3, ,23	Initiate Peak	38.3	 	23	908964	0	395			0		other	0
+slope2_noskin	261	Port Input	51					910435	1471	1
+slope2_noskin	261	Port Input	77					910454	1490	1
+slope2_noskin	261	Port Input	49					910464	1500	1
+slope2_noskin	261	Port Input	55					910474	1510	1
+slope2_noskin	261	Port Input	102					913935	4971	1
+slope2_noskin	261	Port Input	77					913954	4990	1
+slope2_noskin	261	Port Input	49					913964	5000	1
+slope2_noskin	261	Port Input	55					913974	5010	1
+slope2_noskin	262	Save Logfile	Measurement,38.3, ,23	Measurement	38.3	 	23	916374	0	370			0		other	0
+slope2_noskin	262	Port Input	56					917844	1470	1
+slope2_noskin	262	Port Input	77					917864	1490	1
+slope2_noskin	262	Port Input	49					917874	1500	1
+slope2_noskin	262	Port Input	54					917884	1510	1
+slope2_noskin	263	Save Logfile	Measurement,37.6, ,23	Measurement	37.6	 	23	920284	0	350			0		other	0
+slope2_noskin	263	Port Input	102					921845	1561	1
+slope2_noskin	263	Port Input	77					921864	1580	2
+slope2_noskin	263	Port Input	49					921874	1590	2
+slope2_noskin	263	Port Input	54					921884	1600	1
+slope2_noskin	264	Save Logfile	Measurement,36.7, ,23	Measurement	36.7	 	23	924284	0	378			0		other	0
+slope2_noskin	264	Response	2					925713	1429	1
+slope2_noskin	264	Port Input	55					925844	1560	2
+slope2_noskin	264	Port Input	77					925864	1580	1
+slope2_noskin	264	Port Input	49					925874	1590	1
+slope2_noskin	264	Port Input	53					925884	1600	1
+slope2_noskin	264	Response	2					927564	3280	1
+slope2_noskin	265	Save Logfile	Measurement,35.9, ,23	Measurement	35.9	 	23	928284	0	371			0		other	0
+slope2_noskin	265	Response	2					929292	1008	1
+slope2_noskin	265	Port Input	101					929855	1571	1
+slope2_noskin	265	Port Input	77					929875	1591	1
+slope2_noskin	265	Port Input	49					929884	1600	2
+slope2_noskin	265	Port Input	53					929894	1610	1
+slope2_noskin	265	Response	2					931117	2833	1
+slope2_noskin	266	Save Logfile	Measurement,35, ,23	Measurement	35	 	23	932294	0	396			0		other	0
+slope2_noskin	266	Response	2					932979	685	1
+slope2_noskin	266	Port Input	54					933845	1551	1
+slope2_noskin	266	Port Input	77					933864	1570	1
+slope2_noskin	266	Port Input	49					933874	1580	1
+slope2_noskin	266	Port Input	52					933884	1590	1
+slope2_noskin	267	Save Logfile	Measurement,34.2, ,23	Measurement	34.2	 	23	936284	0	381			0		other	0
+slope2_noskin	267	Port Input	100					937844	1560	2
+slope2_noskin	267	Port Input	77					937864	1580	1
+slope2_noskin	267	Port Input	49					937874	1590	1
+slope2_noskin	267	Port Input	52					937884	1600	1
+slope2_noskin	268	Save Logfile	Measurement,33.3, ,23	Measurement	33.3	 	23	940284	0	363			0		other	0
+slope2_noskin	268	Port Input	53					941845	1561	1
+slope2_noskin	268	Port Input	77					941864	1580	2
+slope2_noskin	268	Port Input	49					941874	1590	2
+slope2_noskin	268	Port Input	51					941884	1600	1
+slope2_noskin	269	Save Logfile	Measurement,32.5, ,23	Measurement	32.5	 	23	944284	0	380			0		other	0
+slope2_noskin	269	Port Input	99					945834	1550	2
+slope2_noskin	269	Port Input	77					945854	1570	1
+slope2_noskin	269	Port Input	49					945864	1580	1
+slope2_noskin	269	Port Input	51					945874	1590	1
+slope2_noskin	270	Save Logfile	Measurement,31.6, ,23	Measurement	31.6	 	23	948274	0	373			0		other	0
+slope2_noskin	270	Port Input	52					949824	1550	2
+slope2_noskin	270	Port Input	77					949844	1570	1
+slope2_noskin	270	Port Input	49					949854	1580	1
+slope2_noskin	270	Port Input	50					949864	1590	1
+slope2_noskin	271	Save Logfile	Measurement,30.8, ,23	Measurement	30.8	 	23	952264	0	374			0		other	0
+slope2_noskin	271	Port Input	98					953815	1551	1
+slope2_noskin	271	Port Input	77					953834	1570	1
+slope2_noskin	271	Port Input	49					953844	1580	1
+slope2_noskin	271	Port Input	50					953854	1590	1
+slope2_noskin	272	Save Logfile	Measurement,29.9, ,23	Measurement	29.9	 	23	956254	0	391			0		other	0
+slope2_noskin	272	Port Input	51					957814	1560	1
+slope2_noskin	272	Port Input	77					957834	1580	1
+slope2_noskin	272	Port Input	49					957844	1590	1
+slope2_noskin	272	Port Input	49					957854	1600	1
+slope2_noskin	273	Save Logfile	Measurement,29.1, ,23	Measurement	29.1	 	23	960254	0	358			0		other	0
+slope2_noskin	273	Port Input	97					961814	1560	2
+slope2_noskin	273	Port Input	77					961834	1580	2
+slope2_noskin	273	Port Input	49					961844	1590	1
+slope2_noskin	273	Port Input	49					961854	1600	1
+slope2_noskin	274	Save Logfile	Measurement,28.2, ,23	Measurement	28.2	 	23	964254	0	387			0		other	0
+slope2_noskin	274	Port Input	50					965804	1550	2
+slope2_noskin	274	Port Input	77					965824	1570	1
+slope2_noskin	274	Port Input	49					965834	1580	1
+slope2_noskin	274	Port Input	48					965844	1590	1
+slope2_noskin	275	Save Logfile	Measurement,27.4, ,23	Measurement	27.4	 	23	968244	0	417			0		other	0
+slope2_noskin	275	Port Input	57					969805	1561	1
+slope2_noskin	275	Port Input	77					969824	1580	1
+slope2_noskin	275	Port Input	49					969834	1590	1
+slope2_noskin	275	Port Input	48					969844	1600	1
+slope2_noskin	276	Save Logfile	Measurement,26.5, ,23	Measurement	26.5	 	23	972244	0	391			0		other	0
+slope2_noskin	276	Port Input	49					973804	1560	1
+slope2_noskin	276	Port Input	77					973814	1570	1
+slope2_noskin	276	Port Input	48					973824	1580	1
+slope2_noskin	276	Port Input	102					973834	1590	1
+slope2_noskin	277	Save Logfile	Measurement,25.7, ,23	Measurement	25.7	 	23	976244	0	392			0		other	0
+slope2_noskin	277	Port Input	56					977804	1560	2
+slope2_noskin	277	Port Input	77					977814	1570	2
+slope2_noskin	277	Port Input	48					977824	1580	2
+slope2_noskin	277	Port Input	102					977834	1590	1
+slope2_noskin	278	Save Logfile	Measurement,24.8, ,23	Measurement	24.8	 	23	980244	0	2829			0		other	0
+slope2_noskin	278	Port Input	48					980244	0	2829
+slope2_noskin	278	Port Input	70					980244	0	2829
+slope2_noskin	278	Port Input	48					980244	0	2829
+slope2_noskin	278	Port Input	101					980244	0	2829
+slope2_noskin	278	Port Input	53					984294	4050	2
+slope2_noskin	278	Port Input	77					984303	4059	2
+slope2_noskin	278	Port Input	48					984314	4070	1
+slope2_noskin	278	Port Input	101					984324	4080	1
+slope2_noskin	279	Save Logfile	Measurement,22.9, ,23	Measurement	22.9	 	23	986734	0	393			0		other	0
+slope2_noskin	280	Save Logfile	Peak Temperature,22.9, ,23	Peak Temperature	22.9	 	23	987398	0	396			0		other	0
+slope2_noskin	280	Port Input	51					988875	1477	1
+slope2_noskin	280	Port Input	67					988884	1486	1
+slope2_noskin	280	Port Input	48					988894	1496	2
+slope2_noskin	280	Port Input	48					988903	1505	2
+slope2_noskin	280	Port Input	48					990354	2956	2
+slope2_noskin	280	Port Input	77					990363	2965	3
+slope2_noskin	280	Port Input	48					990374	2976	1
+slope2_noskin	280	Port Input	102					990384	2986	1
+slope2_noskin	281	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	990796	0	391			0		other	0
+slope2_noskin	281	Port Input	97					992285	1489	1
+slope2_noskin	281	Port Input	77					992303	1507	3
+slope2_noskin	281	Port Input	49					992313	1517	2
+slope2_noskin	281	Port Input	48					992324	1528	1
+slope2_noskin	282	Save Logfile	Measurement,25, ,38	Measurement	25	 	38	992726	0	378			0		other	0
+slope2_noskin	282	Port Input	54					994284	1558	1
+slope2_noskin	282	Port Input	77					994304	1578	1
+slope2_noskin	282	Port Input	49					994314	1588	1
+slope2_noskin	282	Port Input	49					994324	1598	1
+slope2_noskin	283	Save Logfile	Measurement,26.2, ,38	Measurement	26.2	 	38	994727	0	4365			0		other	0
+slope2_noskin	283	Port Input	49					1000285	5558	1
+slope2_noskin	283	Port Input	77					1000304	5577	1
+slope2_noskin	283	Port Input	49					1000314	5587	1
+slope2_noskin	283	Port Input	51					1000324	5597	1
+slope2_noskin	284	Save Logfile	Measurement,27.3, ,38	Measurement	27.3	 	38	1000726	0	1815			0		other	0
+slope2_noskin	284	Port Input	48					1003774	3048	1
+slope2_noskin	284	Port Input	77					1003794	3068	1
+slope2_noskin	284	Port Input	49					1003804	3078	1
+slope2_noskin	284	Port Input	52					1003814	3088	1
+slope2_noskin	285	Save Logfile	Measurement,30.4, ,38	Measurement	30.4	 	38	1004229	0	1482			0		other	0
+slope2_noskin	285	Port Input	51					1006945	2716	1
+slope2_noskin	285	Port Input	77					1006963	2734	3
+slope2_noskin	285	Port Input	49					1006973	2744	2
+slope2_noskin	285	Port Input	53					1006984	2755	1
+slope2_noskin	286	Save Logfile	Measurement,32.3, ,38	Measurement	32.3	 	38	1007386	0	372			0		other	0
+slope2_noskin	286	Port Input	52					1008944	1558	1
+slope2_noskin	286	Port Input	77					1008964	1578	1
+slope2_noskin	286	Port Input	49					1008974	1588	1
+slope2_noskin	286	Port Input	53					1008984	1598	1
+slope2_noskin	287	Save Logfile	Measurement,34, ,38	Measurement	34	 	38	1009387	0	851			0		other	0
+slope2_noskin	287	Port Input	102					1011434	2047	1
+slope2_noskin	287	Port Input	77					1011454	2067	1
+slope2_noskin	287	Port Input	49					1011464	2077	1
+slope2_noskin	287	Port Input	54					1011474	2087	1
+slope2_noskin	288	Save Logfile	Measurement,35.1, ,38	Measurement	35.1	 	38	1011879	0	570			0		other	0
+slope2_noskin	288	Port Input	99					1013593	1714	220
+slope2_noskin	288	Port Input	77					1013593	1714	220
+slope2_noskin	288	Port Input	49					1013593	1714	220
+slope2_noskin	288	Port Input	55					1013593	1714	220
+slope2_noskin	289	Save Logfile	Measurement,36.4, ,38	Measurement	36.4	 	38	1014046	0	507			0		other	0
+slope2_noskin	289	Port Input	56					1015764	1718	1
+slope2_noskin	289	Port Input	77					1015784	1738	1
+slope2_noskin	289	Port Input	49					1015794	1748	1
+slope2_noskin	289	Port Input	56					1015804	1758	1
+slope2_noskin	290	Save Logfile	Measurement,37.6, ,38	Measurement	37.6	 	38	1016209	0	520			0		other	0
+slope2_noskin	290	Port Input	48					1017934	1725	1
+slope2_noskin	290	Port Input	77					1017954	1745	1
+slope2_noskin	290	Port Input	49					1017964	1755	1
+slope2_noskin	290	Port Input	56					1017974	1765	1
+slope2_noskin	291	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1020376	0	622			0		other	0
+slope2_noskin	291	Port Input	50					1022123	1747	3
+slope2_noskin	291	Port Input	77					1022144	1768	1
+slope2_noskin	291	Port Input	49					1022154	1778	1
+slope2_noskin	291	Port Input	55					1022164	1788	1
+slope2_noskin	292	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1025056	0	380			0		other	0
+slope2_noskin	292	Port Input	102					1026593	1537	35
+slope2_noskin	292	Port Input	77					1026593	1537	35
+slope2_noskin	292	Port Input	49					1026593	1537	35
+slope2_noskin	292	Port Input	56					1026634	1578	1
+slope2_noskin	293	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	1029278	0	851			0		other	0
+slope2_noskin	293	Port Input	48					1031254	1976	1
+slope2_noskin	293	Port Input	77					1031294	2016	1
+slope2_noskin	293	Port Input	49					1031304	2026	1
+slope2_noskin	294	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1033704	0	824			0		other	0
+slope2_noskin	294	Port Input	56					1035874	2170	1
+slope2_noskin	294	Port Input	48					1035904	2200	1
+slope2_noskin	294	Port Input	77					1035914	2210	1
+slope2_noskin	294	Port Input	49					1035924	2220	1
+slope2_noskin	295	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1038564	0	380			0		other	0
+slope2_noskin	295	Port Input	56					1040083	1519	2
+slope2_noskin	295	Port Input	48					1040103	1539	2
+slope2_noskin	295	Port Input	77					1040115	1551	1
+slope2_noskin	295	Port Input	49					1040123	1559	2
+slope2_noskin	296	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1042524	0	416			0		other	0
+slope2_noskin	296	Port Input	55					1044084	1560	1
+slope2_noskin	296	Port Input	102					1044104	1580	1
+slope2_noskin	296	Port Input	77					1044114	1590	1
+slope2_noskin	296	Port Input	49					1044124	1600	1
+slope2_noskin	296	Response	4					1045533	3009	1
+slope2_noskin	297	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	1046524	0	435			0		other	0
+slope2_noskin	297	Port Input	55					1048073	1549	2
+slope2_noskin	297	Port Input	102					1048085	1561	1
+slope2_noskin	297	Port Input	84					1048094	1570	2
+slope2_noskin	297	Port Input	48					1048103	1579	2
+slope2_noskin	297	Port Input	98					1049615	3091	1
+slope2_noskin	297	Port Input	52					1049624	3100	2
+slope2_noskin	297	Port Input	67					1049633	3109	3
+slope2_noskin	297	Port Input	48					1049644	3120	2
+slope2_noskin	298	Save Logfile	Initiate Peak,38.3, ,18	Initiate Peak	38.3	 	18	1050013	0	420			0		other	0
+slope2_noskin	298	Port Input	48					1051514	1501	1
+slope2_noskin	298	Port Input	51					1051544	1531	1
+slope2_noskin	298	Port Input	77					1051554	1541	1
+slope2_noskin	298	Port Input	49					1051564	1551	2
+slope2_noskin	298	Port Input	55					1055014	5001	2
+slope2_noskin	298	Port Input	102					1055033	5020	2
+slope2_noskin	298	Port Input	77					1055045	5032	1
+slope2_noskin	298	Port Input	49					1055054	5041	2
+slope2_noskin	299	Save Logfile	Measurement,38.3, ,18	Measurement	38.3	 	18	1057454	0	419			0		other	0
+slope2_noskin	299	Port Input	55					1059084	1630	1
+slope2_noskin	299	Port Input	57					1059113	1659	3
+slope2_noskin	299	Port Input	77					1059123	1669	2
+slope2_noskin	299	Port Input	49					1059133	1679	2
+slope2_noskin	300	Save Logfile	Measurement,37.7, ,18	Measurement	37.7	 	18	1061524	0	421			0		other	0
+slope2_noskin	300	Port Input	54					1063065	1541	1
+slope2_noskin	300	Port Input	102					1063084	1560	2
+slope2_noskin	300	Port Input	77					1063093	1569	2
+slope2_noskin	300	Port Input	49					1063104	1580	1
+slope2_noskin	301	Save Logfile	Measurement,36.7, ,18	Measurement	36.7	 	18	1065504	0	416			0		other	0
+slope2_noskin	301	Port Input	54					1067065	1561	1
+slope2_noskin	301	Port Input	55					1067084	1580	1
+slope2_noskin	301	Port Input	77					1067093	1589	2
+slope2_noskin	301	Port Input	49					1067115	1611	1
+slope2_noskin	302	Save Logfile	Measurement,35.9, ,18	Measurement	35.9	 	18	1069504	0	421			0		other	0
+slope2_noskin	302	Port Input	53					1071083	1579	4
+slope2_noskin	302	Port Input	101					1071103	1599	2
+slope2_noskin	302	Port Input	77					1071113	1609	2
+slope2_noskin	302	Port Input	49					1071125	1621	1
+slope2_noskin	303	Save Logfile	Measurement,35, ,18	Measurement	35	 	18	1073524	0	406			0		other	0
+slope2_noskin	303	Port Input	53					1075053	1529	2
+slope2_noskin	303	Port Input	53					1075073	1549	2
+slope2_noskin	303	Port Input	77					1075083	1559	3
+slope2_noskin	303	Port Input	49					1075095	1571	1
+slope2_noskin	304	Save Logfile	Measurement,34.1, ,18	Measurement	34.1	 	18	1077494	0	431			0		other	0
+slope2_noskin	304	Port Input	52					1079054	1560	1
+slope2_noskin	304	Port Input	100					1079074	1580	1
+slope2_noskin	304	Port Input	77					1079084	1590	1
+slope2_noskin	304	Port Input	49					1079095	1601	1
+slope2_noskin	305	Save Logfile	Measurement,33.3, ,18	Measurement	33.3	 	18	1081494	0	426			0		other	0
+slope2_noskin	305	Port Input	52					1083053	1559	3
+slope2_noskin	305	Port Input	53					1083075	1581	1
+slope2_noskin	305	Port Input	77					1083084	1590	1
+slope2_noskin	305	Port Input	49					1083103	1609	2
+slope2_noskin	306	Save Logfile	Measurement,32.5, ,18	Measurement	32.5	 	18	1085494	0	417			0		other	0
+slope2_noskin	306	Port Input	51					1087044	1550	1
+slope2_noskin	306	Port Input	99					1087063	1569	2
+slope2_noskin	306	Port Input	77					1087073	1579	2
+slope2_noskin	306	Port Input	49					1087084	1590	1
+slope2_noskin	307	Save Logfile	Measurement,31.6, ,18	Measurement	31.6	 	18	1089486	0	431			0		other	0
+slope2_noskin	307	Port Input	51					1091044	1558	1
+slope2_noskin	307	Port Input	51					1091064	1578	1
+slope2_noskin	307	Port Input	77					1091074	1588	1
+slope2_noskin	307	Port Input	49					1091083	1597	4
+slope2_noskin	308	Save Logfile	Measurement,30.7, ,18	Measurement	30.7	 	18	1093484	0	418			0		other	0
+slope2_noskin	308	Port Input	50					1095044	1560	1
+slope2_noskin	308	Port Input	98					1095063	1579	3
+slope2_noskin	308	Port Input	77					1095073	1589	2
+slope2_noskin	308	Port Input	49					1095084	1600	1
+slope2_noskin	309	Save Logfile	Measurement,29.9, ,18	Measurement	29.9	 	18	1097484	0	442			0		other	0
+slope2_noskin	309	Port Input	50					1099034	1550	1
+slope2_noskin	309	Port Input	51					1099054	1570	1
+slope2_noskin	309	Port Input	77					1099064	1580	1
+slope2_noskin	309	Port Input	49					1099073	1589	3
+slope2_noskin	310	Save Logfile	Measurement,29.1, ,18	Measurement	29.1	 	18	1101474	0	456			0		other	0
+slope2_noskin	310	Port Input	49					1103034	1560	1
+slope2_noskin	310	Port Input	97					1103054	1580	1
+slope2_noskin	310	Port Input	77					1103064	1590	1
+slope2_noskin	310	Port Input	49					1103074	1600	1
+slope2_noskin	311	Save Logfile	Measurement,28.2, ,18	Measurement	28.2	 	18	1105474	0	427			0		other	0
+slope2_noskin	311	Port Input	49					1107034	1560	1
+slope2_noskin	311	Port Input	50					1107054	1580	1
+slope2_noskin	311	Port Input	77					1107064	1590	1
+slope2_noskin	311	Port Input	49					1107074	1600	1
+slope2_noskin	312	Save Logfile	Measurement,27.4, ,18	Measurement	27.4	 	18	1109474	0	433			0		other	0
+slope2_noskin	312	Port Input	48					1111024	1550	1
+slope2_noskin	312	Port Input	57					1111044	1570	1
+slope2_noskin	312	Port Input	77					1111054	1580	1
+slope2_noskin	312	Port Input	49					1111064	1590	1
+slope2_noskin	313	Save Logfile	Measurement,26.5, ,18	Measurement	26.5	 	18	1113464	0	446			0		other	0
+slope2_noskin	313	Port Input	48					1115024	1560	1
+slope2_noskin	313	Port Input	49					1115034	1570	1
+slope2_noskin	313	Port Input	77					1115044	1580	1
+slope2_noskin	313	Port Input	48					1115054	1590	1
+slope2_noskin	314	Save Logfile	Measurement,25.7, ,18	Measurement	25.7	 	18	1117464	0	432			0		other	0
+slope2_noskin	314	Port Input	102					1119024	1560	1
+slope2_noskin	314	Port Input	56					1119034	1570	1
+slope2_noskin	314	Port Input	77					1119044	1580	1
+slope2_noskin	314	Port Input	48					1119054	1590	1
+slope2_noskin	315	Save Logfile	Measurement,24.8, ,18	Measurement	24.8	 	18	1121463	0	456			0		other	0
+slope2_noskin	315	Port Input	102					1123024	1561	1
+slope2_noskin	315	Port Input	48					1123034	1571	1
+slope2_noskin	315	Port Input	77					1123044	1581	1
+slope2_noskin	315	Port Input	48					1123054	1591	1
+slope2_noskin	316	Save Logfile	Measurement,24, ,18	Measurement	24	 	18	1125464	0	441			0		other	0
+slope2_noskin	316	Port Input	101					1127014	1550	1
+slope2_noskin	316	Port Input	55					1127024	1560	1
+slope2_noskin	316	Port Input	77					1127034	1570	1
+slope2_noskin	316	Port Input	48					1127044	1580	1
+slope2_noskin	317	Save Logfile	Measurement,23.1, ,18	Measurement	23.1	 	18	1129454	0	433			0		other	0
+slope2_noskin	317	Port Input	100					1131014	1560	1
+slope2_noskin	317	Port Input	102					1131024	1570	1
+slope2_noskin	317	Port Input	77					1131034	1580	1
+slope2_noskin	317	Port Input	48					1131044	1590	1
+slope2_noskin	318	Save Logfile	Measurement,22.3, ,18	Measurement	22.3	 	18	1133454	0	461			0		other	0
+slope2_noskin	318	Port Input	100					1135014	1560	1
+slope2_noskin	318	Port Input	55					1135024	1570	1
+slope2_noskin	318	Port Input	77					1135034	1580	1
+slope2_noskin	318	Port Input	48					1135044	1590	1
+slope2_noskin	319	Save Logfile	Measurement,21.5, ,18	Measurement	21.5	 	18	1137454	0	444			0		other	0
+slope2_noskin	319	Port Input	99					1139003	1549	16
+slope2_noskin	319	Port Input	101					1139003	1549	16
+slope2_noskin	319	Port Input	77					1139024	1570	1
+slope2_noskin	319	Port Input	48					1139034	1580	1
+slope2_noskin	320	Save Logfile	Measurement,20.6, ,18	Measurement	20.6	 	18	1141444	0	458			0		other	0
+slope2_noskin	320	Port Input	99					1143004	1560	1
+slope2_noskin	320	Port Input	54					1143014	1570	1
+slope2_noskin	320	Port Input	77					1143024	1580	1
+slope2_noskin	320	Port Input	48					1143033	1589	2
+slope2_noskin	321	Save Logfile	Measurement,19.8, ,18	Measurement	19.8	 	18	1145444	0	431			0		other	0
+slope2_noskin	321	Port Input	98					1147004	1560	1
+slope2_noskin	321	Port Input	100					1147014	1570	1
+slope2_noskin	321	Port Input	77					1147024	1580	1
+slope2_noskin	321	Port Input	48					1147033	1589	2
+slope2_noskin	321	Port Input	98					1147794	2350	1
+slope2_noskin	321	Port Input	53					1147804	2360	1
+slope2_noskin	321	Port Input	70					1147813	2369	2
+slope2_noskin	321	Port Input	48					1147824	2380	1
+slope2_noskin	322	Save Logfile	Measurement,18.1, ,18	Measurement	18.1	 	18	1149444	0	447			0		other	0
+slope2_noskin	322	Port Input	98					1150994	1550	1
+slope2_noskin	322	Port Input	51					1151004	1560	1
+slope2_noskin	322	Port Input	77					1151013	1569	2
+slope2_noskin	322	Port Input	48					1151024	1580	1
+slope2_noskin	323	Save Logfile	Measurement,17.9, ,18	Measurement	17.9	 	18	1153434	0	446			0		other	0
+slope2_noskin	324	Save Logfile	Peak Temperature,17.9, ,18	Peak Temperature	17.9	 	18	1154102	0	417			0		other	0
+slope2_noskin	324	Port Input	98					1155593	1491	2
+slope2_noskin	324	Port Input	50					1155604	1502	1
+slope2_noskin	324	Port Input	67					1155613	1511	2
+slope2_noskin	324	Port Input	48					1155623	1521	2
+slope2_noskin	324	Port Input	48					1157074	2972	1
+slope2_noskin	324	Port Input	48					1157083	2981	2
+slope2_noskin	324	Port Input	77					1157093	2991	2
+slope2_noskin	324	Port Input	48					1157104	3002	1
+slope2_noskin	325	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1157515	0	457			0		other	0
+slope2_noskin	325	Port Input	100					1159154	1639	1
+slope2_noskin	325	Port Input	51					1159163	1648	2
+slope2_noskin	325	Port Input	77					1159173	1658	2
+slope2_noskin	325	Port Input	48					1159183	1668	2
+slope2_noskin	326	Save Logfile	Measurement,21.1, ,38	Measurement	21.1	 	38	1159596	0	449			0		other	0
+slope2_noskin	326	Port Input	100					1161154	1558	1
+slope2_noskin	326	Port Input	101					1161163	1567	2
+slope2_noskin	326	Port Input	77					1161173	1577	2
+slope2_noskin	326	Port Input	48					1161183	1587	2
+slope2_noskin	327	Save Logfile	Measurement,22.2, ,38	Measurement	22.2	 	38	1161596	0	456			0		other	0
+slope2_noskin	327	Port Input	101					1163154	1558	1
+slope2_noskin	327	Port Input	57					1163163	1567	2
+slope2_noskin	327	Port Input	77					1163173	1577	2
+slope2_noskin	327	Port Input	48					1163183	1587	2
+slope2_noskin	328	Save Logfile	Measurement,23.3, ,38	Measurement	23.3	 	38	1163595	0	461			0		other	0
+slope2_noskin	328	Port Input	102					1165154	1559	1
+slope2_noskin	328	Port Input	51					1165163	1568	2
+slope2_noskin	328	Port Input	77					1165173	1578	2
+slope2_noskin	328	Port Input	48					1165183	1588	2
+slope2_noskin	329	Save Logfile	Measurement,24.3, ,38	Measurement	24.3	 	38	1165595	0	471			0		other	0
+slope2_noskin	329	Port Input	102					1167314	1719	1
+slope2_noskin	329	Port Input	101					1167334	1739	1
+slope2_noskin	329	Port Input	77					1167343	1748	2
+slope2_noskin	329	Port Input	49					1167353	1758	2
+slope2_noskin	330	Save Logfile	Measurement,25.4, ,38	Measurement	25.4	 	38	1167756	0	456			0		other	0
+slope2_noskin	330	Port Input	48					1169314	1558	1
+slope2_noskin	330	Port Input	57					1169334	1578	1
+slope2_noskin	330	Port Input	77					1169343	1587	2
+slope2_noskin	330	Port Input	49					1169353	1597	2
+slope2_noskin	331	Save Logfile	Measurement,26.5, ,38	Measurement	26.5	 	38	1169756	0	460			0		other	0
+slope2_noskin	331	Port Input	49					1171313	1557	2
+slope2_noskin	331	Port Input	52					1171333	1577	2
+slope2_noskin	331	Port Input	77					1171343	1587	2
+slope2_noskin	331	Port Input	49					1171353	1597	2
+slope2_noskin	332	Save Logfile	Measurement,27.6, ,38	Measurement	27.6	 	38	1171755	0	444			0		other	0
+slope2_noskin	332	Port Input	49					1173314	1559	1
+slope2_noskin	332	Port Input	102					1173333	1578	2
+slope2_noskin	332	Port Input	77					1173343	1588	2
+slope2_noskin	332	Port Input	49					1173363	1608	2
+slope2_noskin	333	Save Logfile	Measurement,28.7, ,38	Measurement	28.7	 	38	1173755	0	453			0		other	0
+slope2_noskin	333	Port Input	50					1175313	1558	2
+slope2_noskin	333	Port Input	57					1175333	1578	2
+slope2_noskin	333	Port Input	77					1175343	1588	2
+slope2_noskin	333	Port Input	49					1175353	1598	2
+slope2_noskin	334	Save Logfile	Measurement,29.7, ,38	Measurement	29.7	 	38	1175755	0	460			0		other	0
+slope2_noskin	334	Port Input	51					1177313	1558	2
+slope2_noskin	334	Port Input	52					1177334	1579	1
+slope2_noskin	334	Port Input	77					1177343	1588	2
+slope2_noskin	334	Port Input	49					1177353	1598	2
+slope2_noskin	335	Save Logfile	Measurement,30.8, ,38	Measurement	30.8	 	38	1177755	0	460			0		other	0
+slope2_noskin	335	Port Input	51					1179304	1549	1
+slope2_noskin	335	Port Input	102					1179324	1569	1
+slope2_noskin	335	Port Input	77					1179333	1578	2
+slope2_noskin	335	Port Input	49					1179353	1598	2
+slope2_noskin	336	Save Logfile	Measurement,31.9, ,38	Measurement	31.9	 	38	1179746	0	486			0		other	0
+slope2_noskin	336	Port Input	52					1181473	1727	2
+slope2_noskin	336	Port Input	57					1181494	1748	1
+slope2_noskin	336	Port Input	77					1181504	1758	1
+slope2_noskin	336	Port Input	49					1181513	1767	2
+slope2_noskin	337	Save Logfile	Measurement,32.9, ,38	Measurement	32.9	 	38	1181915	0	464			0		other	0
+slope2_noskin	337	Port Input	53					1183633	1718	2
+slope2_noskin	337	Port Input	52					1183653	1738	2
+slope2_noskin	337	Port Input	77					1183663	1748	2
+slope2_noskin	337	Port Input	49					1183673	1758	2
+slope2_noskin	338	Save Logfile	Measurement,34, ,38	Measurement	34	 	38	1184076	0	469			0		other	0
+slope2_noskin	338	Port Input	54					1185634	1558	1
+slope2_noskin	338	Port Input	48					1185654	1578	1
+slope2_noskin	338	Port Input	77					1185663	1587	2
+slope2_noskin	338	Port Input	49					1185683	1607	2
+slope2_noskin	339	Save Logfile	Measurement,35.2, ,38	Measurement	35.2	 	38	1186076	0	461			0		other	0
+slope2_noskin	339	Port Input	54					1187633	1557	2
+slope2_noskin	339	Port Input	98					1187654	1578	1
+slope2_noskin	339	Port Input	77					1187663	1587	2
+slope2_noskin	339	Port Input	49					1187673	1597	2
+slope2_noskin	340	Save Logfile	Measurement,36.3, ,38	Measurement	36.3	 	38	1188076	0	472			0		other	0
+slope2_noskin	340	Port Input	55					1189803	1727	2
+slope2_noskin	340	Port Input	53					1189824	1748	1
+slope2_noskin	340	Port Input	77					1189833	1757	2
+slope2_noskin	340	Port Input	49					1189843	1767	2
+slope2_noskin	341	Save Logfile	Measurement,37.3, ,38	Measurement	37.3	 	38	1190246	0	466			0		other	0
+slope2_noskin	341	Port Input	56					1191963	1717	2
+slope2_noskin	341	Port Input	48					1191983	1737	2
+slope2_noskin	341	Port Input	77					1191993	1747	2
+slope2_noskin	341	Port Input	49					1192013	1767	1
+slope2_noskin	342	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1194404	0	468			0		other	0
+slope2_noskin	342	Port Input	56					1196123	1719	2
+slope2_noskin	342	Port Input	51					1196143	1739	1
+slope2_noskin	342	Port Input	77					1196153	1749	1
+slope2_noskin	342	Port Input	49					1196173	1769	1
+slope2_noskin	343	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1198564	0	486			0		other	0
+slope2_noskin	343	Port Input	56					1200293	1729	2
+slope2_noskin	343	Port Input	48					1200313	1749	2
+slope2_noskin	343	Port Input	77					1200323	1759	1
+slope2_noskin	343	Port Input	49					1200333	1769	1
+slope2_noskin	344	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1202734	0	470			0		other	0
+slope2_noskin	344	Port Input	56					1204453	1719	2
+slope2_noskin	344	Port Input	49					1204473	1739	1
+slope2_noskin	344	Port Input	77					1204483	1749	1
+slope2_noskin	344	Port Input	49					1204493	1759	1
+slope2_noskin	345	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1206893	0	481			0		other	0
+slope2_noskin	345	Port Input	56					1208634	1741	1
+slope2_noskin	345	Port Input	49					1208664	1771	1
+slope2_noskin	345	Port Input	77					1208673	1780	2
+slope2_noskin	345	Port Input	49					1208683	1790	1
+slope2_noskin	346	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1211084	0	477			0		other	0
+slope2_noskin	346	Port Input	56					1212783	1699	2
+slope2_noskin	346	Port Input	48					1212803	1719	1
+slope2_noskin	346	Port Input	77					1212813	1729	1
+slope2_noskin	346	Port Input	49					1212833	1749	1
+slope2_noskin	346	Response	2					1214400	3316	1
+slope2_noskin	347	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1215223	0	466			0		other	0
+slope2_noskin	347	Response	2					1216176	953	1
+slope2_noskin	347	Port Input	56					1216953	1730	2
+slope2_noskin	347	Port Input	48					1216973	1750	1
+slope2_noskin	347	Port Input	77					1216983	1760	1
+slope2_noskin	347	Port Input	49					1216993	1770	1
+slope2_noskin	347	Response	2					1217876	2653	1
+slope2_noskin	348	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1219394	0	478			0		other	0
+slope2_noskin	348	Response	2					1219394	0	126
+slope2_noskin	348	Response	2					1221106	1712	1
+slope2_noskin	348	Port Input	56					1221123	1729	1
+slope2_noskin	348	Port Input	48					1221143	1749	1
+slope2_noskin	348	Port Input	77					1221153	1759	1
+slope2_noskin	348	Port Input	49					1221163	1769	1
+slope2_noskin	349	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1223564	0	469			0		other	0
+slope2_noskin	349	Port Input	56					1225283	1719	1
+slope2_noskin	349	Port Input	48					1225303	1739	1
+slope2_noskin	349	Port Input	77					1225313	1749	1
+slope2_noskin	349	Port Input	49					1225323	1759	1
+slope2_noskin	350	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1227724	0	577			0		other	0
+slope2_noskin	350	Port Input	56					1229453	1729	1
+slope2_noskin	350	Port Input	48					1229473	1749	1
+slope2_noskin	350	Port Input	77					1229483	1759	1
+slope2_noskin	350	Port Input	49					1229503	1779	1
+slope2_noskin	351	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1231894	0	500			0		other	0
+slope2_noskin	351	Port Input	56					1233623	1729	1
+slope2_noskin	351	Port Input	48					1233643	1749	1
+slope2_noskin	351	Port Input	77					1233653	1759	1
+slope2_noskin	351	Port Input	49					1233673	1779	1
+slope2_noskin	352	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1236064	0	569			0		other	0
+slope2_noskin	352	Port Input	56					1237763	1699	2
+slope2_noskin	352	Port Input	48					1237783	1719	1
+slope2_noskin	352	Port Input	77					1237793	1729	1
+slope2_noskin	352	Port Input	49					1237803	1739	1
+slope2_noskin	353	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1240204	0	490			0		other	0
+slope2_noskin	353	Port Input	56					1241924	1720	1
+slope2_noskin	353	Port Input	48					1241953	1749	1
+slope2_noskin	353	Port Input	77					1241963	1759	1
+slope2_noskin	353	Port Input	49					1241973	1769	1
+slope2_noskin	353	Response	4					1243358	3154	1
+slope2_noskin	354	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1244364	0	485			0		other	0
+slope2_noskin	354	Port Input	55					1246133	1769	1
+slope2_noskin	354	Port Input	102					1246143	1779	1
+slope2_noskin	354	Port Input	84					1246153	1789	1
+slope2_noskin	354	Port Input	48					1246163	1799	1
+slope2_noskin	354	Port Input	56					1247664	3300	15
+slope2_noskin	354	Port Input	50					1247683	3319	1
+slope2_noskin	354	Port Input	67					1247693	3329	2
+slope2_noskin	354	Port Input	48					1247703	3339	2
+slope2_noskin	355	Save Logfile	Initiate Peak,38.4, ,13	Initiate Peak	38.4	 	13	1248073	0	771			0		other	0
+slope2_noskin	355	Port Input	48					1249924	1851	1
+slope2_noskin	355	Port Input	51					1249953	1880	1
+slope2_noskin	355	Port Input	77					1249963	1890	1
+slope2_noskin	355	Port Input	49					1249973	1900	1
+slope2_noskin	355	Port Input	55					1253443	5370	1
+slope2_noskin	355	Port Input	102					1253463	5390	1
+slope2_noskin	355	Port Input	77					1253473	5400	1
+slope2_noskin	355	Port Input	49					1253493	5420	2
+slope2_noskin	356	Save Logfile	Measurement,38.3, ,13	Measurement	38.3	 	13	1255969	0	489			0		other	0
+slope2_noskin	356	Port Input	55					1257583	1614	1
+slope2_noskin	356	Port Input	56					1257603	1634	1
+slope2_noskin	356	Port Input	77					1257613	1644	1
+slope2_noskin	356	Port Input	49					1257623	1654	1
+slope2_noskin	357	Save Logfile	Measurement,37.6, ,13	Measurement	37.6	 	13	1260024	0	489			0		other	0
+slope2_noskin	357	Port Input	54					1261743	1719	1
+slope2_noskin	357	Port Input	101					1261773	1749	1
+slope2_noskin	357	Port Input	77					1261783	1759	1
+slope2_noskin	357	Port Input	49					1261793	1769	1
+slope2_noskin	358	Save Logfile	Measurement,36.6, ,13	Measurement	36.6	 	13	1264184	0	506			0		other	0
+slope2_noskin	358	Port Input	54					1265903	1719	1
+slope2_noskin	358	Port Input	54					1265933	1749	1
+slope2_noskin	358	Port Input	77					1265943	1759	1
+slope2_noskin	358	Port Input	49					1265953	1769	1
+slope2_noskin	359	Save Logfile	Measurement,35.8, ,13	Measurement	35.8	 	13	1268344	0	551			0		other	0
+slope2_noskin	359	Port Input	53					1270083	1739	1
+slope2_noskin	359	Port Input	100					1270113	1769	1
+slope2_noskin	359	Port Input	77					1270123	1779	1
+slope2_noskin	359	Port Input	49					1270133	1789	1
+slope2_noskin	360	Save Logfile	Measurement,34.9, ,13	Measurement	34.9	 	13	1272524	0	498			0		other	0
+slope2_noskin	360	Port Input	53					1274233	1709	1
+slope2_noskin	360	Port Input	52					1274253	1729	1
+slope2_noskin	360	Port Input	77					1274263	1739	1
+slope2_noskin	360	Port Input	49					1274273	1749	1
+slope2_noskin	361	Save Logfile	Measurement,34, ,13	Measurement	34	 	13	1276674	0	504			0		other	0
+slope2_noskin	361	Port Input	52					1278393	1719	1
+slope2_noskin	361	Port Input	98					1278423	1749	1
+slope2_noskin	361	Port Input	77					1278434	1760	1
+slope2_noskin	361	Port Input	49					1278443	1769	1
+slope2_noskin	362	Save Logfile	Measurement,33.1, ,13	Measurement	33.1	 	13	1280834	0	504			0		other	0
+slope2_noskin	362	Port Input	52					1282563	1729	1
+slope2_noskin	362	Port Input	50					1282583	1749	1
+slope2_noskin	362	Port Input	77					1282593	1759	1
+slope2_noskin	362	Port Input	49					1282603	1769	1
+slope2_noskin	363	Save Logfile	Measurement,32.2, ,13	Measurement	32.2	 	13	1285004	0	507			0		other	0
+slope2_noskin	363	Port Input	51					1286723	1719	1
+slope2_noskin	363	Port Input	57					1286743	1739	1
+slope2_noskin	363	Port Input	77					1286753	1749	1
+slope2_noskin	363	Port Input	49					1286763	1759	1
+slope2_noskin	364	Save Logfile	Measurement,31.3, ,13	Measurement	31.3	 	13	1289164	0	513			0		other	0
+slope2_noskin	364	Port Input	51					1290883	1719	1
+slope2_noskin	364	Port Input	48					1290913	1749	1
+slope2_noskin	364	Port Input	77					1290923	1759	1
+slope2_noskin	364	Port Input	49					1290933	1769	1
+slope2_noskin	365	Save Logfile	Measurement,30.4, ,13	Measurement	30.4	 	13	1293324	0	506			0		other	0
+slope2_noskin	365	Port Input	50					1295053	1729	1
+slope2_noskin	365	Port Input	55					1295073	1749	1
+slope2_noskin	365	Port Input	77					1295083	1759	1
+slope2_noskin	365	Port Input	49					1295103	1779	1
+slope2_noskin	366	Save Logfile	Measurement,29.5, ,13	Measurement	29.5	 	13	1297494	0	510			0		other	0
+slope2_noskin	366	Port Input	49					1299213	1719	1
+slope2_noskin	366	Port Input	102					1299243	1749	1
+slope2_noskin	366	Port Input	77					1299253	1759	1
+slope2_noskin	366	Port Input	49					1299263	1769	1
+slope2_noskin	367	Save Logfile	Measurement,28.7, ,13	Measurement	28.7	 	13	1301654	0	519			0		other	0
+slope2_noskin	367	Port Input	49					1303373	1719	1
+slope2_noskin	367	Port Input	54					1303403	1749	1
+slope2_noskin	367	Port Input	77					1303413	1759	1
+slope2_noskin	367	Port Input	49					1303423	1769	1
+slope2_noskin	368	Save Logfile	Measurement,27.8, ,13	Measurement	27.8	 	13	1305814	0	547			0		other	0
+slope2_noskin	368	Port Input	48					1307543	1729	1
+slope2_noskin	368	Port Input	100					1307563	1749	1
+slope2_noskin	368	Port Input	77					1307573	1759	1
+slope2_noskin	368	Port Input	49					1307583	1769	1
+slope2_noskin	369	Save Logfile	Measurement,26.9, ,13	Measurement	26.9	 	13	1309986	0	694			0		other	0
+slope2_noskin	369	Port Input	48					1311983	1997	1
+slope2_noskin	369	Port Input	52					1311993	2007	1
+slope2_noskin	369	Port Input	77					1312003	2017	1
+slope2_noskin	369	Port Input	48					1312013	2027	1
+slope2_noskin	370	Save Logfile	Measurement,26, ,13	Measurement	26	 	13	1314423	0	552			0		other	0
+slope2_noskin	370	Port Input	102					1316373	1950	1
+slope2_noskin	370	Port Input	98					1316383	1960	1
+slope2_noskin	370	Port Input	77					1316399	1976	1
+slope2_noskin	370	Port Input	48					1316403	1980	1
+slope2_noskin	371	Save Logfile	Measurement,25.1, ,13	Measurement	25.1	 	13	1318823	0	509			0		other	0
+slope2_noskin	371	Port Input	102					1320533	1710	1
+slope2_noskin	371	Port Input	50					1320543	1720	1
+slope2_noskin	371	Port Input	77					1320553	1730	1
+slope2_noskin	371	Port Input	48					1320563	1740	1
+slope2_noskin	372	Save Logfile	Measurement,24.2, ,13	Measurement	24.2	 	13	1322974	0	556			0		other	0
+slope2_noskin	372	Port Input	101					1324693	1719	1
+slope2_noskin	372	Port Input	57					1324703	1729	1
+slope2_noskin	372	Port Input	77					1324713	1739	1
+slope2_noskin	372	Port Input	48					1324723	1749	1
+slope2_noskin	373	Save Logfile	Measurement,23.3, ,13	Measurement	23.3	 	13	1327143	0	513			0		other	0
+slope2_noskin	373	Port Input	101					1328853	1710	1
+slope2_noskin	373	Port Input	48					1328863	1720	1
+slope2_noskin	373	Port Input	77					1328873	1730	1
+slope2_noskin	373	Port Input	48					1328883	1740	1
+slope2_noskin	374	Save Logfile	Measurement,22.4, ,13	Measurement	22.4	 	13	1331294	0	504			0		other	0
+slope2_noskin	374	Port Input	100					1333023	1729	1
+slope2_noskin	374	Port Input	55					1333033	1739	1
+slope2_noskin	374	Port Input	77					1333043	1749	1
+slope2_noskin	374	Port Input	48					1333053	1759	1
+slope2_noskin	375	Save Logfile	Measurement,21.5, ,13	Measurement	21.5	 	13	1335464	0	508			0		other	0
+slope2_noskin	375	Port Input	99					1337183	1719	1
+slope2_noskin	375	Port Input	102					1337193	1729	1
+slope2_noskin	375	Port Input	77					1337203	1739	1
+slope2_noskin	375	Port Input	48					1337213	1749	1
+slope2_noskin	376	Save Logfile	Measurement,20.7, ,13	Measurement	20.7	 	13	1339624	0	508			0		other	0
+slope2_noskin	376	Port Input	99					1341353	1729	1
+slope2_noskin	376	Port Input	54					1341363	1739	1
+slope2_noskin	376	Port Input	77					1341373	1749	1
+slope2_noskin	376	Port Input	48					1341383	1759	1
+slope2_noskin	377	Save Logfile	Measurement,19.8, ,13	Measurement	19.8	 	13	1343794	0	524			0		other	0
+slope2_noskin	377	Port Input	98					1345513	1719	1
+slope2_noskin	377	Port Input	100					1345523	1729	1
+slope2_noskin	377	Port Input	77					1345533	1739	1
+slope2_noskin	377	Port Input	48					1345543	1749	1
+slope2_noskin	378	Save Logfile	Measurement,18.9, ,13	Measurement	18.9	 	13	1347953	0	510			0		other	0
+slope2_noskin	378	Port Input	98					1349673	1720	1
+slope2_noskin	378	Port Input	52					1349683	1730	1
+slope2_noskin	378	Port Input	77					1349693	1740	1
+slope2_noskin	378	Port Input	48					1349703	1750	1
+slope2_noskin	379	Save Logfile	Measurement,18, ,13	Measurement	18	 	13	1352114	0	517			0		other	0
+slope2_noskin	379	Port Input	97					1353853	1739	1
+slope2_noskin	379	Port Input	99					1353863	1749	1
+slope2_noskin	379	Port Input	77					1353873	1759	1
+slope2_noskin	380	Save Logfile	Measurement,17.2, ,13	Measurement	17.2	 	13	1356283	0	521			0		other	0
+slope2_noskin	380	Port Input	48					1358003	1720	1
+slope2_noskin	380	Port Input	97					1358013	1730	1
+slope2_noskin	380	Port Input	51					1358023	1740	1
+slope2_noskin	380	Port Input	77					1358033	1750	1
+slope2_noskin	381	Save Logfile	Measurement,16.3, ,13	Measurement	16.3	 	13	1360443	0	521			0		other	0
+slope2_noskin	381	Port Input	48					1362163	1720	1
+slope2_noskin	381	Port Input	57					1362173	1730	1
+slope2_noskin	381	Port Input	97					1362183	1740	1
+slope2_noskin	381	Port Input	77					1362193	1750	1
+slope2_noskin	382	Save Logfile	Measurement,15.4, ,13	Measurement	15.4	 	13	1364603	0	520			0		other	0
+slope2_noskin	382	Port Input	48					1366333	1730	1
+slope2_noskin	382	Port Input	57					1366343	1740	1
+slope2_noskin	382	Port Input	49					1366353	1750	1
+slope2_noskin	382	Port Input	77					1366363	1760	1
+slope2_noskin	383	Save Logfile	Measurement,14.5, ,13	Measurement	14.5	 	13	1368773	0	522			0		other	0
+slope2_noskin	383	Port Input	48					1369913	1140	1
+slope2_noskin	383	Port Input	56					1369923	1150	1
+slope2_noskin	383	Port Input	57					1369933	1160	1
+slope2_noskin	383	Port Input	70					1369943	1170	1
+slope2_noskin	383	Port Input	48					1370493	1720	1
+slope2_noskin	383	Port Input	56					1370503	1730	1
+slope2_noskin	383	Port Input	49					1370513	1740	1
+slope2_noskin	383	Port Input	77					1370523	1750	1
+slope2_noskin	384	Save Logfile	Measurement,12.9, ,13	Measurement	12.9	 	13	1372933	0	531			0		other	0
+slope2_noskin	385	Save Logfile	Peak Temperature,12.9, ,13	Peak Temperature	12.9	 	13	1373764	0	508			0		other	0
+slope2_noskin	385	Port Input	48					1375353	1589	1
+slope2_noskin	385	Port Input	56					1375363	1599	1
+slope2_noskin	385	Port Input	48					1375373	1609	1
+slope2_noskin	385	Port Input	67					1375383	1619	1
+slope2_noskin	385	Port Input	48					1376827	3063	15
+slope2_noskin	385	Port Input	48					1376843	3079	1
+slope2_noskin	385	Port Input	48					1376853	3089	1
+slope2_noskin	385	Port Input	77					1376863	3099	1
+slope2_noskin	386	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1377275	0	534			0		other	0
+slope2_noskin	386	Port Input	48					1378983	1708	1
+slope2_noskin	386	Port Input	57					1378993	1718	1
+slope2_noskin	386	Port Input	50					1379003	1728	1
+slope2_noskin	386	Port Input	77					1379005	1730	16
+slope2_noskin	387	Save Logfile	Measurement,14.6, ,38	Measurement	14.6	 	38	1379425	0	533			0		other	0
+slope2_noskin	387	Port Input	48					1381153	1728	1
+slope2_noskin	387	Port Input	57					1381163	1738	1
+slope2_noskin	387	Port Input	102					1381173	1748	1
+slope2_noskin	387	Port Input	77					1381183	1758	1
+slope2_noskin	388	Save Logfile	Measurement,15.9, ,38	Measurement	15.9	 	38	1381595	0	529			0		other	0
+slope2_noskin	388	Port Input	48					1383313	1718	1
+slope2_noskin	388	Port Input	97					1383323	1728	1
+slope2_noskin	388	Port Input	98					1383333	1738	1
+slope2_noskin	388	Port Input	77					1383343	1748	1
+slope2_noskin	389	Save Logfile	Measurement,17.1, ,38	Measurement	17.1	 	38	1383755	0	517			0		other	0
+slope2_noskin	389	Port Input	48					1385483	1728	1
+slope2_noskin	389	Port Input	98					1385493	1738	1
+slope2_noskin	389	Port Input	55					1385503	1748	1
+slope2_noskin	389	Port Input	77					1385513	1758	1
+slope2_noskin	390	Save Logfile	Measurement,18.3, ,38	Measurement	18.3	 	38	1385925	0	533			0		other	0
+slope2_noskin	390	Port Input	48					1387643	1718	1
+slope2_noskin	390	Port Input	99					1387653	1728	1
+slope2_noskin	390	Port Input	50					1387663	1738	1
+slope2_noskin	390	Port Input	77					1387673	1748	1
+slope2_noskin	391	Save Logfile	Measurement,19.4, ,38	Measurement	19.4	 	38	1388085	0	593			0		other	0
+slope2_noskin	391	Port Input	48					1389813	1728	1
+slope2_noskin	391	Port Input	99					1389823	1738	1
+slope2_noskin	391	Port Input	100					1389833	1748	1
+slope2_noskin	391	Port Input	77					1389843	1758	1
+slope2_noskin	392	Save Logfile	Measurement,20.5, ,38	Measurement	20.5	 	38	1390255	0	536			0		other	0
+slope2_noskin	392	Port Input	48					1391973	1718	1
+slope2_noskin	392	Port Input	100					1391983	1728	1
+slope2_noskin	392	Port Input	57					1391993	1738	1
+slope2_noskin	392	Port Input	77					1392003	1748	1
+slope2_noskin	393	Save Logfile	Measurement,21.7, ,38	Measurement	21.7	 	38	1392415	0	531			0		other	0
+slope2_noskin	393	Port Input	48					1394143	1728	1
+slope2_noskin	393	Port Input	101					1394153	1738	1
+slope2_noskin	393	Port Input	52					1394163	1748	1
+slope2_noskin	393	Port Input	77					1394173	1758	1
+slope2_noskin	394	Save Logfile	Measurement,22.8, ,38	Measurement	22.8	 	38	1394585	0	532			0		other	0
+slope2_noskin	394	Port Input	48					1396303	1718	1
+slope2_noskin	394	Port Input	102					1396313	1728	1
+slope2_noskin	394	Port Input	48					1396323	1738	1
+slope2_noskin	394	Port Input	77					1396333	1748	1
+slope2_noskin	395	Save Logfile	Measurement,24, ,38	Measurement	24	 	38	1396745	0	551			0		other	0
+slope2_noskin	395	Port Input	48					1398473	1728	1
+slope2_noskin	395	Port Input	102					1398503	1758	1
+slope2_noskin	395	Port Input	98					1398513	1768	1
+slope2_noskin	395	Port Input	77					1398523	1778	1
+slope2_noskin	396	Save Logfile	Measurement,25.1, ,38	Measurement	25.1	 	38	1398915	0	560			0		other	0
+slope2_noskin	396	Port Input	49					1400633	1718	1
+slope2_noskin	396	Port Input	48					1400653	1738	1
+slope2_noskin	396	Port Input	55					1400663	1748	1
+slope2_noskin	396	Port Input	77					1400683	1768	1
+slope2_noskin	397	Save Logfile	Measurement,26.3, ,38	Measurement	26.3	 	38	1401075	0	549			0		other	0
+slope2_noskin	397	Port Input	49					1402803	1728	1
+slope2_noskin	397	Port Input	49					1402833	1758	1
+slope2_noskin	397	Port Input	50					1402843	1768	1
+slope2_noskin	397	Port Input	77					1402853	1778	1
+slope2_noskin	398	Save Logfile	Measurement,27.4, ,38	Measurement	27.4	 	38	1403245	0	546			0		other	0
+slope2_noskin	398	Port Input	49					1404963	1718	1
+slope2_noskin	398	Port Input	49					1404983	1738	1
+slope2_noskin	398	Port Input	101					1404993	1748	1
+slope2_noskin	398	Port Input	77					1405013	1768	1
+slope2_noskin	399	Save Logfile	Measurement,28.6, ,38	Measurement	28.6	 	38	1405405	0	551			0		other	0
+slope2_noskin	399	Port Input	49					1407133	1728	1
+slope2_noskin	399	Port Input	50					1407163	1758	1
+slope2_noskin	399	Port Input	97					1407173	1768	1
+slope2_noskin	399	Port Input	77					1407183	1778	1
+slope2_noskin	400	Save Logfile	Measurement,29.8, ,38	Measurement	29.8	 	38	1407575	0	533			0		other	0
+slope2_noskin	400	Port Input	49					1409293	1718	1
+slope2_noskin	400	Port Input	51					1409313	1738	1
+slope2_noskin	400	Port Input	53					1409323	1748	1
+slope2_noskin	400	Port Input	77					1409343	1768	1
+slope2_noskin	401	Save Logfile	Measurement,30.9, ,38	Measurement	30.9	 	38	1409735	0	564			0		other	0
+slope2_noskin	401	Port Input	49					1411463	1728	1
+slope2_noskin	401	Port Input	52					1411483	1748	1
+slope2_noskin	401	Port Input	49					1411503	1768	1
+slope2_noskin	401	Port Input	77					1411513	1778	1
+slope2_noskin	402	Save Logfile	Measurement,32.1, ,38	Measurement	32.1	 	38	1411905	0	549			0		other	0
+slope2_noskin	402	Port Input	49					1413623	1718	1
+slope2_noskin	402	Port Input	52					1413653	1748	1
+slope2_noskin	402	Port Input	99					1413663	1758	1
+slope2_noskin	402	Port Input	77					1413673	1768	1
+slope2_noskin	403	Save Logfile	Measurement,33.2, ,38	Measurement	33.2	 	38	1414065	0	553			0		other	0
+slope2_noskin	403	Port Input	49					1415793	1728	1
+slope2_noskin	403	Port Input	53					1415813	1748	1
+slope2_noskin	403	Port Input	55					1415833	1768	1
+slope2_noskin	403	Port Input	77					1415843	1778	1
+slope2_noskin	404	Save Logfile	Measurement,34.3, ,38	Measurement	34.3	 	38	1416235	0	654			0		other	0
+slope2_noskin	404	Port Input	49					1418123	1888	1
+slope2_noskin	404	Port Input	54					1418143	1908	1
+slope2_noskin	404	Port Input	51					1418163	1928	1
+slope2_noskin	404	Port Input	77					1418173	1938	1
+slope2_noskin	405	Save Logfile	Measurement,35.5, ,38	Measurement	35.5	 	38	1418565	0	581			0		other	0
+slope2_noskin	405	Port Input	49					1420283	1718	1
+slope2_noskin	405	Port Input	55					1420313	1748	1
+slope2_noskin	405	Port Input	48					1420323	1758	1
+slope2_noskin	405	Port Input	77					1420333	1768	1
+slope2_noskin	406	Save Logfile	Measurement,36.8, ,38	Measurement	36.8	 	38	1420725	0	558			0		other	0
+slope2_noskin	406	Port Input	49					1422453	1728	1
+slope2_noskin	406	Port Input	55					1422473	1748	1
+slope2_noskin	406	Port Input	98					1422493	1768	1
+slope2_noskin	406	Port Input	77					1422503	1778	1
+slope2_noskin	407	Save Logfile	Measurement,37.9, ,38	Measurement	37.9	 	38	1422895	0	558			0		other	0
+slope2_noskin	407	Port Input	49					1424613	1718	1
+slope2_noskin	407	Port Input	56					1424643	1748	1
+slope2_noskin	407	Port Input	51					1424653	1758	1
+slope2_noskin	407	Port Input	77					1424663	1768	1
+slope2_noskin	407	Response	2					1425443	2548	1
+slope2_noskin	408	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1427053	0	553			0		other	0
+slope2_noskin	408	Response	2					1427053	0	82
+slope2_noskin	408	Port Input	49					1428793	1740	1
+slope2_noskin	408	Port Input	56					1428813	1760	1
+slope2_noskin	408	Port Input	52					1428833	1780	1
+slope2_noskin	408	Port Input	77					1428843	1790	1
+slope2_noskin	408	Response	2					1428953	1900	1
+slope2_noskin	408	Response	2					1430580	3527	1
+slope2_noskin	409	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1431233	0	560			0		other	0
+slope2_noskin	409	Response	2					1432104	871	1
+slope2_noskin	409	Port Input	49					1432953	1720	1
+slope2_noskin	409	Port Input	56					1432983	1750	1
+slope2_noskin	409	Port Input	49					1432993	1760	1
+slope2_noskin	409	Port Input	77					1433003	1770	1
+slope2_noskin	410	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1435393	0	559			0		other	0
+slope2_noskin	410	Port Input	49					1437123	1730	1
+slope2_noskin	410	Port Input	56					1437143	1750	1
+slope2_noskin	410	Port Input	50					1437163	1770	1
+slope2_noskin	410	Port Input	77					1437173	1780	1
+slope2_noskin	411	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1439563	0	542			0		other	0
+slope2_noskin	411	Port Input	49					1441283	1720	1
+slope2_noskin	411	Port Input	56					1441303	1740	1
+slope2_noskin	411	Port Input	49					1441323	1760	1
+slope2_noskin	411	Port Input	77					1441333	1770	1
+slope2_noskin	412	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1443723	0	558			0		other	0
+slope2_noskin	412	Port Input	49					1445453	1730	1
+slope2_noskin	412	Port Input	56					1445473	1750	1
+slope2_noskin	412	Port Input	49					1445493	1770	1
+slope2_noskin	412	Port Input	77					1445503	1780	1
+slope2_noskin	413	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1447893	0	555			0		other	0
+slope2_noskin	413	Port Input	49					1449593	1700	1
+slope2_noskin	413	Port Input	56					1449623	1730	1
+slope2_noskin	413	Port Input	49					1449633	1740	1
+slope2_noskin	413	Port Input	77					1449643	1750	1
+slope2_noskin	414	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1452033	0	574			0		other	0
+slope2_noskin	414	Port Input	49					1453763	1730	1
+slope2_noskin	414	Port Input	56					1453783	1750	1
+slope2_noskin	414	Port Input	49					1453803	1770	1
+slope2_noskin	414	Port Input	77					1453813	1780	1
+slope2_noskin	415	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1456203	0	567			0		other	0
+slope2_noskin	415	Port Input	49					1457923	1720	1
+slope2_noskin	415	Port Input	56					1457943	1740	1
+slope2_noskin	415	Port Input	49					1457963	1760	1
+slope2_noskin	415	Port Input	77					1457972	1769	2
+slope2_noskin	416	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1460363	0	572			0		other	0
+slope2_noskin	416	Response	4					1461088	725	1
+slope2_noskin	416	Port Input	49					1462083	1720	1
+slope2_noskin	416	Port Input	56					1462103	1740	1
+slope2_noskin	416	Port Input	48					1462123	1760	1
+slope2_noskin	416	Port Input	77					1462132	1769	2
+slope2_noskin	417	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	1464523	0	560			0		other	0
+slope2_noskin	417	Port Input	49					1466253	1730	1
+slope2_noskin	417	Port Input	56					1466262	1739	2
+slope2_noskin	417	Port Input	48					1466272	1749	2
+slope2_noskin	417	Port Input	84					1466283	1760	1
+slope2_noskin	417	Port Input	48					1467793	3270	1
+slope2_noskin	417	Port Input	53					1467802	3279	2
+slope2_noskin	417	Port Input	48					1467813	3290	1
+slope2_noskin	417	Port Input	67					1467823	3300	1
+slope2_noskin	418	Save Logfile	Initiate Peak,38.4, ,8	Initiate Peak	38.4	 	8	1468193	0	574			0		other	0
+slope2_noskin	418	Port Input	48					1469843	1650	1
+slope2_noskin	418	Port Input	48					1469863	1670	1
+slope2_noskin	418	Port Input	51					1469883	1690	1
+slope2_noskin	418	Port Input	77					1469893	1700	1
+slope2_noskin	418	Port Input	49					1473343	5150	1
+slope2_noskin	418	Port Input	56					1473372	5179	2
+slope2_noskin	418	Port Input	48					1473382	5189	2
+slope2_noskin	418	Port Input	77					1473393	5200	1
+slope2_noskin	419	Save Logfile	Measurement,38.4, ,8	Measurement	38.4	 	8	1475783	0	571			0		other	0
+slope2_noskin	419	Port Input	49					1477573	1790	1
+slope2_noskin	419	Port Input	55					1477602	1819	2
+slope2_noskin	419	Port Input	57					1477612	1829	2
+slope2_noskin	419	Port Input	77					1477622	1839	2
+slope2_noskin	420	Save Logfile	Measurement,37.7, ,8	Measurement	37.7	 	8	1480013	0	580			0		other	0
+slope2_noskin	420	Port Input	49					1481743	1730	1
+slope2_noskin	420	Port Input	55					1481772	1759	2
+slope2_noskin	420	Port Input	48					1481782	1769	2
+slope2_noskin	420	Port Input	77					1481792	1779	2
+slope2_noskin	421	Save Logfile	Measurement,36.8, ,8	Measurement	36.8	 	8	1484183	0	583			0		other	0
+slope2_noskin	421	Port Input	49					1485902	1719	2
+slope2_noskin	421	Port Input	54					1485932	1749	2
+slope2_noskin	421	Port Input	55					1485942	1759	2
+slope2_noskin	421	Port Input	77					1485952	1769	2
+slope2_noskin	422	Save Logfile	Measurement,35.9, ,8	Measurement	35.9	 	8	1488343	0	593			0		other	0
+slope2_noskin	422	Port Input	49					1490083	1740	1
+slope2_noskin	422	Port Input	53					1490112	1769	2
+slope2_noskin	422	Port Input	101					1490122	1779	2
+slope2_noskin	422	Port Input	77					1490132	1789	2
+slope2_noskin	423	Save Logfile	Measurement,35, ,8	Measurement	35	 	8	1492523	0	579			0		other	0
+slope2_noskin	423	Port Input	49					1494232	1709	2
+slope2_noskin	423	Port Input	53					1494262	1739	2
+slope2_noskin	423	Port Input	53					1494272	1749	2
+slope2_noskin	423	Port Input	77					1494282	1759	2
+slope2_noskin	424	Save Logfile	Measurement,34.1, ,8	Measurement	34.1	 	8	1496673	0	590			0		other	0
+slope2_noskin	424	Port Input	49					1498393	1720	1
+slope2_noskin	424	Port Input	52					1498412	1739	2
+slope2_noskin	424	Port Input	99					1498432	1759	2
+slope2_noskin	424	Port Input	77					1498442	1769	2
+slope2_noskin	425	Save Logfile	Measurement,33.2, ,8	Measurement	33.2	 	8	1500833	0	572			0		other	0
+slope2_noskin	425	Port Input	49					1502552	1719	2
+slope2_noskin	425	Port Input	52					1502582	1749	2
+slope2_noskin	425	Port Input	51					1502592	1759	2
+slope2_noskin	425	Port Input	77					1502602	1769	2
+slope2_noskin	426	Save Logfile	Measurement,32.3, ,8	Measurement	32.3	 	8	1504993	0	575			0		other	0
+slope2_noskin	426	Port Input	49					1506722	1729	2
+slope2_noskin	426	Port Input	51					1506752	1759	2
+slope2_noskin	426	Port Input	97					1506762	1769	2
+slope2_noskin	426	Port Input	77					1506772	1779	2
+slope2_noskin	427	Save Logfile	Measurement,31.4, ,8	Measurement	31.4	 	8	1509163	0	590			0		other	0
+slope2_noskin	427	Port Input	49					1510882	1719	2
+slope2_noskin	427	Port Input	51					1510912	1749	2
+slope2_noskin	427	Port Input	50					1510922	1759	1
+slope2_noskin	427	Port Input	77					1510932	1769	2
+slope2_noskin	428	Save Logfile	Measurement,30.6, ,8	Measurement	30.6	 	8	1513323	0	591			0		other	0
+slope2_noskin	428	Port Input	49					1515042	1719	2
+slope2_noskin	428	Port Input	50					1515072	1749	1
+slope2_noskin	428	Port Input	56					1515082	1759	2
+slope2_noskin	428	Port Input	77					1515092	1769	1
+slope2_noskin	429	Save Logfile	Measurement,29.6, ,8	Measurement	29.6	 	8	1517483	0	575			0		other	0
+slope2_noskin	429	Port Input	49					1519212	1729	2
+slope2_noskin	429	Port Input	50					1519242	1759	2
+slope2_noskin	429	Port Input	48					1519252	1769	1
+slope2_noskin	429	Port Input	77					1519262	1779	1
+slope2_noskin	430	Save Logfile	Measurement,28.8, ,8	Measurement	28.8	 	8	1521653	0	602			0		other	0
+slope2_noskin	430	Port Input	49					1523372	1719	2
+slope2_noskin	430	Port Input	49					1523402	1749	1
+slope2_noskin	430	Port Input	55					1523412	1759	2
+slope2_noskin	430	Port Input	77					1523422	1769	1
+slope2_noskin	431	Save Logfile	Measurement,27.9, ,8	Measurement	27.9	 	8	1525813	0	590			0		other	0
+slope2_noskin	431	Port Input	49					1527532	1719	2
+slope2_noskin	431	Port Input	48					1527562	1749	1
+slope2_noskin	431	Port Input	101					1527572	1759	1
+slope2_noskin	431	Port Input	77					1527582	1769	1
+slope2_noskin	432	Save Logfile	Measurement,27, ,8	Measurement	27	 	8	1529973	0	585			0		other	0
+slope2_noskin	432	Port Input	49					1531702	1729	2
+slope2_noskin	432	Port Input	48					1531712	1739	1
+slope2_noskin	432	Port Input	53					1531722	1749	1
+slope2_noskin	432	Port Input	77					1531732	1759	1
+slope2_noskin	433	Save Logfile	Measurement,26.1, ,8	Measurement	26.1	 	8	1534143	0	584			0		other	0
+slope2_noskin	433	Port Input	48					1535862	1719	1
+slope2_noskin	433	Port Input	102					1535873	1730	1
+slope2_noskin	433	Port Input	99					1535882	1739	1
+slope2_noskin	433	Port Input	77					1535892	1749	1
+slope2_noskin	434	Save Logfile	Measurement,25.2, ,8	Measurement	25.2	 	8	1538303	0	640			0		other	0
+slope2_noskin	434	Port Input	48					1540193	1890	1
+slope2_noskin	434	Port Input	102					1540203	1900	1
+slope2_noskin	434	Port Input	51					1540213	1910	1
+slope2_noskin	434	Port Input	77					1540222	1919	1
+slope2_noskin	435	Save Logfile	Measurement,24.3, ,8	Measurement	24.3	 	8	1542633	0	605			0		other	0
+slope2_noskin	435	Port Input	48					1544353	1720	1
+slope2_noskin	435	Port Input	101					1544362	1729	1
+slope2_noskin	435	Port Input	97					1544373	1740	1
+slope2_noskin	435	Port Input	77					1544382	1749	2
+slope2_noskin	436	Save Logfile	Measurement,23.4, ,8	Measurement	23.4	 	8	1546793	0	615			0		other	0
+slope2_noskin	436	Port Input	48					1548523	1730	1
+slope2_noskin	436	Port Input	101					1548532	1739	1
+slope2_noskin	436	Port Input	50					1548542	1749	2
+slope2_noskin	436	Port Input	77					1548552	1759	2
+slope2_noskin	437	Save Logfile	Measurement,22.6, ,8	Measurement	22.6	 	8	1550963	0	621			0		other	0
+slope2_noskin	437	Port Input	48					1552683	1720	1
+slope2_noskin	437	Port Input	100					1552692	1729	1
+slope2_noskin	437	Port Input	57					1552702	1739	2
+slope2_noskin	437	Port Input	77					1552712	1749	2
+slope2_noskin	438	Save Logfile	Measurement,21.7, ,8	Measurement	21.7	 	8	1555123	0	623			0		other	0
+slope2_noskin	438	Port Input	48					1556843	1720	1
+slope2_noskin	438	Port Input	100					1556852	1729	1
+slope2_noskin	438	Port Input	48					1556862	1739	1
+slope2_noskin	438	Port Input	77					1556872	1749	2
+slope2_noskin	439	Save Logfile	Measurement,20.8, ,8	Measurement	20.8	 	8	1559283	0	623			0		other	0
+slope2_noskin	439	Port Input	48					1561013	1730	1
+slope2_noskin	439	Port Input	99					1561022	1739	1
+slope2_noskin	439	Port Input	55					1561032	1749	1
+slope2_noskin	439	Port Input	77					1561053	1770	1
+slope2_noskin	440	Save Logfile	Measurement,19.9, ,8	Measurement	19.9	 	8	1563453	0	629			0		other	0
+slope2_noskin	440	Port Input	48					1565173	1720	1
+slope2_noskin	440	Port Input	98					1565192	1739	1
+slope2_noskin	440	Port Input	102					1565202	1749	1
+slope2_noskin	440	Port Input	77					1565212	1759	1
+slope2_noskin	441	Save Logfile	Measurement,19.1, ,8	Measurement	19.1	 	8	1567623	0	626			0		other	0
+slope2_noskin	441	Port Input	48					1569502	1879	1
+slope2_noskin	441	Port Input	98					1569512	1889	1
+slope2_noskin	441	Port Input	54					1569522	1899	1
+slope2_noskin	441	Port Input	77					1569532	1909	1
+slope2_noskin	442	Save Logfile	Measurement,18.2, ,8	Measurement	18.2	 	8	1571943	0	597			0		other	0
+slope2_noskin	442	Port Input	48					1573662	1719	1
+slope2_noskin	442	Port Input	97					1573672	1729	1
+slope2_noskin	442	Port Input	100					1573682	1739	1
+slope2_noskin	442	Port Input	77					1573692	1749	1
+slope2_noskin	443	Save Logfile	Measurement,17.3, ,8	Measurement	17.3	 	8	1576103	0	595			0		other	0
+slope2_noskin	443	Port Input	48					1577832	1729	1
+slope2_noskin	443	Port Input	97					1577842	1739	1
+slope2_noskin	443	Port Input	52					1577852	1749	1
+slope2_noskin	443	Port Input	77					1577862	1759	1
+slope2_noskin	444	Save Logfile	Measurement,16.4, ,8	Measurement	16.4	 	8	1580273	0	606			0		other	0
+slope2_noskin	444	Port Input	48					1581992	1719	1
+slope2_noskin	444	Port Input	57					1582002	1729	1
+slope2_noskin	444	Port Input	99					1582012	1739	1
+slope2_noskin	444	Port Input	77					1582022	1749	1
+slope2_noskin	445	Save Logfile	Measurement,15.6, ,8	Measurement	15.6	 	8	1584433	0	601			0		other	0
+slope2_noskin	445	Port Input	48					1586152	1719	1
+slope2_noskin	445	Port Input	57					1586162	1729	1
+slope2_noskin	445	Port Input	50					1586172	1739	1
+slope2_noskin	445	Port Input	77					1586182	1749	1
+slope2_noskin	446	Save Logfile	Measurement,14.6, ,8	Measurement	14.6	 	8	1588593	0	614			0		other	0
+slope2_noskin	446	Port Input	48					1590322	1729	1
+slope2_noskin	446	Port Input	56					1590332	1739	1
+slope2_noskin	446	Port Input	97					1590343	1750	1
+slope2_noskin	446	Port Input	77					1590352	1759	1
+slope2_noskin	447	Save Logfile	Measurement,13.8, ,8	Measurement	13.8	 	8	1592763	0	602			0		other	0
+slope2_noskin	447	Port Input	48					1594482	1719	1
+slope2_noskin	447	Port Input	56					1594492	1729	1
+slope2_noskin	447	Port Input	50					1594502	1739	1
+slope2_noskin	447	Port Input	77					1594512	1749	1
+slope2_noskin	448	Save Logfile	Measurement,13, ,8	Measurement	13	 	8	1596923	0	614			0		other	0
+slope2_noskin	448	Port Input	48					1598642	1719	2
+slope2_noskin	448	Port Input	55					1598652	1729	1
+slope2_noskin	448	Port Input	57					1598662	1739	2
+slope2_noskin	448	Port Input	77					1598682	1759	1
+slope2_noskin	449	Save Logfile	Measurement,12.1, ,8	Measurement	12.1	 	8	1601083	0	597			0		other	0
+slope2_noskin	449	Port Input	48					1602812	1729	1
+slope2_noskin	449	Port Input	55					1602822	1739	1
+slope2_noskin	449	Port Input	48					1602832	1749	1
+slope2_noskin	449	Port Input	77					1602842	1759	1
+slope2_noskin	450	Save Logfile	Measurement,11.2, ,8	Measurement	11.2	 	8	1605253	0	2695			0		other	0
+slope2_noskin	450	Port Input	48					1609142	3889	1
+slope2_noskin	450	Port Input	54					1609152	3899	1
+slope2_noskin	450	Port Input	56					1609162	3909	1
+slope2_noskin	450	Port Input	77					1609172	3919	1
+slope2_noskin	451	Save Logfile	Measurement,10.4, ,8	Measurement	10.4	 	8	1611583	0	1209			0		other	0
+slope2_noskin	451	Port Input	48					1613972	2389	1
+slope2_noskin	451	Port Input	53					1613982	2399	1
+slope2_noskin	451	Port Input	98					1613992	2409	1
+slope2_noskin	451	Port Input	77					1614002	2419	1
+slope2_noskin	451	Port Input	48					1614572	2989	2
+slope2_noskin	451	Port Input	53					1614582	2999	1
+slope2_noskin	451	Port Input	49					1614592	3009	2
+slope2_noskin	451	Port Input	70					1614602	3019	1
+slope2_noskin	452	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1616413	0	1499			0		other	0
+slope2_noskin	452	Port Input	48					1619132	2719	2
+slope2_noskin	452	Port Input	52					1619142	2729	1
+slope2_noskin	452	Port Input	102					1619152	2739	1
+slope2_noskin	452	Port Input	77					1619162	2749	1
+slope2_noskin	453	Save Logfile	Measurement,7.9, ,8	Measurement	7.9	 	8	1621611	0	1445			0		other	0
+slope2_noskin	454	Save Logfile	Peak Temperature,7.9, ,8	Peak Temperature	7.9	 	8	1623403	0	566			0		other	0
+slope2_noskin	454	Port Input	48					1625713	2310	1
+slope2_noskin	454	Port Input	53					1625722	2319	1
+slope2_noskin	454	Port Input	52					1625732	2329	1
+slope2_noskin	454	Port Input	67					1625742	2339	1
+slope2_noskin	454	Port Input	48					1627472	4069	2
+slope2_noskin	454	Port Input	48					1627482	4079	1
+slope2_noskin	454	Port Input	48					1627492	4089	1
+slope2_noskin	454	Port Input	77					1627502	4099	1
+slope2_noskin	455	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1627917	0	2167			0		other	0
+slope2_noskin	455	Port Input	48					1631313	3396	1
+slope2_noskin	455	Port Input	56					1631322	3405	1
+slope2_noskin	455	Port Input	49					1631341	3424	10
+slope2_noskin	455	Port Input	77					1631352	3435	1
+slope2_noskin	456	Save Logfile	Measurement,12.9, ,38	Measurement	12.9	 	38	1631768	0	1958			0		other	0
+slope2_noskin	456	Port Input	48					1635213	3445	1
+slope2_noskin	456	Port Input	57					1635232	3464	1
+slope2_noskin	456	Port Input	53					1635242	3474	1
+slope2_noskin	456	Port Input	77					1635252	3484	1
+slope2_noskin	457	Save Logfile	Measurement,14.9, ,38	Measurement	14.9	 	38	1635668	0	6307			0		other	0
+slope2_noskin	457	Port Input	48					1643113	7445	1
+slope2_noskin	457	Port Input	97					1643132	7464	1
+slope2_noskin	457	Port Input	97					1643142	7474	1
+slope2_noskin	457	Port Input	77					1643152	7484	1
+slope2_noskin	458	Save Logfile	Measurement,17, ,38	Measurement	17	 	38	1643568	0	3263			0		other	0
+slope2_noskin	458	Port Input	48					1648113	4545	1
+slope2_noskin	458	Port Input	100					1648122	4554	1
+slope2_noskin	458	Port Input	52					1648142	4574	1
+slope2_noskin	458	Port Input	77					1648152	4584	1
+slope2_noskin	459	Save Logfile	Measurement,21.2, ,38	Measurement	21.2	 	38	1648585	0	4067			0		other	0
+slope2_noskin	459	Port Input	48					1653932	5347	1
+slope2_noskin	459	Port Input	101					1653962	5377	1
+slope2_noskin	459	Port Input	102					1653972	5387	1
+slope2_noskin	459	Port Input	77					1653982	5397	1
+slope2_noskin	460	Save Logfile	Measurement,23.9, ,38	Measurement	23.9	 	38	1654387	0	1047			0		other	0
+slope2_noskin	460	Port Input	49					1656602	2215	1
+slope2_noskin	460	Port Input	48					1656632	2245	1
+slope2_noskin	460	Port Input	100					1656642	2255	1
+slope2_noskin	460	Port Input	77					1656652	2265	1
+slope2_noskin	461	Save Logfile	Measurement,26.9, ,38	Measurement	26.9	 	38	1657045	0	643			0		other	0
+slope2_noskin	461	Port Input	49					1658932	1887	1
+slope2_noskin	461	Port Input	49					1658962	1917	1
+slope2_noskin	461	Port Input	99					1658972	1927	1
+slope2_noskin	461	Port Input	77					1658982	1937	1
+slope2_noskin	462	Save Logfile	Measurement,28.4, ,38	Measurement	28.4	 	38	1659375	0	650			0		other	0
+slope2_noskin	462	Port Input	49					1661262	1887	1
+slope2_noskin	462	Port Input	50					1661292	1917	1
+slope2_noskin	462	Port Input	56					1661302	1927	1
+slope2_noskin	462	Port Input	77					1661312	1937	1
+slope2_noskin	463	Save Logfile	Measurement,29.6, ,38	Measurement	29.6	 	38	1661705	0	655			0		other	0
+slope2_noskin	463	Port Input	49					1663592	1887	1
+slope2_noskin	463	Port Input	51					1663622	1917	1
+slope2_noskin	463	Port Input	52					1663632	1927	1
+slope2_noskin	463	Port Input	77					1663642	1937	1
+slope2_noskin	464	Save Logfile	Measurement,30.8, ,38	Measurement	30.8	 	38	1664045	0	628			0		other	0
+slope2_noskin	464	Port Input	49					1665932	1887	1
+slope2_noskin	464	Port Input	52					1665962	1917	1
+slope2_noskin	464	Port Input	49					1665972	1927	1
+slope2_noskin	464	Port Input	77					1665982	1937	1
+slope2_noskin	465	Save Logfile	Measurement,32.1, ,38	Measurement	32.1	 	38	1666375	0	634			0		other	0
+slope2_noskin	465	Port Input	49					1668262	1887	1
+slope2_noskin	465	Port Input	52					1668292	1917	1
+slope2_noskin	465	Port Input	100					1668302	1927	1
+slope2_noskin	465	Port Input	77					1668312	1937	1
+slope2_noskin	466	Save Logfile	Measurement,33.3, ,38	Measurement	33.3	 	38	1668715	0	658			0		other	0
+slope2_noskin	466	Port Input	49					1670592	1877	1
+slope2_noskin	466	Port Input	53					1670622	1907	1
+slope2_noskin	466	Port Input	97					1670632	1917	1
+slope2_noskin	466	Port Input	77					1670642	1927	1
+slope2_noskin	467	Save Logfile	Measurement,34.6, ,38	Measurement	34.6	 	38	1671035	0	634			0		other	0
+slope2_noskin	467	Port Input	49					1672922	1887	1
+slope2_noskin	467	Port Input	54					1672952	1917	1
+slope2_noskin	467	Port Input	54					1672962	1927	1
+slope2_noskin	467	Port Input	77					1672972	1937	1
+slope2_noskin	468	Save Logfile	Measurement,35.8, ,38	Measurement	35.8	 	38	1673365	0	624			0		other	0
+slope2_noskin	468	Port Input	49					1675082	1717	1
+slope2_noskin	468	Port Input	55					1675112	1747	1
+slope2_noskin	468	Port Input	50					1675122	1757	1
+slope2_noskin	468	Port Input	77					1675132	1767	1
+slope2_noskin	469	Save Logfile	Measurement,37, ,38	Measurement	37	 	38	1675525	0	641			0		other	0
+slope2_noskin	469	Port Input	49					1677422	1897	1
+slope2_noskin	469	Port Input	55					1677452	1927	1
+slope2_noskin	469	Port Input	101					1677462	1937	1
+slope2_noskin	469	Port Input	77					1677472	1947	1
+slope2_noskin	470	Save Logfile	Measurement,38.2, ,38	Measurement	38.2	 	38	1677875	0	666			0		other	0
+slope2_noskin	470	Port Input	49					1679752	1877	1
+slope2_noskin	470	Port Input	56					1679782	1907	1
+slope2_noskin	470	Port Input	53					1679792	1917	1
+slope2_noskin	470	Port Input	77					1679802	1927	1
+slope2_noskin	471	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1682193	0	649			0		other	0
+slope2_noskin	471	Port Input	49					1684082	1889	1
+slope2_noskin	471	Port Input	56					1684112	1919	1
+slope2_noskin	471	Port Input	53					1684122	1929	1
+slope2_noskin	471	Port Input	77					1684132	1939	1
+slope2_noskin	472	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1686523	0	645			0		other	0
+slope2_noskin	472	Port Input	49					1688412	1889	1
+slope2_noskin	472	Port Input	56					1688442	1919	1
+slope2_noskin	472	Port Input	51					1688452	1929	1
+slope2_noskin	472	Port Input	77					1688462	1939	1
+slope2_noskin	473	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1690863	0	662			0		other	0
+slope2_noskin	473	Port Input	49					1692742	1879	1
+slope2_noskin	473	Port Input	56					1692772	1909	1
+slope2_noskin	473	Port Input	51					1692782	1919	1
+slope2_noskin	473	Port Input	77					1692792	1929	1
+slope2_noskin	474	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1695193	0	626			0		other	0
+slope2_noskin	474	Port Input	49					1697072	1879	1
+slope2_noskin	474	Port Input	56					1697102	1909	1
+slope2_noskin	474	Port Input	50					1697112	1919	1
+slope2_noskin	474	Port Input	77					1697122	1929	1
+slope2_noskin	475	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1699513	0	639			0		other	0
+slope2_noskin	475	Port Input	49					1701402	1889	1
+slope2_noskin	475	Port Input	56					1701432	1919	1
+slope2_noskin	475	Port Input	50					1701442	1929	1
+slope2_noskin	475	Port Input	77					1701452	1939	1
+slope2_noskin	476	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1703863	0	662			0		other	0
+slope2_noskin	476	Port Input	49					1705732	1869	1
+slope2_noskin	476	Port Input	56					1705762	1899	1
+slope2_noskin	476	Port Input	50					1705772	1909	1
+slope2_noskin	476	Port Input	77					1705782	1919	1
+slope2_noskin	477	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1708178	0	641			0		other	0
+slope2_noskin	477	Port Input	49					1710062	1884	1
+slope2_noskin	477	Port Input	56					1710092	1914	1
+slope2_noskin	477	Port Input	50					1710102	1924	1
+slope2_noskin	477	Port Input	77					1710112	1934	1
+slope2_noskin	478	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1712513	0	643			0		other	0
+slope2_noskin	478	Port Input	49					1714392	1879	1
+slope2_noskin	478	Port Input	56					1714422	1909	1
+slope2_noskin	478	Port Input	50					1714432	1919	1
+slope2_noskin	478	Port Input	77					1714442	1929	1
+slope2_noskin	479	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1716843	0	638			0		other	0
+slope2_noskin	479	Port Input	49					1718722	1879	1
+slope2_noskin	479	Port Input	56					1718752	1909	1
+slope2_noskin	479	Port Input	50					1718762	1919	1
+slope2_noskin	479	Port Input	77					1718772	1929	1
+slope2_noskin	480	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1721163	0	645			0		other	0
+slope2_noskin	480	Port Input	49					1723052	1889	1
+slope2_noskin	480	Port Input	56					1723082	1919	1
+slope2_noskin	480	Port Input	50					1723092	1929	1
+slope2_noskin	480	Port Input	77					1723102	1939	1
+slope2_noskin	481	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1725513	0	670			0		other	0
+slope2_noskin	481	Port Input	49					1727402	1889	1
+slope2_noskin	481	Port Input	56					1727422	1909	1
+slope2_noskin	481	Port Input	50					1727432	1919	1
+slope2_noskin	481	Port Input	77					1727442	1929	1
+slope2_noskin	482	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1729843	0	648			0		other	0
+slope2_noskin	482	Port Input	49					1731712	1869	1
+slope2_noskin	482	Port Input	56					1731742	1899	1
+slope2_noskin	482	Port Input	49					1731752	1909	1
+slope2_noskin	482	Port Input	77					1731762	1919	1
+slope2_noskin	483	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1734163	0	672			0		other	0
+slope2_noskin	483	Port Input	49					1736042	1879	1
+slope2_noskin	483	Port Input	56					1736072	1909	1
+slope2_noskin	483	Port Input	49					1736082	1919	1
+slope2_noskin	483	Port Input	77					1736092	1929	1
+slope2_noskin	484	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1738508	0	657			0		other	0
+slope2_noskin	484	Port Input	49					1740372	1864	1
+slope2_noskin	484	Port Input	56					1740402	1894	1
+slope2_noskin	484	Port Input	49					1740412	1904	1
+slope2_noskin	484	Port Input	77					1740422	1914	1
+slope2_noskin	485	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1742823	0	643			0		other	0
+slope2_noskin	485	Port Input	49					1744702	1879	1
+slope2_noskin	485	Port Input	56					1744732	1909	1
+slope2_noskin	485	Port Input	49					1744742	1919	1
+slope2_noskin	485	Port Input	77					1744752	1929	1
+slope2_noskin	486	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1747153	0	676			0		other	0
+slope2_noskin	486	Port Input	49					1749032	1879	1
+slope2_noskin	486	Port Input	56					1749062	1909	1
+slope2_noskin	486	Port Input	49					1749072	1919	1
+slope2_noskin	486	Port Input	77					1749082	1929	1
+slope2_noskin	486	Response	2					1751204	4051	1
+slope2_noskin	487	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1751484	0	671			0		other	0
+slope2_noskin	487	Response	2					1753126	1642	1
+slope2_noskin	487	Port Input	49					1753372	1888	1
+slope2_noskin	487	Port Input	56					1753402	1918	1
+slope2_noskin	487	Port Input	49					1753412	1928	1
+slope2_noskin	487	Port Input	77					1753422	1938	1
+slope2_noskin	487	Response	2					1754950	3466	1
+slope2_noskin	488	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1755823	0	659			0		other	0
+slope2_noskin	488	Port Input	49					1757702	1879	1
+slope2_noskin	488	Port Input	56					1757732	1909	1
+slope2_noskin	488	Port Input	49					1757742	1919	1
+slope2_noskin	488	Port Input	77					1757752	1929	1
+slope2_noskin	489	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1760170	0	666			0		other	0
+slope2_noskin	489	Port Input	49					1762032	1862	1
+slope2_noskin	489	Port Input	56					1762062	1892	1
+slope2_noskin	489	Port Input	49					1762072	1902	1
+slope2_noskin	489	Port Input	77					1762082	1912	1
+slope2_noskin	490	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1764484	0	648			0		other	0
+slope2_noskin	490	Port Input	49					1766352	1868	1
+slope2_noskin	490	Port Input	56					1766382	1898	1
+slope2_noskin	490	Port Input	49					1766392	1908	1
+slope2_noskin	490	Port Input	77					1766402	1918	1
+slope2_noskin	491	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1768803	0	676			0		other	0
+slope2_noskin	491	Response	4					1768803	0	403
+slope2_noskin	491	Port Input	49					1770682	1879	1
+slope2_noskin	491	Port Input	56					1770702	1899	1
+slope2_noskin	491	Port Input	49					1770712	1909	1
+slope2_noskin	491	Port Input	84					1770722	1919	1
+slope2_noskin	491	Port Input	48					1772232	3429	1
+slope2_noskin	491	Port Input	51					1772242	3439	1
+slope2_noskin	491	Port Input	50					1772251	3448	2
+slope2_noskin	491	Port Input	67					1772262	3459	1
+slope2_noskin	492	Save Logfile	Initiate Peak,38.5, ,5	Initiate Peak	38.5	 	5	1772643	0	662			0		other	0
+slope2_noskin	492	Port Input	48					1774392	1749	1
+slope2_noskin	492	Port Input	48					1774422	1779	1
+slope2_noskin	492	Port Input	51					1774432	1789	1
+slope2_noskin	492	Port Input	77					1774442	1799	1
+slope2_noskin	492	Port Input	49					1777902	5259	1
+slope2_noskin	492	Port Input	56					1777932	5289	1
+slope2_noskin	492	Port Input	48					1777942	5299	1
+slope2_noskin	492	Port Input	77					1777952	5309	1
+slope2_noskin	493	Save Logfile	Measurement,38.4, ,5	Measurement	38.4	 	5	1780353	0	688			0		other	0
+slope2_noskin	493	Port Input	49					1782172	1819	1
+slope2_noskin	493	Port Input	55					1782201	1848	2
+slope2_noskin	493	Port Input	57					1782212	1859	1
+slope2_noskin	493	Port Input	77					1782221	1868	2
+slope2_noskin	494	Save Logfile	Measurement,37.7, ,5	Measurement	37.7	 	5	1784623	0	692			0		other	0
+slope2_noskin	494	Port Input	49					1786502	1879	1
+slope2_noskin	494	Port Input	55					1786532	1909	1
+slope2_noskin	494	Port Input	48					1786541	1918	2
+slope2_noskin	494	Port Input	77					1786552	1929	1
+slope2_noskin	495	Save Logfile	Measurement,36.8, ,5	Measurement	36.8	 	5	1788953	0	704			0		other	0
+slope2_noskin	495	Port Input	49					1790832	1879	1
+slope2_noskin	495	Port Input	54					1790861	1908	2
+slope2_noskin	495	Port Input	55					1790872	1919	1
+slope2_noskin	495	Port Input	77					1790882	1929	1
+slope2_noskin	496	Save Logfile	Measurement,35.9, ,5	Measurement	35.9	 	5	1793283	0	662			0		other	0
+slope2_noskin	496	Port Input	49					1795162	1879	1
+slope2_noskin	496	Port Input	53					1795192	1909	1
+slope2_noskin	496	Port Input	100					1795202	1919	1
+slope2_noskin	496	Port Input	77					1795212	1929	1
+slope2_noskin	497	Save Logfile	Measurement,34.9, ,5	Measurement	34.9	 	5	1797613	0	681			0		other	0
+slope2_noskin	497	Port Input	49					1799492	1879	1
+slope2_noskin	497	Port Input	53					1799522	1909	1
+slope2_noskin	497	Port Input	52					1799531	1918	2
+slope2_noskin	497	Port Input	77					1799541	1928	2
+slope2_noskin	498	Save Logfile	Measurement,34, ,5	Measurement	34	 	5	1801943	0	658			0		other	0
+slope2_noskin	498	Port Input	49					1803822	1879	1
+slope2_noskin	498	Port Input	52					1803851	1908	2
+slope2_noskin	498	Port Input	98					1803861	1918	2
+slope2_noskin	498	Port Input	77					1803871	1928	2
+slope2_noskin	499	Save Logfile	Measurement,33.1, ,5	Measurement	33.1	 	5	1806273	0	684			0		other	0
+slope2_noskin	499	Port Input	49					1808152	1879	1
+slope2_noskin	499	Port Input	52					1808182	1909	1
+slope2_noskin	499	Port Input	49					1808191	1918	2
+slope2_noskin	499	Port Input	77					1808202	1929	1
+slope2_noskin	500	Save Logfile	Measurement,32.1, ,5	Measurement	32.1	 	5	1810603	0	689			0		other	0
+slope2_noskin	500	Port Input	49					1812481	1878	2
+slope2_noskin	500	Port Input	51					1812511	1908	2
+slope2_noskin	500	Port Input	56					1812521	1918	2
+slope2_noskin	500	Port Input	77					1812531	1928	2
+slope2_noskin	501	Save Logfile	Measurement,31.2, ,5	Measurement	31.2	 	5	1814933	0	671			0		other	0
+slope2_noskin	501	Port Input	49					1816811	1878	2
+slope2_noskin	501	Port Input	50					1816842	1909	1
+slope2_noskin	501	Port Input	102					1816851	1918	2
+slope2_noskin	501	Port Input	77					1816861	1928	2
+slope2_noskin	502	Save Logfile	Measurement,30.3, ,5	Measurement	30.3	 	5	1819263	0	712			0		other	0
+slope2_noskin	502	Port Input	49					1821141	1878	2
+slope2_noskin	502	Port Input	50					1821171	1908	2
+slope2_noskin	502	Port Input	54					1821181	1918	2
+slope2_noskin	502	Port Input	77					1821191	1928	2
+slope2_noskin	503	Save Logfile	Measurement,29.4, ,5	Measurement	29.4	 	5	1823593	0	686			0		other	0
+slope2_noskin	503	Port Input	49					1825471	1878	2
+slope2_noskin	503	Port Input	49					1825501	1908	2
+slope2_noskin	503	Port Input	99					1825511	1918	2
+slope2_noskin	503	Port Input	77					1825521	1928	2
+slope2_noskin	504	Save Logfile	Measurement,28.4, ,5	Measurement	28.4	 	5	1827924	0	685			0		other	0
+slope2_noskin	504	Port Input	49					1829801	1877	2
+slope2_noskin	504	Port Input	49					1829832	1908	1
+slope2_noskin	504	Port Input	51					1829841	1917	1
+slope2_noskin	504	Port Input	77					1829851	1927	2
+slope2_noskin	505	Save Logfile	Measurement,27.5, ,5	Measurement	27.5	 	5	1832253	0	684			0		other	0
+slope2_noskin	505	Port Input	49					1834131	1878	1
+slope2_noskin	505	Port Input	48					1834161	1908	2
+slope2_noskin	505	Port Input	97					1834171	1918	1
+slope2_noskin	505	Port Input	77					1834181	1928	2
+slope2_noskin	506	Save Logfile	Measurement,26.6, ,5	Measurement	26.6	 	5	1836583	0	671			0		other	0
+slope2_noskin	506	Port Input	49					1838461	1878	2
+slope2_noskin	506	Port Input	48					1838481	1898	2
+slope2_noskin	506	Port Input	49					1838492	1909	1
+slope2_noskin	506	Port Input	77					1838501	1918	2
+slope2_noskin	507	Save Logfile	Measurement,25.7, ,5	Measurement	25.7	 	5	1840913	0	684			0		other	0
+slope2_noskin	507	Port Input	48					1842777	1864	90
+slope2_noskin	507	Port Input	102					1842777	1864	90
+slope2_noskin	507	Port Input	55					1842777	1864	90
+slope2_noskin	507	Port Input	77					1842777	1864	90
+slope2_noskin	508	Save Logfile	Measurement,24.7, ,5	Measurement	24.7	 	5	1845243	0	688			0		other	0
+slope2_noskin	508	Port Input	48					1847121	1878	2
+slope2_noskin	508	Port Input	101					1847141	1898	1
+slope2_noskin	508	Port Input	101					1847151	1908	1
+slope2_noskin	508	Port Input	77					1847161	1918	1
+slope2_noskin	509	Save Logfile	Measurement,23.8, ,5	Measurement	23.8	 	5	1849573	0	705			0		other	0
+slope2_noskin	509	Port Input	48					1851451	1878	2
+slope2_noskin	509	Port Input	101					1851461	1888	1
+slope2_noskin	509	Port Input	53					1851481	1908	1
+slope2_noskin	509	Port Input	77					1851491	1918	2
+slope2_noskin	510	Save Logfile	Measurement,22.9, ,5	Measurement	22.9	 	5	1853903	0	800			0		other	0
+slope2_noskin	510	Port Input	48					1855941	2038	2
+slope2_noskin	510	Port Input	100					1855961	2058	1
+slope2_noskin	510	Port Input	99					1855971	2068	1
+slope2_noskin	510	Port Input	77					1855981	2078	1
+slope2_noskin	511	Save Logfile	Measurement,22, ,5	Measurement	22	 	5	1858393	0	724			0		other	0
+slope2_noskin	511	Port Input	48					1860271	1878	2
+slope2_noskin	511	Port Input	100					1860291	1898	2
+slope2_noskin	511	Port Input	51					1860301	1908	1
+slope2_noskin	511	Port Input	77					1860311	1918	1
+slope2_noskin	512	Save Logfile	Measurement,21.1, ,5	Measurement	21.1	 	5	1862723	0	688			0		other	0
+slope2_noskin	512	Port Input	48					1864601	1878	1
+slope2_noskin	512	Port Input	99					1864621	1898	1
+slope2_noskin	512	Port Input	57					1864631	1908	1
+slope2_noskin	512	Port Input	77					1864641	1918	1
+slope2_noskin	513	Save Logfile	Measurement,20.1, ,5	Measurement	20.1	 	5	1867053	0	710			0		other	0
+slope2_noskin	513	Port Input	48					1868931	1878	1
+slope2_noskin	513	Port Input	99					1868951	1898	1
+slope2_noskin	513	Port Input	48					1868961	1908	1
+slope2_noskin	513	Port Input	77					1868971	1918	1
+slope2_noskin	514	Save Logfile	Measurement,19.2, ,5	Measurement	19.2	 	5	1871383	0	708			0		other	0
+slope2_noskin	514	Port Input	48					1873261	1878	1
+slope2_noskin	514	Port Input	98					1873271	1888	1
+slope2_noskin	514	Port Input	55					1873291	1908	1
+slope2_noskin	514	Port Input	77					1873301	1918	1
+slope2_noskin	515	Save Logfile	Measurement,18.3, ,5	Measurement	18.3	 	5	1875713	0	684			0		other	0
+slope2_noskin	515	Port Input	48					1877591	1878	1
+slope2_noskin	515	Port Input	97					1877601	1888	1
+slope2_noskin	515	Port Input	101					1877621	1908	1
+slope2_noskin	515	Port Input	77					1877631	1918	1
+slope2_noskin	516	Save Logfile	Measurement,17.4, ,5	Measurement	17.4	 	5	1880043	0	723			0		other	0
+slope2_noskin	516	Port Input	48					1881921	1878	1
+slope2_noskin	516	Port Input	97					1881931	1888	1
+slope2_noskin	516	Port Input	53					1881941	1898	1
+slope2_noskin	516	Port Input	77					1881961	1918	1
+slope2_noskin	517	Save Logfile	Measurement,16.5, ,5	Measurement	16.5	 	5	1884373	0	737			0		other	0
+slope2_noskin	517	Port Input	48					1886251	1878	1
+slope2_noskin	517	Port Input	57					1886261	1888	1
+slope2_noskin	517	Port Input	99					1886281	1908	1
+slope2_noskin	517	Port Input	77					1886291	1918	1
+slope2_noskin	518	Save Logfile	Measurement,15.6, ,5	Measurement	15.6	 	5	1888703	0	737			0		other	0
+slope2_noskin	518	Port Input	48					1890581	1878	1
+slope2_noskin	518	Port Input	57					1890591	1888	1
+slope2_noskin	518	Port Input	51					1890611	1908	1
+slope2_noskin	518	Port Input	77					1890621	1918	1
+slope2_noskin	519	Save Logfile	Measurement,14.7, ,5	Measurement	14.7	 	5	1893033	0	721			0		other	0
+slope2_noskin	519	Port Input	48					1894911	1878	2
+slope2_noskin	519	Port Input	56					1894921	1888	1
+slope2_noskin	519	Port Input	97					1894931	1898	1
+slope2_noskin	519	Port Input	77					1894951	1918	1
+slope2_noskin	520	Save Logfile	Measurement,13.8, ,5	Measurement	13.8	 	5	1897363	0	691			0		other	0
+slope2_noskin	520	Port Input	48					1899241	1878	1
+slope2_noskin	520	Port Input	56					1899261	1898	1
+slope2_noskin	520	Port Input	49					1899271	1908	1
+slope2_noskin	520	Port Input	77					1899281	1918	1
+slope2_noskin	521	Save Logfile	Measurement,12.9, ,5	Measurement	12.9	 	5	1901693	0	717			0		other	0
+slope2_noskin	521	Port Input	48					1903571	1878	1
+slope2_noskin	521	Port Input	55					1903591	1898	1
+slope2_noskin	521	Port Input	56					1903601	1908	1
+slope2_noskin	521	Port Input	77					1903611	1918	1
+slope2_noskin	522	Save Logfile	Measurement,12, ,5	Measurement	12	 	5	1906024	0	718			0		other	0
+slope2_noskin	522	Port Input	48					1907901	1877	1
+slope2_noskin	522	Port Input	54					1907911	1887	1
+slope2_noskin	522	Port Input	102					1907931	1907	1
+slope2_noskin	522	Port Input	77					1907941	1917	1
+slope2_noskin	523	Save Logfile	Measurement,11.1, ,5	Measurement	11.1	 	5	1910356	0	886			0		other	0
+slope2_noskin	523	Port Input	48					1912401	2045	2
+slope2_noskin	523	Port Input	54					1912421	2065	2
+slope2_noskin	523	Port Input	54					1912431	2075	1
+slope2_noskin	523	Port Input	77					1912441	2085	1
+slope2_noskin	524	Save Logfile	Measurement,10.2, ,5	Measurement	10.2	 	5	1914853	0	1191			0		other	0
+slope2_noskin	524	Port Input	48					1917231	2378	2
+slope2_noskin	524	Port Input	53					1917251	2398	1
+slope2_noskin	524	Port Input	100					1917261	2408	1
+slope2_noskin	524	Port Input	77					1917271	2418	1
+slope2_noskin	525	Save Logfile	Measurement,9.3, ,5	Measurement	9.3	 	5	1919699	0	1025			0		other	0
+slope2_noskin	525	Port Input	48					1921891	2192	2
+slope2_noskin	525	Port Input	53					1921911	2212	1
+slope2_noskin	525	Port Input	51					1921921	2222	1
+slope2_noskin	525	Port Input	77					1921931	2232	1
+slope2_noskin	526	Save Logfile	Measurement,8.3, ,5	Measurement	8.3	 	5	1924343	0	752			0		other	0
+slope2_noskin	526	Port Input	48					1926221	1878	2
+slope2_noskin	526	Port Input	52					1926241	1898	1
+slope2_noskin	526	Port Input	97					1926251	1908	1
+slope2_noskin	526	Port Input	77					1926261	1918	1
+slope2_noskin	527	Save Logfile	Measurement,7.4, ,5	Measurement	7.4	 	5	1928674	0	758			0		other	0
+slope2_noskin	527	Port Input	48					1930551	1877	1
+slope2_noskin	527	Port Input	52					1930571	1897	1
+slope2_noskin	527	Port Input	49					1930581	1907	1
+slope2_noskin	527	Port Input	77					1930591	1917	1
+slope2_noskin	528	Save Logfile	Measurement,6.5, ,5	Measurement	6.5	 	5	1933003	0	735			0		other	0
+slope2_noskin	528	Port Input	48					1933003	0	735
+slope2_noskin	528	Port Input	51					1933003	0	735
+slope2_noskin	528	Port Input	56					1933003	0	735
+slope2_noskin	528	Port Input	70					1933003	0	735
+slope2_noskin	528	Port Input	48					1934881	1878	2
+slope2_noskin	528	Port Input	51					1934891	1888	1
+slope2_noskin	528	Port Input	50					1934911	1908	1
+slope2_noskin	528	Port Input	77					1934921	1918	1
+slope2_noskin	529	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	1937340	0	701			0		other	0
+slope2_noskin	530	Save Logfile	Peak Temperature,5, ,5	Peak Temperature	5	 	5	1938324	0	688			0		other	0
+slope2_noskin	530	Port Input	48					1940091	1767	1
+slope2_noskin	530	Port Input	50					1940101	1777	1
+slope2_noskin	530	Port Input	102					1940111	1787	1
+slope2_noskin	530	Port Input	67					1940131	1807	1
+slope2_noskin	530	Port Input	48					1941581	3257	1
+slope2_noskin	530	Port Input	48					1941601	3277	1
+slope2_noskin	530	Port Input	48					1941611	3287	1
+slope2_noskin	530	Port Input	77					1941621	3297	1
+slope2_noskin	531	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1942035	0	737			0		other	0
+slope2_noskin	531	Port Input	48					1943881	1846	1
+slope2_noskin	531	Port Input	52					1943891	1856	1
+slope2_noskin	531	Port Input	55					1943911	1876	1
+slope2_noskin	531	Port Input	77					1943921	1886	1
+slope2_noskin	532	Save Logfile	Measurement,7.1, ,38	Measurement	7.1	 	38	1944335	0	715			0		other	0
+slope2_noskin	532	Port Input	48					1946211	1876	1
+slope2_noskin	532	Port Input	53					1946231	1896	1
+slope2_noskin	532	Port Input	52					1946241	1906	1
+slope2_noskin	532	Port Input	77					1946251	1916	1
+slope2_noskin	533	Save Logfile	Measurement,8.4, ,38	Measurement	8.4	 	38	1946665	0	744			0		other	0
+slope2_noskin	533	Port Input	48					1948541	1876	2
+slope2_noskin	533	Port Input	54					1948561	1896	1
+slope2_noskin	533	Port Input	49					1948571	1906	1
+slope2_noskin	533	Port Input	77					1948581	1916	1
+slope2_noskin	534	Save Logfile	Measurement,9.7, ,38	Measurement	9.7	 	38	1948995	0	736			0		other	0
+slope2_noskin	534	Port Input	48					1950871	1876	1
+slope2_noskin	534	Port Input	54					1950881	1886	1
+slope2_noskin	534	Port Input	100					1950901	1906	1
+slope2_noskin	534	Port Input	77					1950911	1916	1
+slope2_noskin	535	Save Logfile	Measurement,10.9, ,38	Measurement	10.9	 	38	1951325	0	760			0		other	0
+slope2_noskin	535	Port Input	48					1953201	1876	1
+slope2_noskin	535	Port Input	55					1953221	1896	2
+slope2_noskin	535	Port Input	57					1953231	1906	1
+slope2_noskin	535	Port Input	77					1953241	1916	1
+slope2_noskin	536	Save Logfile	Measurement,12.1, ,38	Measurement	12.1	 	38	1953655	0	747			0		other	0
+slope2_noskin	536	Port Input	48					1955531	1876	1
+slope2_noskin	536	Port Input	56					1955541	1886	1
+slope2_noskin	536	Port Input	54					1955561	1906	1
+slope2_noskin	536	Port Input	77					1955571	1916	1
+slope2_noskin	537	Save Logfile	Measurement,13.4, ,38	Measurement	13.4	 	38	1955985	0	723			0		other	0
+slope2_noskin	537	Port Input	48					1957861	1876	1
+slope2_noskin	537	Port Input	57					1957871	1886	1
+slope2_noskin	537	Port Input	50					1957891	1906	1
+slope2_noskin	537	Port Input	77					1957901	1916	1
+slope2_noskin	538	Save Logfile	Measurement,14.6, ,38	Measurement	14.6	 	38	1958315	0	786			0		other	0
+slope2_noskin	538	Port Input	48					1960201	1886	1
+slope2_noskin	538	Port Input	57					1960211	1896	1
+slope2_noskin	538	Port Input	101					1960231	1916	1
+slope2_noskin	538	Port Input	77					1960241	1926	1
+slope2_noskin	539	Save Logfile	Measurement,15.8, ,38	Measurement	15.8	 	38	1960655	0	718			0		other	0
+slope2_noskin	539	Port Input	48					1962531	1876	1
+slope2_noskin	539	Port Input	97					1962551	1896	1
+slope2_noskin	539	Port Input	98					1962561	1906	1
+slope2_noskin	539	Port Input	77					1962571	1916	1
+slope2_noskin	540	Save Logfile	Measurement,17.1, ,38	Measurement	17.1	 	38	1962985	0	746			0		other	0
+slope2_noskin	540	Port Input	48					1964861	1876	1
+slope2_noskin	540	Port Input	98					1964881	1896	1
+slope2_noskin	540	Port Input	55					1964892	1907	1
+slope2_noskin	540	Port Input	77					1964901	1916	1
+slope2_noskin	541	Save Logfile	Measurement,18.3, ,38	Measurement	18.3	 	38	1965315	0	742			0		other	0
+slope2_noskin	541	Port Input	48					1967191	1876	1
+slope2_noskin	541	Port Input	99					1967211	1896	1
+slope2_noskin	541	Port Input	51					1967221	1906	1
+slope2_noskin	541	Port Input	77					1967231	1916	1
+slope2_noskin	542	Save Logfile	Measurement,19.5, ,38	Measurement	19.5	 	38	1967645	0	725			0		other	0
+slope2_noskin	542	Port Input	48					1969520	1875	3
+slope2_noskin	542	Port Input	100					1969541	1896	1
+slope2_noskin	542	Port Input	48					1969551	1906	1
+slope2_noskin	542	Port Input	77					1969561	1916	1
+slope2_noskin	543	Save Logfile	Measurement,20.8, ,38	Measurement	20.8	 	38	1969975	0	740			0		other	0
+slope2_noskin	543	Port Input	48					1971851	1876	2
+slope2_noskin	543	Port Input	100					1971871	1896	1
+slope2_noskin	543	Port Input	100					1971881	1906	1
+slope2_noskin	543	Port Input	77					1971891	1916	1
+slope2_noskin	544	Save Logfile	Measurement,22.1, ,38	Measurement	22.1	 	38	1972305	0	728			0		other	0
+slope2_noskin	544	Port Input	48					1974181	1876	1
+slope2_noskin	544	Port Input	101					1974201	1896	1
+slope2_noskin	544	Port Input	57					1974211	1906	1
+slope2_noskin	544	Port Input	77					1974221	1916	1
+slope2_noskin	545	Save Logfile	Measurement,23.3, ,38	Measurement	23.3	 	38	1974635	0	740			0		other	0
+slope2_noskin	545	Port Input	48					1976521	1886	2
+slope2_noskin	545	Port Input	102					1976551	1916	1
+slope2_noskin	545	Port Input	53					1976561	1926	1
+slope2_noskin	545	Port Input	77					1976571	1936	1
+slope2_noskin	546	Save Logfile	Measurement,24.5, ,38	Measurement	24.5	 	38	1976975	0	752			0		other	0
+slope2_noskin	546	Port Input	49					1978851	1876	1
+slope2_noskin	546	Port Input	48					1978881	1906	1
+slope2_noskin	546	Port Input	50					1978891	1916	1
+slope2_noskin	546	Port Input	77					1978901	1926	1
+slope2_noskin	547	Save Logfile	Measurement,25.8, ,38	Measurement	25.8	 	38	1979305	0	749			0		other	0
+slope2_noskin	547	Port Input	49					1981181	1876	1
+slope2_noskin	547	Port Input	48					1981211	1906	1
+slope2_noskin	547	Port Input	101					1981221	1916	1
+slope2_noskin	547	Port Input	77					1981231	1926	1
+slope2_noskin	548	Save Logfile	Measurement,27, ,38	Measurement	27	 	38	1981635	0	773			0		other	0
+slope2_noskin	548	Port Input	49					1983511	1876	1
+slope2_noskin	548	Port Input	49					1983541	1906	2
+slope2_noskin	548	Port Input	98					1983551	1916	1
+slope2_noskin	548	Port Input	77					1983561	1926	1
+slope2_noskin	549	Save Logfile	Measurement,28.3, ,38	Measurement	28.3	 	38	1983965	0	734			0		other	0
+slope2_noskin	549	Port Input	49					1985841	1876	1
+slope2_noskin	549	Port Input	50					1985871	1906	1
+slope2_noskin	549	Port Input	55					1985881	1916	1
+slope2_noskin	549	Port Input	77					1985891	1926	1
+slope2_noskin	550	Save Logfile	Measurement,29.5, ,38	Measurement	29.5	 	38	1986295	0	752			0		other	0
+slope2_noskin	550	Port Input	49					1988171	1876	1
+slope2_noskin	550	Port Input	51					1988201	1906	1
+slope2_noskin	550	Port Input	51					1988211	1916	1
+slope2_noskin	550	Port Input	77					1988221	1926	1
+slope2_noskin	551	Save Logfile	Measurement,30.7, ,38	Measurement	30.7	 	38	1988625	0	767			0		other	0
+slope2_noskin	551	Port Input	49					1990511	1886	1
+slope2_noskin	551	Port Input	52					1990541	1916	1
+slope2_noskin	551	Port Input	48					1990551	1926	1
+slope2_noskin	551	Port Input	77					1990561	1936	1
+slope2_noskin	552	Save Logfile	Measurement,32, ,38	Measurement	32	 	38	1990965	0	730			0		other	0
+slope2_noskin	552	Port Input	49					1992841	1876	1
+slope2_noskin	552	Port Input	52					1992871	1906	1
+slope2_noskin	552	Port Input	99					1992881	1916	1
+slope2_noskin	552	Port Input	77					1992891	1926	1
+slope2_noskin	553	Save Logfile	Measurement,33.2, ,38	Measurement	33.2	 	38	1993295	0	765			0		other	0
+slope2_noskin	553	Port Input	49					1995171	1876	1
+slope2_noskin	553	Port Input	53					1995201	1906	1
+slope2_noskin	553	Port Input	56					1995211	1916	1
+slope2_noskin	553	Port Input	77					1995221	1926	1
+slope2_noskin	554	Save Logfile	Measurement,34.4, ,38	Measurement	34.4	 	38	1995625	0	746			0		other	0
+slope2_noskin	554	Port Input	49					1997501	1876	1
+slope2_noskin	554	Port Input	54					1997531	1906	1
+slope2_noskin	554	Port Input	53					1997541	1916	1
+slope2_noskin	554	Port Input	77					1997551	1926	1
+slope2_noskin	555	Save Logfile	Measurement,35.7, ,38	Measurement	35.7	 	38	1997955	0	749			0		other	0
+slope2_noskin	555	Port Input	49					1999831	1876	2
+slope2_noskin	555	Port Input	55					1999861	1906	1
+slope2_noskin	555	Port Input	49					1999871	1916	1
+slope2_noskin	555	Port Input	77					1999881	1926	1
+slope2_noskin	556	Save Logfile	Measurement,36.9, ,38	Measurement	36.9	 	38	2000285	0	755			0		other	0
+slope2_noskin	556	Port Input	49					2002161	1876	1
+slope2_noskin	556	Port Input	55					2002191	1906	1
+slope2_noskin	556	Port Input	100					2002201	1916	1
+slope2_noskin	556	Port Input	77					2002211	1926	1
+slope2_noskin	557	Save Logfile	Measurement,38.1, ,38	Measurement	38.1	 	38	2002615	0	745			0		other	0
+slope2_noskin	557	Port Input	49					2004501	1886	1
+slope2_noskin	557	Port Input	56					2004531	1916	1
+slope2_noskin	557	Port Input	54					2004541	1926	1
+slope2_noskin	557	Port Input	77					2004551	1936	1
+slope2_noskin	558	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	2006953	0	762			0		other	0
+slope2_noskin	558	Port Input	49					2008831	1878	1
+slope2_noskin	558	Port Input	56					2008861	1908	1
+slope2_noskin	558	Port Input	54					2008871	1918	1
+slope2_noskin	558	Port Input	77					2008881	1928	1
+slope2_noskin	559	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	2011283	0	776			0		other	0
+slope2_noskin	559	Port Input	49					2013161	1878	1
+slope2_noskin	559	Port Input	56					2013191	1908	1
+slope2_noskin	559	Port Input	51					2013201	1918	1
+slope2_noskin	559	Port Input	77					2013211	1928	1
+slope2_noskin	560	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	2015613	0	779			0		other	0
+slope2_noskin	560	Port Input	49					2017491	1878	1
+slope2_noskin	560	Port Input	56					2017522	1909	1
+slope2_noskin	560	Port Input	52					2017531	1918	1
+slope2_noskin	560	Port Input	77					2017541	1928	1
+slope2_noskin	561	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	2019943	0	759			0		other	0
+slope2_noskin	561	Port Input	49					2021821	1878	1
+slope2_noskin	561	Port Input	56					2021851	1908	1
+slope2_noskin	561	Port Input	51					2021861	1918	1
+slope2_noskin	561	Port Input	77					2021871	1928	1
+slope2_noskin	562	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	2024273	0	759			0		other	0
+slope2_noskin	562	Port Input	49					2026151	1878	1
+slope2_noskin	562	Port Input	56					2026181	1908	1
+slope2_noskin	562	Port Input	51					2026191	1918	1
+slope2_noskin	562	Port Input	77					2026201	1928	1
+slope2_noskin	563	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	2028603	0	799			0		other	0
+slope2_noskin	563	Port Input	49					2030641	2038	1
+slope2_noskin	563	Port Input	56					2030671	2068	1
+slope2_noskin	563	Port Input	51					2030681	2078	1
+slope2_noskin	563	Port Input	77					2030691	2088	1
+slope2_noskin	564	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	2033093	0	776			0		other	0
+slope2_noskin	564	Port Input	49					2034971	1878	1
+slope2_noskin	564	Port Input	56					2035001	1908	1
+slope2_noskin	564	Port Input	51					2035011	1918	1
+slope2_noskin	564	Port Input	77					2035021	1928	1
+slope2_noskin	565	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	2037423	0	748			0		other	0
+slope2_noskin	565	Response	3					2039203	1780	1
+slope2_noskin	565	Port Input	49					2039301	1878	1
+slope2_noskin	565	Port Input	56					2039331	1908	1
+slope2_noskin	565	Port Input	50					2039341	1918	1
+slope2_noskin	565	Port Input	77					2039351	1928	1
+slope2_noskin	566	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	2041753	0	790			0		other	0
+slope2_noskin	567	Save Logfile	Exit program,38.6	Exit program	38.6			2042576	0	773			0		other	0

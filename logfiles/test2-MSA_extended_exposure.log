@@ -1,0 +1,2892 @@
+Scenario - MSA_extended_exposure
+Logfile written - 08/11/2014 11:24:37
+
+Subject	Trial	Event Type	Code	Event(str)	Temperature(num)	VAS(num)	Target_temperature(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test2	0	Port Input	73					8515	8515	1
+test2	0	Port Input	78					8524	8524	2
+test2	0	Port Input	70					8535	8535	1
+test2	0	Port Input	48					8545	8545	1
+test2	0	Port Input	49					8555	8555	1
+test2	0	Port Input	46					8565	8565	1
+test2	0	Port Input	48					8575	8575	1
+test2	0	Port Input	51					8585	8585	1
+test2	1	Save Logfile	Initialised	Initialised				8588	0	12			0		other	0
+test2	1	Port Input	71					9725	1137	1
+test2	1	Port Input	49					9735	1147	1
+test2	1	Port Input	53					9745	1157	1
+test2	1	Port Input	102					9755	1167	1
+test2	1	Port Input	72					11225	2637	1
+test2	1	Port Input	49					11235	2647	1
+test2	1	Port Input	98					11245	2657	1
+test2	1	Port Input	102					11255	2667	1
+test2	1	Port Input	79					12725	4137	1
+test2	1	Port Input	48					12735	4147	1
+test2	1	Port Input	49					12745	4157	1
+test2	1	Port Input	98					12755	4167	1
+test2	1	Port Input	78					14225	5637	1
+test2	1	Port Input	49					14235	5647	1
+test2	1	Port Input	57					14245	5657	1
+test2	1	Port Input	102					14255	5667	1
+test2	1	Port Input	75					15725	7137	1
+test2	1	Port Input	49					15735	7147	1
+test2	1	Port Input	101					15745	7157	1
+test2	1	Port Input	53					15755	7167	1
+test2	1	Port Input	76					17225	8637	1
+test2	1	Port Input	49					17235	8647	1
+test2	1	Port Input	100					17245	8657	1
+test2	1	Port Input	50					17255	8667	1
+test2	1	Port Input	66					18885	10297	1
+test2	1	Port Input	49					18905	10317	1
+test2	1	Port Input	55					18915	10327	1
+test2	1	Port Input	99					18925	10337	1
+test2	1	Port Input	82					20395	11807	1
+test2	1	Port Input	48					20405	11817	1
+test2	1	Port Input	51					20415	11827	1
+test2	1	Port Input	50					20425	11837	1
+test2	1	Port Input	83					21895	13307	1
+test2	1	Port Input	48					21905	13317	1
+test2	1	Port Input	51					21915	13327	1
+test2	1	Port Input	50					21925	13337	1
+test2	1	Port Input	84					23395	14807	1
+test2	1	Port Input	49					23405	14817	1
+test2	1	Port Input	55					23415	14827	1
+test2	1	Port Input	99					23435	14847	1
+test2	1	Port Input	67					25140	16552	100
+test2	1	Port Input	48					25140	16552	100
+test2	1	Port Input	48					25245	16657	1
+test2	1	Port Input	48					25255	16667	1
+test2	1	Port Input	77					26795	18207	1
+test2	1	Port Input	49					26815	18227	1
+test2	1	Port Input	55					26825	18237	1
+test2	1	Port Input	99					26835	18247	1
+test2	2	Save Logfile	Measurement,38, ,38	Measurement	38	 	38	27234	0	24			0		other	0
+test2	2	Port Input	77					28595	1361	1
+test2	2	Port Input	49					28615	1381	1
+test2	2	Port Input	55					28625	1391	1
+test2	2	Port Input	99					28635	1401	1
+test2	3	Save Logfile	Measurement,38	Measurement	38			30046	0	23			0		other	0
+test2	3	Port Input	77					31205	1159	1
+test2	3	Port Input	49					31225	1179	1
+test2	3	Port Input	55					31235	1189	1
+test2	3	Port Input	99					31245	1199	1
+test2	4	Save Logfile	Measurement,38	Measurement	38			32643	0	20			0		other	0
+test2	4	Port Input	77					33865	1222	1
+test2	4	Port Input	49					33885	1242	1
+test2	4	Port Input	55					33895	1252	1
+test2	4	Port Input	99					33905	1262	1
+test2	5	Save Logfile	Measurement,38	Measurement	38			35303	0	21			0		other	0
+test2	5	Port Input	77					36535	1232	1
+test2	5	Port Input	49					36555	1252	1
+test2	5	Port Input	55					36565	1262	1
+test2	5	Port Input	99					36575	1272	1
+test2	6	Save Logfile	Measurement,38	Measurement	38			37973	0	22			0		other	0
+test2	6	Port Input	77					39285	1312	1
+test2	6	Port Input	49					39305	1332	1
+test2	6	Port Input	55					39315	1342	1
+test2	6	Port Input	99					39325	1352	1
+test2	7	Save Logfile	Measurement,38	Measurement	38			42609	0	1366			0		other	0
+test2	7	Port Input	77					45825	3216	1
+test2	7	Port Input	49					45855	3246	1
+test2	7	Port Input	55					45865	3256	1
+test2	7	Port Input	99					45875	3266	1
+test2	8	Save Logfile	Measurement,38	Measurement	38			47450	0	1885			0		other	0
+test2	8	Response	1					47450	0	680
+test2	9	Save Logfile	Raise Temperature,38	Raise Temperature	38			49463	0	24			0		other	0
+test2	9	Port Input	84					50555	1092	1
+test2	9	Port Input	49					50565	1102	1
+test2	9	Port Input	56					50575	1112	1
+test2	9	Port Input	54					50595	1132	1
+test2	9	Port Input	67					52135	2672	1
+test2	9	Port Input	48					52145	2682	1
+test2	9	Port Input	48					52155	2692	1
+test2	9	Port Input	50					52165	2702	1
+test2	9	Port Input	77					53635	4172	1
+test2	9	Port Input	49					53655	4192	1
+test2	9	Port Input	55					53665	4202	1
+test2	9	Port Input	99					53675	4212	1
+test2	9	Response	1					55021	5558	1
+test2	10	Save Logfile	Measurement,38	Measurement	38			55085	0	137			0		other	0
+test2	11	Save Logfile	Raise Temperature,38	Raise Temperature	38			55292	0	28			0		other	0
+test2	11	Port Input	84					56386	1094	1
+test2	11	Port Input	49					56405	1113	1
+test2	11	Port Input	57					56415	1123	1
+test2	11	Port Input	48					56425	1133	1
+test2	11	Port Input	67					57905	2613	1
+test2	11	Port Input	48					57915	2623	1
+test2	11	Port Input	48					57925	2633	1
+test2	11	Port Input	50					57935	2643	1
+test2	11	Port Input	77					59395	4103	1
+test2	11	Port Input	49					59415	4123	1
+test2	11	Port Input	56					59425	4133	1
+test2	11	Port Input	55					59435	4143	1
+test2	12	Save Logfile	Measurement,39.1	Measurement	39.1			60833	0	29			0		other	0
+test2	12	Port Input	77					62035	1202	1
+test2	12	Port Input	49					62065	1232	1
+test2	12	Port Input	56					62075	1242	1
+test2	12	Port Input	100					62085	1252	1
+test2	13	Save Logfile	Measurement,39.7	Measurement	39.7			63473	0	34			0		other	0
+test2	13	Response	1					63473	0	27
+test2	14	Save Logfile	Raise Temperature,39.7	Raise Temperature	39.7			63619	0	33			0		other	0
+test2	14	Port Input	84					64715	1096	1
+test2	14	Port Input	49					64725	1106	1
+test2	14	Port Input	57					64735	1116	1
+test2	14	Port Input	97					64745	1126	1
+test2	14	Port Input	67					66235	2616	1
+test2	14	Port Input	48					66245	2626	1
+test2	14	Port Input	48					66255	2636	1
+test2	14	Port Input	50					66265	2646	1
+test2	14	Port Input	77					67725	4106	1
+test2	14	Port Input	49					67745	4126	1
+test2	14	Port Input	57					67755	4136	1
+test2	14	Port Input	49					67765	4146	1
+test2	15	Save Logfile	Measurement,40.1	Measurement	40.1			69163	0	33			0		other	0
+test2	15	Port Input	77					70375	1212	1
+test2	15	Port Input	49					70394	1231	2
+test2	15	Port Input	57					70404	1241	3
+test2	15	Port Input	54					70415	1252	1
+test2	16	Save Logfile	Measurement,40.6	Measurement	40.6			71813	0	34			0		other	0
+test2	16	Response	1					72507	694	2
+test2	16	Port Input	77					73005	1192	1
+test2	16	Port Input	49					73025	1212	1
+test2	16	Port Input	57					73035	1222	1
+test2	16	Port Input	98					73045	1232	1
+test2	17	Save Logfile	Measurement,41.1	Measurement	41.1			74443	0	35			0		other	0
+test2	18	Save Logfile	Raise Temperature,41.1	Raise Temperature	41.1			74610	0	37			0		other	0
+test2	18	Port Input	84					75705	1095	1
+test2	18	Port Input	49					75715	1105	1
+test2	18	Port Input	97					75725	1115	1
+test2	18	Port Input	52					75735	1125	1
+test2	18	Port Input	67					77255	2645	2
+test2	18	Port Input	48					77265	2655	1
+test2	18	Port Input	48					77275	2665	1
+test2	18	Port Input	50					77295	2685	1
+test2	18	Port Input	77					78755	4145	1
+test2	18	Port Input	49					78775	4165	1
+test2	18	Port Input	57					78785	4175	1
+test2	18	Port Input	97					78795	4185	1
+test2	19	Save Logfile	Measurement,41	Measurement	41			80193	0	41			0		other	0
+test2	19	Port Input	77					81335	1142	1
+test2	19	Port Input	49					81355	1162	1
+test2	19	Port Input	97					81365	1172	1
+test2	19	Port Input	48					81372	1179	4
+test2	20	Save Logfile	Measurement,41.6	Measurement	41.6			82773	0	39			0		other	0
+test2	20	Port Input	77					83995	1222	1
+test2	20	Port Input	49					84015	1242	1
+test2	20	Port Input	97					84025	1252	1
+test2	20	Port Input	53					84035	1262	1
+test2	21	Save Logfile	Measurement,42.1	Measurement	42.1			85433	0	41			0		other	0
+test2	21	Port Input	77					86665	1232	1
+test2	21	Port Input	49					86685	1252	1
+test2	21	Port Input	97					86695	1262	1
+test2	21	Port Input	54					86705	1272	1
+test2	22	Save Logfile	Measurement,42.2	Measurement	42.2			88105	0	42			0		other	0
+test2	22	Port Input	77					89325	1220	1
+test2	22	Port Input	49					89345	1240	1
+test2	22	Port Input	97					89355	1250	1
+test2	22	Port Input	53					89365	1260	1
+test2	23	Save Logfile	VAS Change,42.1,51	VAS Change	42.1	51		90763	0	45			0		other	0
+test2	24	Save Logfile	Measurement,42.1	Measurement	42.1			90930	0	80			0		other	0
+test2	24	Port Input	77					92155	1225	1
+test2	24	Port Input	49					92175	1245	1
+test2	24	Port Input	97					92185	1255	1
+test2	24	Port Input	52					92195	1265	1
+test2	25	Save Logfile	Measurement,42	Measurement	42			93613	0	44			0		other	0
+test2	25	Port Input	77					94825	1212	2
+test2	25	Port Input	49					94845	1232	1
+test2	25	Port Input	97					94855	1242	1
+test2	25	Port Input	52					94865	1252	1
+test2	26	Save Logfile	Measurement,42	Measurement	42			96263	0	5522			0		other	0
+test2	26	Port Input	77					102985	6722	1
+test2	26	Port Input	49					103005	6742	1
+test2	26	Port Input	97					103015	6752	1
+test2	26	Port Input	52					103025	6762	1
+test2	27	Save Logfile	Measurement,42	Measurement	42			104423	0	2421			0		other	0
+test2	27	Port Input	77					107975	3552	2
+test2	27	Port Input	49					107995	3572	2
+test2	27	Port Input	97					108005	3582	1
+test2	27	Port Input	52					108015	3592	1
+test2	28	Save Logfile	Measurement,42	Measurement	42			109414	0	3740			0		other	0
+test2	28	Port Input	77					114306	4892	1
+test2	28	Port Input	49					114325	4911	2
+test2	28	Port Input	97					114335	4921	1
+test2	28	Port Input	52					114345	4931	1
+test2	29	Save Logfile	Measurement,42	Measurement	42			115744	0	50			0		other	0
+test2	29	Port Input	77					116976	1232	1
+test2	29	Port Input	49					116995	1251	1
+test2	29	Port Input	97					117005	1261	1
+test2	29	Port Input	52					117015	1271	1
+test2	30	Save Logfile	Measurement,42	Measurement	42			118413	0	50			0		other	0
+test2	30	Port Input	77					119635	1222	2
+test2	30	Port Input	49					119655	1242	1
+test2	30	Port Input	97					119665	1252	1
+test2	30	Port Input	52					119675	1262	1
+test2	31	Save Logfile	VAS Change,42,53	VAS Change	42	53		121073	0	51			0		other	0
+test2	32	Save Logfile	Measurement,42	Measurement	42			121240	0	51			0		other	0
+test2	32	Port Input	77					122466	1226	1
+test2	32	Port Input	49					122485	1245	2
+test2	32	Port Input	97					122495	1255	1
+test2	32	Port Input	52					122505	1265	1
+test2	33	Save Logfile	VAS Change,42,54	VAS Change	42	54		123905	0	54			0		other	0
+test2	34	Save Logfile	Measurement,42	Measurement	42			124072	0	52			0		other	0
+test2	34	Port Input	77					125296	1224	1
+test2	34	Port Input	49					125315	1243	1
+test2	34	Port Input	97					125325	1253	1
+test2	34	Port Input	52					125335	1263	1
+test2	35	Save Logfile	Measurement,42	Measurement	42			126734	0	63			0		other	0
+test2	35	Port Input	77					127965	1231	2
+test2	35	Port Input	49					127985	1251	1
+test2	35	Port Input	97					127995	1261	1
+test2	35	Port Input	52					128005	1271	1
+test2	36	Save Logfile	Measurement,42	Measurement	42			129405	0	56			0		other	0
+test2	36	Response	1					130078	673	1
+test2	36	Port Input	77					130625	1220	1
+test2	36	Port Input	49					130645	1240	1
+test2	36	Port Input	97					130655	1250	1
+test2	36	Port Input	52					130665	1260	3
+test2	37	Save Logfile	Measurement,42	Measurement	42			132063	0	61			0		other	0
+test2	38	Save Logfile	Raise Temperature,42	Raise Temperature	42			132232	0	55			0		other	0
+test2	38	Port Input	84					133346	1114	1
+test2	38	Port Input	49					133355	1123	1
+test2	38	Port Input	97					133365	1133	1
+test2	38	Port Input	101					133375	1143	1
+test2	38	Port Input	67					134865	2633	1
+test2	38	Port Input	48					134875	2643	2
+test2	38	Port Input	48					134885	2653	1
+test2	38	Port Input	50					134895	2663	2
+test2	38	Port Input	77					136356	4124	1
+test2	38	Port Input	49					136375	4143	1
+test2	38	Port Input	97					136385	4153	1
+test2	38	Port Input	52					136395	4163	1
+test2	38	Response	1					137791	5559	2
+test2	39	Save Logfile	Measurement,42	Measurement	42			137794	0	58			0		other	0
+test2	40	Save Logfile	Raise Temperature,42	Raise Temperature	42			137895	0	58			0		other	0
+test2	40	Port Input	84					139016	1121	1
+test2	40	Port Input	49					139025	1130	1
+test2	40	Port Input	98					139035	1140	1
+test2	40	Port Input	56					139045	1150	1
+test2	40	Port Input	67					140536	2641	1
+test2	40	Port Input	48					140545	2650	2
+test2	40	Port Input	48					140555	2660	1
+test2	40	Port Input	50					140565	2670	2
+test2	40	Port Input	77					142026	4131	1
+test2	40	Port Input	49					142045	4150	1
+test2	40	Port Input	97					142055	4160	1
+test2	40	Port Input	102					142066	4171	1
+test2	41	Save Logfile	Measurement,43.1	Measurement	43.1			143463	0	60			0		other	0
+test2	41	Port Input	77					144616	1153	1
+test2	41	Port Input	49					144635	1172	2
+test2	41	Port Input	98					144645	1182	2
+test2	41	Port Input	52					144655	1192	2
+test2	42	Save Logfile	Measurement,43.6	Measurement	43.6			146053	0	79			0		other	0
+test2	42	Response	1					146053	0	29
+test2	43	Save Logfile	Raise Temperature,43.6	Raise Temperature	43.6			146222	0	62			0		other	0
+test2	43	Port Input	84					147346	1124	1
+test2	43	Port Input	49					147355	1133	1
+test2	43	Port Input	99					147365	1143	1
+test2	43	Port Input	50					147375	1153	1
+test2	43	Port Input	67					148866	2644	1
+test2	43	Port Input	48					148875	2653	2
+test2	43	Port Input	48					148885	2663	1
+test2	43	Port Input	50					148895	2673	2
+test2	43	Port Input	77					150356	4134	1
+test2	43	Port Input	49					150375	4153	2
+test2	43	Port Input	98					150385	4163	2
+test2	43	Port Input	57					150395	4173	1
+test2	44	Save Logfile	Measurement,44.1	Measurement	44.1			151793	0	65			0		other	0
+test2	44	Response	1					152696	903	1
+test2	44	Port Input	77					152946	1153	1
+test2	44	Port Input	49					152965	1172	2
+test2	44	Port Input	98					152975	1182	2
+test2	44	Port Input	100					152985	1192	2
+test2	45	Save Logfile	Measurement,44.5	Measurement	44.5			154383	0	71			0		other	0
+test2	46	Save Logfile	Raise Temperature,44.5	Raise Temperature	44.5			154548	0	66			0		other	0
+test2	46	Port Input	84					155675	1127	2
+test2	46	Port Input	49					155685	1137	2
+test2	46	Port Input	99					155695	1147	2
+test2	46	Port Input	99					155705	1157	2
+test2	46	Port Input	67					157196	2648	1
+test2	46	Port Input	48					157205	2657	2
+test2	46	Port Input	48					157215	2667	2
+test2	46	Port Input	50					157225	2677	2
+test2	46	Port Input	77					158686	4138	1
+test2	46	Port Input	49					158705	4157	2
+test2	46	Port Input	99					158715	4167	2
+test2	46	Port Input	52					158725	4177	2
+test2	47	Save Logfile	Measurement,45.2	Measurement	45.2			160123	0	70			0		other	0
+test2	47	Response	1					160342	219	2
+test2	48	Save Logfile	Raise Temperature,45.2	Raise Temperature	45.2			160377	0	69			0		other	0
+test2	48	Port Input	84					161506	1129	1
+test2	48	Port Input	49					161516	1139	1
+test2	48	Port Input	100					161525	1148	2
+test2	48	Port Input	54					161535	1158	2
+test2	48	Port Input	67					163026	2649	1
+test2	48	Port Input	48					163035	2658	2
+test2	48	Port Input	48					163045	2668	2
+test2	48	Port Input	50					163055	2678	2
+test2	48	Port Input	77					164516	4139	1
+test2	48	Port Input	49					164535	4158	2
+test2	48	Port Input	99					164545	4168	2
+test2	48	Port Input	100					164555	4178	2
+test2	49	Save Logfile	Measurement,46.1	Measurement	46.1			165953	0	70			0		other	0
+test2	49	Port Input	77					167266	1313	1
+test2	49	Port Input	49					167285	1332	2
+test2	49	Port Input	100					167295	1342	2
+test2	49	Port Input	51					167305	1352	2
+test2	50	Save Logfile	Measurement,46.7	Measurement	46.7			168756	0	106			0		other	0
+test2	50	Response	1					169736	980	1
+test2	50	Port Input	77					170096	1340	1
+test2	50	Port Input	49					170115	1359	2
+test2	50	Port Input	100					170125	1369	2
+test2	50	Port Input	55					170135	1379	2
+test2	51	Save Logfile	Measurement,47.1	Measurement	47.1			171543	0	82			0		other	0
+test2	52	Save Logfile	Raise Temperature,47.1	Raise Temperature	47.1			171702	0	72			0		other	0
+test2	52	Port Input	84					172836	1134	1
+test2	52	Port Input	49					172845	1143	2
+test2	52	Port Input	101					172856	1154	1
+test2	52	Port Input	48					172866	1164	1
+test2	52	Port Input	67					174356	2654	1
+test2	52	Port Input	48					174366	2664	1
+test2	52	Port Input	48					174376	2674	1
+test2	52	Port Input	50					174386	2684	1
+test2	52	Port Input	77					175846	4144	1
+test2	52	Port Input	49					175865	4163	2
+test2	52	Port Input	100					175876	4174	1
+test2	52	Port Input	55					175886	4184	1
+test2	53	Save Logfile	Measurement,47.1	Measurement	47.1			177283	0	88			0		other	0
+test2	53	Port Input	77					178596	1313	1
+test2	53	Port Input	49					178616	1333	1
+test2	53	Port Input	100					178626	1343	1
+test2	53	Port Input	99					178636	1353	1
+test2	54	Save Logfile	Measurement,47.6	Measurement	47.6			180033	0	102			0		other	0
+test2	54	Port Input	77					181256	1223	1
+test2	54	Port Input	49					181276	1243	1
+test2	54	Port Input	101					181286	1253	1
+test2	54	Port Input	49					181296	1263	1
+test2	55	Save Logfile	Measurement,48.1	Measurement	48.1			182693	0	93			0		other	0
+test2	55	Port Input	77					183926	1233	1
+test2	55	Port Input	49					183946	1253	1
+test2	55	Port Input	101					183956	1263	1
+test2	55	Port Input	50					183966	1273	1
+test2	56	Save Logfile	Measurement,48.2	Measurement	48.2			185363	0	96			0		other	0
+test2	56	Port Input	77					186586	1223	1
+test2	56	Port Input	49					186606	1243	1
+test2	56	Port Input	101					186616	1253	1
+test2	56	Port Input	49					186626	1263	1
+test2	57	Save Logfile	Measurement,48.1	Measurement	48.1			188023	0	84			0		other	0
+test2	57	Port Input	77					189246	1223	1
+test2	57	Port Input	49					189266	1243	1
+test2	57	Port Input	101					189276	1253	1
+test2	57	Port Input	48					189286	1263	1
+test2	58	Save Logfile	Measurement,48	Measurement	48			190683	0	90			0		other	0
+test2	58	Port Input	77					191916	1233	1
+test2	58	Port Input	49					191936	1253	1
+test2	58	Port Input	101					191946	1263	1
+test2	58	Port Input	48					191956	1273	1
+test2	59	Save Logfile	Measurement,48	Measurement	48			193353	0	90			0		other	0
+test2	59	Port Input	77					194576	1223	1
+test2	59	Port Input	49					194596	1243	1
+test2	59	Port Input	101					194606	1253	1
+test2	59	Port Input	48					194616	1263	1
+test2	60	Save Logfile	Measurement,48	Measurement	48			196013	0	102			0		other	0
+test2	60	Port Input	77					197246	1233	1
+test2	60	Port Input	49					197266	1253	1
+test2	60	Port Input	101					197276	1263	1
+test2	60	Port Input	48					197286	1273	1
+test2	61	Save Logfile	Measurement,48	Measurement	48			198683	0	157			0		other	0
+test2	61	Port Input	77					200076	1393	1
+test2	61	Port Input	49					200096	1413	1
+test2	61	Port Input	101					200106	1423	1
+test2	61	Port Input	48					200116	1433	1
+test2	62	Save Logfile	Measurement,48	Measurement	48			201513	0	95			0		other	0
+test2	62	Port Input	77					202736	1223	1
+test2	62	Port Input	49					202756	1243	1
+test2	62	Port Input	101					202766	1253	1
+test2	62	Port Input	48					202776	1263	1
+test2	63	Save Logfile	Measurement,48	Measurement	48			204173	0	94			0		other	0
+test2	63	Port Input	77					205406	1233	1
+test2	63	Port Input	49					205426	1253	1
+test2	63	Port Input	101					205436	1263	1
+test2	63	Port Input	48					205446	1273	1
+test2	64	Save Logfile	Measurement,48	Measurement	48			206843	0	100			0		other	0
+test2	64	Port Input	77					208066	1223	1
+test2	64	Port Input	49					208085	1242	3
+test2	64	Port Input	101					208095	1252	2
+test2	64	Port Input	48					208105	1262	2
+test2	65	Save Logfile	Measurement,48	Measurement	48			209503	0	291			0		other	0
+test2	65	Response	1					210133	630	2
+test2	65	Port Input	77					210895	1392	2
+test2	65	Port Input	49					210915	1412	2
+test2	65	Port Input	101					210926	1423	1
+test2	65	Port Input	48					210936	1433	1
+test2	66	Save Logfile	Measurement,48	Measurement	48			212333	0	97			0		other	0
+test2	67	Save Logfile	Raise Temperature,48	Raise Temperature	48			212504	0	93			0		other	0
+test2	67	Port Input	84					213665	1161	3
+test2	67	Port Input	49					213676	1172	1
+test2	67	Port Input	101					213686	1182	1
+test2	67	Port Input	97					213696	1192	1
+test2	67	Port Input	67					215185	2681	2
+test2	67	Port Input	48					215196	2692	1
+test2	67	Port Input	48					215206	2702	1
+test2	67	Port Input	50					215215	2711	2
+test2	67	Port Input	77					216676	4172	1
+test2	67	Port Input	49					216696	4192	1
+test2	67	Port Input	101					216705	4201	3
+test2	67	Port Input	48					216716	4212	1
+test2	68	Save Logfile	VAS Change,48,55	VAS Change	48	55		218113	0	93			0		other	0
+test2	69	Save Logfile	Measurement,48	Measurement	48			218332	0	94			0		other	0
+test2	69	Port Input	77					219555	1223	3
+test2	69	Port Input	49					219576	1244	1
+test2	69	Port Input	101					219586	1254	1
+test2	69	Port Input	54					219596	1264	1
+test2	70	Save Logfile	VAS Change,48.6,56	VAS Change	48.6	56		220994	0	111			0		other	0
+test2	71	Save Logfile	Measurement,48.6	Measurement	48.6			221164	0	94			0		other	0
+test2	71	Port Input	77					222395	1231	2
+test2	71	Port Input	49					222416	1252	1
+test2	71	Port Input	101					222426	1262	1
+test2	71	Port Input	99					222436	1272	1
+test2	72	Save Logfile	VAS Change,49.2,57	VAS Change	49.2	57		223833	0	99			0		other	0
+test2	73	Save Logfile	Measurement,49.2	Measurement	49.2			223996	0	98			0		other	0
+test2	73	Port Input	77					225225	1229	2
+test2	73	Port Input	49					225246	1250	2
+test2	73	Port Input	101					225256	1260	1
+test2	73	Port Input	99					225265	1269	2
+test2	74	Save Logfile	Measurement,49.2	Measurement	49.2			226663	0	102			0		other	0
+test2	74	Port Input	77					227886	1223	1
+test2	74	Port Input	49					227906	1243	1
+test2	74	Port Input	101					227916	1253	1
+test2	74	Port Input	98					227926	1263	1
+test2	75	Save Logfile	Measurement,49.1	Measurement	49.1			229323	0	111			0		other	0
+test2	75	Port Input	77					230555	1232	3
+test2	75	Port Input	49					230576	1253	2
+test2	75	Port Input	101					230586	1263	1
+test2	75	Port Input	97					230596	1273	1
+test2	76	Save Logfile	VAS Change,49,58	VAS Change	49	58		231993	0	107			0		other	0
+test2	77	Save Logfile	Measurement,49	Measurement	49			232155	0	107			0		other	0
+test2	77	Port Input	77					233456	1301	1
+test2	77	Port Input	49					233486	1331	1
+test2	77	Port Input	101					233495	1340	3
+test2	77	Port Input	97					233505	1350	2
+test2	78	Save Logfile	Measurement,49	Measurement	49			234893	0	104			0		other	0
+test2	78	Port Input	77					236216	1323	2
+test2	78	Port Input	49					236236	1343	1
+test2	78	Port Input	101					236246	1353	1
+test2	78	Port Input	97					236256	1363	1
+test2	79	Save Logfile	Measurement,49	Measurement	49			237653	0	103			0		other	0
+test2	79	Response	1					238227	574	1
+test2	79	Port Input	77					238876	1223	1
+test2	79	Port Input	49					238895	1242	3
+test2	79	Port Input	101					238906	1253	1
+test2	79	Port Input	97					238915	1262	2
+test2	80	Save Logfile	Measurement,49	Measurement	49			240313	0	113			0		other	0
+test2	81	Save Logfile	Raise Temperature,49	Raise Temperature	49			240483	0	110			0		other	0
+test2	81	Port Input	84					241656	1173	2
+test2	81	Port Input	49					241666	1183	1
+test2	81	Port Input	102					241675	1192	3
+test2	81	Port Input	52					241685	1202	2
+test2	81	Port Input	67					243230	2747	1
+test2	81	Port Input	48					243236	2753	1
+test2	81	Port Input	48					243236	2753	1
+test2	81	Port Input	50					243236	2753	1
+test2	81	Port Input	77					244675	4192	3
+test2	81	Port Input	49					244696	4213	1
+test2	81	Port Input	101					244706	4223	1
+test2	81	Port Input	97					244716	4233	1
+test2	82	Save Logfile	VAS Change,49,59	VAS Change	49	59		246113	0	105			0		other	0
+test2	83	Save Logfile	Measurement,49	Measurement	49			246311	0	109			0		other	0
+test2	83	Port Input	77					247536	1225	1
+test2	83	Port Input	49					247556	1245	1
+test2	83	Port Input	102					247566	1255	1
+test2	83	Port Input	48					247576	1265	1
+test2	84	Save Logfile	Measurement,49.6	Measurement	49.6			248973	0	114			0		other	0
+test2	84	Port Input	77					250205	1232	2
+test2	84	Port Input	49					250226	1253	1
+test2	84	Port Input	102					250236	1263	1
+test2	84	Port Input	54					250246	1273	1
+test2	84	Response	1					250336	1363	2
+test2	85	Save Logfile	VAS Change,50.2,60	VAS Change	50.2	60		251643	0	113			0		other	0
+test2	86	Save Logfile	Measurement,50.2	Measurement	50.2			251807	0	108			0		other	0
+test2	87	Save Logfile	Raise Temperature,50.2	Raise Temperature	50.2			251974	0	110			0		other	0
+test2	87	Port Input	84					253145	1171	2
+test2	87	Port Input	49					253155	1181	2
+test2	87	Port Input	102					253166	1192	1
+test2	87	Port Input	101					253177	1203	1
+test2	87	Port Input	67					254667	2693	1
+test2	87	Port Input	48					254676	2702	2
+test2	87	Port Input	48					254686	2712	1
+test2	87	Port Input	50					254696	2722	2
+test2	87	Port Input	77					256157	4183	1
+test2	87	Port Input	49					256176	4202	2
+test2	87	Port Input	102					256186	4212	1
+test2	87	Port Input	53					256195	4221	3
+test2	88	Save Logfile	Measurement,50.1	Measurement	50.1			257593	0	113			0		other	0
+test2	88	Port Input	77					258866	1273	1
+test2	88	Port Input	49					258886	1293	1
+test2	88	Port Input	102					258896	1303	1
+test2	88	Port Input	97					258906	1313	1
+test2	89	Save Logfile	Measurement,50.6	Measurement	50.6			260304	0	139			0		other	0
+test2	89	Port Input	77					261695	1391	3
+test2	89	Port Input	50					261717	1413	1
+test2	89	Port Input	48					261726	1422	1
+test2	89	Port Input	48					261736	1432	1
+test2	90	Save Logfile	VAS Change,51.2,62	VAS Change	51.2	62		263133	0	132			0		other	0
+test2	91	Save Logfile	Measurement,51.2	Measurement	51.2			263298	0	114			0		other	0
+test2	91	Port Input	77					264526	1228	1
+test2	91	Port Input	50					264546	1248	1
+test2	91	Port Input	48					264556	1258	1
+test2	91	Port Input	48					264566	1268	1
+test2	92	Save Logfile	Measurement,51.2	Measurement	51.2			265963	0	119			0		other	0
+test2	92	Port Input	77					267186	1223	2
+test2	92	Port Input	49					267207	1244	1
+test2	92	Port Input	102					267216	1253	2
+test2	92	Port Input	102					267226	1263	1
+test2	93	Save Logfile	VAS Change,51.1,64	VAS Change	51.1	64		268623	0	118			0		other	0
+test2	94	Save Logfile	Measurement,51.1	Measurement	51.1			268794	0	118			0		other	0
+test2	94	Port Input	77					270053	1259	2
+test2	94	Port Input	49					270056	1262	1
+test2	94	Port Input	102					270056	1262	1
+test2	94	Port Input	101					270066	1272	1
+test2	95	Save Logfile	VAS Change,51,66	VAS Change	51	66		271463	0	141			0		other	0
+test2	96	Save Logfile	Measurement,51	Measurement	51			271791	0	121			0		other	0
+test2	96	Response	1					272528	737	1
+test2	96	Port Input	77					273016	1225	2
+test2	96	Port Input	49					273037	1246	1
+test2	96	Port Input	102					273046	1255	2
+test2	96	Port Input	101					273056	1265	1
+test2	97	Save Logfile	Measurement,51	Measurement	51			274455	0	128			0		other	0
+test2	98	Save Logfile	Raise Temperature,51	Raise Temperature	51			274623	0	121			0		other	0
+test2	98	Port Input	84					275806	1183	2
+test2	98	Port Input	50					275816	1193	2
+test2	98	Port Input	48					275827	1204	1
+test2	98	Port Input	56					275835	1212	3
+test2	98	Port Input	67					277327	2704	1
+test2	98	Port Input	48					277337	2714	1
+test2	98	Port Input	48					277346	2723	1
+test2	98	Port Input	50					277357	2734	1
+test2	98	Port Input	77					278817	4194	1
+test2	98	Port Input	49					278837	4214	1
+test2	98	Port Input	102					278847	4224	1
+test2	98	Port Input	102					278857	4234	1
+test2	99	Save Logfile	VAS Change,51.1,70	VAS Change	51.1	70		280253	0	136			0		other	0
+test2	100	Save Logfile	Measurement,51.1	Measurement	51.1			280451	0	122			0		other	0
+test2	100	Port Input	77					281676	1225	2
+test2	100	Port Input	50					281696	1245	2
+test2	100	Port Input	48					281707	1256	1
+test2	100	Port Input	53					281716	1265	1
+test2	101	Save Logfile	Measurement,51.7	Measurement	51.7			283113	0	128			0		other	0
+test2	101	Port Input	77					284346	1233	2
+test2	101	Port Input	50					284366	1253	1
+test2	101	Port Input	48					284376	1263	1
+test2	101	Port Input	97					284386	1273	1
+test2	102	Save Logfile	VAS Change,52.2,71	VAS Change	52.2	71		285783	0	139			0		other	0
+test2	103	Save Logfile	Measurement,52.2	Measurement	52.2			285947	0	125			0		other	0
+test2	103	Port Input	77					287347	1400	1
+test2	103	Port Input	50					287366	1419	2
+test2	103	Port Input	48					287377	1430	1
+test2	103	Port Input	97					287386	1439	1
+test2	104	Save Logfile	Measurement,52.2	Measurement	52.2			288783	0	346			0		other	0
+test2	104	Port Input	77					290336	1553	2
+test2	104	Port Input	50					290356	1573	2
+test2	104	Port Input	48					290367	1584	1
+test2	104	Port Input	57					290376	1593	2
+test2	105	Save Logfile	VAS Change,52.1,72	VAS Change	52.1	72		291775	0	165			0		other	0
+test2	106	Save Logfile	Measurement,52.1	Measurement	52.1			292109	0	126			0		other	0
+test2	106	Port Input	77					293376	1267	1
+test2	106	Port Input	50					293396	1287	2
+test2	106	Port Input	48					293406	1297	1
+test2	106	Port Input	57					293416	1307	1
+test2	107	Save Logfile	Measurement,52.1	Measurement	52.1			294813	0	137			0		other	0
+test2	107	Port Input	77					296167	1354	1
+test2	107	Port Input	50					296187	1374	1
+test2	107	Port Input	48					296196	1383	1
+test2	107	Port Input	56					296206	1393	1
+test2	108	Save Logfile	Measurement,52	Measurement	52			297603	0	225			0		other	0
+test2	108	Port Input	77					298996	1393	2
+test2	108	Port Input	50					299016	1413	1
+test2	108	Port Input	48					299026	1423	1
+test2	108	Port Input	57					299036	1433	1
+test2	109	Save Logfile	VAS Change,52.1,74	VAS Change	52.1	74		300433	0	137			0		other	0
+test2	110	Save Logfile	Measurement,52.1	Measurement	52.1			300602	0	129			0		other	0
+test2	110	Port Input	77					301826	1224	2
+test2	110	Port Input	50					301846	1244	2
+test2	110	Port Input	48					301856	1254	2
+test2	110	Port Input	57					301867	1265	1
+test2	111	Save Logfile	VAS Change,52.1,77	VAS Change	52.1	77		303263	0	145			0		other	0
+test2	112	Save Logfile	Measurement,52.1	Measurement	52.1			303433	0	136			0		other	0
+test2	112	Port Input	77					304667	1234	2
+test2	112	Port Input	50					304686	1253	2
+test2	112	Port Input	48					304697	1264	1
+test2	112	Port Input	57					304707	1274	1
+test2	113	Save Logfile	VAS Change,52.1,78	VAS Change	52.1	78		306103	0	139			0		other	0
+test2	114	Save Logfile	Measurement,52.1	Measurement	52.1			306432	0	131			0		other	0
+test2	114	Port Input	77					307657	1225	1
+test2	114	Port Input	50					307677	1245	1
+test2	114	Port Input	48					307686	1254	2
+test2	114	Port Input	57					307696	1264	2
+test2	115	Save Logfile	VAS Change,52.1,79	VAS Change	52.1	79		309093	0	140			0		other	0
+test2	116	Save Logfile	Measurement,52.1	Measurement	52.1			309262	0	136			0		other	0
+test2	116	Port Input	77					310487	1225	1
+test2	116	Port Input	50					310506	1244	2
+test2	116	Port Input	48					310516	1254	2
+test2	116	Port Input	57					310526	1264	2
+test2	116	Response	1					311172	1910	1
+test2	117	Save Logfile	Measurement,52.1	Measurement	52.1			311923	0	141			0		other	0
+test2	118	Save Logfile	Raise Temperature,52.1	Raise Temperature	52.1			312094	0	134			0		other	0
+test2	118	Port Input	84					313297	1203	1
+test2	118	Port Input	50					313306	1212	1
+test2	118	Port Input	49					313316	1222	1
+test2	118	Port Input	50					313326	1232	1
+test2	118	Port Input	67					314817	2723	1
+test2	118	Port Input	48					314826	2732	1
+test2	118	Port Input	48					314837	2743	1
+test2	118	Port Input	50					314847	2753	2
+test2	118	Port Input	77					316306	4212	2
+test2	118	Port Input	50					316327	4233	1
+test2	118	Port Input	48					316336	4242	2
+test2	118	Port Input	57					316346	4252	1
+test2	119	Save Logfile	VAS Change,52.1,81	VAS Change	52.1	81		317743	0	139			0		other	0
+test2	120	Save Logfile	Measurement,52.1	Measurement	52.1			317922	0	139			0		other	0
+test2	120	Port Input	77					319147	1225	2
+test2	120	Port Input	50					319166	1244	2
+test2	120	Port Input	48					319176	1254	2
+test2	120	Port Input	102					319186	1264	2
+test2	121	Save Logfile	Measurement,52.7	Measurement	52.7			320583	0	143			0		other	0
+test2	121	Port Input	77					321816	1233	3
+test2	121	Port Input	50					321837	1254	2
+test2	121	Port Input	49					321846	1263	1
+test2	121	Port Input	52					321857	1274	1
+test2	122	Save Logfile	Measurement,53.2	Measurement	53.2			323253	0	157			0		other	0
+test2	122	Port Input	77					324646	1393	2
+test2	122	Port Input	50					324676	1423	1
+test2	122	Port Input	49					324686	1433	2
+test2	122	Port Input	52					324696	1443	2
+test2	123	Save Logfile	VAS Change,53.2,80	VAS Change	53.2	80		326093	0	150			0		other	0
+test2	124	Save Logfile	Measurement,53.2	Measurement	53.2			326416	0	140			0		other	0
+test2	124	Port Input	77					327646	1230	2
+test2	124	Port Input	50					327666	1250	3
+test2	124	Port Input	49					327676	1260	2
+test2	124	Port Input	51					327686	1270	2
+test2	125	Save Logfile	VAS Change,53.1,79	VAS Change	53.1	79		329083	0	147			0		other	0
+test2	126	Save Logfile	Measurement,53.1	Measurement	53.1			329413	0	149			0		other	0
+test2	126	Port Input	77					330806	1393	3
+test2	126	Port Input	50					330828	1415	1
+test2	126	Port Input	49					330836	1423	2
+test2	126	Port Input	51					330847	1434	1
+test2	127	Save Logfile	Measurement,53.1	Measurement	53.1			332243	0	147			0		other	0
+test2	127	Port Input	77					333636	1393	3
+test2	127	Port Input	50					333656	1413	2
+test2	127	Port Input	49					333666	1423	2
+test2	127	Port Input	51					333676	1433	2
+test2	128	Save Logfile	VAS Change,53.1,78	VAS Change	53.1	78		335073	0	156			0		other	0
+test2	129	Save Logfile	Measurement,53.1	Measurement	53.1			335409	0	146			0		other	0
+test2	129	Port Input	77					336806	1397	2
+test2	129	Port Input	50					336827	1418	1
+test2	129	Port Input	49					336836	1427	2
+test2	129	Port Input	51					336846	1437	2
+test2	130	Save Logfile	Measurement,53.1	Measurement	53.1			338243	0	165			0		other	0
+test2	130	Port Input	77					339637	1394	1
+test2	130	Port Input	50					339656	1413	2
+test2	130	Port Input	48					339666	1423	2
+test2	130	Port Input	101					339676	1433	2
+test2	131	Save Logfile	Measurement,52.6	Measurement	52.6			341073	0	155			0		other	0
+test2	131	Port Input	77					342467	1394	1
+test2	131	Port Input	50					342487	1414	1
+test2	131	Port Input	49					342497	1424	1
+test2	131	Port Input	48					342506	1433	2
+test2	132	Save Logfile	Measurement,52.8	Measurement	52.8			343903	0	166			0		other	0
+test2	132	Port Input	77					345296	1393	2
+test2	132	Port Input	50					345317	1414	1
+test2	132	Port Input	49					345327	1424	1
+test2	132	Port Input	52					345337	1434	1
+test2	133	Save Logfile	Measurement,53.2	Measurement	53.2			346733	0	150			0		other	0
+test2	133	Port Input	77					348127	1394	1
+test2	133	Port Input	50					348146	1413	2
+test2	133	Port Input	49					348156	1423	2
+test2	133	Port Input	51					348167	1434	1
+test2	134	Save Logfile	Measurement,53.1	Measurement	53.1			349564	0	161			0		other	0
+test2	134	Port Input	77					350957	1393	1
+test2	134	Port Input	50					350977	1413	1
+test2	134	Port Input	49					350987	1423	1
+test2	134	Port Input	51					350996	1432	2
+test2	135	Save Logfile	Measurement,53.1	Measurement	53.1			352394	0	157			0		other	0
+test2	135	Port Input	77					353787	1393	1
+test2	135	Port Input	50					353807	1413	1
+test2	135	Port Input	49					353816	1422	2
+test2	135	Port Input	51					353827	1433	1
+test2	136	Save Logfile	Measurement,53.1	Measurement	53.1			355224	0	159			0		other	0
+test2	136	Response	2					355876	652	1
+test2	136	Port Input	77					356627	1403	1
+test2	136	Port Input	50					356647	1423	1
+test2	136	Port Input	49					356656	1432	2
+test2	136	Port Input	51					356667	1443	1
+test2	137	Save Logfile	Measurement,53.1	Measurement	53.1			358063	0	161			0		other	0
+test2	137	Response	2					358317	254	1
+test2	138	Save Logfile	Lower Temperature,53.1	Lower Temperature	53.1			358392	0	157			0		other	0
+test2	138	Port Input	84					359617	1225	1
+test2	138	Port Input	50					359627	1235	1
+test2	138	Port Input	48					359637	1245	1
+test2	138	Port Input	56					359647	1255	1
+test2	138	Response	2					360596	2204	1
+test2	138	Port Input	67					361137	2745	1
+test2	138	Port Input	48					361147	2755	1
+test2	138	Port Input	48					361157	2765	1
+test2	138	Port Input	50					361167	2775	1
+test2	138	Port Input	77					362627	4235	1
+test2	138	Port Input	50					362647	4255	1
+test2	138	Port Input	49					362657	4265	1
+test2	138	Port Input	51					362660	4268	8
+test2	138	Response	2					363478	5086	1
+test2	139	Save Logfile	Measurement,53.1	Measurement	53.1			364065	0	160			0		other	0
+test2	140	Save Logfile	Lower Temperature,53.1	Lower Temperature	53.1			364387	0	156			0		other	0
+test2	140	Port Input	84					365607	1220	1
+test2	140	Port Input	49					365617	1230	1
+test2	140	Port Input	102					365627	1240	1
+test2	140	Port Input	101					365637	1250	1
+test2	140	Response	2					366686	2299	1
+test2	140	Port Input	67					367127	2740	2
+test2	140	Port Input	48					367136	2749	2
+test2	140	Port Input	48					367147	2760	1
+test2	140	Port Input	50					367157	2770	1
+test2	140	Port Input	77					368617	4230	1
+test2	140	Port Input	50					368637	4250	1
+test2	140	Port Input	48					368647	4260	1
+test2	140	Port Input	55					368657	4270	1
+test2	140	Response	2					369778	5391	1
+test2	141	Save Logfile	Measurement,51.9	Measurement	51.9			370053	0	173			0		other	0
+test2	142	Save Logfile	Lower Temperature,51.9	Lower Temperature	51.9			370382	0	161			0		other	0
+test2	142	Port Input	84					371607	1225	1
+test2	142	Port Input	49					371617	1235	1
+test2	142	Port Input	102					371627	1245	1
+test2	142	Port Input	52					371637	1255	1
+test2	142	Port Input	67					373127	2745	1
+test2	142	Port Input	48					373137	2755	1
+test2	142	Port Input	48					373146	2764	3
+test2	142	Port Input	50					373157	2775	1
+test2	142	Response	2					373892	3510	1
+test2	142	Port Input	77					374617	4235	1
+test2	142	Port Input	49					374637	4255	1
+test2	142	Port Input	102					374647	4265	1
+test2	142	Port Input	100					374657	4275	1
+test2	143	Save Logfile	Measurement,50.9	Measurement	50.9			376054	0	168			0		other	0
+test2	144	Save Logfile	Lower Temperature,50.9	Lower Temperature	50.9			376378	0	169			0		other	0
+test2	144	Response	2					376378	0	51
+test2	144	Port Input	84					377617	1239	1
+test2	144	Port Input	49					377627	1249	1
+test2	144	Port Input	101					377637	1259	1
+test2	144	Port Input	97					377647	1269	1
+test2	144	Response	2					378471	2093	1
+test2	144	Port Input	67					379136	2758	4
+test2	144	Port Input	48					379147	2769	1
+test2	144	Port Input	48					379157	2779	1
+test2	144	Port Input	50					379167	2789	1
+test2	144	Port Input	77					380627	4249	1
+test2	144	Port Input	49					380646	4268	3
+test2	144	Port Input	102					380657	4279	1
+test2	144	Port Input	51					380668	4290	1
+test2	144	Response	2					380722	4344	1
+test2	145	Save Logfile	VAS Change,49.9,77	VAS Change	49.9	77		382065	0	175			0		other	0
+test2	146	Save Logfile	Measurement,49.9	Measurement	49.9			382373	0	174			0		other	0
+test2	147	Save Logfile	Lower Temperature,49.9	Lower Temperature	49.9			382706	0	179			0		other	0
+test2	147	Response	2					383112	406	1
+test2	147	Port Input	84					383947	1241	1
+test2	147	Port Input	49					383967	1261	1
+test2	147	Port Input	101					383977	1271	1
+test2	147	Port Input	48					383987	1281	1
+test2	147	Port Input	67					385467	2761	1
+test2	147	Port Input	48					385477	2771	1
+test2	147	Port Input	48					385487	2781	1
+test2	147	Port Input	50					385497	2791	1
+test2	147	Response	2					385781	3075	1
+test2	147	Port Input	77					386957	4251	1
+test2	147	Port Input	49					386977	4271	1
+test2	147	Port Input	101					386987	4281	1
+test2	147	Port Input	57					386997	4291	1
+test2	147	Response	2					388131	5425	2
+test2	148	Save Logfile	VAS Change,48.9,74	VAS Change	48.9	74		388394	0	192			0		other	0
+test2	149	Save Logfile	Measurement,48.9	Measurement	48.9			388701	0	177			0		other	0
+test2	150	Save Logfile	Lower Temperature,48.9	Lower Temperature	48.9			389035	0	174			0		other	0
+test2	150	Port Input	84					390277	1242	1
+test2	150	Port Input	49					390287	1252	1
+test2	150	Port Input	100					390297	1262	1
+test2	150	Port Input	54					390307	1272	1
+test2	150	Response	2					390401	1366	1
+test2	150	Port Input	67					391797	2762	1
+test2	150	Port Input	48					391807	2772	1
+test2	150	Port Input	48					391817	2782	1
+test2	150	Port Input	50					391827	2792	1
+test2	150	Response	2					392925	3890	2
+test2	150	Port Input	77					393287	4252	1
+test2	150	Port Input	49					393307	4272	1
+test2	150	Port Input	100					393316	4281	2
+test2	150	Port Input	101					393327	4292	1
+test2	151	Save Logfile	VAS Change,47.8,72	VAS Change	47.8	72		394723	0	182			0		other	0
+test2	152	Save Logfile	Measurement,47.8	Measurement	47.8			395030	0	185			0		other	0
+test2	153	Save Logfile	Lower Temperature,47.8	Lower Temperature	47.8			395363	0	182			0		other	0
+test2	153	Response	2					395363	0	24
+test2	153	Port Input	84					396607	1244	1
+test2	153	Port Input	49					396617	1254	1
+test2	153	Port Input	99					396627	1264	1
+test2	153	Port Input	99					396637	1274	1
+test2	153	Response	2					397631	2268	1
+test2	153	Port Input	67					398127	2764	1
+test2	153	Port Input	48					398137	2774	1
+test2	153	Port Input	48					398147	2784	1
+test2	153	Port Input	50					398157	2794	1
+test2	153	Port Input	77					399617	4254	1
+test2	153	Port Input	49					399637	4274	1
+test2	153	Port Input	100					399647	4284	1
+test2	153	Port Input	52					399657	4294	1
+test2	154	Save Logfile	VAS Change,46.8,70	VAS Change	46.8	70		401053	0	193			0		other	0
+test2	155	Save Logfile	Measurement,46.8	Measurement	46.8			401358	0	178			0		other	0
+test2	156	Save Logfile	Lower Temperature,46.8	Lower Temperature	46.8			401692	0	176			0		other	0
+test2	156	Port Input	84					402937	1245	1
+test2	156	Port Input	49					402947	1255	1
+test2	156	Port Input	99					402957	1265	1
+test2	156	Port Input	50					402966	1274	2
+test2	156	Port Input	67					404457	2765	1
+test2	156	Port Input	48					404467	2775	1
+test2	156	Port Input	48					404477	2785	1
+test2	156	Port Input	50					404487	2795	1
+test2	156	Port Input	77					405946	4254	3
+test2	156	Port Input	49					405967	4275	1
+test2	156	Port Input	99					405977	4285	1
+test2	156	Port Input	98					405987	4295	1
+test2	157	Save Logfile	VAS Change,45.9,68	VAS Change	45.9	68		407383	0	193			0		other	0
+test2	158	Save Logfile	Measurement,45.9	Measurement	45.9			407687	0	185			0		other	0
+test2	159	Save Logfile	Lower Temperature,45.9	Lower Temperature	45.9			408020	0	185			0		other	0
+test2	159	Port Input	84					409277	1257	1
+test2	159	Port Input	49					409287	1267	1
+test2	159	Port Input	98					409297	1277	1
+test2	159	Port Input	56					409307	1287	1
+test2	159	Port Input	67					410797	2777	1
+test2	159	Port Input	48					410807	2787	1
+test2	159	Port Input	48					410817	2797	1
+test2	159	Port Input	50					410827	2807	1
+test2	159	Port Input	77					412287	4267	1
+test2	159	Port Input	49					412307	4287	1
+test2	159	Port Input	99					412317	4297	1
+test2	159	Port Input	48					412327	4307	1
+test2	160	Save Logfile	VAS Change,44.8,67	VAS Change	44.8	67		413724	0	205			0		other	0
+test2	161	Save Logfile	Measurement,44.8	Measurement	44.8			414015	0	185			0		other	0
+test2	162	Save Logfile	Lower Temperature,44.8	Lower Temperature	44.8			414348	0	194			0		other	0
+test2	162	Port Input	84					415607	1259	1
+test2	162	Port Input	49					415617	1269	1
+test2	162	Port Input	97					415627	1279	1
+test2	162	Port Input	101					415637	1289	1
+test2	162	Port Input	67					417128	2780	1
+test2	162	Port Input	48					417137	2789	1
+test2	162	Port Input	48					417147	2799	1
+test2	162	Port Input	50					417157	2809	1
+test2	162	Port Input	77					418617	4269	1
+test2	162	Port Input	49					418637	4289	1
+test2	162	Port Input	98					418647	4299	1
+test2	162	Port Input	54					418657	4309	1
+test2	163	Save Logfile	Measurement,43.8	Measurement	43.8			420053	0	209			0		other	0
+test2	164	Save Logfile	Lower Temperature,43.8	Lower Temperature	43.8			420344	0	200			0		other	0
+test2	164	Port Input	84					421607	1263	1
+test2	164	Port Input	49					421617	1273	1
+test2	164	Port Input	97					421627	1283	1
+test2	164	Port Input	52					421637	1293	1
+test2	164	Port Input	67					423127	2783	1
+test2	164	Port Input	48					423137	2793	1
+test2	164	Port Input	48					423147	2803	1
+test2	164	Port Input	50					423157	2813	1
+test2	164	Port Input	77					424617	4273	1
+test2	164	Port Input	49					424637	4293	1
+test2	164	Port Input	97					424647	4303	1
+test2	164	Port Input	99					424657	4313	1
+test2	165	Save Logfile	VAS Change,42.8,65	VAS Change	42.8	65		426054	0	204			0		other	0
+test2	166	Save Logfile	Measurement,42.8	Measurement	42.8			426339	0	189			0		other	0
+test2	167	Save Logfile	Lower Temperature,42.8	Lower Temperature	42.8			426672	0	192			0		other	0
+test2	167	Port Input	84					427927	1255	1
+test2	167	Port Input	49					427937	1265	1
+test2	167	Port Input	57					427947	1275	1
+test2	167	Port Input	97					427957	1285	1
+test2	167	Port Input	67					429447	2775	1
+test2	167	Port Input	48					429457	2785	1
+test2	167	Port Input	48					429467	2795	1
+test2	167	Port Input	50					429477	2805	1
+test2	167	Port Input	77					430937	4265	1
+test2	167	Port Input	49					430957	4285	1
+test2	167	Port Input	97					430967	4295	1
+test2	167	Port Input	50					430977	4305	1
+test2	168	Save Logfile	VAS Change,41.8,63	VAS Change	41.8	63		432373	0	218			0		other	0
+test2	169	Save Logfile	Measurement,41.8	Measurement	41.8			432667	0	197			0		other	0
+test2	170	Save Logfile	Lower Temperature,41.8	Lower Temperature	41.8			433001	0	209			0		other	0
+test2	170	Port Input	84					434277	1276	1
+test2	170	Port Input	49					434287	1286	1
+test2	170	Port Input	57					434297	1296	1
+test2	170	Port Input	48					434307	1306	1
+test2	170	Port Input	67					435797	2796	1
+test2	170	Port Input	48					435807	2806	1
+test2	170	Port Input	48					435817	2816	1
+test2	170	Port Input	50					435827	2826	1
+test2	170	Port Input	77					437287	4286	1
+test2	170	Port Input	49					437307	4306	1
+test2	170	Port Input	57					437317	4316	1
+test2	170	Port Input	56					437327	4326	1
+test2	171	Save Logfile	VAS Change,40.8,61	VAS Change	40.8	61		438732	0	292			0		other	0
+test2	172	Save Logfile	Measurement,40.8	Measurement	40.8			439162	0	200			0		other	0
+test2	173	Save Logfile	Lower Temperature,40.8	Lower Temperature	40.8			439496	0	201			0		other	0
+test2	173	Port Input	84					440767	1271	1
+test2	173	Port Input	49					440777	1281	1
+test2	173	Port Input	56					440787	1291	1
+test2	173	Port Input	54					440797	1301	1
+test2	173	Port Input	67					442287	2791	1
+test2	173	Port Input	48					442297	2801	1
+test2	173	Port Input	48					442307	2811	1
+test2	173	Port Input	50					442317	2821	1
+test2	173	Port Input	77					443777	4281	1
+test2	173	Port Input	49					443797	4301	1
+test2	173	Port Input	56					443807	4311	1
+test2	173	Port Input	101					443817	4321	1
+test2	174	Save Logfile	Measurement,39.8	Measurement	39.8			445213	0	209			0		other	0
+test2	175	Save Logfile	Lower Temperature,39.8	Lower Temperature	39.8			445491	0	202			0		other	0
+test2	175	Port Input	84					446757	1266	1
+test2	175	Port Input	49					446767	1276	1
+test2	175	Port Input	55					446777	1286	1
+test2	175	Port Input	99					446787	1296	1
+test2	175	Port Input	67					448277	2786	1
+test2	175	Port Input	48					448287	2796	1
+test2	175	Port Input	48					448297	2806	1
+test2	175	Port Input	50					448307	2816	1
+test2	175	Port Input	77					449777	4286	1
+test2	175	Port Input	49					449797	4306	1
+test2	175	Port Input	56					449807	4316	1
+test2	175	Port Input	53					449817	4326	1
+test2	176	Save Logfile	Measurement,38.9	Measurement	38.9			451224	0	222			0		other	0
+test2	177	Save Logfile	Lower Temperature,38.9	Lower Temperature	38.9			451487	0	203			0		other	0
+test2	177	Port Input	84					452757	1270	1
+test2	177	Port Input	49					452767	1280	1
+test2	177	Port Input	55					452777	1290	1
+test2	177	Port Input	50					452787	1300	1
+test2	177	Response	2					452981	1494	1
+test2	177	Port Input	67					454277	2790	1
+test2	177	Port Input	48					454287	2800	1
+test2	177	Port Input	48					454297	2810	1
+test2	177	Port Input	50					454307	2820	1
+test2	177	Port Input	77					455767	4280	1
+test2	177	Port Input	49					455787	4300	1
+test2	177	Port Input	55					455797	4310	1
+test2	177	Port Input	97					455807	4320	1
+test2	178	Save Logfile	Measurement,37.8	Measurement	37.8			457203	0	213			0		other	0
+test2	179	Save Logfile	Lower Temperature,37.8	Lower Temperature	37.8			457482	0	202			0		other	0
+test2	179	Port Input	84					458747	1265	2
+test2	179	Port Input	49					458751	1269	9
+test2	179	Port Input	54					458767	1285	1
+test2	179	Port Input	56					458777	1295	1
+test2	179	Port Input	67					460278	2796	1
+test2	179	Port Input	48					460287	2805	1
+test2	179	Port Input	48					460297	2815	1
+test2	179	Port Input	50					460307	2825	1
+test2	179	Port Input	77					461778	4296	1
+test2	179	Port Input	49					461797	4315	1
+test2	179	Port Input	55					461807	4325	1
+test2	179	Port Input	48					461817	4335	1
+test2	180	Save Logfile	VAS Change,36.8,54	VAS Change	36.8	54		463213	0	226			0		other	0
+test2	181	Save Logfile	Measurement,36.8	Measurement	36.8			463477	0	206			0		other	0
+test2	182	Save Logfile	Lower Temperature,36.8	Lower Temperature	36.8			463811	0	441			0		other	0
+test2	182	Port Input	84					465317	1506	1
+test2	182	Port Input	49					465327	1516	1
+test2	182	Port Input	53					465337	1526	1
+test2	182	Port Input	101					465348	1537	1
+test2	182	Port Input	67					466847	3036	1
+test2	182	Port Input	48					466857	3046	2
+test2	182	Port Input	48					466867	3056	1
+test2	182	Port Input	50					466877	3066	1
+test2	182	Port Input	77					468347	4536	1
+test2	182	Port Input	49					468367	4556	1
+test2	182	Port Input	54					468377	4566	1
+test2	182	Port Input	55					468387	4576	1
+test2	183	Save Logfile	VAS Change,35.9,51	VAS Change	35.9	51		469783	0	474			0		other	0
+test2	184	Save Logfile	Measurement,35.9	Measurement	35.9			470305	0	211			0		other	0
+test2	184	Port Input	77					471697	1392	2
+test2	184	Port Input	49					471717	1412	1
+test2	184	Port Input	53					471727	1422	1
+test2	184	Port Input	102					471737	1432	1
+test2	185	Save Logfile	Measurement,35.1	Measurement	35.1			473143	0	229			0		other	0
+test2	185	Port Input	77					474527	1384	1
+test2	185	Port Input	49					474547	1404	1
+test2	185	Port Input	53					474557	1414	1
+test2	185	Port Input	100					474567	1424	1
+test2	186	Save Logfile	VAS Change,34.9,50	VAS Change	34.9	50		475973	0	229			0		other	0
+test2	187	Save Logfile	Measurement,34.9	Measurement	34.9			476300	0	225			0		other	0
+test2	187	Port Input	77					477697	1397	1
+test2	187	Port Input	49					477717	1417	1
+test2	187	Port Input	53					477727	1427	1
+test2	187	Port Input	101					477737	1437	1
+test2	188	Save Logfile	VAS Change,35,48	VAS Change	35	48		479143	0	228			0		other	0
+test2	189	Save Logfile	Measurement,35	Measurement	35			479464	0	220			0		other	0
+test2	189	Port Input	77					480857	1393	1
+test2	189	Port Input	49					480877	1413	2
+test2	189	Port Input	53					480887	1423	1
+test2	189	Port Input	101					480897	1433	1
+test2	190	Save Logfile	Measurement,35	Measurement	35			482293	0	236			0		other	0
+test2	190	Port Input	77					483687	1394	1
+test2	190	Port Input	49					483700	1407	9
+test2	190	Port Input	53					483717	1424	1
+test2	190	Port Input	101					483727	1434	1
+test2	191	Save Logfile	VAS Change,35,47	VAS Change	35	47		485123	0	225			0		other	0
+test2	192	Save Logfile	Measurement,35	Measurement	35			485460	0	221			0		other	0
+test2	192	Port Input	77					486857	1397	1
+test2	192	Port Input	49					486877	1417	1
+test2	192	Port Input	53					486887	1427	1
+test2	192	Port Input	101					486897	1437	1
+test2	193	Save Logfile	Measurement,35	Measurement	35			488293	0	226			0		other	0
+test2	193	Port Input	77					489687	1394	2
+test2	193	Port Input	49					489707	1414	1
+test2	193	Port Input	53					489717	1424	1
+test2	193	Port Input	101					489727	1434	1
+test2	194	Save Logfile	Measurement,35	Measurement	35			491123	0	244			0		other	0
+test2	194	Port Input	77					492517	1394	1
+test2	194	Port Input	49					492537	1414	1
+test2	194	Port Input	53					492547	1424	1
+test2	194	Port Input	101					492557	1434	2
+test2	195	Save Logfile	VAS Change,35,45	VAS Change	35	45		493953	0	241			0		other	0
+test2	196	Save Logfile	Measurement,35	Measurement	35			494287	0	223			0		other	0
+test2	196	Port Input	77					495687	1400	2
+test2	196	Port Input	49					495707	1420	2
+test2	196	Port Input	53					495717	1430	1
+test2	196	Port Input	101					495727	1440	2
+test2	197	Save Logfile	VAS Change,35,43	VAS Change	35	43		497123	0	233			0		other	0
+test2	198	Save Logfile	Measurement,35	Measurement	35			497451	0	235			0		other	0
+test2	198	Port Input	77					498878	1427	1
+test2	198	Port Input	49					498908	1457	1
+test2	198	Port Input	53					498918	1467	1
+test2	198	Port Input	101					498927	1476	2
+test2	199	Save Logfile	VAS Change,35,40	VAS Change	35	40		500323	0	454			0		other	0
+test2	200	Save Logfile	Measurement,35	Measurement	35			500948	0	244			0		other	0
+test2	200	Port Input	77					502347	1399	2
+test2	200	Port Input	49					502367	1419	2
+test2	200	Port Input	53					502377	1429	2
+test2	200	Port Input	101					502387	1439	1
+test2	201	Save Logfile	VAS Change,35,37	VAS Change	35	37		503793	0	229			0		other	0
+test2	202	Save Logfile	Measurement,35	Measurement	35			504112	0	229			0		other	0
+test2	202	Port Input	77					505507	1395	2
+test2	202	Port Input	49					505527	1415	1
+test2	202	Port Input	53					505537	1425	1
+test2	202	Port Input	101					505547	1435	2
+test2	203	Save Logfile	VAS Change,35,36	VAS Change	35	36		506953	0	236			0		other	0
+test2	204	Save Logfile	Measurement,35	Measurement	35			507276	0	227			0		other	0
+test2	204	Port Input	77					508678	1402	1
+test2	204	Port Input	49					508697	1421	2
+test2	204	Port Input	53					508707	1431	2
+test2	204	Port Input	101					508718	1442	1
+test2	205	Save Logfile	VAS Change,35,35	VAS Change	35	35		510123	0	244			0		other	0
+test2	206	Save Logfile	Measurement,35	Measurement	35			510441	0	237			0		other	0
+test2	206	Port Input	77					511838	1397	1
+test2	206	Port Input	49					511857	1416	2
+test2	206	Port Input	53					511867	1426	2
+test2	206	Port Input	101					511877	1436	2
+test2	207	Save Logfile	Measurement,35	Measurement	35			513273	0	234			0		other	0
+test2	207	Port Input	77					514668	1395	1
+test2	207	Port Input	49					514688	1415	1
+test2	207	Port Input	53					514697	1424	2
+test2	207	Port Input	102					514707	1434	2
+test2	208	Save Logfile	Measurement,35.1	Measurement	35.1			516103	0	246			0		other	0
+test2	208	Port Input	77					517498	1395	1
+test2	208	Port Input	49					517517	1414	2
+test2	208	Port Input	53					517527	1424	2
+test2	208	Port Input	101					517537	1434	2
+test2	209	Save Logfile	VAS Change,35,33	VAS Change	35	33		518933	0	248			0		other	0
+test2	210	Save Logfile	Measurement,35	Measurement	35			519267	0	239			0		other	0
+test2	210	Port Input	77					520668	1401	1
+test2	210	Port Input	49					520687	1420	2
+test2	210	Port Input	53					520697	1430	2
+test2	210	Port Input	101					520707	1440	2
+test2	211	Save Logfile	VAS Change,35,28	VAS Change	35	28		522104	0	245			0		other	0
+test2	212	Save Logfile	Measurement,35	Measurement	35			522432	0	237			0		other	0
+test2	212	Port Input	77					523828	1396	1
+test2	212	Port Input	49					523847	1415	2
+test2	212	Port Input	53					523858	1426	1
+test2	212	Port Input	102					523867	1435	2
+test2	213	Save Logfile	VAS Change,35.1,24	VAS Change	35.1	24		525263	0	251			0		other	0
+test2	214	Save Logfile	Measurement,35.1	Measurement	35.1			525596	0	239			0		other	0
+test2	214	Response	2					526717	1121	1
+test2	214	Port Input	77					526988	1392	1
+test2	214	Port Input	49					527008	1412	1
+test2	214	Port Input	53					527017	1421	2
+test2	214	Port Input	102					527028	1432	1
+test2	215	Save Logfile	Measurement,35.1	Measurement	35.1			528423	0	462			0		other	0
+test2	216	Save Logfile	Lower Temperature,35.1	Lower Temperature	35.1			528927	0	235			0		other	0
+test2	216	Port Input	84					530228	1301	1
+test2	216	Port Input	49					530238	1311	1
+test2	216	Port Input	53					530248	1321	1
+test2	216	Port Input	52					530258	1331	1
+test2	216	Port Input	67					531748	2821	1
+test2	216	Port Input	48					531757	2830	2
+test2	216	Port Input	48					531767	2840	2
+test2	216	Port Input	50					531777	2850	2
+test2	216	Port Input	77					533248	4321	1
+test2	216	Port Input	49					533268	4341	1
+test2	216	Port Input	53					533277	4350	2
+test2	216	Port Input	101					533288	4361	1
+test2	217	Save Logfile	Measurement,35	Measurement	35			534683	0	247			0		other	0
+test2	217	Port Input	77					536148	1465	1
+test2	217	Port Input	49					536168	1485	1
+test2	217	Port Input	53					536178	1495	1
+test2	217	Port Input	54					536188	1505	1
+test2	218	Save Logfile	VAS Change,34.2,23	VAS Change	34.2	23		537583	0	251			0		other	0
+test2	219	Save Logfile	Measurement,34.2	Measurement	34.2			537920	0	243			0		other	0
+test2	219	Port Input	77					539318	1398	1
+test2	219	Port Input	49					539338	1418	1
+test2	219	Port Input	53					539348	1428	1
+test2	219	Port Input	51					539357	1437	2
+test2	220	Save Logfile	VAS Change,33.9,22	VAS Change	33.9	22		540753	0	356			0		other	0
+test2	221	Save Logfile	Measurement,33.9	Measurement	33.9			541250	0	249			0		other	0
+test2	221	Port Input	77					542648	1398	1
+test2	221	Port Input	49					542668	1418	1
+test2	221	Port Input	53					542677	1427	2
+test2	221	Port Input	52					542688	1438	1
+test2	222	Save Logfile	VAS Change,34,21	VAS Change	34	21		544083	0	254			0		other	0
+test2	223	Save Logfile	Measurement,34	Measurement	34			544415	0	246			0		other	0
+test2	223	Port Input	77					545808	1393	1
+test2	223	Port Input	49					545828	1413	1
+test2	223	Port Input	53					545838	1423	1
+test2	223	Port Input	52					545848	1433	1
+test2	224	Save Logfile	Measurement,34	Measurement	34			547243	0	257			0		other	0
+test2	224	Port Input	77					548638	1395	1
+test2	224	Port Input	49					548658	1415	1
+test2	224	Port Input	53					548668	1425	1
+test2	224	Port Input	52					548678	1435	1
+test2	225	Save Logfile	VAS Change,34,20	VAS Change	34	20		550073	0	266			0		other	0
+test2	226	Save Logfile	Measurement,34	Measurement	34			550410	0	250			0		other	0
+test2	226	Port Input	77					551808	1398	1
+test2	226	Port Input	49					551828	1418	1
+test2	226	Port Input	53					551838	1428	1
+test2	226	Port Input	52					551848	1438	1
+test2	227	Save Logfile	Measurement,34	Measurement	34			553244	0	260			0		other	0
+test2	227	Port Input	77					554638	1394	1
+test2	227	Port Input	49					554658	1414	1
+test2	227	Port Input	53					554668	1424	1
+test2	227	Port Input	52					554678	1434	1
+test2	228	Save Logfile	Measurement,34	Measurement	34			556074	0	271			0		other	0
+test2	228	Response	1					557244	1170	1
+test2	228	Port Input	77					557468	1394	1
+test2	228	Port Input	49					557488	1414	1
+test2	228	Port Input	53					557498	1424	1
+test2	228	Port Input	52					557508	1434	1
+test2	229	Save Logfile	Measurement,34	Measurement	34			558904	0	259			0		other	0
+test2	230	Save Logfile	Raise Temperature,34	Raise Temperature	34			559237	0	244			0		other	0
+test2	230	Port Input	84					560548	1311	1
+test2	230	Port Input	49					560558	1321	1
+test2	230	Port Input	53					560568	1331	1
+test2	230	Port Input	101					560578	1341	1
+test2	230	Response	1					560805	1568	1
+test2	230	Port Input	67					562068	2831	1
+test2	230	Port Input	48					562078	2841	1
+test2	230	Port Input	48					562088	2851	1
+test2	230	Port Input	50					562098	2861	1
+test2	230	Port Input	77					563558	4321	1
+test2	230	Port Input	49					563578	4341	1
+test2	230	Port Input	53					563588	4351	1
+test2	230	Port Input	53					563598	4361	1
+test2	231	Save Logfile	Measurement,34.1	Measurement	34.1			564993	0	263			0		other	0
+test2	231	Response	1					564993	0	190
+test2	232	Save Logfile	Raise Temperature,34.1	Raise Temperature	34.1			565399	0	258			0		other	0
+test2	232	Port Input	84					566727	1328	3
+test2	232	Port Input	49					566738	1339	1
+test2	232	Port Input	54					566748	1349	1
+test2	232	Port Input	56					566758	1359	1
+test2	232	Port Input	67					568248	2849	1
+test2	232	Port Input	48					568258	2859	1
+test2	232	Port Input	48					568268	2869	1
+test2	232	Port Input	50					568278	2879	1
+test2	232	Response	1					569664	4265	1
+test2	232	Port Input	77					569738	4339	1
+test2	232	Port Input	49					569758	4359	1
+test2	232	Port Input	54					569768	4369	1
+test2	232	Port Input	48					569778	4379	1
+test2	233	Save Logfile	Measurement,35.2	Measurement	35.2			571173	0	280			0		other	0
+test2	234	Save Logfile	Raise Temperature,35.2	Raise Temperature	35.2			571561	0	252			0		other	0
+test2	234	Port Input	84					572878	1317	1
+test2	234	Port Input	49					572888	1327	1
+test2	234	Port Input	55					572898	1337	1
+test2	234	Port Input	50					572908	1347	1
+test2	234	Port Input	67					574398	2837	1
+test2	234	Port Input	48					574408	2847	1
+test2	234	Port Input	48					574418	2857	1
+test2	234	Port Input	50					574428	2867	1
+test2	234	Port Input	77					575888	4327	1
+test2	234	Port Input	49					575908	4347	1
+test2	234	Port Input	54					575918	4357	1
+test2	234	Port Input	97					575928	4367	1
+test2	235	Save Logfile	Measurement,36.2	Measurement	36.2			577323	0	274			0		other	0
+test2	236	Save Logfile	Raise Temperature,36.2	Raise Temperature	36.2			577723	0	252			0		other	0
+test2	236	Port Input	84					579038	1315	1
+test2	236	Port Input	49					579048	1325	1
+test2	236	Port Input	55					579058	1335	1
+test2	236	Port Input	99					579068	1345	1
+test2	236	Port Input	67					580558	2835	1
+test2	236	Port Input	48					580568	2845	1
+test2	236	Port Input	48					580578	2855	1
+test2	236	Port Input	50					580588	2865	1
+test2	236	Port Input	77					582048	4325	1
+test2	236	Port Input	49					582068	4345	1
+test2	236	Port Input	55					582078	4355	1
+test2	236	Port Input	52					582088	4365	1
+test2	237	Save Logfile	Measurement,37.2	Measurement	37.2			583483	0	282			0		other	0
+test2	237	Port Input	77					584948	1465	1
+test2	237	Port Input	49					584968	1485	1
+test2	237	Port Input	55					584978	1495	1
+test2	237	Port Input	97					584988	1505	1
+test2	238	Save Logfile	Measurement,37.8	Measurement	37.8			586384	0	275			0		other	0
+test2	238	Port Input	77					587778	1394	1
+test2	238	Port Input	49					587798	1414	1
+test2	238	Port Input	55					587808	1424	1
+test2	238	Port Input	101					587818	1434	1
+test2	239	Save Logfile	Measurement,38.2	Measurement	38.2			589213	0	283			0		other	0
+test2	239	Port Input	77					590608	1395	1
+test2	239	Port Input	49					590628	1415	1
+test2	239	Port Input	55					590638	1425	1
+test2	239	Port Input	101					590648	1435	1
+test2	240	Save Logfile	Measurement,38.2	Measurement	38.2			592043	0	280			0		other	0
+test2	240	Port Input	77					593437	1394	3
+test2	240	Port Input	49					593458	1415	1
+test2	240	Port Input	55					593468	1425	1
+test2	240	Port Input	100					593478	1435	1
+test2	241	Save Logfile	Measurement,38.1	Measurement	38.1			594873	0	290			0		other	0
+test2	241	Port Input	77					596278	1405	1
+test2	241	Port Input	49					596298	1425	1
+test2	241	Port Input	55					596308	1435	1
+test2	241	Port Input	100					596318	1445	1
+test2	242	Save Logfile	VAS Change,38.1,18	VAS Change	38.1	18		597713	0	290			0		other	0
+test2	243	Save Logfile	Measurement,38.1	Measurement	38.1			598040	0	276			0		other	0
+test2	243	Port Input	77					599438	1398	1
+test2	243	Port Input	49					599458	1418	1
+test2	243	Port Input	55					599468	1428	1
+test2	243	Port Input	100					599478	1438	1
+test2	244	Save Logfile	VAS Change,38.1,16	VAS Change	38.1	16		600873	0	292			0		other	0
+test2	245	Save Logfile	Measurement,38.1	Measurement	38.1			601206	0	281			0		other	0
+test2	245	Port Input	77					602598	1392	1
+test2	245	Port Input	49					602618	1412	1
+test2	245	Port Input	55					602628	1422	1
+test2	245	Port Input	100					602638	1432	1
+test2	246	Save Logfile	Measurement,38.1	Measurement	38.1			604033	0	296			0		other	0
+test2	246	Port Input	77					605428	1395	1
+test2	246	Port Input	49					605448	1415	1
+test2	246	Port Input	55					605458	1425	1
+test2	246	Port Input	100					605468	1435	1
+test2	247	Save Logfile	VAS Change,38.1,13	VAS Change	38.1	13		606863	0	299			0		other	0
+test2	248	Save Logfile	Measurement,38.1	Measurement	38.1			607200	0	279			0		other	0
+test2	248	Port Input	77					608598	1398	1
+test2	248	Port Input	49					608618	1418	1
+test2	248	Port Input	55					608628	1428	1
+test2	248	Port Input	100					608638	1438	1
+test2	249	Save Logfile	VAS Change,38.1,12	VAS Change	38.1	12		610034	0	284			0		other	0
+test2	250	Save Logfile	Measurement,38.1	Measurement	38.1			610364	0	277			0		other	0
+test2	250	Port Input	77					611758	1394	1
+test2	250	Port Input	49					611778	1414	1
+test2	250	Port Input	55					611788	1424	1
+test2	250	Port Input	100					611798	1434	1
+test2	251	Save Logfile	VAS Change,38.1,11	VAS Change	38.1	11		613203	0	294			0		other	0
+test2	252	Save Logfile	Measurement,38.1	Measurement	38.1			613528	0	286			0		other	0
+test2	252	Port Input	77					614928	1400	1
+test2	252	Port Input	49					614948	1420	2
+test2	252	Port Input	55					614958	1430	1
+test2	252	Port Input	100					614968	1440	1
+test2	253	Save Logfile	VAS Change,38.1,10	VAS Change	38.1	10		616373	0	295			0		other	0
+test2	254	Save Logfile	Measurement,38.1	Measurement	38.1			616859	0	284			0		other	0
+test2	254	Port Input	77					618258	1399	1
+test2	254	Port Input	49					618278	1419	1
+test2	254	Port Input	55					618288	1429	1
+test2	254	Port Input	100					618298	1439	1
+test2	255	Save Logfile	VAS Change,38.1,9	VAS Change	38.1	9		619693	0	322			0		other	0
+test2	256	Save Logfile	Measurement,38.1	Measurement	38.1			620190	0	278			0		other	0
+test2	256	Port Input	77					621588	1398	1
+test2	256	Port Input	49					621608	1418	1
+test2	256	Port Input	55					621618	1428	1
+test2	256	Port Input	100					621628	1438	1
+test2	257	Save Logfile	VAS Change,38.1,7	VAS Change	38.1	7		623023	0	295			0		other	0
+test2	258	Save Logfile	Measurement,38.1	Measurement	38.1			623354	0	276			0		other	0
+test2	258	Port Input	77					624748	1394	1
+test2	258	Port Input	49					624768	1414	1
+test2	258	Port Input	55					624778	1424	1
+test2	258	Port Input	99					624788	1434	1
+test2	259	Save Logfile	VAS Change,38,6	VAS Change	38	6		626186	0	448			0		other	0
+test2	260	Save Logfile	Measurement,38	Measurement	38			626685	0	281			0		other	0
+test2	260	Port Input	77					628078	1393	2
+test2	260	Port Input	49					628098	1413	1
+test2	260	Port Input	55					628108	1423	1
+test2	260	Port Input	100					628118	1433	1
+test2	261	Save Logfile	Measurement,38.1	Measurement	38.1			629515	0	485			0		other	0
+test2	261	Port Input	77					631248	1733	2
+test2	261	Port Input	49					631268	1753	1
+test2	261	Port Input	55					631278	1763	1
+test2	261	Port Input	99					631288	1773	1
+test2	262	Save Logfile	VAS Change,38,4	VAS Change	38	4		632686	0	469			0		other	0
+test2	263	Save Logfile	Measurement,38	Measurement	38			633346	0	289			0		other	0
+test2	263	Port Input	77					634670	1324	115
+test2	263	Port Input	49					634670	1324	115
+test2	263	Port Input	55					634670	1324	115
+test2	263	Port Input	99					634670	1324	115
+test2	264	Save Logfile	VAS Change,38,3	VAS Change	38	3		636283	0	294			0		other	0
+test2	265	Save Logfile	Measurement,38	Measurement	38			636677	0	293			0		other	0
+test2	265	Port Input	77					638078	1401	2
+test2	265	Port Input	49					638098	1421	1
+test2	265	Port Input	55					638108	1431	1
+test2	265	Port Input	99					638118	1441	1
+test2	266	Save Logfile	Measurement,38	Measurement	38			639523	0	299			0		other	0
+test2	266	Port Input	77					641068	1545	1
+test2	266	Port Input	49					641088	1565	1
+test2	266	Port Input	55					641098	1575	1
+test2	266	Port Input	99					641108	1585	1
+test2	267	Save Logfile	Measurement,38	Measurement	38			642513	0	295			0		other	0
+test2	267	Port Input	77					643898	1385	1
+test2	267	Port Input	49					643918	1405	1
+test2	267	Port Input	55					643928	1415	1
+test2	267	Port Input	100					643938	1425	1
+test2	268	Save Logfile	Measurement,38.1	Measurement	38.1			645343	0	308			0		other	0
+test2	268	Port Input	77					646898	1555	2
+test2	268	Port Input	49					646918	1575	1
+test2	268	Port Input	55					646928	1585	2
+test2	268	Port Input	99					646938	1595	1
+test2	269	Save Logfile	Measurement,38	Measurement	38			648333	0	336			0		other	0
+test2	269	Port Input	77					649899	1566	1
+test2	269	Port Input	49					649918	1585	1
+test2	269	Port Input	55					649928	1595	1
+test2	269	Port Input	99					649938	1605	1
+test2	270	Save Logfile	Measurement,38	Measurement	38			651343	0	303			0		other	0
+test2	270	Port Input	77					652898	1555	1
+test2	270	Port Input	49					652918	1575	1
+test2	270	Port Input	55					652928	1585	1
+test2	270	Port Input	99					652938	1595	1
+test2	271	Save Logfile	Measurement,38	Measurement	38			654343	0	291			0		other	0
+test2	271	Port Input	77					655728	1385	1
+test2	271	Port Input	49					655748	1405	1
+test2	271	Port Input	55					655758	1415	1
+test2	271	Port Input	99					655768	1425	1
+test2	272	Save Logfile	Measurement,38	Measurement	38			657173	0	313			0		other	0
+test2	272	Port Input	77					658728	1555	1
+test2	272	Port Input	49					658748	1575	1
+test2	272	Port Input	55					658758	1585	1
+test2	272	Port Input	99					658768	1595	1
+test2	273	Save Logfile	Measurement,38	Measurement	38			660174	0	311			0		other	0
+test2	273	Port Input	77					661719	1545	1
+test2	273	Port Input	49					661738	1564	1
+test2	273	Port Input	55					661748	1574	1
+test2	273	Port Input	99					661758	1584	1
+test2	273	Response	2					662363	2189	2
+test2	274	Save Logfile	Measurement,38	Measurement	38			663163	0	302			0		other	0
+test2	275	Save Logfile	Lower Temperature,38	Lower Temperature	38			663656	0	289			0		other	0
+test2	275	Port Input	84					665008	1352	1
+test2	275	Port Input	49					665018	1362	1
+test2	275	Port Input	55					665028	1372	1
+test2	275	Port Input	50					665038	1382	1
+test2	275	Response	2					665648	1992	1
+test2	275	Port Input	67					666538	2882	1
+test2	275	Port Input	48					666548	2892	1
+test2	275	Port Input	48					666558	2902	1
+test2	275	Port Input	50					666568	2912	1
+test2	275	Port Input	77					668038	4382	1
+test2	275	Port Input	49					668058	4402	2
+test2	275	Port Input	55					668068	4412	1
+test2	275	Port Input	99					668078	4422	1
+test2	275	Response	2					668941	5285	1
+test2	276	Save Logfile	Measurement,38	Measurement	38			669483	0	304			0		other	0
+test2	277	Save Logfile	Lower Temperature,38	Lower Temperature	38			669818	0	304			0		other	0
+test2	277	Port Input	84					671188	1370	1
+test2	277	Port Input	49					671198	1380	1
+test2	277	Port Input	54					671208	1390	1
+test2	277	Port Input	56					671218	1400	1
+test2	277	Port Input	67					672708	2890	2
+test2	277	Port Input	48					672718	2900	1
+test2	277	Port Input	48					672728	2910	2
+test2	277	Port Input	50					672738	2920	1
+test2	277	Port Input	77					674209	4391	1
+test2	277	Port Input	49					674228	4410	1
+test2	277	Port Input	55					674238	4420	1
+test2	277	Port Input	49					674248	4430	1
+test2	278	Save Logfile	Measurement,36.9	Measurement	36.9			675653	0	306			0		other	0
+test2	279	Save Logfile	Lower Temperature,36.9	Lower Temperature	36.9			676147	0	293			0		other	0
+test2	279	Port Input	84					677508	1361	2
+test2	279	Port Input	49					677518	1371	1
+test2	279	Port Input	53					677528	1381	1
+test2	279	Port Input	101					677538	1391	1
+test2	279	Port Input	67					679039	2892	1
+test2	279	Port Input	48					679048	2901	1
+test2	279	Port Input	48					679058	2911	2
+test2	279	Port Input	50					679068	2921	2
+test2	279	Response	2					679728	3581	1
+test2	279	Port Input	77					680538	4391	2
+test2	279	Port Input	49					680558	4411	2
+test2	279	Port Input	54					680568	4421	1
+test2	279	Port Input	55					680578	4431	1
+test2	280	Save Logfile	Measurement,35.9	Measurement	35.9			681983	0	308			0		other	0
+test2	281	Save Logfile	Lower Temperature,35.9	Lower Temperature	35.9			682475	0	310			0		other	0
+test2	281	Response	2					682475	0	155
+test2	281	Port Input	84					683848	1373	2
+test2	281	Port Input	49					683858	1383	1
+test2	281	Port Input	53					683868	1393	1
+test2	281	Port Input	52					683878	1403	2
+test2	281	Response	2					684730	2255	1
+test2	281	Port Input	67					685378	2903	2
+test2	281	Port Input	48					685388	2913	2
+test2	281	Port Input	48					685398	2923	2
+test2	281	Port Input	50					685408	2933	2
+test2	281	Port Input	77					686879	4404	1
+test2	281	Port Input	49					686898	4423	2
+test2	281	Port Input	53					686918	4443	2
+test2	281	Response	2					686991	4516	1
+test2	281	Response	2					689136	6661	1
+test2	281	Port Input	100					689388	6913	2
+test2	281	Port Input	77					689409	6934	1
+test2	281	Port Input	49					689418	6943	2
+test2	281	Port Input	53					689428	6953	1
+test2	282	Save Logfile	Measurement,34.9	Measurement	34.9			690834	0	527			0		other	0
+test2	282	Response	2					690834	0	519
+test2	283	Save Logfile	Lower Temperature,34.9	Lower Temperature	34.9			691468	0	301			0		other	0
+test2	283	Port Input	55					692838	1370	2
+test2	283	Port Input	84					692849	1381	1
+test2	283	Port Input	49					692858	1390	2
+test2	283	Port Input	52					692868	1400	2
+test2	283	Response	2					693486	2018	1
+test2	283	Port Input	97					694369	2901	1
+test2	283	Port Input	67					694378	2910	2
+test2	283	Port Input	48					694388	2920	2
+test2	283	Port Input	48					694399	2931	1
+test2	283	Port Input	50					695868	4400	2
+test2	283	Port Input	77					695888	4420	2
+test2	283	Port Input	49					695898	4430	2
+test2	283	Port Input	53					695908	4440	2
+test2	283	Port Input	51					698379	6911	1
+test2	283	Port Input	77					698398	6930	2
+test2	283	Port Input	49					698408	6940	2
+test2	283	Port Input	52					698418	6950	2
+test2	284	Save Logfile	Measurement,33.9	Measurement	33.9			699813	0	323			0		other	0
+test2	285	Save Logfile	Lower Temperature,33.9	Lower Temperature	33.9			700295	0	303			0		other	0
+test2	285	Port Input	100					701669	1374	1
+test2	285	Port Input	84					701679	1384	1
+test2	285	Port Input	49					701688	1393	2
+test2	285	Port Input	52					701699	1404	1
+test2	285	Port Input	48					703199	2904	1
+test2	285	Port Input	67					703208	2913	2
+test2	285	Port Input	48					703219	2924	1
+test2	285	Port Input	48					703229	2934	1
+test2	285	Port Input	50					704699	4404	1
+test2	285	Port Input	77					704719	4424	1
+test2	285	Port Input	49					704728	4433	2
+test2	285	Port Input	52					704739	4444	1
+test2	285	Port Input	97					707209	6914	1
+test2	285	Port Input	77					707229	6934	1
+test2	285	Port Input	49					707239	6944	1
+test2	285	Port Input	52					707248	6953	2
+test2	286	Save Logfile	Measurement,33	Measurement	33			708727	0	379			0		other	0
+test2	287	Save Logfile	Lower Temperature,33	Lower Temperature	33			709288	0	308			0		other	0
+test2	287	Port Input	51					710659	1371	1
+test2	287	Port Input	84					710668	1380	2
+test2	287	Port Input	49					710678	1390	2
+test2	287	Port Input	51					710689	1401	1
+test2	287	Port Input	54					712189	2901	1
+test2	287	Port Input	67					712199	2911	1
+test2	287	Port Input	48					712209	2921	1
+test2	287	Port Input	48					712219	2931	1
+test2	287	Port Input	50					713689	4401	1
+test2	287	Port Input	77					713708	4420	2
+test2	287	Port Input	49					713718	4430	2
+test2	287	Port Input	51					713729	4441	1
+test2	287	Port Input	102					716199	6911	1
+test2	287	Port Input	77					716219	6931	1
+test2	287	Port Input	49					716229	6941	1
+test2	287	Port Input	51					716239	6951	1
+test2	288	Save Logfile	Measurement,31.9	Measurement	31.9			717643	0	1965			0		other	0
+test2	289	Save Logfile	Lower Temperature,31.9	Lower Temperature	31.9			719780	0	5825			0		other	0
+test2	289	Port Input	57					726669	6889	1
+test2	289	Port Input	84					726679	6899	1
+test2	289	Port Input	49					726689	6909	1
+test2	289	Port Input	50					726699	6919	1
+test2	289	Port Input	99					728199	8419	1
+test2	289	Port Input	67					728209	8429	1
+test2	289	Port Input	48					728219	8439	1
+test2	289	Port Input	48					728229	8449	1
+test2	289	Port Input	50					729699	9919	1
+test2	289	Port Input	77					729719	9939	1
+test2	289	Port Input	49					729729	9949	1
+test2	289	Port Input	51					729739	9959	1
+test2	289	Port Input	54					732209	12429	1
+test2	289	Port Input	77					732228	12448	9
+test2	289	Port Input	49					732238	12458	2
+test2	289	Port Input	50					732249	12469	1
+test2	290	Save Logfile	VAS Change,31,5	VAS Change	31	5		733654	0	334			0		other	0
+test2	291	Save Logfile	Measurement,31	Measurement	31			734102	0	318			0		other	0
+test2	292	Save Logfile	Lower Temperature,31	Lower Temperature	31			734602	0	348			0		other	0
+test2	292	Port Input	102					736019	1417	1
+test2	292	Port Input	84					736029	1427	1
+test2	292	Port Input	49					736039	1437	1
+test2	292	Port Input	50					736049	1447	1
+test2	292	Port Input	50					737549	2947	1
+test2	292	Port Input	67					737559	2957	1
+test2	292	Port Input	48					737568	2966	2
+test2	292	Port Input	48					737579	2977	1
+test2	292	Port Input	50					739105	4503	5
+test2	292	Port Input	77					739129	4527	1
+test2	292	Port Input	49					739139	4537	1
+test2	292	Port Input	50					739149	4547	1
+test2	292	Port Input	99					741619	7017	1
+test2	292	Port Input	77					741639	7037	1
+test2	292	Port Input	49					741649	7047	1
+test2	292	Port Input	50					741659	7057	1
+test2	293	Save Logfile	VAS Change,30,8	VAS Change	30	8		743066	0	5154			0		other	0
+test2	293	Response	2					743066	0	3315
+test2	294	Save Logfile	Measurement,30	Measurement	30			748258	0	4563			0		other	0
+test2	294	Response	2					748258	0	1008
+test2	295	Save Logfile	Lower Temperature,30	Lower Temperature	30			752921	0	329			0		other	0
+test2	295	Port Input	53					754320	1399	45
+test2	295	Port Input	84					754320	1399	45
+test2	295	Port Input	49					754320	1399	45
+test2	295	Port Input	49					754369	1448	1
+test2	295	Port Input	56					755889	2968	1
+test2	295	Port Input	67					755899	2978	1
+test2	295	Port Input	48					755909	2988	1
+test2	295	Port Input	48					755919	2998	1
+test2	295	Port Input	50					757389	4468	1
+test2	295	Port Input	77					757409	4488	1
+test2	295	Port Input	49					757419	4498	1
+test2	295	Port Input	50					757429	4508	1
+test2	295	Response	2					758211	5290	1
+test2	295	Port Input	50					759899	6978	1
+test2	295	Port Input	77					759918	6997	3
+test2	295	Port Input	49					759928	7007	2
+test2	295	Port Input	49					759939	7018	1
+test2	296	Save Logfile	Measurement,29	Measurement	29			761348	0	851			0		other	0
+test2	297	Save Logfile	Lower Temperature,29	Lower Temperature	29			762247	0	329			0		other	0
+test2	297	Response	2					763515	1268	1
+test2	297	Port Input	98					763639	1392	1
+test2	297	Port Input	84					763649	1402	1
+test2	297	Port Input	49					763659	1412	1
+test2	297	Port Input	48					763669	1422	1
+test2	297	Port Input	101					765169	2922	1
+test2	297	Port Input	67					765179	2932	1
+test2	297	Port Input	48					765189	2942	1
+test2	297	Port Input	48					765199	2952	1
+test2	297	Response	2					766559	4312	1
+test2	297	Port Input	50					766669	4422	1
+test2	297	Port Input	77					766689	4442	1
+test2	297	Port Input	49					766699	4452	1
+test2	297	Port Input	49					766709	4462	1
+test2	297	Response	2					768958	6711	1
+test2	297	Port Input	56					769179	6932	1
+test2	297	Port Input	77					769199	6952	1
+test2	297	Port Input	49					769209	6962	1
+test2	297	Port Input	49					769219	6972	1
+test2	298	Save Logfile	Measurement,28	Measurement	28			770624	0	546			0		other	0
+test2	298	Response	2					771220	596	1
+test2	299	Save Logfile	Lower Temperature,28	Lower Temperature	28			771240	0	348			0		other	0
+test2	299	Port Input	50					772659	1419	1
+test2	299	Port Input	84					772669	1429	1
+test2	299	Port Input	49					772679	1439	1
+test2	299	Port Input	48					772689	1449	1
+test2	299	Response	2					773635	2395	1
+test2	299	Port Input	52					774189	2949	1
+test2	299	Port Input	67					774199	2959	1
+test2	299	Port Input	48					774209	2969	1
+test2	299	Port Input	48					774219	2979	1
+test2	299	Port Input	50					775689	4449	1
+test2	299	Port Input	77					775709	4469	1
+test2	299	Port Input	49					775719	4479	1
+test2	299	Port Input	48					775729	4489	1
+test2	299	Port Input	101					778199	6959	1
+test2	299	Port Input	77					778219	6979	1
+test2	299	Port Input	49					778229	6989	1
+test2	299	Port Input	48					778239	6999	1
+test2	300	Save Logfile	Measurement,27	Measurement	27			779648	0	355			0		other	0
+test2	301	Save Logfile	Lower Temperature,27	Lower Temperature	27			780067	0	345			0		other	0
+test2	301	Port Input	55					781479	1412	1
+test2	301	Port Input	84					781489	1422	1
+test2	301	Port Input	48					781499	1432	1
+test2	301	Port Input	102					781509	1442	1
+test2	301	Port Input	97					783009	2942	1
+test2	301	Port Input	67					783019	2952	1
+test2	301	Port Input	48					783029	2962	1
+test2	301	Port Input	48					783039	2972	1
+test2	301	Port Input	50					784509	4442	1
+test2	301	Port Input	77					784529	4462	1
+test2	301	Port Input	49					784539	4472	1
+test2	301	Port Input	48					784549	4482	1
+test2	301	Port Input	52					787019	6952	1
+test2	301	Port Input	77					787029	6962	1
+test2	301	Port Input	48					787039	6972	1
+test2	301	Port Input	102					787049	6982	1
+test2	302	Save Logfile	Measurement,26	Measurement	26			788464	0	357			0		other	0
+test2	303	Save Logfile	Lower Temperature,26	Lower Temperature	26			788893	0	347			0		other	0
+test2	303	Port Input	101					790309	1416	1
+test2	303	Port Input	84					790319	1426	1
+test2	303	Port Input	48					790329	1436	1
+test2	303	Port Input	102					790339	1446	1
+test2	303	Port Input	48					791839	2946	1
+test2	303	Port Input	67					791849	2956	1
+test2	303	Port Input	48					791859	2966	1
+test2	303	Port Input	48					791869	2976	1
+test2	303	Port Input	50					793339	4446	1
+test2	303	Port Input	77					793349	4456	1
+test2	303	Port Input	48					793359	4466	1
+test2	303	Port Input	102					793369	4476	1
+test2	303	Port Input	97					795849	6956	1
+test2	303	Port Input	77					795859	6966	1
+test2	303	Port Input	48					795869	6976	1
+test2	303	Port Input	102					795879	6986	1
+test2	304	Save Logfile	Measurement,25	Measurement	25			797294	0	356			0		other	0
+test2	305	Save Logfile	Lower Temperature,25	Lower Temperature	25			797720	0	349			0		other	0
+test2	305	Port Input	52					799140	1420	1
+test2	305	Port Input	84					799149	1429	1
+test2	305	Port Input	48					799159	1439	1
+test2	305	Port Input	101					799169	1449	1
+test2	305	Port Input	54					800669	2949	1
+test2	305	Port Input	67					800679	2959	1
+test2	305	Port Input	48					800689	2969	1
+test2	305	Port Input	48					800699	2979	1
+test2	305	Port Input	50					802169	4449	1
+test2	305	Port Input	77					802179	4459	1
+test2	305	Port Input	48					802189	4469	1
+test2	305	Port Input	102					802199	4479	1
+test2	305	Port Input	48					804679	6959	1
+test2	305	Port Input	77					804689	6969	1
+test2	305	Port Input	48					804699	6979	1
+test2	305	Port Input	101					804709	6989	1
+test2	306	Save Logfile	VAS Change,24,9	VAS Change	24	9		806124	0	374			0		other	0
+test2	307	Save Logfile	Measurement,24	Measurement	24			806546	0	356			0		other	0
+test2	308	Save Logfile	Lower Temperature,24	Lower Temperature	24			807046	0	370			0		other	0
+test2	308	Port Input	97					808479	1433	2
+test2	308	Port Input	84					808489	1443	1
+test2	308	Port Input	48					808499	1453	1
+test2	308	Port Input	100					808509	1463	1
+test2	308	Port Input	99					810009	2963	1
+test2	308	Port Input	67					810019	2973	1
+test2	308	Port Input	48					810029	2983	1
+test2	308	Port Input	48					810039	2993	1
+test2	308	Response	2					810898	3852	1
+test2	308	Port Input	50					811503	4457	10
+test2	308	Port Input	77					811519	4473	1
+test2	308	Port Input	48					811529	4483	1
+test2	308	Port Input	101					811539	4493	1
+test2	308	Response	2					813540	6494	1
+test2	308	Port Input	54					814019	6973	2
+test2	308	Port Input	77					814029	6983	1
+test2	308	Port Input	48					814039	6993	1
+test2	308	Port Input	101					814049	7003	1
+test2	309	Save Logfile	Measurement,23	Measurement	23			815464	0	376			0		other	0
+test2	309	Response	2					815464	0	192
+test2	310	Save Logfile	Lower Temperature,23	Lower Temperature	23			816039	0	354			0		other	0
+test2	310	Port Input	48					817459	1420	1
+test2	310	Port Input	84					817469	1430	1
+test2	310	Port Input	48					817479	1440	1
+test2	310	Port Input	100					817489	1450	1
+test2	310	Response	2					817709	1670	1
+test2	310	Port Input	50					818989	2950	2
+test2	310	Port Input	67					818999	2960	1
+test2	310	Port Input	48					819009	2970	1
+test2	310	Port Input	48					819019	2980	1
+test2	310	Response	2					819652	3613	1
+test2	310	Port Input	50					820489	4450	1
+test2	310	Port Input	77					820499	4460	1
+test2	310	Port Input	48					820509	4470	1
+test2	310	Port Input	100					820519	4480	1
+test2	310	Response	2					821579	5540	1
+test2	310	Port Input	99					822999	6960	2
+test2	310	Port Input	77					823009	6970	1
+test2	310	Port Input	48					823019	6980	1
+test2	310	Port Input	100					823029	6990	1
+test2	310	Response	2					823412	7373	1
+test2	311	Save Logfile	Measurement,22	Measurement	22			824444	0	386			0		other	0
+test2	312	Save Logfile	Lower Temperature,22	Lower Temperature	22			824866	0	366			0		other	0
+test2	312	Response	2					825264	398	1
+test2	312	Port Input	54					826299	1433	2
+test2	312	Port Input	84					826309	1443	1
+test2	312	Port Input	48					826319	1453	1
+test2	312	Port Input	99					826329	1463	1
+test2	312	Response	2					827263	2397	1
+test2	312	Port Input	56					827829	2963	1
+test2	312	Port Input	67					827839	2973	1
+test2	312	Port Input	48					827849	2983	1
+test2	312	Port Input	48					827859	2993	1
+test2	312	Response	2					829108	4242	2
+test2	312	Port Input	50					829329	4463	1
+test2	312	Port Input	77					829339	4473	1
+test2	312	Port Input	48					829349	4483	1
+test2	312	Port Input	100					829359	4493	1
+test2	312	Port Input	50					831879	7013	2
+test2	312	Port Input	77					831889	7023	1
+test2	312	Port Input	48					831889	7023	1
+test2	312	Port Input	99					831889	7023	1
+test2	313	Save Logfile	Measurement,21	Measurement	21			833284	0	380			0		other	0
+test2	314	Save Logfile	Lower Temperature,21	Lower Temperature	21			833692	0	366			0		other	0
+test2	314	Port Input	99					835119	1427	1
+test2	314	Port Input	84					835129	1437	1
+test2	314	Port Input	48					835139	1447	1
+test2	314	Port Input	98					835149	1457	1
+test2	314	Port Input	101					836650	2958	1
+test2	314	Port Input	67					836659	2967	1
+test2	314	Port Input	48					836669	2977	1
+test2	314	Port Input	48					836679	2987	1
+test2	314	Port Input	50					838159	4467	1
+test2	314	Port Input	77					838169	4477	1
+test2	314	Port Input	48					838179	4487	1
+test2	314	Port Input	99					838190	4498	1
+test2	314	Port Input	57					840669	6977	2
+test2	314	Port Input	77					840679	6987	1
+test2	314	Port Input	48					840689	6997	1
+test2	314	Port Input	99					840739	7047	1
+test2	315	Save Logfile	VAS Change,20.1,10	VAS Change	20.1	10		842114	0	377			0		other	0
+test2	316	Save Logfile	Measurement,20.1	Measurement	20.1			842518	0	372			0		other	0
+test2	317	Save Logfile	Lower Temperature,20.1	Lower Temperature	20.1			843018	0	395			0		other	0
+test2	317	Port Input	50					844479	1461	1
+test2	317	Port Input	84					844489	1471	1
+test2	317	Port Input	48					844499	1481	1
+test2	317	Port Input	98					844509	1491	1
+test2	317	Port Input	52					846009	2991	1
+test2	317	Port Input	67					846019	3001	1
+test2	317	Port Input	48					846029	3011	1
+test2	317	Port Input	48					846039	3021	1
+test2	317	Port Input	50					847510	4492	1
+test2	317	Port Input	77					847519	4501	1
+test2	317	Port Input	48					847529	4511	1
+test2	317	Port Input	98					847539	4521	1
+test2	317	Port Input	101					850019	7001	2
+test2	317	Port Input	77					850029	7011	1
+test2	317	Port Input	48					850039	7021	1
+test2	317	Port Input	98					850049	7031	1
+test2	318	Save Logfile	VAS Change,19,13	VAS Change	19	13		851464	0	389			0		other	0
+test2	319	Save Logfile	Measurement,19	Measurement	19			852011	0	377			0		other	0
+test2	320	Save Logfile	Lower Temperature,19	Lower Temperature	19			852511	0	409			0		other	0
+test2	320	Port Input	56					853989	1478	1
+test2	320	Port Input	84					853999	1488	1
+test2	320	Port Input	48					854009	1498	1
+test2	320	Port Input	97					854019	1508	2
+test2	320	Port Input	97					855519	3008	1
+test2	320	Port Input	67					855529	3018	1
+test2	320	Port Input	48					855539	3028	1
+test2	320	Port Input	48					855549	3038	1
+test2	320	Port Input	50					857020	4509	1
+test2	320	Port Input	77					857029	4518	1
+test2	320	Port Input	48					857039	4528	1
+test2	320	Port Input	98					857049	4538	1
+test2	320	Port Input	53					859530	7019	1
+test2	320	Port Input	77					859539	7028	1
+test2	320	Port Input	48					859549	7038	3
+test2	320	Port Input	97					859559	7048	2
+test2	321	Save Logfile	VAS Change,18.1,14	VAS Change	18.1	14		860974	0	515			0		other	0
+test2	322	Save Logfile	Measurement,18.1	Measurement	18.1			861670	0	385			0		other	0
+test2	323	Save Logfile	Lower Temperature,18.1	Lower Temperature	18.1			862170	0	385			0		other	0
+test2	323	Port Input	101					863620	1450	1
+test2	323	Port Input	84					863629	1459	1
+test2	323	Port Input	48					863639	1469	1
+test2	323	Port Input	97					863649	1479	1
+test2	323	Port Input	48					865149	2979	2
+test2	323	Port Input	67					865159	2989	2
+test2	323	Port Input	48					865169	2999	1
+test2	323	Port Input	48					865179	3009	1
+test2	323	Port Input	50					866650	4480	1
+test2	323	Port Input	77					866659	4489	2
+test2	323	Port Input	48					866669	4499	2
+test2	323	Port Input	97					866679	4509	2
+test2	323	Port Input	98					869160	6990	1
+test2	323	Port Input	77					869169	6999	2
+test2	323	Port Input	48					869179	7009	1
+test2	323	Port Input	97					869189	7019	2
+test2	324	Save Logfile	VAS Change,17.1,16	VAS Change	17.1	16		870627	0	583			0		other	0
+test2	325	Save Logfile	Measurement,17.1	Measurement	17.1			871329	0	388			0		other	0
+test2	326	Save Logfile	Lower Temperature,17.1	Lower Temperature	17.1			871829	0	513			0		other	0
+test2	326	Port Input	53					873409	1580	2
+test2	326	Port Input	84					873419	1590	2
+test2	326	Port Input	48					873429	1600	1
+test2	326	Port Input	57					873433	1604	79
+test2	326	Port Input	54					874940	3111	1
+test2	326	Port Input	67					874949	3120	2
+test2	326	Port Input	48					874959	3130	2
+test2	326	Port Input	48					874969	3140	2
+test2	326	Port Input	50					876450	4621	1
+test2	326	Port Input	77					876459	4630	2
+test2	326	Port Input	48					876469	4640	2
+test2	326	Port Input	97					876479	4650	2
+test2	326	Port Input	49					878960	7131	1
+test2	326	Port Input	77					878969	7140	2
+test2	326	Port Input	48					878979	7150	2
+test2	326	Port Input	57					878989	7160	2
+test2	327	Save Logfile	VAS Change,16.1,18	VAS Change	16.1	18		880406	0	485			0		other	0
+test2	328	Save Logfile	Measurement,16.1	Measurement	16.1			880989	0	400			0		other	0
+test2	329	Save Logfile	Lower Temperature,16.1	Lower Temperature	16.1			881489	0	390			0		other	0
+test2	329	Port Input	98					882950	1461	1
+test2	329	Port Input	84					882959	1470	2
+test2	329	Port Input	48					882969	1480	2
+test2	329	Port Input	56					882979	1490	2
+test2	329	Port Input	99					884480	2991	1
+test2	329	Port Input	67					884490	3001	1
+test2	329	Port Input	48					884499	3010	2
+test2	329	Port Input	48					884509	3020	2
+test2	329	Port Input	50					885910	4421	83
+test2	329	Port Input	77					885910	4421	83
+test2	329	Port Input	48					886000	4511	1
+test2	329	Port Input	57					886010	4521	1
+test2	329	Port Input	55					888571	7082	1
+test2	329	Port Input	77					888579	7090	2
+test2	329	Port Input	48					888579	7090	2
+test2	329	Port Input	57					888590	7101	1
+test2	330	Save Logfile	VAS Change,15.1,22	VAS Change	15.1	22		890006	0	431			0		other	0
+test2	331	Save Logfile	Measurement,15.1	Measurement	15.1			890482	0	401			0		other	0
+test2	332	Save Logfile	Lower Temperature,15.1	Lower Temperature	15.1			890981	0	409			0		other	0
+test2	332	Port Input	49					892460	1479	1
+test2	332	Port Input	84					892469	1488	2
+test2	332	Port Input	48					892480	1499	1
+test2	332	Port Input	56					892489	1508	2
+test2	332	Port Input	50					893990	3009	1
+test2	332	Port Input	67					894000	3019	1
+test2	332	Port Input	48					894009	3028	2
+test2	332	Port Input	48					894020	3039	1
+test2	332	Port Input	50					895490	4509	1
+test2	332	Port Input	77					895500	4519	1
+test2	332	Port Input	48					895509	4528	2
+test2	332	Port Input	56					895520	4539	1
+test2	332	Port Input	100					898000	7019	1
+test2	332	Port Input	77					898010	7029	1
+test2	332	Port Input	48					898020	7039	1
+test2	332	Port Input	56					898030	7049	1
+test2	333	Save Logfile	VAS Change,14.1,24	VAS Change	14.1	24		899444	0	411			0		other	0
+test2	334	Save Logfile	Measurement,14.1	Measurement	14.1			899974	0	394			0		other	0
+test2	335	Save Logfile	Lower Temperature,14.1	Lower Temperature	14.1			900474	0	413			0		other	0
+test2	335	Port Input	55					901950	1476	1
+test2	335	Port Input	84					901960	1486	1
+test2	335	Port Input	48					901970	1496	1
+test2	335	Port Input	55					901980	1506	1
+test2	335	Port Input	56					903470	2996	1
+test2	335	Port Input	67					903490	3016	1
+test2	335	Port Input	48					903500	3026	1
+test2	335	Port Input	48					903510	3036	1
+test2	335	Port Input	50					904970	4496	1
+test2	335	Port Input	77					904990	4516	1
+test2	335	Port Input	48					905000	4526	1
+test2	335	Port Input	56					905010	4536	1
+test2	335	Port Input	52					907490	7016	1
+test2	335	Port Input	77					907500	7026	1
+test2	335	Port Input	48					907510	7036	1
+test2	335	Port Input	55					907520	7046	1
+test2	336	Save Logfile	VAS Change,13.2,35	VAS Change	13.2	35		908934	0	408			0		other	0
+test2	337	Save Logfile	Measurement,13.2	Measurement	13.2			909467	0	394			0		other	0
+test2	338	Save Logfile	Lower Temperature,13.2	Lower Temperature	13.2			909967	0	433			0		other	0
+test2	338	Port Input	100					911470	1503	1
+test2	338	Port Input	84					911479	1512	2
+test2	338	Port Input	48					911490	1523	1
+test2	338	Port Input	54					911500	1533	1
+test2	338	Port Input	101					913000	3033	1
+test2	338	Port Input	67					913010	3043	1
+test2	338	Port Input	48					913020	3053	1
+test2	338	Port Input	48					913030	3063	1
+test2	338	Port Input	50					914490	4523	1
+test2	338	Port Input	77					914510	4543	1
+test2	338	Port Input	48					914520	4553	1
+test2	338	Port Input	55					914530	4563	1
+test2	338	Port Input	97					917000	7033	1
+test2	338	Port Input	77					917020	7053	1
+test2	338	Port Input	48					917030	7063	1
+test2	338	Port Input	55					917040	7073	1
+test2	339	Save Logfile	VAS Change,12.2,36	VAS Change	12.2	36		918454	0	535			0		other	0
+test2	340	Save Logfile	Measurement,12.2	Measurement	12.2			919126	0	418			0		other	0
+test2	341	Save Logfile	Lower Temperature,12.2	Lower Temperature	12.2			919626	0	432			0		other	0
+test2	341	Port Input	52					921120	1494	1
+test2	341	Port Input	84					921130	1504	1
+test2	341	Port Input	48					921140	1514	1
+test2	341	Port Input	54					921150	1524	1
+test2	341	Port Input	52					922650	3024	1
+test2	341	Port Input	67					922660	3034	1
+test2	341	Port Input	48					922670	3044	1
+test2	341	Port Input	48					922680	3054	1
+test2	341	Port Input	50					924140	4514	1
+test2	341	Port Input	77					924160	4534	1
+test2	341	Port Input	48					924171	4545	1
+test2	341	Port Input	55					924180	4554	1
+test2	341	Port Input	48					926650	7024	1
+test2	341	Port Input	77					926670	7044	1
+test2	341	Port Input	48					926680	7054	1
+test2	341	Port Input	54					926690	7064	1
+test2	342	Save Logfile	VAS Change,11.2,42	VAS Change	11.2	42		928104	0	424			0		other	0
+test2	343	Save Logfile	Measurement,11.2	Measurement	11.2			928619	0	405			0		other	0
+test2	343	Port Input	97					930170	1551	1
+test2	343	Port Input	77					930190	1571	1
+test2	343	Port Input	48					930200	1581	1
+test2	343	Port Input	54					930210	1591	1
+test2	344	Save Logfile	VAS Change,10.6,45	VAS Change	10.6	45		931624	0	429			0		other	0
+test2	345	Save Logfile	Measurement,10.6	Measurement	10.6			932116	0	407			0		other	0
+test2	345	Port Input	54					933680	1564	1
+test2	345	Port Input	77					933690	1574	1
+test2	345	Port Input	48					933700	1584	1
+test2	345	Port Input	54					933710	1594	1
+test2	346	Save Logfile	VAS Change,10.2,51	VAS Change	10.2	51		935124	0	415			0		other	0
+test2	347	Save Logfile	Measurement,10.2	Measurement	10.2			935613	0	417			0		other	0
+test2	347	Port Input	55					937170	1557	1
+test2	347	Port Input	77					937190	1577	1
+test2	347	Port Input	48					937200	1587	1
+test2	347	Port Input	54					937210	1597	1
+test2	348	Save Logfile	VAS Change,10.3,52	VAS Change	10.3	52		938624	0	430			0		other	0
+test2	349	Save Logfile	Measurement,10.3	Measurement	10.3			939110	0	419			0		other	0
+test2	349	Port Input	55					940670	1560	1
+test2	349	Port Input	77					940690	1580	1
+test2	349	Port Input	48					940700	1590	1
+test2	349	Port Input	54					940710	1600	1
+test2	350	Save Logfile	Measurement,10.3	Measurement	10.3			942124	0	427			0		other	0
+test2	350	Port Input	55					943660	1536	1
+test2	350	Port Input	77					943680	1556	1
+test2	350	Port Input	48					943690	1566	1
+test2	350	Port Input	54					943700	1576	1
+test2	351	Save Logfile	Measurement,10.3	Measurement	10.3			945113	0	436			0		other	0
+test2	351	Port Input	55					946660	1547	2
+test2	351	Port Input	77					946680	1567	1
+test2	351	Port Input	48					946690	1577	1
+test2	351	Port Input	54					946700	1587	1
+test2	352	Save Logfile	Measurement,10.3	Measurement	10.3			948114	0	618			0		other	0
+test2	352	Port Input	55					949990	1876	1
+test2	352	Port Input	77					950010	1896	1
+test2	352	Port Input	48					950020	1906	1
+test2	352	Port Input	54					950030	1916	1
+test2	353	Save Logfile	Measurement,10.3	Measurement	10.3			951444	0	439			0		other	0
+test2	353	Response	2					952550	1106	2
+test2	353	Port Input	55					952990	1546	1
+test2	353	Port Input	77					953010	1566	1
+test2	353	Port Input	48					953020	1576	1
+test2	353	Port Input	54					953030	1586	1
+test2	354	Save Logfile	Measurement,10.3	Measurement	10.3			954444	0	430			0		other	0
+test2	354	Response	2					954444	0	229
+test2	355	Save Logfile	Lower Temperature,10.3	Lower Temperature	10.3			954932	0	427			0		other	0
+test2	355	Port Input	55					956430	1498	1
+test2	355	Port Input	84					956440	1508	1
+test2	355	Port Input	48					956450	1518	1
+test2	355	Port Input	53					956460	1528	1
+test2	355	Response	2					956737	1805	1
+test2	355	Port Input	97					957960	3028	1
+test2	355	Port Input	67					957970	3038	1
+test2	355	Port Input	48					957980	3048	1
+test2	355	Port Input	48					957990	3058	1
+test2	355	Response	2					958760	3828	1
+test2	355	Port Input	50					959460	4528	1
+test2	355	Port Input	77					959470	4538	1
+test2	355	Port Input	48					959480	4548	1
+test2	355	Port Input	54					959490	4558	1
+test2	355	Port Input	54					961969	7037	3
+test2	355	Port Input	77					961980	7048	1
+test2	355	Port Input	48					961990	7058	1
+test2	355	Port Input	54					961999	7067	2
+test2	356	Save Logfile	Measurement,10.2	Measurement	10.2			963413	0	456			0		other	0
+test2	357	Save Logfile	Lower Temperature,10.2	Lower Temperature	10.2			963925	0	416			0		other	0
+test2	357	Port Input	49					965410	1485	1
+test2	357	Port Input	84					965420	1495	2
+test2	357	Port Input	48					965430	1505	1
+test2	357	Port Input	53					965440	1515	1
+test2	357	Port Input	48					966940	3015	1
+test2	357	Port Input	67					966950	3025	1
+test2	357	Port Input	48					966960	3035	2
+test2	357	Port Input	48					966970	3045	1
+test2	357	Port Input	50					968430	4505	1
+test2	357	Port Input	77					968450	4525	1
+test2	357	Port Input	48					968460	4535	1
+test2	357	Port Input	53					968470	4545	1
+test2	357	Port Input	100					970905	6980	44
+test2	357	Port Input	77					970960	7035	1
+test2	357	Port Input	48					970970	7045	1
+test2	357	Port Input	53					970980	7055	1
+test2	358	Save Logfile	Measurement,9.3	Measurement	9.3			972393	0	446			0		other	0
+test2	359	Save Logfile	Lower Temperature,9.3	Lower Temperature	9.3			972918	0	428			0		other	0
+test2	359	Port Input	55					974410	1492	1
+test2	359	Port Input	84					974420	1502	1
+test2	359	Port Input	48					974430	1512	1
+test2	359	Port Input	52					974440	1522	1
+test2	359	Port Input	54					975930	3012	1
+test2	359	Port Input	67					975950	3032	1
+test2	359	Port Input	48					975960	3042	1
+test2	359	Port Input	48					975970	3052	1
+test2	359	Port Input	50					977450	4532	1
+test2	359	Port Input	77					977460	4542	1
+test2	359	Port Input	48					977470	4552	1
+test2	359	Port Input	53					977480	4562	1
+test2	359	Port Input	51					979960	7042	1
+test2	359	Port Input	77					979970	7052	1
+test2	359	Port Input	48					979980	7062	1
+test2	359	Port Input	52					979990	7072	1
+test2	360	Save Logfile	VAS Change,8.3,56	VAS Change	8.3	56		981406	0	578			0		other	0
+test2	361	Save Logfile	Measurement,8.3	Measurement	8.3			982078	0	433			0		other	0
+test2	362	Save Logfile	Lower Temperature,8.3	Lower Temperature	8.3			982578	0	653			0		other	0
+test2	362	Port Input	100					984300	1722	1
+test2	362	Port Input	84					984306	1728	11
+test2	362	Port Input	48					984320	1742	1
+test2	362	Port Input	51					984330	1752	1
+test2	362	Port Input	99					985830	3252	1
+test2	362	Port Input	67					985840	3262	1
+test2	362	Port Input	48					985850	3272	1
+test2	362	Port Input	48					985860	3282	2
+test2	362	Port Input	50					987340	4762	2
+test2	362	Port Input	77					987350	4772	1
+test2	362	Port Input	48					987360	4782	1
+test2	362	Port Input	52					987370	4792	1
+test2	362	Port Input	57					989840	7262	1
+test2	362	Port Input	77					989860	7282	1
+test2	362	Port Input	48					989870	7292	1
+test2	362	Port Input	52					989880	7302	1
+test2	363	Save Logfile	VAS Change,7.3,59	VAS Change	7.3	59		991297	0	723			0		other	0
+test2	364	Save Logfile	Measurement,7.3	Measurement	7.3			992070	0	439			0		other	0
+test2	364	Port Input	52					993620	1550	1
+test2	364	Port Input	77					993640	1570	1
+test2	364	Port Input	48					993650	1580	1
+test2	364	Port Input	52					993660	1590	1
+test2	365	Save Logfile	VAS Change,6.8,63	VAS Change	6.8	63		995074	0	456			0		other	0
+test2	366	Save Logfile	Measurement,6.8	Measurement	6.8			995567	0	431			0		other	0
+test2	366	Port Input	48					997120	1553	2
+test2	366	Port Input	77					997140	1573	1
+test2	366	Port Input	48					997150	1583	1
+test2	366	Port Input	52					997160	1593	1
+test2	367	Save Logfile	VAS Change,6.4,66	VAS Change	6.4	66		998574	0	457			0		other	0
+test2	368	Save Logfile	Measurement,6.4	Measurement	6.4			999064	0	432			0		other	0
+test2	368	Port Input	48					1000630	1566	1
+test2	368	Port Input	77					1000640	1576	1
+test2	368	Port Input	48					1000650	1586	1
+test2	368	Port Input	52					1000660	1596	2
+test2	369	Save Logfile	VAS Change,6.4,70	VAS Change	6.4	70		1002074	0	459			0		other	0
+test2	370	Save Logfile	Measurement,6.4	Measurement	6.4			1002562	0	439			0		other	0
+test2	370	Port Input	48					1004120	1558	2
+test2	370	Port Input	77					1004140	1578	1
+test2	370	Port Input	48					1004150	1588	1
+test2	370	Port Input	52					1004161	1599	1
+test2	371	Save Logfile	VAS Change,6.4,72	VAS Change	6.4	72		1005574	0	454			0		other	0
+test2	372	Save Logfile	Measurement,6.4	Measurement	6.4			1006059	0	451			0		other	0
+test2	372	Port Input	48					1007610	1551	1
+test2	372	Port Input	77					1007620	1561	1
+test2	372	Port Input	48					1007640	1581	1
+test2	372	Port Input	52					1007650	1591	1
+test2	373	Save Logfile	VAS Change,6.4,75	VAS Change	6.4	75		1009065	0	462			0		other	0
+test2	374	Save Logfile	Measurement,6.4	Measurement	6.4			1009556	0	454			0		other	0
+test2	374	Port Input	48					1011110	1554	1
+test2	374	Port Input	77					1011130	1574	1
+test2	374	Port Input	48					1011138	1582	10
+test2	374	Port Input	52					1011150	1594	1
+test2	375	Save Logfile	VAS Change,6.4,77	VAS Change	6.4	77		1012564	0	454			0		other	0
+test2	376	Save Logfile	Measurement,6.4	Measurement	6.4			1013053	0	434			0		other	0
+test2	376	Port Input	48					1014610	1557	1
+test2	376	Port Input	77					1014630	1577	1
+test2	376	Port Input	48					1014640	1587	1
+test2	376	Port Input	52					1014650	1597	1
+test2	377	Save Logfile	Measurement,6.4	Measurement	6.4			1016065	0	466			0		other	0
+test2	377	Port Input	48					1017770	1705	2
+test2	377	Port Input	77					1017790	1725	1
+test2	377	Port Input	48					1017800	1735	1
+test2	377	Port Input	52					1017810	1745	1
+test2	378	Save Logfile	VAS Change,6.4,79	VAS Change	6.4	79		1019224	0	479			0		other	0
+test2	379	Save Logfile	Measurement,6.4	Measurement	6.4			1019882	0	447			0		other	0
+test2	379	Port Input	48					1021440	1558	1
+test2	379	Port Input	77					1021460	1578	1
+test2	379	Port Input	48					1021470	1588	1
+test2	379	Port Input	52					1021480	1598	1
+test2	380	Save Logfile	Measurement,6.4	Measurement	6.4			1022895	0	468			0		other	0
+test2	380	Port Input	48					1024600	1705	2
+test2	380	Port Input	77					1024620	1725	1
+test2	380	Port Input	48					1024630	1735	2
+test2	380	Port Input	52					1024640	1745	1
+test2	381	Save Logfile	Measurement,6.4	Measurement	6.4			1026055	0	482			0		other	0
+test2	381	Port Input	48					1027771	1716	1
+test2	381	Port Input	77					1027790	1735	1
+test2	381	Port Input	48					1027800	1745	1
+test2	381	Port Input	52					1027810	1755	1
+test2	382	Save Logfile	Measurement,6.4	Measurement	6.4			1029224	0	480			0		other	0
+test2	382	Port Input	48					1030931	1707	1
+test2	382	Port Input	77					1030950	1726	1
+test2	382	Port Input	48					1030960	1736	1
+test2	382	Port Input	52					1030970	1746	1
+test2	383	Save Logfile	VAS Change,6.4,80	VAS Change	6.4	80		1032384	0	465			0		other	0
+test2	384	Save Logfile	Measurement,6.4	Measurement	6.4			1033038	0	441			0		other	0
+test2	384	Port Input	48					1034590	1552	2
+test2	384	Port Input	77					1034610	1572	1
+test2	384	Port Input	48					1034620	1582	1
+test2	384	Port Input	52					1034630	1592	1
+test2	384	Response	2					1034908	1870	1
+test2	385	Save Logfile	VAS Change,6.4,81	VAS Change	6.4	81		1036044	0	479			0		other	0
+test2	386	Save Logfile	Measurement,6.4	Measurement	6.4			1036702	0	466			0		other	0
+test2	387	Save Logfile	Lower Temperature,6.4	Lower Temperature	6.4			1037202	0	484			0		other	0
+test2	387	Port Input	48					1038751	1549	1
+test2	387	Port Input	84					1038761	1559	1
+test2	387	Port Input	48					1038770	1568	2
+test2	387	Port Input	51					1038780	1578	2
+test2	387	Port Input	50					1040281	3079	1
+test2	387	Port Input	67					1040290	3088	1
+test2	387	Port Input	48					1040310	3108	2
+test2	387	Port Input	48					1040320	3118	2
+test2	387	Port Input	50					1041791	4589	1
+test2	387	Port Input	77					1041810	4608	2
+test2	387	Port Input	48					1041820	4618	1
+test2	387	Port Input	52					1041830	4628	2
+test2	387	Port Input	48					1044301	7099	1
+test2	387	Port Input	77					1044320	7118	2
+test2	387	Port Input	48					1044330	7128	1
+test2	387	Port Input	51					1044340	7138	1
+test2	388	Save Logfile	VAS Change,6.4,84	VAS Change	6.4	84		1045754	0	484			0		other	0
+test2	389	Save Logfile	Measurement,6.4	Measurement	6.4			1046361	0	466			0		other	0
+test2	389	Port Input	97					1047921	1560	1
+test2	389	Port Input	77					1047940	1579	2
+test2	389	Port Input	48					1047950	1589	1
+test2	389	Port Input	51					1047960	1599	1
+test2	390	Save Logfile	VAS Change,5.8,85	VAS Change	5.8	85		1049374	0	486			0		other	0
+test2	391	Save Logfile	Measurement,5.8	Measurement	5.8			1050025	0	473			0		other	0
+test2	391	Port Input	54					1051581	1556	1
+test2	391	Port Input	77					1051600	1575	2
+test2	391	Port Input	48					1051610	1585	2
+test2	391	Port Input	51					1051620	1595	2
+test2	392	Save Logfile	Measurement,5.4	Measurement	5.4			1053034	0	477			0		other	0
+test2	392	Port Input	54					1054741	1707	1
+test2	392	Port Input	77					1054761	1727	1
+test2	392	Port Input	48					1054770	1736	2
+test2	392	Port Input	51					1054780	1746	2
+test2	393	Save Logfile	Measurement,5.4	Measurement	5.4			1056193	0	484			0		other	0
+test2	393	Port Input	54					1057911	1718	1
+test2	393	Port Input	77					1057930	1737	2
+test2	393	Port Input	48					1057940	1747	2
+test2	393	Port Input	51					1057950	1757	2
+test2	394	Save Logfile	VAS Change,5.4,86	VAS Change	5.4	86		1059364	0	488			0		other	0
+test2	395	Save Logfile	Measurement,5.4	Measurement	5.4			1060017	0	477			0		other	0
+test2	395	Port Input	54					1061742	1725	1
+test2	395	Port Input	77					1061760	1743	2
+test2	395	Port Input	48					1061770	1753	2
+test2	395	Port Input	51					1061780	1763	2
+test2	396	Save Logfile	VAS Change,5.4,87	VAS Change	5.4	87		1063194	0	495			0		other	0
+test2	397	Save Logfile	Measurement,5.4	Measurement	5.4			1063848	0	464			0		other	0
+test2	397	Port Input	54					1065401	1553	1
+test2	397	Port Input	77					1065421	1573	1
+test2	397	Port Input	48					1065431	1583	1
+test2	397	Port Input	51					1065439	1591	9
+test2	398	Save Logfile	VAS Change,5.4,90	VAS Change	5.4	90		1066854	0	497			0		other	0
+test2	399	Save Logfile	Measurement,5.4	Measurement	5.4			1067512	0	471			0		other	0
+test2	399	Port Input	54					1069071	1559	1
+test2	399	Port Input	77					1069090	1578	2
+test2	399	Port Input	48					1069100	1588	2
+test2	399	Port Input	51					1069110	1598	2
+test2	400	Save Logfile	VAS Change,5.4,92	VAS Change	5.4	92		1070524	0	471			0		other	0
+test2	401	Save Logfile	Measurement,5.4	Measurement	5.4			1071176	0	462			0		other	0
+test2	401	Port Input	54					1072731	1555	1
+test2	401	Port Input	77					1072751	1575	1
+test2	401	Port Input	48					1072761	1585	1
+test2	401	Port Input	51					1072770	1594	2
+test2	402	Save Logfile	VAS Change,5.4,93	VAS Change	5.4	93		1074191	0	481			0		other	0
+test2	403	Save Logfile	Measurement,5.4	Measurement	5.4			1074839	0	470			0		other	0
+test2	403	Port Input	54					1076401	1562	1
+test2	403	Port Input	77					1076410	1571	2
+test2	403	Port Input	48					1076431	1592	1
+test2	403	Port Input	51					1076441	1602	1
+test2	404	Save Logfile	VAS Change,5.4,95	VAS Change	5.4	95		1077854	0	500			0		other	0
+test2	405	Save Logfile	Measurement,5.4	Measurement	5.4			1078503	0	478			0		other	0
+test2	405	Port Input	54					1080231	1728	1
+test2	405	Port Input	77					1080241	1738	1
+test2	405	Port Input	48					1080261	1758	1
+test2	405	Port Input	51					1080271	1768	1
+test2	406	Save Logfile	VAS Change,5.4,96	VAS Change	5.4	96		1081684	0	492			0		other	0
+test2	407	Save Logfile	Measurement,5.4	Measurement	5.4			1082334	0	471			0		other	0
+test2	407	Port Input	54					1083891	1557	1
+test2	407	Port Input	77					1083911	1577	1
+test2	407	Port Input	48					1083921	1587	1
+test2	407	Port Input	51					1083931	1597	1
+test2	408	Save Logfile	Measurement,5.4	Measurement	5.4			1085343	0	500			0		other	0
+test2	408	Port Input	54					1087051	1708	1
+test2	408	Port Input	77					1087071	1728	1
+test2	408	Port Input	48					1087081	1738	1
+test2	408	Port Input	51					1087091	1748	1
+test2	409	Save Logfile	VAS Change,5.4,100	VAS Change	5.4	100		1088504	0	514			0		other	0
+test2	410	Save Logfile	Measurement,5.4	Measurement	5.4			1089162	0	482			0		other	0
+test2	410	Port Input	54					1090881	1719	1
+test2	410	Port Input	77					1090901	1739	1
+test2	410	Port Input	48					1090910	1748	3
+test2	410	Port Input	51					1090921	1759	1
+test2	411	Save Logfile	Measurement,5.4	Measurement	5.4			1092333	0	487			0		other	0
+test2	411	Port Input	54					1094051	1718	1
+test2	411	Port Input	77					1094071	1738	1
+test2	411	Port Input	48					1094081	1748	1
+test2	411	Port Input	51					1094091	1758	1
+test2	412	Save Logfile	Measurement,5.4	Measurement	5.4			1095505	0	910			0		other	0
+test2	412	Port Input	54					1097561	2056	1
+test2	412	Port Input	77					1097570	2065	3
+test2	412	Port Input	48					1097581	2076	1
+test2	412	Port Input	51					1097591	2086	1
+test2	413	Save Logfile	Measurement,5.4	Measurement	5.4			1099005	0	779			0		other	0
+test2	413	Port Input	54					1101041	2036	1
+test2	413	Port Input	77					1101061	2056	1
+test2	413	Port Input	48					1101071	2066	1
+test2	413	Port Input	51					1101081	2076	1
+test2	414	Save Logfile	Measurement,5.4	Measurement	5.4			1102496	0	791			0		other	0
+test2	414	Port Input	54					1104371	1875	1
+test2	414	Port Input	77					1104391	1895	1
+test2	414	Port Input	48					1104401	1905	1
+test2	414	Port Input	51					1104411	1915	1
+test2	414	Response	1					1105750	3254	1
+test2	415	Save Logfile	Measurement,5.4	Measurement	5.4			1105827	0	783			0		other	0
+test2	416	Save Logfile	Raise Temperature,5.4	Raise Temperature	5.4			1106649	0	465			0		other	0
+test2	416	Response	1					1107831	1182	2
+test2	416	Port Input	54					1108171	1522	1
+test2	416	Port Input	84					1108191	1542	1
+test2	416	Port Input	48					1108201	1552	1
+test2	416	Port Input	51					1108211	1562	1
+test2	416	Response	1					1109507	2858	1
+test2	416	Port Input	99					1109701	3052	1
+test2	416	Port Input	67					1109711	3062	1
+test2	416	Port Input	48					1109731	3082	1
+test2	416	Port Input	48					1109739	3090	9
+test2	416	Port Input	50					1111201	4552	1
+test2	416	Port Input	77					1111221	4572	1
+test2	416	Port Input	48					1111231	4582	1
+test2	416	Port Input	51					1111241	4592	1
+test2	416	Response	1					1111352	4703	1
+test2	416	Response	1					1113071	6422	2
+test2	416	Port Input	54					1113711	7062	1
+test2	416	Port Input	77					1113731	7082	1
+test2	416	Port Input	48					1113741	7092	1
+test2	416	Port Input	51					1113751	7102	1
+test2	416	Response	1					1114794	8145	1
+test2	417	Save Logfile	Measurement,5.4	Measurement	5.4			1115163	0	516			0		other	0
+test2	418	Save Logfile	Raise Temperature,5.4	Raise Temperature	5.4			1115808	0	483			0		other	0
+test2	418	Response	1					1116594	786	1
+test2	418	Port Input	99					1117361	1553	1
+test2	418	Port Input	84					1117371	1563	1
+test2	418	Port Input	48					1117381	1573	1
+test2	418	Port Input	52					1117391	1583	1
+test2	418	Response	1					1118341	2533	2
+test2	418	Port Input	54					1118881	3073	1
+test2	418	Port Input	67					1118891	3083	1
+test2	418	Port Input	48					1118901	3093	1
+test2	418	Port Input	48					1118911	3103	1
+test2	418	Response	1					1120260	4452	1
+test2	418	Port Input	50					1120381	4573	1
+test2	418	Port Input	77					1120391	4583	1
+test2	418	Port Input	48					1120411	4603	1
+test2	418	Port Input	52					1120421	4613	1
+test2	418	Response	1					1122032	6224	1
+test2	418	Port Input	49					1122891	7083	1
+test2	418	Port Input	77					1122901	7093	1
+test2	418	Port Input	48					1122921	7113	1
+test2	418	Port Input	52					1122931	7123	1
+test2	418	Response	1					1123963	8155	1
+test2	419	Save Logfile	VAS Change,6.5,96	VAS Change	6.5	96		1124344	0	510			0		other	0
+test2	420	Save Logfile	Measurement,6.5	Measurement	6.5			1124967	0	493			0		other	0
+test2	421	Save Logfile	Raise Temperature,6.5	Raise Temperature	6.5			1125634	0	510			0		other	0
+test2	421	Response	1					1126490	856	2
+test2	421	Port Input	54					1127201	1567	1
+test2	421	Port Input	84					1127221	1587	1
+test2	421	Port Input	48					1127231	1597	1
+test2	421	Port Input	53					1127241	1607	1
+test2	421	Response	1					1128410	2776	1
+test2	421	Port Input	48					1128770	3136	3
+test2	421	Port Input	67					1128779	3145	4
+test2	421	Port Input	48					1128785	3151	11
+test2	421	Port Input	48					1128801	3167	1
+test2	421	Response	1					1130230	4596	2
+test2	421	Port Input	50					1130260	4626	3
+test2	421	Port Input	77					1130281	4647	1
+test2	421	Port Input	48					1130291	4657	1
+test2	421	Port Input	52					1130301	4667	1
+test2	421	Response	1					1132056	6422	1
+test2	421	Port Input	97					1132771	7137	1
+test2	421	Port Input	77					1132791	7157	1
+test2	421	Port Input	48					1132801	7167	1
+test2	421	Port Input	53					1132811	7177	1
+test2	421	Response	1					1133869	8235	1
+test2	422	Save Logfile	VAS Change,7.4,95	VAS Change	7.4	95		1134224	0	529			0		other	0
+test2	423	Save Logfile	Measurement,7.4	Measurement	7.4			1134793	0	499			0		other	0
+test2	424	Save Logfile	Raise Temperature,7.4	Raise Temperature	7.4			1135460	0	519			0		other	0
+test2	424	Port Input	48					1137051	1591	1
+test2	424	Port Input	84					1137061	1601	1
+test2	424	Port Input	48					1137071	1611	1
+test2	424	Port Input	53					1137081	1621	1
+test2	424	Port Input	97					1138571	3111	1
+test2	424	Port Input	67					1138581	3121	1
+test2	424	Port Input	48					1138591	3131	1
+test2	424	Port Input	48					1138611	3151	1
+test2	424	Port Input	50					1140072	4612	1
+test2	424	Port Input	77					1140091	4631	1
+test2	424	Port Input	48					1140101	4641	1
+test2	424	Port Input	53					1140111	4651	1
+test2	424	Port Input	52					1142581	7121	1
+test2	424	Port Input	77					1142601	7141	1
+test2	424	Port Input	48					1142612	7152	1
+test2	424	Port Input	53					1142621	7161	1
+test2	425	Save Logfile	VAS Change,8.4,89	VAS Change	8.4	89		1144034	0	539			0		other	0
+test2	426	Save Logfile	Measurement,8.4	Measurement	8.4			1144619	0	502			0		other	0
+test2	427	Save Logfile	Raise Temperature,8.4	Raise Temperature	8.4			1145285	0	527			0		other	0
+test2	427	Port Input	97					1146871	1586	1
+test2	427	Port Input	84					1146891	1606	1
+test2	427	Port Input	48					1146901	1616	1
+test2	427	Port Input	54					1146911	1626	1
+test2	427	Port Input	52					1148401	3116	1
+test2	427	Port Input	67					1148411	3126	1
+test2	427	Port Input	48					1148421	3136	1
+test2	427	Port Input	48					1148431	3146	1
+test2	427	Port Input	50					1149901	4616	1
+test2	427	Port Input	77					1149921	4636	1
+test2	427	Port Input	48					1149931	4646	1
+test2	427	Port Input	53					1149941	4656	1
+test2	427	Port Input	101					1152411	7126	1
+test2	427	Port Input	77					1152431	7146	1
+test2	427	Port Input	48					1152441	7156	1
+test2	427	Port Input	54					1152451	7166	1
+test2	428	Save Logfile	VAS Change,9.4,83	VAS Change	9.4	83		1153864	0	543			0		other	0
+test2	429	Save Logfile	Measurement,9.4	Measurement	9.4			1154445	0	498			0		other	0
+test2	430	Save Logfile	Raise Temperature,9.4	Raise Temperature	9.4			1155111	0	534			0		other	0
+test2	430	Port Input	52					1156701	1590	1
+test2	430	Port Input	84					1156721	1610	1
+test2	430	Port Input	48					1156731	1620	1
+test2	430	Port Input	54					1156741	1630	1
+test2	430	Port Input	101					1158231	3120	1
+test2	430	Port Input	67					1158241	3130	1
+test2	430	Port Input	48					1158251	3140	1
+test2	430	Port Input	48					1158261	3150	1
+test2	430	Port Input	50					1159731	4620	1
+test2	430	Port Input	77					1159741	4630	1
+test2	430	Port Input	48					1159761	4650	1
+test2	430	Port Input	54					1159771	4660	1
+test2	430	Port Input	56					1162241	7130	1
+test2	430	Port Input	77					1162261	7150	1
+test2	430	Port Input	48					1162271	7160	1
+test2	430	Port Input	54					1162281	7170	2
+test2	431	Save Logfile	VAS Change,10.4,79	VAS Change	10.4	79		1163694	0	541			0		other	0
+test2	432	Save Logfile	Measurement,10.4	Measurement	10.4			1164271	0	514			0		other	0
+test2	433	Save Logfile	Raise Temperature,10.4	Raise Temperature	10.4			1164937	0	536			0		other	0
+test2	433	Port Input	101					1166531	1594	1
+test2	433	Port Input	84					1166541	1604	1
+test2	433	Port Input	48					1166561	1624	1
+test2	433	Port Input	55					1166571	1634	1
+test2	433	Port Input	56					1168061	3124	1
+test2	433	Port Input	67					1168071	3134	1
+test2	433	Port Input	48					1168081	3144	1
+test2	433	Port Input	48					1168091	3154	2
+test2	433	Port Input	50					1169561	4624	1
+test2	433	Port Input	77					1169571	4634	1
+test2	433	Port Input	48					1169581	4644	1
+test2	433	Port Input	55					1169601	4664	1
+test2	433	Port Input	50					1172071	7134	1
+test2	433	Port Input	77					1172081	7144	1
+test2	433	Port Input	48					1172101	7164	1
+test2	433	Port Input	55					1172111	7174	1
+test2	434	Save Logfile	VAS Change,11.4,75	VAS Change	11.4	75		1173524	0	533			0		other	0
+test2	435	Save Logfile	Measurement,11.4	Measurement	11.4			1174263	0	526			0		other	0
+test2	436	Save Logfile	Raise Temperature,11.4	Raise Temperature	11.4			1174929	0	544			0		other	0
+test2	436	Port Input	55					1176531	1602	1
+test2	436	Port Input	84					1176541	1612	1
+test2	436	Port Input	48					1176561	1632	1
+test2	436	Port Input	56					1176571	1642	1
+test2	436	Port Input	50					1178061	3132	1
+test2	436	Port Input	67					1178071	3142	1
+test2	436	Port Input	48					1178081	3152	1
+test2	436	Port Input	48					1178091	3162	1
+test2	436	Port Input	50					1179561	4632	1
+test2	436	Port Input	77					1179581	4652	1
+test2	436	Port Input	48					1179591	4662	1
+test2	436	Port Input	55					1179601	4672	1
+test2	436	Port Input	99					1182071	7142	1
+test2	436	Port Input	77					1182081	7152	1
+test2	436	Port Input	48					1182091	7162	1
+test2	436	Port Input	56					1182111	7182	1
+test2	437	Save Logfile	VAS Change,12.4,73	VAS Change	12.4	73		1183524	0	540			0		other	0
+test2	438	Save Logfile	Measurement,12.4	Measurement	12.4			1184255	0	494			0		other	0
+test2	439	Save Logfile	Raise Temperature,12.4	Raise Temperature	12.4			1184922	0	531			0		other	0
+test2	439	Port Input	49					1186511	1589	1
+test2	439	Port Input	84					1186531	1609	1
+test2	439	Port Input	48					1186541	1619	1
+test2	439	Port Input	56					1186551	1629	1
+test2	439	Port Input	99					1188042	3120	1
+test2	439	Port Input	67					1188051	3129	1
+test2	439	Port Input	48					1188061	3139	1
+test2	439	Port Input	48					1188071	3149	1
+test2	439	Port Input	50					1189541	4619	1
+test2	439	Port Input	77					1189551	4629	1
+test2	439	Port Input	48					1189571	4649	1
+test2	439	Port Input	56					1189581	4659	1
+test2	439	Port Input	54					1192051	7129	1
+test2	439	Port Input	77					1192061	7139	1
+test2	439	Port Input	48					1192081	7159	1
+test2	439	Port Input	56					1192091	7169	1
+test2	440	Save Logfile	VAS Change,13.4,66	VAS Change	13.4	66		1193504	0	541			0		other	0
+test2	441	Save Logfile	Measurement,13.4	Measurement	13.4			1194081	0	519			0		other	0
+test2	442	Save Logfile	Raise Temperature,13.4	Raise Temperature	13.4			1194747	0	546			0		other	0
+test2	442	Port Input	98					1196351	1604	2
+test2	442	Port Input	84					1196361	1614	1
+test2	442	Port Input	48					1196371	1624	1
+test2	442	Port Input	57					1196391	1644	1
+test2	442	Port Input	54					1197881	3134	1
+test2	442	Port Input	67					1197891	3144	1
+test2	442	Port Input	48					1197901	3154	1
+test2	442	Port Input	48					1197921	3174	1
+test2	442	Port Input	50					1199381	4634	1
+test2	442	Port Input	77					1199402	4655	1
+test2	442	Port Input	48					1199411	4664	2
+test2	442	Port Input	56					1199421	4674	2
+test2	442	Port Input	102					1201891	7144	1
+test2	442	Port Input	77					1201911	7164	2
+test2	442	Port Input	48					1201921	7174	1
+test2	442	Port Input	57					1201931	7184	1
+test2	443	Save Logfile	VAS Change,14.3,65	VAS Change	14.3	65		1203344	0	558			0		other	0
+test2	444	Save Logfile	Measurement,14.3	Measurement	14.3			1204073	0	540			0		other	0
+test2	445	Save Logfile	Raise Temperature,14.3	Raise Temperature	14.3			1204740	0	553			0		other	0
+test2	445	Port Input	53					1206351	1611	2
+test2	445	Port Input	84					1206361	1621	1
+test2	445	Port Input	48					1206381	1641	1
+test2	445	Port Input	97					1206391	1651	1
+test2	445	Port Input	48					1207882	3142	1
+test2	445	Port Input	67					1207891	3151	1
+test2	445	Port Input	48					1207901	3161	1
+test2	445	Port Input	48					1207911	3171	1
+test2	445	Port Input	50					1209382	4642	1
+test2	445	Port Input	77					1209401	4661	2
+test2	445	Port Input	48					1209411	4671	1
+test2	445	Port Input	57					1209421	4681	1
+test2	445	Port Input	97					1211902	7162	1
+test2	445	Port Input	77					1211911	7171	1
+test2	445	Port Input	48					1211921	7181	1
+test2	445	Port Input	57					1211941	7201	2
+test2	446	Save Logfile	VAS Change,15.4,62	VAS Change	15.4	62		1213354	0	551			0		other	0
+test2	447	Save Logfile	Measurement,15.4	Measurement	15.4			1214065	0	549			0		other	0
+test2	448	Save Logfile	Raise Temperature,15.4	Raise Temperature	15.4			1214732	0	554			0		other	0
+test2	448	Port Input	102					1216342	1610	1
+test2	448	Port Input	84					1216351	1619	1
+test2	448	Port Input	48					1216361	1629	1
+test2	448	Port Input	97					1216381	1649	2
+test2	448	Port Input	97					1217872	3140	1
+test2	448	Port Input	67					1217881	3149	1
+test2	448	Port Input	48					1217891	3159	1
+test2	448	Port Input	48					1217912	3180	1
+test2	448	Port Input	50					1219372	4640	1
+test2	448	Port Input	77					1219381	4649	1
+test2	448	Port Input	48					1219391	4659	1
+test2	448	Port Input	97					1219401	4669	1
+test2	448	Port Input	52					1221882	7150	1
+test2	448	Port Input	77					1221902	7170	1
+test2	448	Port Input	48					1221911	7179	1
+test2	448	Port Input	97					1221921	7189	2
+test2	449	Save Logfile	VAS Change,16.4,63	VAS Change	16.4	63		1223338	0	666			0		other	0
+test2	450	Save Logfile	Measurement,16.4	Measurement	16.4			1224059	0	555			0		other	0
+test2	451	Save Logfile	Raise Temperature,16.4	Raise Temperature	16.4			1224724	0	617			0		other	0
+test2	451	Port Input	57					1226412	1688	1
+test2	451	Port Input	84					1226421	1697	1
+test2	451	Port Input	48					1226431	1707	1
+test2	451	Port Input	98					1226451	1727	2
+test2	451	Port Input	52					1227942	3218	1
+test2	451	Port Input	67					1227951	3227	2
+test2	451	Port Input	48					1227961	3237	1
+test2	451	Port Input	48					1227971	3247	1
+test2	451	Port Input	50					1229442	4718	1
+test2	451	Port Input	77					1229461	4737	2
+test2	451	Port Input	48					1229471	4747	1
+test2	451	Port Input	97					1229481	4757	2
+test2	451	Port Input	100					1231952	7228	1
+test2	451	Port Input	77					1231971	7247	2
+test2	451	Port Input	48					1231981	7257	2
+test2	451	Port Input	98					1231991	7267	2
+test2	452	Save Logfile	Measurement,17.3	Measurement	17.3			1233405	0	562			0		other	0
+test2	453	Save Logfile	Raise Temperature,17.3	Raise Temperature	17.3			1234051	0	534			0		other	0
+test2	453	Port Input	50					1235641	1590	2
+test2	453	Port Input	84					1235651	1600	2
+test2	453	Port Input	48					1235661	1610	2
+test2	453	Port Input	98					1235681	1630	2
+test2	453	Port Input	101					1237173	3122	1
+test2	453	Port Input	67					1237181	3130	2
+test2	453	Port Input	48					1237191	3140	2
+test2	453	Port Input	48					1237211	3160	2
+test2	453	Port Input	50					1238671	4620	2
+test2	453	Port Input	77					1238691	4640	2
+test2	453	Port Input	48					1238701	4650	2
+test2	453	Port Input	98					1238712	4661	1
+test2	453	Port Input	55					1241182	7131	1
+test2	453	Port Input	77					1241192	7141	1
+test2	453	Port Input	48					1241201	7150	2
+test2	453	Port Input	98					1241221	7170	2
+test2	454	Save Logfile	Measurement,18.3	Measurement	18.3			1242633	0	546			0		other	0
+test2	455	Save Logfile	Raise Temperature,18.3	Raise Temperature	18.3			1243210	0	540			0		other	0
+test2	455	Port Input	99					1244812	1602	1
+test2	455	Port Input	84					1244821	1611	2
+test2	455	Port Input	48					1244831	1621	2
+test2	455	Port Input	99					1244851	1641	2
+test2	455	Port Input	56					1246341	3131	2
+test2	455	Port Input	67					1246351	3141	2
+test2	455	Port Input	48					1246371	3161	2
+test2	455	Port Input	48					1246381	3171	2
+test2	455	Port Input	50					1247842	4632	1
+test2	455	Port Input	77					1247861	4651	2
+test2	455	Port Input	48					1247871	4661	2
+test2	455	Port Input	99					1247881	4671	2
+test2	455	Port Input	49					1250352	7142	1
+test2	455	Port Input	77					1250371	7161	2
+test2	455	Port Input	48					1250381	7171	2
+test2	455	Port Input	99					1250391	7181	2
+test2	456	Save Logfile	VAS Change,19.3,64	VAS Change	19.3	64		1251804	0	569			0		other	0
+test2	457	Save Logfile	Measurement,19.3	Measurement	19.3			1252536	0	548			0		other	0
+test2	458	Save Logfile	Raise Temperature,19.3	Raise Temperature	19.3			1253202	0	570			0		other	0
+test2	458	Port Input	54					1254832	1630	1
+test2	458	Port Input	84					1254841	1639	2
+test2	458	Port Input	48					1254851	1649	2
+test2	458	Port Input	100					1254872	1670	1
+test2	458	Port Input	50					1256362	3160	1
+test2	458	Port Input	67					1256372	3170	1
+test2	458	Port Input	48					1256381	3179	2
+test2	458	Port Input	48					1256402	3200	1
+test2	458	Port Input	50					1257862	4660	1
+test2	458	Port Input	77					1257872	4670	1
+test2	458	Port Input	48					1257882	4680	1
+test2	458	Port Input	99					1257902	4700	1
+test2	458	Port Input	98					1260372	7170	1
+test2	458	Port Input	77					1260392	7190	1
+test2	458	Port Input	48					1260401	7199	3
+test2	458	Port Input	100					1260412	7210	1
+test2	459	Save Logfile	Measurement,20.3	Measurement	20.3			1261824	0	607			0		other	0
+test2	459	Port Input	48					1263582	1758	1
+test2	459	Port Input	77					1263592	1768	1
+test2	459	Port Input	48					1263612	1788	1
+test2	459	Port Input	100					1263622	1798	1
+test2	460	Save Logfile	Measurement,20.8	Measurement	20.8			1265034	0	579			0		other	0
+test2	460	Port Input	53					1266752	1718	1
+test2	460	Port Input	77					1266762	1728	1
+test2	460	Port Input	48					1266782	1748	1
+test2	460	Port Input	100					1266792	1758	1
+test2	461	Save Logfile	Measurement,21.3	Measurement	21.3			1268204	0	591			0		other	0
+test2	461	Port Input	53					1269912	1708	1
+test2	461	Port Input	77					1269932	1728	1
+test2	461	Port Input	48					1269942	1738	1
+test2	461	Port Input	100					1269952	1748	1
+test2	462	Save Logfile	Measurement,21.3	Measurement	21.3			1271363	0	580			0		other	0
+test2	462	Port Input	53					1273082	1719	1
+test2	462	Port Input	77					1273102	1739	1
+test2	462	Port Input	48					1273112	1749	1
+test2	462	Port Input	100					1273122	1759	1
+test2	463	Save Logfile	Measurement,21.3	Measurement	21.3			1274533	0	581			0		other	0
+test2	463	Port Input	53					1276242	1709	1
+test2	463	Port Input	77					1276262	1729	1
+test2	463	Port Input	48					1276272	1739	1
+test2	463	Port Input	100					1276282	1749	1
+test2	464	Save Logfile	Measurement,21.3	Measurement	21.3			1277693	0	587			0		other	0
+test2	464	Port Input	53					1279402	1709	1
+test2	464	Port Input	77					1279412	1719	1
+test2	464	Port Input	48					1279432	1739	1
+test2	464	Port Input	100					1279442	1749	1
+test2	465	Save Logfile	Measurement,21.3	Measurement	21.3			1280854	0	580			0		other	0
+test2	465	Port Input	52					1282572	1718	1
+test2	465	Port Input	77					1282582	1728	1
+test2	465	Port Input	48					1282602	1748	1
+test2	465	Port Input	100					1282612	1758	1
+test2	466	Save Logfile	Measurement,21.2	Measurement	21.2			1284024	0	583			0		other	0
+test2	466	Port Input	52					1285732	1708	1
+test2	466	Port Input	77					1285742	1718	1
+test2	466	Port Input	48					1285752	1728	1
+test2	466	Port Input	100					1285762	1738	1
+test2	467	Save Logfile	Measurement,21.2	Measurement	21.2			1287174	0	589			0		other	0
+test2	467	Port Input	52					1288902	1728	1
+test2	467	Port Input	77					1288922	1748	1
+test2	467	Port Input	48					1288932	1758	1
+test2	467	Port Input	100					1288942	1768	1
+test2	468	Save Logfile	Measurement,21.2	Measurement	21.2			1290354	0	587			0		other	0
+test2	468	Port Input	52					1292062	1708	1
+test2	468	Port Input	77					1292082	1728	1
+test2	468	Port Input	48					1292091	1737	9
+test2	468	Port Input	100					1292102	1748	1
+test2	469	Save Logfile	Measurement,21.2	Measurement	21.2			1293514	0	578			0		other	0
+test2	469	Port Input	52					1295231	1717	9
+test2	469	Port Input	77					1295252	1738	1
+test2	469	Port Input	48					1295262	1748	1
+test2	469	Port Input	100					1295272	1758	1
+test2	470	Save Logfile	Measurement,21.2	Measurement	21.2			1296684	0	584			0		other	0
+test2	470	Port Input	52					1298392	1708	1
+test2	470	Port Input	77					1298402	1718	1
+test2	470	Port Input	48					1298412	1728	1
+test2	470	Port Input	100					1298422	1738	1
+test2	471	Save Logfile	Measurement,21.2	Measurement	21.2			1299833	0	610			0		other	0
+test2	471	Port Input	52					1301552	1719	1
+test2	471	Port Input	77					1301562	1729	1
+test2	471	Port Input	48					1301572	1739	1
+test2	471	Port Input	100					1301592	1759	1
+test2	472	Save Logfile	VAS Change,21.2,63	VAS Change	21.2	63		1303004	0	590			0		other	0
+test2	473	Save Logfile	Measurement,21.2	Measurement	21.2			1303663	0	567			0		other	0
+test2	473	Port Input	52					1305382	1719	1
+test2	473	Port Input	77					1305392	1729	1
+test2	473	Port Input	48					1305402	1739	1
+test2	473	Port Input	100					1305422	1759	1
+test2	474	Save Logfile	Measurement,21.2	Measurement	21.2			1306834	0	599			0		other	0
+test2	474	Port Input	52					1308552	1718	1
+test2	474	Port Input	77					1308562	1728	1
+test2	474	Port Input	48					1308572	1738	1
+test2	474	Port Input	100					1308592	1758	1
+test2	475	Save Logfile	Measurement,21.2	Measurement	21.2			1310004	0	662			0		other	0
+test2	475	Port Input	52					1311882	1878	1
+test2	475	Port Input	77					1311892	1888	1
+test2	475	Port Input	48					1311902	1898	1
+test2	475	Port Input	100					1311912	1908	1
+test2	476	Save Logfile	Measurement,21.2	Measurement	21.2			1313324	0	590			0		other	0
+test2	476	Port Input	52					1315042	1718	1
+test2	476	Port Input	77					1315052	1728	1
+test2	476	Port Input	48					1315062	1738	1
+test2	476	Port Input	100					1315072	1748	1
+test2	477	Save Logfile	Measurement,21.2	Measurement	21.2			1316484	0	613			0		other	0
+test2	477	Port Input	52					1318212	1728	1
+test2	477	Port Input	77					1318222	1738	1
+test2	477	Port Input	48					1318232	1748	1
+test2	477	Port Input	100					1318242	1758	1
+test2	478	Save Logfile	VAS Change,21.2,62	VAS Change	21.2	62		1319654	0	591			0		other	0
+test2	479	Save Logfile	Measurement,21.2	Measurement	21.2			1320317	0	574			0		other	0
+test2	479	Port Input	52					1322042	1725	1
+test2	479	Port Input	77					1322052	1735	1
+test2	479	Port Input	48					1322062	1745	1
+test2	479	Port Input	100					1322072	1755	1
+test2	480	Save Logfile	Measurement,21.2	Measurement	21.2			1323484	0	613			0		other	0
+test2	480	Port Input	52					1325202	1718	1
+test2	480	Port Input	77					1325212	1728	1
+test2	480	Port Input	48					1325222	1738	1
+test2	480	Port Input	100					1325232	1748	1
+test2	481	Save Logfile	Measurement,21.2	Measurement	21.2			1326644	0	585			0		other	0
+test2	481	Port Input	52					1328372	1728	1
+test2	481	Port Input	77					1328382	1738	1
+test2	481	Port Input	48					1328392	1748	1
+test2	481	Port Input	100					1328412	1768	1
+test2	482	Save Logfile	VAS Change,21.2,63	VAS Change	21.2	63		1329824	0	621			0		other	0
+test2	483	Save Logfile	Measurement,21.2	Measurement	21.2			1330476	0	567			0		other	0
+test2	483	Port Input	52					1332202	1726	1
+test2	483	Port Input	77					1332212	1736	1
+test2	483	Port Input	48					1332222	1746	1
+test2	483	Port Input	100					1332232	1756	1
+test2	484	Save Logfile	Measurement,21.2	Measurement	21.2			1333648	0	758			0		other	0
+test2	484	Port Input	52					1335722	2074	1
+test2	484	Port Input	77					1335732	2084	1
+test2	484	Port Input	48					1335742	2094	1
+test2	484	Port Input	100					1335752	2104	1
+test2	485	Save Logfile	Measurement,21.2	Measurement	21.2			1337318	0	886			0		other	0
+test2	485	Port Input	52					1339362	2044	1
+test2	485	Port Input	77					1339372	2054	1
+test2	485	Port Input	48					1339392	2074	1
+test2	485	Port Input	100					1339402	2084	1
+test2	486	Save Logfile	Measurement,21.2	Measurement	21.2			1340814	0	1003			0		other	0
+test2	486	Port Input	52					1343022	2208	1
+test2	486	Port Input	77					1343032	2218	1
+test2	486	Port Input	48					1343042	2228	1
+test2	486	Port Input	100					1343052	2238	1
+test2	487	Save Logfile	VAS Change,21.2,62	VAS Change	21.2	62		1344818	0	633			0		other	0
+test2	488	Save Logfile	Measurement,21.2	Measurement	21.2			1345631	0	579			0		other	0
+test2	488	Port Input	52					1347352	1721	1
+test2	488	Port Input	77					1347362	1731	1
+test2	488	Port Input	48					1347372	1741	1
+test2	488	Port Input	100					1347382	1751	1
+test2	489	Save Logfile	Measurement,21.2	Measurement	21.2			1348794	0	606			0		other	0
+test2	489	Port Input	51					1350522	1728	1
+test2	489	Port Input	77					1350532	1738	1
+test2	489	Port Input	48					1350542	1748	1
+test2	489	Port Input	100					1350552	1758	1
+test2	490	Save Logfile	Measurement,21.1	Measurement	21.1			1351964	0	608			0		other	0
+test2	490	Port Input	52					1353682	1718	1
+test2	490	Port Input	77					1353692	1728	1
+test2	490	Port Input	48					1353702	1738	1
+test2	490	Port Input	100					1353712	1748	2
+test2	490	Port Input	52					1354162	2198	2
+test2	490	Port Input	80					1354172	2208	1
+test2	490	Port Input	48					1354180	2216	4
+test2	490	Port Input	100					1354192	2228	1
+test2	491	Save Logfile	VAS Change,21.2,63	VAS Change	21.2	63		1355124	0	624			0		other	0
+test2	492	Save Logfile	Measurement,21.2	Measurement	21.2			1355790	0	578			0		other	0
+test2	492	Port Input	52					1357512	1722	1
+test2	492	Port Input	77					1357522	1732	1
+test2	492	Port Input	48					1357532	1742	2
+test2	492	Port Input	100					1357542	1752	1
+test2	493	Save Logfile	Measurement,21.2	Measurement	21.2			1358954	0	4998			0		other	0
+test2	494	Save Logfile	Subject Response,21.2	Subject Response	21.2			1364117	0	4457			0		other	0
+test2	494	Port Input	55					1369732	5615	2
+test2	494	Port Input	67					1369742	5625	1
+test2	494	Port Input	48					1369752	5635	1
+test2	494	Port Input	48					1369762	5645	1
+test2	494	Port Input	48					1371282	7165	1
+test2	494	Port Input	77					1371302	7185	1
+test2	494	Port Input	49					1371312	7195	1
+test2	494	Port Input	50					1371322	7205	1
+test2	495	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1371726	0	651			0		other	0
+test2	495	Port Input	49					1372632	906	3
+test2	495	Port Input	80					1372652	926	2
+test2	495	Port Input	49					1372662	936	1
+test2	495	Port Input	50					1372670	944	5
+test2	495	Port Input	56					1373502	1776	2
+test2	495	Port Input	77					1373532	1806	1
+test2	495	Port Input	49					1373542	1816	1
+test2	495	Port Input	50					1373552	1826	1
+test2	496	Save Logfile	Measurement,29.6, ,38	Measurement	29.6	 	38	1373946	0	637			0		other	0
+test2	496	Port Input	99					1375833	1887	1
+test2	496	Port Input	77					1375862	1916	1
+test2	496	Port Input	49					1375872	1926	1
+test2	496	Port Input	51					1375882	1936	1
+test2	497	Save Logfile	Measurement,30, ,38	Measurement	30	 	38	1376276	0	607			0		other	0
+test2	497	Port Input	57					1377992	1716	1
+test2	497	Port Input	77					1378022	1746	1
+test2	497	Port Input	49					1378032	1756	1
+test2	497	Port Input	52					1378042	1766	1
+test2	498	Save Logfile	Measurement,31.3, ,38	Measurement	31.3	 	38	1378436	0	612			0		other	0
+test2	498	Port Input	52					1380163	1727	1
+test2	498	Port Input	77					1380192	1756	1
+test2	498	Port Input	49					1380202	1766	1
+test2	498	Port Input	53					1380211	1775	5
+test2	499	Save Logfile	Measurement,32.4, ,38	Measurement	32.4	 	38	1380606	0	610			0		other	0
+test2	499	Port Input	48					1382323	1717	1
+test2	499	Port Input	77					1382352	1746	1
+test2	499	Port Input	49					1382362	1756	1
+test2	499	Port Input	53					1382372	1766	1
+test2	500	Save Logfile	Measurement,33.6, ,38	Measurement	33.6	 	38	1382766	0	827			0		other	0
+test2	500	Port Input	98					1384823	2057	1
+test2	500	Port Input	77					1384852	2086	2
+test2	500	Port Input	49					1384862	2096	1
+test2	500	Port Input	54					1384872	2106	1
+test2	501	Save Logfile	Measurement,34.7, ,38	Measurement	34.7	 	38	1385267	0	4523			0		other	0
+test2	501	Port Input	56					1390983	5716	1
+test2	501	Port Input	77					1391013	5746	1
+test2	501	Port Input	49					1391022	5755	2
+test2	501	Port Input	56					1391032	5765	1
+test2	502	Save Logfile	Measurement,36, ,38	Measurement	36	 	38	1391426	0	3939			0		other	0
+test2	502	Port Input	50					1396483	5057	1
+test2	502	Port Input	77					1396513	5087	1
+test2	502	Port Input	49					1396522	5096	2
+test2	502	Port Input	55					1396532	5106	2
+test2	503	Save Logfile	Measurement,38.6, ,38	Measurement	38.6	 	38	1396930	0	651			0		other	0
+test2	503	Port Input	102					1398812	1882	2
+test2	503	Port Input	77					1398842	1912	1
+test2	503	Port Input	49					1398852	1922	1
+test2	503	Port Input	55					1398862	1932	1
+test2	504	Save Logfile	Measurement,38.3	Measurement	38.3			1400254	0	4573			0		other	0
+test2	504	Port Input	102					1405973	5719	1
+test2	504	Port Input	77					1406003	5749	1
+test2	504	Port Input	49					1406012	5758	2
+test2	504	Port Input	55					1406022	5768	4
+test2	505	Save Logfile	VAS Change,38.3,66	VAS Change	38.3	66		1407415	0	4862			0		other	0
+test2	506	Save Logfile	Measurement,38.3	Measurement	38.3			1412413	0	1260			0		other	0
+test2	506	Port Input	102					1414803	2390	1
+test2	506	Port Input	77					1414833	2420	1
+test2	506	Port Input	49					1414843	2430	1
+test2	506	Port Input	55					1414853	2440	1
+test2	507	Save Logfile	VAS Change,38.3,65	VAS Change	38.3	65		1416259	0	1280			0		other	0
+test2	508	Save Logfile	Measurement,38.3	Measurement	38.3			1417743	0	1258			0		other	0
+test2	508	Port Input	101					1420133	2390	1
+test2	508	Port Input	77					1420163	2420	1
+test2	508	Port Input	49					1420173	2430	1
+test2	508	Port Input	55					1420183	2440	1
+test2	509	Save Logfile	Measurement,38.2	Measurement	38.2			1421589	0	1320			0		other	0
+test2	509	Port Input	101					1424133	2544	1
+test2	509	Port Input	77					1424163	2574	1
+test2	509	Port Input	49					1424173	2584	1
+test2	509	Port Input	55					1424183	2594	1
+test2	510	Save Logfile	Measurement,38.2	Measurement	38.2			1425586	0	1295			0		other	0
+test2	510	Response	2					1425586	0	32
+test2	511	Save Logfile	Lower Temperature,38.2	Lower Temperature	38.2			1427069	0	1215			0		other	0
+test2	511	Port Input	101					1429343	2274	1
+test2	511	Port Input	84					1429363	2294	1
+test2	511	Port Input	49					1429373	2304	1
+test2	511	Port Input	55					1429383	2314	1
+test2	511	Response	2					1429509	2440	2
+test2	511	Port Input	50					1430873	3804	1
+test2	511	Port Input	67					1430883	3814	1
+test2	511	Port Input	48					1430893	3824	1
+test2	511	Port Input	48					1430903	3834	1
+test2	511	Response	2					1431361	4292	2
+test2	511	Port Input	50					1432383	5314	1
+test2	511	Port Input	77					1432413	5344	1
+test2	511	Port Input	49					1432423	5354	1
+test2	511	Port Input	55					1432433	5364	1
+test2	511	Response	2					1433286	6217	1
+test2	511	Port Input	100					1434883	7814	1
+test2	511	Port Input	77					1434913	7844	1
+test2	511	Port Input	49					1434923	7854	1
+test2	511	Port Input	55					1434933	7864	1
+test2	512	Save Logfile	Measurement,38.1	Measurement	38.1			1436326	0	1294			0		other	0
+test2	513	Save Logfile	Lower Temperature,38.1	Lower Temperature	38.1			1437728	0	1273			0		other	0
+test2	513	Port Input	54					1440051	2323	15
+test2	513	Port Input	84					1440083	2355	1
+test2	513	Port Input	49					1440093	2365	1
+test2	513	Port Input	54					1440103	2375	1
+test2	513	Port Input	56					1441583	3855	1
+test2	513	Port Input	67					1441593	3865	1
+test2	513	Port Input	48					1441603	3875	1
+test2	513	Port Input	48					1441613	3885	1
+test2	513	Port Input	50					1443073	5345	1
+test2	513	Port Input	77					1443103	5375	1
+test2	513	Port Input	49					1443112	5384	2
+test2	513	Port Input	55					1443122	5394	2
+test2	513	Port Input	51					1445593	7865	1
+test2	513	Port Input	77					1445623	7895	1
+test2	513	Port Input	49					1445633	7905	1
+test2	513	Port Input	54					1445642	7914	2
+test2	514	Save Logfile	VAS Change,37.1,52	VAS Change	37.1	52		1447034	0	659			0		other	0
+test2	515	Save Logfile	Measurement,37.1	Measurement	37.1			1447719	0	582			0		other	0
+test2	516	Save Logfile	Lower Temperature,37.1	Lower Temperature	37.1			1448649	0	682			0		other	0
+test2	516	Port Input	100					1450893	2244	1
+test2	516	Port Input	84					1450903	2254	1
+test2	516	Port Input	49					1450913	2264	1
+test2	516	Port Input	53					1450923	2274	1
+test2	516	Port Input	101					1452413	3764	1
+test2	516	Port Input	67					1452423	3774	1
+test2	516	Port Input	48					1452433	3784	1
+test2	516	Port Input	48					1452443	3794	1
+test2	516	Port Input	50					1453986	5337	2
+test2	516	Port Input	77					1454013	5364	1
+test2	516	Port Input	49					1454023	5374	1
+test2	516	Port Input	54					1454033	5384	1
+test2	516	Port Input	57					1456483	7834	1
+test2	516	Port Input	77					1456513	7864	1
+test2	516	Port Input	49					1456523	7874	1
+test2	516	Port Input	54					1456533	7884	1
+test2	517	Save Logfile	VAS Change,36.1,7	VAS Change	36.1	7		1457925	0	897			0		other	0
+test2	518	Save Logfile	Measurement,36.1	Measurement	36.1			1458877	0	627			0		other	0
+test2	519	Save Logfile	Lower Temperature,36.1	Lower Temperature	36.1			1459544	0	1628			0		other	0
+test2	519	Port Input	50					1462170	2626	645
+test2	519	Port Input	84					1462170	2626	645
+test2	519	Port Input	49					1462170	2626	645
+test2	519	Port Input	53					1462170	2626	645
+test2	519	Port Input	52					1464393	4849	1
+test2	519	Port Input	67					1464452	4908	1
+test2	519	Port Input	48					1464463	4919	1
+test2	519	Port Input	48					1464463	4919	1
+test2	519	Port Input	50					1465883	6339	1
+test2	519	Port Input	77					1465913	6369	1
+test2	519	Port Input	49					1465923	6379	1
+test2	519	Port Input	53					1465933	6389	1
+test2	519	Port Input	102					1468384	8840	1
+test2	519	Port Input	77					1468403	8859	1
+test2	519	Port Input	49					1468423	8879	2
+test2	519	Port Input	53					1468432	8888	2
+test2	520	Save Logfile	VAS Change,35.1,0	VAS Change	35.1	0		1469824	0	715			0		other	0
+test2	521	Save Logfile	Measurement,35.1	Measurement	35.1			1470701	0	671			0		other	0
+test2	521	Port Input	56					1472594	1893	1
+test2	521	Port Input	77					1472623	1922	2
+test2	521	Port Input	49					1472632	1931	2
+test2	521	Port Input	53					1472643	1942	2
+test2	522	Save Logfile	Measurement,34.4	Measurement	34.4			1474034	0	644			0		other	0
+test2	522	Port Input	52					1475923	1889	1
+test2	522	Port Input	77					1475953	1919	1
+test2	522	Port Input	49					1475963	1929	1
+test2	522	Port Input	53					1475973	1939	1
+test2	523	Save Logfile	Measurement,34	Measurement	34			1477364	0	639			0		other	0
+test2	523	Port Input	53					1479082	1718	2
+test2	523	Port Input	77					1479112	1748	2
+test2	523	Port Input	49					1479122	1758	2
+test2	523	Port Input	53					1479134	1770	1
+test2	524	Save Logfile	Measurement,34.1	Measurement	34.1			1480524	0	643			0		other	0
+test2	524	Port Input	53					1482423	1899	1
+test2	524	Port Input	77					1482453	1929	1
+test2	524	Port Input	49					1482463	1939	1
+test2	524	Port Input	53					1482473	1949	1
+test2	525	Save Logfile	Measurement,34.1	Measurement	34.1			1483864	0	635			0		other	0
+test2	525	Port Input	53					1485753	1889	1
+test2	525	Port Input	77					1485783	1919	1
+test2	525	Port Input	49					1485793	1929	1
+test2	525	Port Input	53					1485803	1939	1
+test2	526	Save Logfile	Measurement,34.1	Measurement	34.1			1487194	0	643			0		other	0
+test2	526	Port Input	53					1489082	1888	2
+test2	526	Port Input	77					1489114	1920	1
+test2	526	Port Input	49					1489122	1928	2
+test2	526	Port Input	53					1489134	1940	1
+test2	527	Save Logfile	Measurement,34.1	Measurement	34.1			1490524	0	657			0		other	0
+test2	527	Port Input	53					1492413	1889	1
+test2	527	Port Input	77					1492433	1909	1
+test2	527	Port Input	49					1492435	1911	9
+test2	527	Port Input	53					1492463	1939	1
+test2	528	Save Logfile	Measurement,34.1	Measurement	34.1			1493854	0	643			0		other	0
+test2	528	Port Input	53					1495743	1889	1
+test2	528	Port Input	77					1495763	1909	1
+test2	528	Port Input	49					1495773	1919	1
+test2	528	Port Input	53					1495793	1939	1
+test2	529	Save Logfile	Measurement,34.1	Measurement	34.1			1497184	0	640			0		other	0
+test2	529	Port Input	53					1499073	1889	1
+test2	529	Port Input	77					1499093	1909	1
+test2	529	Port Input	49					1499113	1929	1
+test2	529	Port Input	53					1499123	1939	1
+test2	530	Save Logfile	Measurement,34.1	Measurement	34.1			1500514	0	638			0		other	0
+test2	530	Port Input	53					1502403	1889	1
+test2	530	Port Input	77					1502423	1909	1
+test2	530	Port Input	49					1502443	1929	1
+test2	530	Port Input	53					1502454	1940	1
+test2	530	Response	3					1503482	2968	1
+test2	531	Save Logfile	Measurement,34.1	Measurement	34.1			1503845	0	635			0		other	0
+test2	532	Save Logfile	Exit program,34.1	Exit program	34.1			1504509	0	609			0		other	0

@@ -1,0 +1,79 @@
+/*
+This pcl-file is used in scenarios to configure ports, initialize and calibrate the MSA device.
+*/
+
+
+#configure input and output ports
+
+if ((input_port_manager.port_count() + output_port_manager.port_count()) < 2) then
+   exit( "Forgot to add port(s)!" )
+end;
+
+input_port iport = input_port_manager.get_port(1);
+output_port oport = output_port_manager.get_port(1);
+
+#Get calibration data from experiment parameters
+array <string> calibration_data[0];
+calibration_data.add("G" + int_to_hex(parameter_manager.get_int("Offset Temperature D/A", 351)));
+calibration_data.add("H" + int_to_hex(int(10 * parameter_manager.get_double("Scalefactor Temperature D/A", 44.7))));
+calibration_data.add("O" + int_to_hex(parameter_manager.get_int("Offset Slope D/A", 27)));
+calibration_data.add("N" + int_to_hex(parameter_manager.get_int("Scalefactor Slope D/A", 415)));
+calibration_data.add("K" + int_to_hex(parameter_manager.get_int("Offset Temperature A/D", 485)));
+calibration_data.add("L" + int_to_hex(int(10 * parameter_manager.get_double("Scalefactor Temperature A/D", 46.6))));
+
+#Get experiment data from experiment parameters
+array <string> experiment_data[0];
+experiment_data.add("B" + int_to_hex(int(10 * parameter_manager.get_double("Starting Temperature", 32))));
+experiment_data.add("R" + int_to_hex(int(10 * parameter_manager.get_double("Slope to Starting Temperature", 1))));
+experiment_data.add("S" + int_to_hex(int(10 * parameter_manager.get_double("Slope to Target Temperature", 1))));
+experiment_data.add("T" + int_to_hex(int(10 * parameter_manager.get_double("Target Temperature", 32))));
+
+loop bool success = false until success == true begin
+	progress.set_caption("Waiting for sync...", true);
+	display.present();
+
+	#Wait for the initialisation signal from the device
+
+	loop until check_init(iport) begin end;
+	
+	log_code.set_event_code("Initialised");
+	log_event.present();
+		
+	progress.set_caption("Sync complete! Sending calibrations...", true);
+	display.present();
+	
+	
+
+	#Send calibration_data
+	loop int cal_count = 1; until cal_count > calibration_data.count() begin
+		success = send_command(calibration_data[cal_count], iport, oport);
+		if success == false then
+			break;
+		end;
+		cal_count = cal_count + 1;
+	end;
+
+	if success == false then
+		continue;
+	end;
+	
+	progress.set_caption("Calibration complete! Sending experiment data...", true);
+	display.present();
+
+	#Send experiment_data
+	
+	loop int exp_count = 1; until exp_count > experiment_data.count() begin
+		success = send_command(experiment_data[exp_count], iport, oport);
+			if success == false then
+				break;
+			end;
+		exp_count = exp_count + 1;
+	end;
+	
+	if success == false then
+		continue;
+	end;
+
+	progress.set_caption("Done!", true);
+	display.present();
+end;

@@ -1,0 +1,1603 @@
+Scenario - MSA_extended_exposure
+Logfile written - 08/12/2014 15:28:09
+
+Subject	Trial	Event Type	Code	Event(str)	Temperature(num)	VAS(num)	Target_temperature(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+oiadsgf	0	Port Input	73					5387	5387	1
+oiadsgf	0	Port Input	78					5396	5396	2
+oiadsgf	0	Port Input	70					5406	5406	1
+oiadsgf	0	Port Input	48					5416	5416	1
+oiadsgf	0	Port Input	49					5426	5426	2
+oiadsgf	0	Port Input	46					5436	5436	1
+oiadsgf	0	Port Input	48					5446	5446	1
+oiadsgf	0	Port Input	51					5456	5456	1
+oiadsgf	1	Save Logfile	Initialised	Initialised				5460	0	22			0		other	0
+oiadsgf	1	Port Input	71					6726	1266	1
+oiadsgf	1	Port Input	49					6736	1276	1
+oiadsgf	1	Port Input	53					6746	1286	1
+oiadsgf	1	Port Input	102					6756	1296	1
+oiadsgf	1	Port Input	72					8226	2766	2
+oiadsgf	1	Port Input	49					8236	2776	1
+oiadsgf	1	Port Input	98					8246	2786	1
+oiadsgf	1	Port Input	102					8256	2796	1
+oiadsgf	1	Port Input	79					9726	4266	1
+oiadsgf	1	Port Input	48					9736	4276	1
+oiadsgf	1	Port Input	49					9746	4286	1
+oiadsgf	1	Port Input	98					9756	4296	1
+oiadsgf	1	Port Input	78					11226	5766	2
+oiadsgf	1	Port Input	49					11236	5776	1
+oiadsgf	1	Port Input	57					11246	5786	1
+oiadsgf	1	Port Input	102					11256	5796	1
+oiadsgf	1	Port Input	75					12726	7266	2
+oiadsgf	1	Port Input	49					12736	7276	2
+oiadsgf	1	Port Input	101					12746	7286	1
+oiadsgf	1	Port Input	53					12756	7296	1
+oiadsgf	1	Port Input	76					14226	8766	2
+oiadsgf	1	Port Input	49					14236	8776	1
+oiadsgf	1	Port Input	100					14246	8786	1
+oiadsgf	1	Port Input	50					14256	8796	1
+oiadsgf	1	Port Input	66					15887	10427	1
+oiadsgf	1	Port Input	49					15896	10436	1
+oiadsgf	1	Port Input	55					15906	10446	1
+oiadsgf	1	Port Input	99					15916	10456	1
+oiadsgf	1	Port Input	82					17386	11926	1
+oiadsgf	1	Port Input	48					17396	11936	2
+oiadsgf	1	Port Input	51					17406	11946	1
+oiadsgf	1	Port Input	50					17416	11956	2
+oiadsgf	1	Port Input	83					18886	13426	2
+oiadsgf	1	Port Input	48					18896	13436	1
+oiadsgf	1	Port Input	51					18906	13446	1
+oiadsgf	1	Port Input	50					18916	13456	1
+oiadsgf	1	Port Input	84					20386	14926	2
+oiadsgf	1	Port Input	49					20396	14936	1
+oiadsgf	1	Port Input	55					20406	14946	1
+oiadsgf	1	Port Input	99					20416	14956	2
+oiadsgf	1	Port Input	67					22236	16776	2
+oiadsgf	1	Port Input	48					22246	16786	2
+oiadsgf	1	Port Input	48					22256	16796	2
+oiadsgf	1	Port Input	48					22266	16806	2
+oiadsgf	1	Port Input	77					23716	18256	2
+oiadsgf	1	Port Input	49					23736	18276	1
+oiadsgf	1	Port Input	55					23746	18286	1
+oiadsgf	1	Port Input	98					23756	18296	1
+oiadsgf	2	Save Logfile	Measurement,37.9, ,38	Measurement	37.9	 	38	24157	0	33			0		other	0
+oiadsgf	2	Port Input	77					25616	1459	2
+oiadsgf	2	Port Input	49					25636	1479	1
+oiadsgf	2	Port Input	55					25646	1489	1
+oiadsgf	2	Port Input	99					25656	1499	1
+oiadsgf	3	Save Logfile	Measurement,38	Measurement	38			27055	0	35			0		other	0
+oiadsgf	3	Port Input	77					28206	1151	2
+oiadsgf	3	Port Input	49					28226	1171	1
+oiadsgf	3	Port Input	55					28236	1181	2
+oiadsgf	3	Port Input	99					28246	1191	2
+oiadsgf	4	Save Logfile	Measurement,38	Measurement	38			29644	0	38			0		other	0
+oiadsgf	4	Port Input	77					30876	1232	2
+oiadsgf	4	Port Input	49					30896	1252	1
+oiadsgf	4	Port Input	55					30906	1262	2
+oiadsgf	4	Port Input	99					30916	1272	1
+oiadsgf	5	Save Logfile	Measurement,38	Measurement	38			32314	0	40			0		other	0
+oiadsgf	5	Port Input	77					33536	1222	2
+oiadsgf	5	Port Input	49					33556	1242	2
+oiadsgf	5	Port Input	55					33566	1252	1
+oiadsgf	5	Port Input	99					33576	1262	1
+oiadsgf	6	Save Logfile	Measurement,38	Measurement	38			34973	0	23			0		other	0
+oiadsgf	6	Port Input	77					36206	1233	1
+oiadsgf	6	Port Input	49					36226	1253	1
+oiadsgf	6	Port Input	55					36236	1263	1
+oiadsgf	6	Port Input	99					36246	1273	1
+oiadsgf	7	Save Logfile	Measurement,38	Measurement	38			37643	0	23			0		other	0
+oiadsgf	7	Port Input	77					38866	1223	1
+oiadsgf	7	Port Input	49					38886	1243	1
+oiadsgf	7	Port Input	55					38896	1253	1
+oiadsgf	7	Port Input	99					38906	1263	1
+oiadsgf	8	Save Logfile	Measurement,38	Measurement	38			40303	0	24			0		other	0
+oiadsgf	8	Port Input	77					41526	1223	1
+oiadsgf	8	Port Input	49					41546	1243	1
+oiadsgf	8	Port Input	55					41556	1253	1
+oiadsgf	8	Port Input	99					41566	1263	1
+oiadsgf	9	Save Logfile	Measurement,38	Measurement	38			42963	0	25			0		other	0
+oiadsgf	9	Port Input	77					44566	1603	1
+oiadsgf	9	Port Input	49					44596	1633	1
+oiadsgf	9	Port Input	55					44606	1643	1
+oiadsgf	9	Port Input	99					44616	1653	1
+oiadsgf	10	Save Logfile	Measurement,38	Measurement	38			46013	0	26			0		other	0
+oiadsgf	10	Port Input	77					47196	1183	1
+oiadsgf	10	Port Input	49					47216	1203	1
+oiadsgf	10	Port Input	55					47226	1213	1
+oiadsgf	10	Port Input	99					47236	1223	1
+oiadsgf	11	Save Logfile	Measurement,38	Measurement	38			48633	0	28			0		other	0
+oiadsgf	11	Port Input	77					49856	1223	1
+oiadsgf	11	Port Input	49					49876	1243	1
+oiadsgf	11	Port Input	55					49886	1253	1
+oiadsgf	11	Port Input	99					49896	1263	1
+oiadsgf	12	Save Logfile	Measurement,38	Measurement	38			51293	0	31			0		other	0
+oiadsgf	12	Port Input	77					52526	1233	1
+oiadsgf	12	Port Input	49					52546	1253	1
+oiadsgf	12	Port Input	55					52556	1263	1
+oiadsgf	12	Port Input	99					52566	1273	1
+oiadsgf	12	Response	1					52757	1464	1
+oiadsgf	13	Save Logfile	Measurement,38	Measurement	38			53963	0	30			0		other	0
+oiadsgf	14	Save Logfile	Raise Temperature,38	Raise Temperature	38			54126	0	30			0		other	0
+oiadsgf	14	Response	1					54663	537	2
+oiadsgf	14	Port Input	84					55216	1090	1
+oiadsgf	14	Port Input	49					55226	1100	1
+oiadsgf	14	Port Input	56					55236	1110	1
+oiadsgf	14	Port Input	54					55246	1120	1
+oiadsgf	14	Response	1					55953	1827	133
+oiadsgf	14	Port Input	67					57276	3150	2
+oiadsgf	14	Port Input	48					57296	3170	1
+oiadsgf	14	Port Input	48					57306	3180	1
+oiadsgf	14	Port Input	50					57316	3190	1
+oiadsgf	14	Response	1					57687	3561	2
+oiadsgf	14	Port Input	77					58786	4660	2
+oiadsgf	14	Port Input	49					58806	4680	1
+oiadsgf	14	Port Input	55					58816	4690	1
+oiadsgf	14	Port Input	99					58826	4700	1
+oiadsgf	14	Response	1					59283	5157	24
+oiadsgf	14	Response	1					61045	6919	10
+oiadsgf	15	Save Logfile	Measurement,38	Measurement	38			61448	0	33			0		other	0
+oiadsgf	16	Save Logfile	Raise Temperature,38	Raise Temperature	38			61620	0	34			0		other	0
+oiadsgf	16	Response	1					62223	603	491
+oiadsgf	16	Port Input	84					62996	1376	2
+oiadsgf	16	Port Input	49					63016	1396	2
+oiadsgf	16	Port Input	57					63026	1406	1
+oiadsgf	16	Port Input	48					63036	1416	2
+oiadsgf	16	Port Input	67					64517	2897	1
+oiadsgf	16	Port Input	48					64527	2907	1
+oiadsgf	16	Port Input	48					64536	2916	2
+oiadsgf	16	Port Input	50					64546	2926	2
+oiadsgf	16	Response	1					64933	3313	444
+oiadsgf	16	Port Input	77					66473	4853	23
+oiadsgf	16	Port Input	49					66497	4877	1
+oiadsgf	16	Port Input	56					66516	4896	2
+oiadsgf	16	Port Input	56					66527	4907	1
+oiadsgf	17	Save Logfile	Measurement,39.2	Measurement	39.2			67915	0	684			0		other	0
+oiadsgf	18	Save Logfile	Raise Temperature,39.2	Raise Temperature	39.2			68782	0	72			0		other	0
+oiadsgf	18	Port Input	84					69917	1135	1
+oiadsgf	18	Port Input	49					69926	1144	2
+oiadsgf	18	Port Input	57					69937	1155	1
+oiadsgf	18	Port Input	97					69946	1164	2
+oiadsgf	18	Port Input	67					71437	2655	1
+oiadsgf	18	Port Input	48					71447	2665	1
+oiadsgf	18	Port Input	48					71457	2675	1
+oiadsgf	18	Port Input	50					71467	2685	1
+oiadsgf	18	Port Input	77					72957	4175	1
+oiadsgf	18	Port Input	49					72977	4195	1
+oiadsgf	18	Port Input	57					72987	4205	1
+oiadsgf	18	Port Input	50					72997	4215	1
+oiadsgf	19	Save Logfile	Measurement,40.2	Measurement	40.2			74394	0	73			0		other	0
+oiadsgf	20	Save Logfile	Raise Temperature,40.2	Raise Temperature	40.2			74611	0	75			0		other	0
+oiadsgf	20	Port Input	84					75757	1146	1
+oiadsgf	20	Port Input	49					75767	1156	1
+oiadsgf	20	Port Input	97					75777	1166	1
+oiadsgf	20	Port Input	52					75787	1176	1
+oiadsgf	20	Port Input	67					77277	2666	1
+oiadsgf	20	Port Input	48					77287	2676	1
+oiadsgf	20	Port Input	48					77297	2686	1
+oiadsgf	20	Port Input	50					77307	2696	1
+oiadsgf	20	Port Input	77					78797	4186	1
+oiadsgf	20	Port Input	49					78817	4206	1
+oiadsgf	20	Port Input	57					78827	4216	1
+oiadsgf	20	Port Input	99					78837	4226	1
+oiadsgf	21	Save Logfile	Measurement,41.2	Measurement	41.2			80234	0	88			0		other	0
+oiadsgf	22	Save Logfile	Raise Temperature,41.2	Raise Temperature	41.2			80440	0	82			0		other	0
+oiadsgf	22	Port Input	84					81587	1147	1
+oiadsgf	22	Port Input	49					81597	1157	1
+oiadsgf	22	Port Input	97					81607	1167	1
+oiadsgf	22	Port Input	101					81617	1177	1
+oiadsgf	22	Port Input	67					83107	2667	1
+oiadsgf	22	Port Input	48					83117	2677	1
+oiadsgf	22	Port Input	48					83127	2687	1
+oiadsgf	22	Port Input	50					83137	2697	1
+oiadsgf	22	Port Input	77					84627	4187	1
+oiadsgf	22	Port Input	49					84647	4207	1
+oiadsgf	22	Port Input	97					84657	4217	1
+oiadsgf	22	Port Input	54					84667	4227	1
+oiadsgf	23	Save Logfile	Measurement,42.2	Measurement	42.2			86065	0	86			0		other	0
+oiadsgf	24	Save Logfile	Raise Temperature,42.2	Raise Temperature	42.2			86268	0	89			0		other	0
+oiadsgf	24	Port Input	84					87427	1159	1
+oiadsgf	24	Port Input	49					87437	1169	1
+oiadsgf	24	Port Input	98					87447	1179	1
+oiadsgf	24	Port Input	56					87457	1189	1
+oiadsgf	24	Port Input	67					88947	2679	1
+oiadsgf	24	Port Input	48					88957	2689	1
+oiadsgf	24	Port Input	48					88967	2699	1
+oiadsgf	24	Port Input	50					88977	2709	1
+oiadsgf	24	Port Input	77					90467	4199	1
+oiadsgf	24	Port Input	49					90487	4219	1
+oiadsgf	24	Port Input	98					90497	4229	1
+oiadsgf	24	Port Input	48					90507	4239	1
+oiadsgf	25	Save Logfile	Measurement,43.2	Measurement	43.2			91905	0	91			0		other	0
+oiadsgf	26	Save Logfile	Raise Temperature,43.2	Raise Temperature	43.2			92097	0	94			0		other	0
+oiadsgf	26	Port Input	84					93257	1160	1
+oiadsgf	26	Port Input	49					93267	1170	1
+oiadsgf	26	Port Input	99					93277	1180	1
+oiadsgf	26	Port Input	50					93287	1190	1
+oiadsgf	26	Port Input	67					94777	2680	1
+oiadsgf	26	Port Input	48					94787	2690	1
+oiadsgf	26	Port Input	48					94797	2700	1
+oiadsgf	26	Port Input	50					94807	2710	1
+oiadsgf	26	Port Input	77					96277	4180	1
+oiadsgf	26	Port Input	49					96297	4200	1
+oiadsgf	26	Port Input	98					96307	4210	1
+oiadsgf	26	Port Input	97					96317	4220	1
+oiadsgf	27	Save Logfile	Measurement,44.2	Measurement	44.2			97713	0	50			0		other	0
+oiadsgf	28	Save Logfile	Raise Temperature,44.2	Raise Temperature	44.2			97925	0	52			0		other	0
+oiadsgf	28	Port Input	84					99037	1112	1
+oiadsgf	28	Port Input	49					99047	1122	1
+oiadsgf	28	Port Input	99					99057	1132	1
+oiadsgf	28	Port Input	99					99067	1142	1
+oiadsgf	28	Port Input	67					100557	2632	1
+oiadsgf	28	Port Input	48					100567	2642	1
+oiadsgf	28	Port Input	48					100577	2652	1
+oiadsgf	28	Port Input	50					100587	2662	1
+oiadsgf	28	Port Input	77					102057	4132	1
+oiadsgf	28	Port Input	49					102077	4152	1
+oiadsgf	28	Port Input	99					102087	4162	1
+oiadsgf	28	Port Input	52					102097	4172	1
+oiadsgf	29	Save Logfile	Measurement,45.2	Measurement	45.2			103493	0	53			0		other	0
+oiadsgf	29	Port Input	77					104647	1154	1
+oiadsgf	29	Port Input	49					104667	1174	1
+oiadsgf	29	Port Input	99					104677	1184	1
+oiadsgf	29	Port Input	57					104687	1194	1
+oiadsgf	30	Save Logfile	Measurement,45.7	Measurement	45.7			106083	0	54			0		other	0
+oiadsgf	30	Port Input	77					107317	1234	1
+oiadsgf	30	Port Input	49					107337	1254	1
+oiadsgf	30	Port Input	99					107347	1264	1
+oiadsgf	30	Port Input	101					107357	1274	1
+oiadsgf	31	Save Logfile	Measurement,46.2	Measurement	46.2			108753	0	58			0		other	0
+oiadsgf	31	Port Input	77					109977	1224	1
+oiadsgf	31	Port Input	49					109997	1244	1
+oiadsgf	31	Port Input	99					110007	1254	1
+oiadsgf	31	Port Input	101					110017	1264	1
+oiadsgf	32	Save Logfile	Measurement,46.2	Measurement	46.2			111413	0	55			0		other	0
+oiadsgf	32	Port Input	77					112647	1234	1
+oiadsgf	32	Port Input	49					112667	1254	1
+oiadsgf	32	Port Input	99					112677	1264	1
+oiadsgf	32	Port Input	100					112687	1274	1
+oiadsgf	33	Save Logfile	Measurement,46.1	Measurement	46.1			114083	0	60			0		other	0
+oiadsgf	33	Port Input	77					115307	1224	1
+oiadsgf	33	Port Input	49					115327	1244	1
+oiadsgf	33	Port Input	99					115337	1254	1
+oiadsgf	33	Port Input	100					115347	1264	1
+oiadsgf	34	Save Logfile	Measurement,46.1	Measurement	46.1			116743	0	64			0		other	0
+oiadsgf	34	Port Input	77					117977	1234	1
+oiadsgf	34	Port Input	49					117997	1254	1
+oiadsgf	34	Port Input	99					118007	1264	1
+oiadsgf	34	Port Input	100					118017	1274	1
+oiadsgf	35	Save Logfile	Measurement,46.1	Measurement	46.1			119417	0	59			0		other	0
+oiadsgf	35	Port Input	77					120637	1220	1
+oiadsgf	35	Port Input	49					120657	1240	1
+oiadsgf	35	Port Input	99					120667	1250	1
+oiadsgf	35	Port Input	100					120677	1260	1
+oiadsgf	36	Save Logfile	Measurement,46.1	Measurement	46.1			122073	0	63			0		other	0
+oiadsgf	36	Port Input	77					123297	1224	1
+oiadsgf	36	Port Input	49					123317	1244	1
+oiadsgf	36	Port Input	99					123327	1254	1
+oiadsgf	36	Port Input	100					123337	1264	1
+oiadsgf	37	Save Logfile	Measurement,46.1	Measurement	46.1			125088	0	123			0		other	0
+oiadsgf	37	Port Input	77					126467	1379	1
+oiadsgf	37	Port Input	49					126474	1386	22
+oiadsgf	37	Port Input	99					126497	1409	1
+oiadsgf	37	Port Input	100					126507	1419	1
+oiadsgf	38	Save Logfile	Measurement,46.1	Measurement	46.1			127905	0	129			0		other	0
+oiadsgf	38	Port Input	77					129297	1392	1
+oiadsgf	38	Port Input	49					129317	1412	1
+oiadsgf	38	Port Input	99					129327	1422	1
+oiadsgf	38	Port Input	100					129337	1432	1
+oiadsgf	39	Save Logfile	Measurement,46.1	Measurement	46.1			130734	0	129			0		other	0
+oiadsgf	39	Port Input	77					132127	1393	1
+oiadsgf	39	Port Input	49					132147	1413	1
+oiadsgf	39	Port Input	99					132157	1423	1
+oiadsgf	39	Port Input	100					132167	1433	1
+oiadsgf	40	Save Logfile	Measurement,46.1	Measurement	46.1			133564	0	125			0		other	0
+oiadsgf	40	Port Input	77					134957	1393	1
+oiadsgf	40	Port Input	49					134977	1413	1
+oiadsgf	40	Port Input	99					134987	1423	1
+oiadsgf	40	Port Input	100					134997	1433	1
+oiadsgf	41	Save Logfile	Measurement,46.1	Measurement	46.1			136394	0	151			0		other	0
+oiadsgf	41	Port Input	77					137787	1393	1
+oiadsgf	41	Port Input	49					137807	1413	1
+oiadsgf	41	Port Input	99					137817	1423	1
+oiadsgf	41	Port Input	99					137827	1433	1
+oiadsgf	42	Save Logfile	Measurement,46	Measurement	46			139225	0	128			0		other	0
+oiadsgf	42	Port Input	77					140627	1402	1
+oiadsgf	42	Port Input	49					140647	1422	1
+oiadsgf	42	Port Input	99					140657	1432	1
+oiadsgf	42	Port Input	99					140667	1442	1
+oiadsgf	43	Save Logfile	Measurement,46	Measurement	46			142064	0	145			0		other	0
+oiadsgf	43	Port Input	77					143457	1393	1
+oiadsgf	43	Port Input	49					143477	1413	1
+oiadsgf	43	Port Input	99					143487	1423	1
+oiadsgf	43	Port Input	99					143497	1433	1
+oiadsgf	44	Save Logfile	Measurement,46	Measurement	46			144895	0	139			0		other	0
+oiadsgf	44	Port Input	77					146287	1392	1
+oiadsgf	44	Port Input	49					146307	1412	1
+oiadsgf	44	Port Input	99					146317	1422	1
+oiadsgf	44	Port Input	100					146327	1432	1
+oiadsgf	45	Save Logfile	Measurement,46.1	Measurement	46.1			147725	0	139			0		other	0
+oiadsgf	45	Port Input	77					149117	1392	1
+oiadsgf	45	Port Input	49					149137	1412	1
+oiadsgf	45	Port Input	99					149147	1422	1
+oiadsgf	45	Port Input	100					149157	1432	1
+oiadsgf	46	Save Logfile	Measurement,46.1	Measurement	46.1			150555	0	144			0		other	0
+oiadsgf	46	Port Input	77					151947	1392	1
+oiadsgf	46	Port Input	49					151967	1412	1
+oiadsgf	46	Port Input	99					151977	1422	1
+oiadsgf	46	Port Input	100					151987	1432	1
+oiadsgf	47	Save Logfile	Measurement,46.1	Measurement	46.1			153385	0	138			0		other	0
+oiadsgf	47	Port Input	77					154777	1392	1
+oiadsgf	47	Port Input	49					154797	1412	1
+oiadsgf	47	Port Input	99					154807	1422	1
+oiadsgf	47	Port Input	100					154817	1432	1
+oiadsgf	48	Save Logfile	Measurement,46.1	Measurement	46.1			156213	0	96			0		other	0
+oiadsgf	48	Port Input	77					157447	1234	1
+oiadsgf	48	Port Input	49					157467	1254	1
+oiadsgf	48	Port Input	99					157477	1264	1
+oiadsgf	48	Port Input	99					157487	1274	1
+oiadsgf	49	Save Logfile	Measurement,46	Measurement	46			158883	0	75			0		other	0
+oiadsgf	49	Port Input	77					160107	1224	1
+oiadsgf	49	Port Input	49					160127	1244	1
+oiadsgf	49	Port Input	99					160137	1254	1
+oiadsgf	49	Port Input	100					160147	1264	1
+oiadsgf	50	Save Logfile	Measurement,46.1	Measurement	46.1			161543	0	77			0		other	0
+oiadsgf	50	Port Input	77					162767	1224	1
+oiadsgf	50	Port Input	49					162787	1244	1
+oiadsgf	50	Port Input	99					162797	1254	1
+oiadsgf	50	Port Input	99					162807	1264	1
+oiadsgf	51	Save Logfile	Measurement,46	Measurement	46			164203	0	76			0		other	0
+oiadsgf	51	Port Input	77					165437	1234	1
+oiadsgf	51	Port Input	49					165457	1254	1
+oiadsgf	51	Port Input	99					165467	1264	1
+oiadsgf	51	Port Input	99					165477	1274	1
+oiadsgf	52	Save Logfile	Measurement,46	Measurement	46			166873	0	77			0		other	0
+oiadsgf	52	Port Input	77					168097	1224	1
+oiadsgf	52	Port Input	49					168117	1244	1
+oiadsgf	52	Port Input	99					168127	1254	1
+oiadsgf	52	Port Input	99					168137	1264	1
+oiadsgf	53	Save Logfile	Measurement,46	Measurement	46			169533	0	364			0		other	0
+oiadsgf	53	Port Input	77					171097	1564	1
+oiadsgf	53	Port Input	49					171117	1584	1
+oiadsgf	53	Port Input	99					171127	1594	1
+oiadsgf	53	Port Input	99					171137	1604	1
+oiadsgf	54	Save Logfile	Measurement,46	Measurement	46			172533	0	82			0		other	0
+oiadsgf	54	Port Input	77					173767	1234	1
+oiadsgf	54	Port Input	49					173787	1254	1
+oiadsgf	54	Port Input	99					173797	1264	1
+oiadsgf	54	Port Input	100					173807	1274	1
+oiadsgf	55	Save Logfile	Measurement,46.1	Measurement	46.1			175203	0	80			0		other	0
+oiadsgf	55	Port Input	77					176427	1224	1
+oiadsgf	55	Port Input	49					176447	1244	1
+oiadsgf	55	Port Input	99					176457	1254	1
+oiadsgf	55	Port Input	100					176467	1264	1
+oiadsgf	56	Save Logfile	Measurement,46.1	Measurement	46.1			177863	0	150			0		other	0
+oiadsgf	56	Port Input	77					179257	1394	1
+oiadsgf	56	Port Input	49					179277	1414	1
+oiadsgf	56	Port Input	99					179287	1424	1
+oiadsgf	56	Port Input	100					179297	1434	1
+oiadsgf	57	Save Logfile	Measurement,46.1	Measurement	46.1			180693	0	86			0		other	0
+oiadsgf	57	Port Input	77					182017	1324	1
+oiadsgf	57	Port Input	49					182037	1344	1
+oiadsgf	57	Port Input	99					182047	1354	1
+oiadsgf	57	Port Input	100					182057	1364	1
+oiadsgf	58	Save Logfile	Measurement,46.1	Measurement	46.1			183453	0	578			0		other	0
+oiadsgf	58	Port Input	77					185257	1804	1
+oiadsgf	58	Port Input	49					185277	1824	1
+oiadsgf	58	Port Input	99					185287	1834	1
+oiadsgf	58	Port Input	100					185297	1844	1
+oiadsgf	59	Save Logfile	Measurement,46.1	Measurement	46.1			186875	0	168			0		other	0
+oiadsgf	59	Port Input	77					188225	1350	52
+oiadsgf	59	Port Input	49					188277	1402	1
+oiadsgf	59	Port Input	99					188283	1408	19
+oiadsgf	59	Port Input	99					188283	1408	19
+oiadsgf	60	Save Logfile	Measurement,46	Measurement	46			189694	0	173			0		other	0
+oiadsgf	60	Port Input	77					191087	1393	1
+oiadsgf	60	Port Input	49					191107	1413	1
+oiadsgf	60	Port Input	99					191118	1424	1
+oiadsgf	60	Port Input	100					191127	1433	1
+oiadsgf	61	Save Logfile	Measurement,46.1	Measurement	46.1			192525	0	172			0		other	0
+oiadsgf	61	Port Input	77					193917	1392	2
+oiadsgf	61	Port Input	49					193937	1412	2
+oiadsgf	61	Port Input	99					193947	1422	1
+oiadsgf	61	Port Input	100					193957	1432	1
+oiadsgf	62	Save Logfile	Measurement,46.1	Measurement	46.1			195354	0	186			0		other	0
+oiadsgf	62	Port Input	77					196747	1393	2
+oiadsgf	62	Port Input	49					196767	1413	1
+oiadsgf	62	Port Input	99					196777	1423	1
+oiadsgf	62	Port Input	100					196787	1433	2
+oiadsgf	63	Save Logfile	Measurement,46.1	Measurement	46.1			198185	0	382			0		other	0
+oiadsgf	63	Port Input	77					199747	1562	2
+oiadsgf	63	Port Input	49					199767	1582	2
+oiadsgf	63	Port Input	99					199777	1592	2
+oiadsgf	63	Port Input	99					199787	1602	2
+oiadsgf	64	Save Logfile	Measurement,46	Measurement	46			201184	0	177			0		other	0
+oiadsgf	64	Port Input	77					202577	1393	2
+oiadsgf	64	Port Input	49					202597	1413	1
+oiadsgf	64	Port Input	99					202607	1423	2
+oiadsgf	64	Port Input	99					202617	1433	2
+oiadsgf	65	Save Logfile	Measurement,46	Measurement	46			204478	0	186			0		other	0
+oiadsgf	65	Port Input	77					205907	1429	2
+oiadsgf	65	Port Input	49					205927	1449	1
+oiadsgf	65	Port Input	99					205937	1459	1
+oiadsgf	65	Port Input	99					205947	1469	2
+oiadsgf	66	Save Logfile	Measurement,46	Measurement	46			207345	0	185			0		other	0
+oiadsgf	66	Port Input	77					208737	1392	2
+oiadsgf	66	Port Input	49					208757	1412	2
+oiadsgf	66	Port Input	99					208767	1422	2
+oiadsgf	66	Port Input	100					208777	1432	1
+oiadsgf	67	Save Logfile	Measurement,46.1	Measurement	46.1			210175	0	192			0		other	0
+oiadsgf	67	Port Input	77					211567	1392	2
+oiadsgf	67	Port Input	49					211587	1412	2
+oiadsgf	67	Port Input	99					211597	1422	2
+oiadsgf	67	Port Input	100					211607	1432	2
+oiadsgf	68	Save Logfile	Measurement,46.1	Measurement	46.1			213592	0	102			0		other	0
+oiadsgf	68	Port Input	77					214907	1315	1
+oiadsgf	68	Port Input	49					214927	1335	1
+oiadsgf	68	Port Input	99					214937	1345	1
+oiadsgf	68	Port Input	99					214947	1355	1
+oiadsgf	69	Save Logfile	Measurement,46	Measurement	46			216343	0	95			0		other	0
+oiadsgf	69	Port Input	77					217567	1224	1
+oiadsgf	69	Port Input	49					217587	1244	1
+oiadsgf	69	Port Input	99					217597	1254	1
+oiadsgf	69	Port Input	100					217607	1264	1
+oiadsgf	70	Save Logfile	Measurement,46.1	Measurement	46.1			219003	0	96			0		other	0
+oiadsgf	70	Port Input	77					220227	1224	1
+oiadsgf	70	Port Input	49					220247	1244	1
+oiadsgf	70	Port Input	99					220257	1254	1
+oiadsgf	70	Port Input	100					220267	1264	1
+oiadsgf	71	Save Logfile	Measurement,46.1	Measurement	46.1			221663	0	102			0		other	0
+oiadsgf	71	Port Input	77					222887	1224	1
+oiadsgf	71	Port Input	49					222907	1244	1
+oiadsgf	71	Port Input	99					222917	1254	1
+oiadsgf	71	Port Input	100					222927	1264	1
+oiadsgf	72	Save Logfile	Measurement,46.1	Measurement	46.1			224323	0	97			0		other	0
+oiadsgf	72	Port Input	77					225557	1234	1
+oiadsgf	72	Port Input	49					225577	1254	1
+oiadsgf	72	Port Input	99					225587	1264	1
+oiadsgf	72	Port Input	100					225597	1274	1
+oiadsgf	73	Save Logfile	Measurement,46.1	Measurement	46.1			226993	0	100			0		other	0
+oiadsgf	73	Port Input	77					228217	1224	1
+oiadsgf	73	Port Input	49					228237	1244	1
+oiadsgf	73	Port Input	99					228247	1254	1
+oiadsgf	73	Port Input	100					228257	1264	1
+oiadsgf	74	Save Logfile	Measurement,46.1	Measurement	46.1			229653	0	100			0		other	0
+oiadsgf	74	Port Input	77					230887	1234	1
+oiadsgf	74	Port Input	49					230907	1254	1
+oiadsgf	74	Port Input	99					230917	1264	1
+oiadsgf	74	Port Input	100					230927	1274	1
+oiadsgf	75	Save Logfile	Measurement,46.1	Measurement	46.1			232323	0	101			0		other	0
+oiadsgf	75	Port Input	77					233547	1224	1
+oiadsgf	75	Port Input	49					233567	1244	1
+oiadsgf	75	Port Input	99					233577	1254	1
+oiadsgf	75	Port Input	100					233587	1264	1
+oiadsgf	76	Save Logfile	Measurement,46.1	Measurement	46.1			234983	0	100			0		other	0
+oiadsgf	76	Port Input	77					236217	1234	1
+oiadsgf	76	Port Input	49					236237	1254	1
+oiadsgf	76	Port Input	99					236247	1264	1
+oiadsgf	76	Port Input	100					236257	1274	1
+oiadsgf	77	Save Logfile	Measurement,46.1	Measurement	46.1			237653	0	106			0		other	0
+oiadsgf	77	Port Input	77					238877	1224	2
+oiadsgf	77	Port Input	49					238897	1244	1
+oiadsgf	77	Port Input	99					238907	1254	1
+oiadsgf	77	Port Input	100					238917	1264	1
+oiadsgf	78	Save Logfile	Measurement,46.1	Measurement	46.1			240313	0	111			0		other	0
+oiadsgf	78	Port Input	77					241548	1235	1
+oiadsgf	78	Port Input	49					241567	1254	2
+oiadsgf	78	Port Input	99					241577	1264	2
+oiadsgf	78	Port Input	100					241587	1274	2
+oiadsgf	79	Save Logfile	Measurement,46.1	Measurement	46.1			242983	0	105			0		other	0
+oiadsgf	79	Port Input	77					244208	1225	1
+oiadsgf	79	Port Input	49					244227	1244	2
+oiadsgf	79	Port Input	99					244238	1255	1
+oiadsgf	79	Port Input	100					244247	1264	2
+oiadsgf	80	Save Logfile	Measurement,46.1	Measurement	46.1			245656	0	248			0		other	0
+oiadsgf	80	Port Input	77					247038	1382	1
+oiadsgf	80	Port Input	49					247057	1401	2
+oiadsgf	80	Port Input	99					247067	1411	2
+oiadsgf	80	Port Input	100					247077	1421	2
+oiadsgf	81	Save Logfile	Measurement,46.1	Measurement	46.1			248475	0	210			0		other	0
+oiadsgf	81	Port Input	77					249868	1393	1
+oiadsgf	81	Port Input	49					249888	1413	1
+oiadsgf	81	Port Input	99					249898	1423	1
+oiadsgf	81	Port Input	100					249908	1433	1
+oiadsgf	82	Save Logfile	Measurement,46.1	Measurement	46.1			251305	0	226			0		other	0
+oiadsgf	82	Port Input	77					252708	1403	1
+oiadsgf	82	Port Input	49					252728	1423	1
+oiadsgf	82	Port Input	99					252737	1432	2
+oiadsgf	82	Port Input	100					252748	1443	1
+oiadsgf	83	Save Logfile	Measurement,46.1	Measurement	46.1			254144	0	216			0		other	0
+oiadsgf	83	Port Input	77					255538	1394	1
+oiadsgf	83	Port Input	49					255558	1414	1
+oiadsgf	83	Port Input	99					255568	1424	1
+oiadsgf	83	Port Input	100					255577	1433	2
+oiadsgf	84	Save Logfile	Measurement,46.1	Measurement	46.1			256975	0	225			0		other	0
+oiadsgf	84	Port Input	77					258368	1393	1
+oiadsgf	84	Port Input	49					258388	1413	1
+oiadsgf	84	Port Input	99					258398	1423	1
+oiadsgf	84	Port Input	100					258408	1433	1
+oiadsgf	85	Save Logfile	Measurement,46.1	Measurement	46.1			259804	0	234			0		other	0
+oiadsgf	85	Port Input	77					261198	1394	1
+oiadsgf	85	Port Input	49					261218	1414	1
+oiadsgf	85	Port Input	99					261228	1424	1
+oiadsgf	85	Port Input	100					261237	1433	2
+oiadsgf	86	Save Logfile	Measurement,46.1	Measurement	46.1			262634	0	231			0		other	0
+oiadsgf	86	Port Input	77					264028	1394	1
+oiadsgf	86	Port Input	49					264048	1414	1
+oiadsgf	86	Port Input	99					264058	1424	1
+oiadsgf	86	Port Input	100					264068	1434	1
+oiadsgf	87	Save Logfile	Measurement,46.1	Measurement	46.1			265465	0	222			0		other	0
+oiadsgf	87	Port Input	77					266858	1393	1
+oiadsgf	87	Port Input	49					266878	1413	1
+oiadsgf	87	Port Input	99					266888	1423	1
+oiadsgf	87	Port Input	100					266898	1433	1
+oiadsgf	88	Save Logfile	Measurement,46.1	Measurement	46.1			268294	0	232			0		other	0
+oiadsgf	88	Port Input	77					269688	1394	1
+oiadsgf	88	Port Input	49					269708	1414	1
+oiadsgf	88	Port Input	99					269718	1424	1
+oiadsgf	88	Port Input	100					269728	1434	1
+oiadsgf	89	Save Logfile	Measurement,46.1	Measurement	46.1			271125	0	226			0		other	0
+oiadsgf	89	Port Input	77					272518	1393	1
+oiadsgf	89	Port Input	49					272538	1413	1
+oiadsgf	89	Port Input	99					272548	1423	1
+oiadsgf	89	Port Input	100					272558	1433	1
+oiadsgf	90	Save Logfile	Measurement,46.1	Measurement	46.1			273953	0	117			0		other	0
+oiadsgf	90	Port Input	77					275218	1265	1
+oiadsgf	90	Port Input	49					275247	1294	2
+oiadsgf	90	Port Input	99					275257	1304	2
+oiadsgf	90	Port Input	100					275268	1315	1
+oiadsgf	91	Save Logfile	Measurement,46.1	Measurement	46.1			276653	0	138			0		other	0
+oiadsgf	91	Port Input	77					278048	1395	1
+oiadsgf	91	Port Input	49					278067	1414	2
+oiadsgf	91	Port Input	99					278078	1425	1
+oiadsgf	91	Port Input	100					278088	1435	1
+oiadsgf	92	Save Logfile	Measurement,46.1	Measurement	46.1			279483	0	124			0		other	0
+oiadsgf	92	Port Input	77					280848	1365	1
+oiadsgf	92	Port Input	49					280868	1385	1
+oiadsgf	92	Port Input	99					280878	1395	1
+oiadsgf	92	Port Input	99					280888	1405	1
+oiadsgf	93	Save Logfile	Measurement,46	Measurement	46			282283	0	119			0		other	0
+oiadsgf	93	Port Input	77					283508	1225	1
+oiadsgf	93	Port Input	49					283528	1245	1
+oiadsgf	93	Port Input	99					283538	1255	1
+oiadsgf	93	Port Input	99					283548	1265	1
+oiadsgf	94	Save Logfile	Measurement,46	Measurement	46			284943	0	122			0		other	0
+oiadsgf	94	Port Input	77					286178	1235	1
+oiadsgf	94	Port Input	49					286198	1255	1
+oiadsgf	94	Port Input	99					286208	1265	1
+oiadsgf	94	Port Input	99					286218	1275	1
+oiadsgf	95	Save Logfile	Measurement,46	Measurement	46			287613	0	121			0		other	0
+oiadsgf	95	Port Input	77					288838	1225	1
+oiadsgf	95	Port Input	49					288858	1245	1
+oiadsgf	95	Port Input	99					288868	1255	1
+oiadsgf	95	Port Input	99					288878	1265	1
+oiadsgf	96	Save Logfile	Measurement,46	Measurement	46			290273	0	128			0		other	0
+oiadsgf	96	Port Input	77					291508	1235	1
+oiadsgf	96	Port Input	49					291528	1255	1
+oiadsgf	96	Port Input	99					291538	1265	1
+oiadsgf	96	Port Input	99					291548	1275	1
+oiadsgf	97	Save Logfile	Measurement,46	Measurement	46			292943	0	122			0		other	0
+oiadsgf	97	Port Input	77					294168	1225	1
+oiadsgf	97	Port Input	49					294188	1245	1
+oiadsgf	97	Port Input	99					294198	1255	1
+oiadsgf	97	Port Input	99					294208	1265	1
+oiadsgf	98	Save Logfile	Measurement,46	Measurement	46			295603	0	124			0		other	0
+oiadsgf	98	Port Input	77					296838	1235	1
+oiadsgf	98	Port Input	49					296858	1255	1
+oiadsgf	98	Port Input	99					296868	1265	1
+oiadsgf	98	Port Input	99					296878	1275	1
+oiadsgf	99	Save Logfile	Measurement,46	Measurement	46			298273	0	126			0		other	0
+oiadsgf	99	Port Input	77					299667	1394	3
+oiadsgf	99	Port Input	49					299688	1415	1
+oiadsgf	99	Port Input	99					299698	1425	1
+oiadsgf	99	Port Input	99					299708	1435	1
+oiadsgf	100	Save Logfile	Measurement,46	Measurement	46			301103	0	125			0		other	0
+oiadsgf	100	Port Input	77					302328	1225	1
+oiadsgf	100	Port Input	49					302348	1245	1
+oiadsgf	100	Port Input	99					302358	1255	1
+oiadsgf	100	Port Input	99					302368	1265	1
+oiadsgf	101	Save Logfile	Measurement,46	Measurement	46			303764	0	257			0		other	0
+oiadsgf	101	Port Input	77					305498	1734	1
+oiadsgf	101	Port Input	49					305518	1754	1
+oiadsgf	101	Port Input	99					305528	1764	1
+oiadsgf	101	Port Input	99					305538	1774	1
+oiadsgf	102	Save Logfile	Measurement,46	Measurement	46			306957	0	270			0		other	0
+oiadsgf	102	Port Input	77					308498	1541	1
+oiadsgf	102	Port Input	49					308518	1561	1
+oiadsgf	102	Port Input	99					308528	1571	1
+oiadsgf	102	Port Input	99					308538	1581	1
+oiadsgf	103	Save Logfile	Measurement,46	Measurement	46			309934	0	263			0		other	0
+oiadsgf	103	Port Input	77					311328	1394	1
+oiadsgf	103	Port Input	49					311348	1414	1
+oiadsgf	103	Port Input	99					311358	1424	1
+oiadsgf	103	Port Input	99					311368	1434	1
+oiadsgf	104	Save Logfile	Measurement,46	Measurement	46			312764	0	264			0		other	0
+oiadsgf	104	Port Input	77					314158	1394	1
+oiadsgf	104	Port Input	49					314178	1414	1
+oiadsgf	104	Port Input	99					314188	1424	1
+oiadsgf	104	Port Input	100					314198	1434	1
+oiadsgf	105	Save Logfile	Measurement,46.1	Measurement	46.1			315594	0	268			0		other	0
+oiadsgf	105	Port Input	77					316988	1394	1
+oiadsgf	105	Port Input	49					317008	1414	1
+oiadsgf	105	Port Input	99					317018	1424	1
+oiadsgf	105	Port Input	99					317028	1434	1
+oiadsgf	106	Save Logfile	Measurement,46	Measurement	46			318424	0	270			0		other	0
+oiadsgf	106	Port Input	77					319818	1394	1
+oiadsgf	106	Port Input	49					319838	1414	1
+oiadsgf	106	Port Input	99					319848	1424	1
+oiadsgf	106	Port Input	99					319858	1434	1
+oiadsgf	107	Save Logfile	Measurement,46	Measurement	46			321254	0	270			0		other	0
+oiadsgf	107	Port Input	77					322648	1394	1
+oiadsgf	107	Port Input	49					322668	1414	1
+oiadsgf	107	Port Input	99					322678	1424	1
+oiadsgf	107	Port Input	99					322688	1434	1
+oiadsgf	108	Save Logfile	Measurement,46	Measurement	46			324084	0	272			0		other	0
+oiadsgf	108	Port Input	77					325478	1394	1
+oiadsgf	108	Port Input	49					325498	1414	1
+oiadsgf	108	Port Input	99					325508	1424	1
+oiadsgf	108	Port Input	99					325518	1434	1
+oiadsgf	109	Save Logfile	Measurement,46	Measurement	46			326925	0	388			0		other	0
+oiadsgf	109	Port Input	77					328658	1733	1
+oiadsgf	109	Port Input	49					328678	1753	1
+oiadsgf	109	Port Input	99					328688	1763	1
+oiadsgf	109	Port Input	99					328698	1773	1
+oiadsgf	110	Save Logfile	Measurement,46	Measurement	46			330303	0	272			0		other	0
+oiadsgf	110	Port Input	77					331808	1505	1
+oiadsgf	110	Port Input	49					331828	1525	1
+oiadsgf	110	Port Input	99					331838	1535	1
+oiadsgf	110	Port Input	99					331848	1545	1
+oiadsgf	111	Save Logfile	Measurement,46	Measurement	46			333445	0	218			0		other	0
+oiadsgf	111	Port Input	77					334808	1363	1
+oiadsgf	111	Port Input	49					334828	1383	1
+oiadsgf	111	Port Input	99					334838	1393	1
+oiadsgf	111	Port Input	99					334848	1403	1
+oiadsgf	112	Save Logfile	Measurement,46	Measurement	46			336243	0	145			0		other	0
+oiadsgf	112	Port Input	77					337638	1395	1
+oiadsgf	112	Port Input	49					337658	1415	1
+oiadsgf	112	Port Input	99					337668	1425	1
+oiadsgf	112	Port Input	99					337678	1435	1
+oiadsgf	113	Save Logfile	Measurement,46	Measurement	46			339073	0	142			0		other	0
+oiadsgf	113	Port Input	77					340468	1395	1
+oiadsgf	113	Port Input	49					340488	1415	1
+oiadsgf	113	Port Input	99					340498	1425	1
+oiadsgf	113	Port Input	99					340508	1435	1
+oiadsgf	114	Save Logfile	Measurement,46	Measurement	46			341903	0	141			0		other	0
+oiadsgf	114	Port Input	77					343298	1395	1
+oiadsgf	114	Port Input	49					343318	1415	1
+oiadsgf	114	Port Input	99					343328	1425	1
+oiadsgf	114	Port Input	99					343338	1435	1
+oiadsgf	115	Save Logfile	Measurement,46	Measurement	46			345323	0	142			0		other	0
+oiadsgf	115	Port Input	77					346628	1305	1
+oiadsgf	115	Port Input	49					346648	1325	1
+oiadsgf	115	Port Input	99					346658	1335	1
+oiadsgf	115	Port Input	99					346668	1345	1
+oiadsgf	116	Save Logfile	Measurement,46	Measurement	46			348111	0	150			0		other	0
+oiadsgf	116	Port Input	77					349458	1347	1
+oiadsgf	116	Port Input	49					349478	1367	1
+oiadsgf	116	Port Input	99					349488	1377	1
+oiadsgf	116	Port Input	99					349498	1387	1
+oiadsgf	117	Save Logfile	Measurement,46	Measurement	46			350893	0	144			0		other	0
+oiadsgf	117	Port Input	77					352418	1525	1
+oiadsgf	117	Port Input	49					352438	1545	1
+oiadsgf	117	Port Input	99					352448	1555	1
+oiadsgf	117	Port Input	99					352458	1565	1
+oiadsgf	118	Save Logfile	Measurement,46	Measurement	46			354281	0	144			0		other	0
+oiadsgf	118	Port Input	77					355708	1427	1
+oiadsgf	118	Port Input	49					355728	1447	1
+oiadsgf	118	Port Input	99					355738	1457	1
+oiadsgf	118	Port Input	99					355748	1467	1
+oiadsgf	119	Save Logfile	Measurement,46	Measurement	46			357143	0	145			0		other	0
+oiadsgf	119	Port Input	77					358788	1645	1
+oiadsgf	119	Port Input	49					358808	1665	1
+oiadsgf	119	Port Input	99					358818	1675	1
+oiadsgf	119	Port Input	99					358828	1685	1
+oiadsgf	120	Save Logfile	Measurement,46	Measurement	46			360223	0	151			0		other	0
+oiadsgf	120	Port Input	77					361618	1395	1
+oiadsgf	120	Port Input	49					361638	1415	1
+oiadsgf	120	Port Input	99					361648	1425	1
+oiadsgf	120	Port Input	99					361658	1435	1
+oiadsgf	121	Save Logfile	Measurement,46	Measurement	46			363053	0	148			0		other	0
+oiadsgf	121	Port Input	77					364448	1395	1
+oiadsgf	121	Port Input	49					364468	1415	1
+oiadsgf	121	Port Input	99					364478	1425	1
+oiadsgf	121	Port Input	99					364488	1435	1
+oiadsgf	122	Save Logfile	Measurement,46	Measurement	46			365895	0	310			0		other	0
+oiadsgf	122	Port Input	77					367448	1553	1
+oiadsgf	122	Port Input	49					367468	1573	1
+oiadsgf	122	Port Input	99					367478	1583	1
+oiadsgf	122	Port Input	99					367488	1593	1
+oiadsgf	123	Save Logfile	Measurement,46	Measurement	46			368954	0	315			0		other	0
+oiadsgf	123	Port Input	77					370448	1494	2
+oiadsgf	123	Port Input	49					370468	1514	1
+oiadsgf	123	Port Input	99					370478	1524	1
+oiadsgf	123	Port Input	99					370488	1534	1
+oiadsgf	124	Save Logfile	Measurement,46	Measurement	46			371894	0	307			0		other	0
+oiadsgf	124	Port Input	77					373448	1554	1
+oiadsgf	124	Port Input	49					373468	1574	1
+oiadsgf	124	Port Input	99					373478	1584	1
+oiadsgf	124	Port Input	99					373487	1593	2
+oiadsgf	125	Save Logfile	Measurement,46	Measurement	46			374894	0	310			0		other	0
+oiadsgf	125	Port Input	77					376438	1544	2
+oiadsgf	125	Port Input	49					376458	1564	2
+oiadsgf	125	Port Input	99					376468	1574	1
+oiadsgf	125	Port Input	99					376477	1583	23
+oiadsgf	126	Save Logfile	Measurement,46	Measurement	46			377884	0	311			0		other	0
+oiadsgf	126	Port Input	77					379438	1554	2
+oiadsgf	126	Port Input	49					379458	1574	1
+oiadsgf	126	Port Input	99					379468	1584	1
+oiadsgf	126	Port Input	99					379478	1594	1
+oiadsgf	127	Save Logfile	Measurement,46	Measurement	46			380884	0	305			0		other	0
+oiadsgf	127	Port Input	77					382438	1554	2
+oiadsgf	127	Port Input	49					382458	1574	1
+oiadsgf	127	Port Input	99					382468	1584	2
+oiadsgf	127	Port Input	99					382478	1594	2
+oiadsgf	128	Save Logfile	Measurement,46	Measurement	46			383884	0	324			0		other	0
+oiadsgf	128	Port Input	77					385438	1554	2
+oiadsgf	128	Port Input	49					385458	1574	2
+oiadsgf	128	Port Input	99					385468	1584	2
+oiadsgf	128	Port Input	99					385478	1594	1
+oiadsgf	129	Save Logfile	Measurement,46	Measurement	46			386885	0	323			0		other	0
+oiadsgf	129	Port Input	77					388428	1543	2
+oiadsgf	129	Port Input	49					388450	1565	1
+oiadsgf	129	Port Input	99					388458	1573	2
+oiadsgf	129	Port Input	99					388468	1583	2
+oiadsgf	130	Save Logfile	Measurement,46	Measurement	46			389874	0	322			0		other	0
+oiadsgf	130	Port Input	77					391428	1554	2
+oiadsgf	130	Port Input	49					391448	1574	2
+oiadsgf	130	Port Input	99					391458	1584	3
+oiadsgf	130	Port Input	99					391468	1594	2
+oiadsgf	131	Save Logfile	Measurement,46	Measurement	46			392874	0	319			0		other	0
+oiadsgf	131	Port Input	77					394428	1554	1
+oiadsgf	131	Port Input	49					394448	1574	1
+oiadsgf	131	Port Input	99					394458	1584	1
+oiadsgf	131	Port Input	99					394468	1594	1
+oiadsgf	132	Save Logfile	Measurement,46	Measurement	46			395863	0	159			0		other	0
+oiadsgf	132	Port Input	77					397258	1395	1
+oiadsgf	132	Port Input	49					397278	1415	1
+oiadsgf	132	Port Input	99					397288	1425	2
+oiadsgf	132	Port Input	99					397298	1435	1
+oiadsgf	133	Save Logfile	Measurement,46	Measurement	46			398693	0	166			0		other	0
+oiadsgf	133	Port Input	77					400088	1395	1
+oiadsgf	133	Port Input	49					400108	1415	1
+oiadsgf	133	Port Input	99					400118	1425	1
+oiadsgf	133	Port Input	99					400128	1435	1
+oiadsgf	134	Save Logfile	Measurement,46	Measurement	46			401523	0	451			0		other	0
+oiadsgf	134	Port Input	77					403088	1565	1
+oiadsgf	134	Port Input	49					403108	1585	1
+oiadsgf	134	Port Input	99					403118	1595	1
+oiadsgf	134	Port Input	99					403128	1605	1
+oiadsgf	135	Save Logfile	Measurement,46	Measurement	46			404523	0	170			0		other	0
+oiadsgf	135	Port Input	77					405918	1395	1
+oiadsgf	135	Port Input	49					405938	1415	1
+oiadsgf	135	Port Input	99					405948	1425	1
+oiadsgf	135	Port Input	99					405958	1435	1
+oiadsgf	136	Save Logfile	Measurement,46	Measurement	46			407353	0	173			0		other	0
+oiadsgf	136	Port Input	77					408748	1395	1
+oiadsgf	136	Port Input	49					408768	1415	1
+oiadsgf	136	Port Input	99					408778	1425	1
+oiadsgf	136	Port Input	99					408788	1435	1
+oiadsgf	137	Save Logfile	Measurement,46	Measurement	46			410193	0	170			0		other	0
+oiadsgf	137	Port Input	77					411578	1385	1
+oiadsgf	137	Port Input	49					411598	1405	1
+oiadsgf	137	Port Input	99					411608	1415	1
+oiadsgf	137	Port Input	99					411618	1425	1
+oiadsgf	138	Save Logfile	Measurement,46	Measurement	46			413013	0	170			0		other	0
+oiadsgf	138	Port Input	77					414408	1395	2
+oiadsgf	138	Port Input	49					414428	1415	1
+oiadsgf	138	Port Input	99					414438	1425	1
+oiadsgf	138	Port Input	99					414448	1435	1
+oiadsgf	139	Save Logfile	Measurement,46	Measurement	46			415843	0	171			0		other	0
+oiadsgf	139	Port Input	77					417248	1405	1
+oiadsgf	139	Port Input	49					417268	1425	1
+oiadsgf	139	Port Input	99					417278	1435	1
+oiadsgf	139	Port Input	99					417288	1445	1
+oiadsgf	140	Save Logfile	Measurement,46	Measurement	46			418683	0	168			0		other	0
+oiadsgf	140	Port Input	77					420078	1395	2
+oiadsgf	140	Port Input	49					420098	1415	1
+oiadsgf	140	Port Input	99					420108	1425	1
+oiadsgf	140	Port Input	99					420118	1435	1
+oiadsgf	141	Save Logfile	Measurement,46	Measurement	46			421513	0	178			0		other	0
+oiadsgf	141	Port Input	77					422908	1395	2
+oiadsgf	141	Port Input	49					422928	1415	1
+oiadsgf	141	Port Input	99					422938	1425	1
+oiadsgf	141	Port Input	99					422948	1435	1
+oiadsgf	142	Save Logfile	Measurement,46	Measurement	46			424345	0	644			0		other	0
+oiadsgf	142	Port Input	77					426409	2064	1
+oiadsgf	142	Port Input	49					426429	2084	1
+oiadsgf	142	Port Input	99					426439	2094	1
+oiadsgf	142	Port Input	99					426449	2104	1
+oiadsgf	143	Save Logfile	Measurement,46	Measurement	46			427855	0	344			0		other	0
+oiadsgf	143	Port Input	77					429399	1544	1
+oiadsgf	143	Port Input	49					429419	1564	1
+oiadsgf	143	Port Input	99					429428	1573	2
+oiadsgf	143	Port Input	99					429438	1583	2
+oiadsgf	144	Save Logfile	Measurement,46	Measurement	46			430844	0	358			0		other	0
+oiadsgf	144	Port Input	77					432399	1555	1
+oiadsgf	144	Port Input	49					432419	1575	1
+oiadsgf	144	Port Input	99					432429	1585	1
+oiadsgf	144	Port Input	99					432439	1595	1
+oiadsgf	145	Save Logfile	Measurement,46	Measurement	46			433844	0	350			0		other	0
+oiadsgf	145	Port Input	77					435399	1555	1
+oiadsgf	145	Port Input	49					435419	1575	1
+oiadsgf	145	Port Input	99					435429	1585	1
+oiadsgf	145	Port Input	99					435439	1595	1
+oiadsgf	146	Save Logfile	Measurement,46	Measurement	46			436845	0	357			0		other	0
+oiadsgf	146	Port Input	77					438399	1554	1
+oiadsgf	146	Port Input	49					438419	1574	1
+oiadsgf	146	Port Input	99					438429	1584	1
+oiadsgf	146	Port Input	99					438439	1594	1
+oiadsgf	147	Save Logfile	Measurement,46	Measurement	46			439844	0	367			0		other	0
+oiadsgf	147	Port Input	77					441389	1545	1
+oiadsgf	147	Port Input	49					441409	1565	1
+oiadsgf	147	Port Input	99					441419	1575	1
+oiadsgf	147	Port Input	99					441429	1585	1
+oiadsgf	148	Save Logfile	Measurement,46	Measurement	46			442835	0	349			0		other	0
+oiadsgf	148	Port Input	77					444389	1554	1
+oiadsgf	148	Port Input	49					444409	1574	1
+oiadsgf	148	Port Input	99					444419	1584	1
+oiadsgf	148	Port Input	99					444429	1594	1
+oiadsgf	149	Save Logfile	Measurement,46	Measurement	46			445834	0	355			0		other	0
+oiadsgf	149	Port Input	77					447389	1555	1
+oiadsgf	149	Port Input	49					447409	1575	1
+oiadsgf	149	Port Input	99					447419	1585	1
+oiadsgf	149	Port Input	99					447429	1595	1
+oiadsgf	150	Save Logfile	Measurement,46	Measurement	46			448834	0	360			0		other	0
+oiadsgf	150	Port Input	77					450389	1555	1
+oiadsgf	150	Port Input	49					450408	1574	3
+oiadsgf	150	Port Input	99					450419	1585	1
+oiadsgf	150	Port Input	99					450429	1595	1
+oiadsgf	151	Save Logfile	Measurement,46	Measurement	46			451835	0	363			0		other	0
+oiadsgf	151	Port Input	77					453379	1544	1
+oiadsgf	151	Port Input	49					453399	1564	1
+oiadsgf	151	Port Input	99					453409	1574	1
+oiadsgf	151	Port Input	99					453419	1584	1
+oiadsgf	152	Save Logfile	Measurement,46	Measurement	46			454823	0	216			0		other	0
+oiadsgf	152	Port Input	77					456219	1396	1
+oiadsgf	152	Port Input	49					456239	1416	1
+oiadsgf	152	Port Input	99					456249	1426	1
+oiadsgf	152	Port Input	99					456259	1436	1
+oiadsgf	153	Save Logfile	Measurement,46	Measurement	46			457663	0	184			0		other	0
+oiadsgf	153	Port Input	77					459049	1386	1
+oiadsgf	153	Port Input	49					459069	1406	1
+oiadsgf	153	Port Input	99					459079	1416	1
+oiadsgf	153	Port Input	99					459089	1426	1
+oiadsgf	154	Save Logfile	Measurement,46	Measurement	46			460493	0	186			0		other	0
+oiadsgf	154	Port Input	77					462379	1886	1
+oiadsgf	154	Port Input	49					462399	1906	1
+oiadsgf	154	Port Input	99					462409	1916	1
+oiadsgf	154	Port Input	99					462419	1926	1
+oiadsgf	155	Save Logfile	Measurement,46	Measurement	46			463823	0	187			0		other	0
+oiadsgf	155	Port Input	77					465209	1386	1
+oiadsgf	155	Port Input	49					465229	1406	1
+oiadsgf	155	Port Input	99					465239	1416	1
+oiadsgf	155	Port Input	99					465249	1426	1
+oiadsgf	156	Save Logfile	Measurement,46	Measurement	46			466653	0	268			0		other	0
+oiadsgf	156	Port Input	77					468039	1386	1
+oiadsgf	156	Port Input	49					468059	1406	1
+oiadsgf	156	Port Input	99					468069	1416	1
+oiadsgf	156	Port Input	99					468079	1426	1
+oiadsgf	157	Save Logfile	Measurement,46	Measurement	46			469483	0	267			0		other	0
+oiadsgf	157	Port Input	77					470869	1386	1
+oiadsgf	157	Port Input	49					470889	1406	1
+oiadsgf	157	Port Input	99					470899	1416	1
+oiadsgf	157	Port Input	99					470909	1426	1
+oiadsgf	158	Save Logfile	Measurement,46	Measurement	46			472313	0	830			0		other	0
+oiadsgf	158	Port Input	77					474809	2496	1
+oiadsgf	158	Port Input	49					474829	2516	1
+oiadsgf	158	Port Input	99					474839	2526	1
+oiadsgf	158	Port Input	99					474849	2536	1
+oiadsgf	159	Save Logfile	Measurement,46	Measurement	46			476253	0	190			0		other	0
+oiadsgf	159	Port Input	77					477741	1488	1
+oiadsgf	159	Port Input	49					477749	1496	1
+oiadsgf	159	Port Input	99					477749	1496	1
+oiadsgf	159	Port Input	99					477749	1496	1
+oiadsgf	160	Save Logfile	Measurement,46	Measurement	46			479513	0	194			0		other	0
+oiadsgf	160	Port Input	77					480859	1346	1
+oiadsgf	160	Port Input	49					480879	1366	1
+oiadsgf	160	Port Input	99					480889	1376	1
+oiadsgf	160	Port Input	99					480899	1386	1
+oiadsgf	161	Save Logfile	Measurement,46	Measurement	46			482303	0	189			0		other	0
+oiadsgf	161	Port Input	77					483689	1386	1
+oiadsgf	161	Port Input	49					483709	1406	1
+oiadsgf	161	Port Input	99					483719	1416	1
+oiadsgf	161	Port Input	99					483729	1426	2
+oiadsgf	162	Save Logfile	Measurement,46	Measurement	46			485175	0	886			0		other	0
+oiadsgf	162	Port Input	77					487359	2184	1
+oiadsgf	162	Port Input	49					487379	2204	1
+oiadsgf	162	Port Input	99					487389	2214	1
+oiadsgf	162	Port Input	99					487399	2224	1
+oiadsgf	163	Save Logfile	Measurement,46	Measurement	46			488804	0	379			0		other	0
+oiadsgf	163	Port Input	77					490519	1715	1
+oiadsgf	163	Port Input	49					490539	1735	1
+oiadsgf	163	Port Input	99					490549	1745	1
+oiadsgf	163	Port Input	99					490559	1755	1
+oiadsgf	164	Save Logfile	Measurement,46	Measurement	46			491965	0	1013			0		other	0
+oiadsgf	164	Port Input	77					494339	2374	1
+oiadsgf	164	Port Input	49					494359	2394	1
+oiadsgf	164	Port Input	99					494369	2404	1
+oiadsgf	164	Port Input	99					494379	2414	1
+oiadsgf	165	Save Logfile	Measurement,46	Measurement	46			495787	0	389			0		other	0
+oiadsgf	165	Port Input	77					497349	1562	1
+oiadsgf	165	Port Input	49					497369	1582	1
+oiadsgf	165	Port Input	99					497379	1592	1
+oiadsgf	165	Port Input	99					497389	1602	1
+oiadsgf	166	Save Logfile	Measurement,46	Measurement	46			499316	0	540			0		other	0
+oiadsgf	166	Port Input	77					501009	1693	1
+oiadsgf	166	Port Input	49					501029	1713	1
+oiadsgf	166	Port Input	99					501039	1723	1
+oiadsgf	166	Port Input	99					501049	1733	1
+oiadsgf	167	Save Logfile	Measurement,46	Measurement	46			502455	0	398			0		other	0
+oiadsgf	167	Port Input	77					504009	1554	2
+oiadsgf	167	Port Input	49					504029	1574	1
+oiadsgf	167	Port Input	99					504039	1584	1
+oiadsgf	167	Port Input	99					504049	1594	1
+oiadsgf	168	Save Logfile	Measurement,46	Measurement	46			505454	0	400			0		other	0
+oiadsgf	168	Port Input	77					507009	1555	1
+oiadsgf	168	Port Input	49					507029	1575	1
+oiadsgf	168	Port Input	99					507039	1585	1
+oiadsgf	168	Port Input	99					507049	1595	1
+oiadsgf	169	Save Logfile	Measurement,46	Measurement	46			508454	0	417			0		other	0
+oiadsgf	169	Port Input	77					510169	1715	1
+oiadsgf	169	Port Input	49					510189	1735	1
+oiadsgf	169	Port Input	99					510199	1745	1
+oiadsgf	169	Port Input	99					510209	1755	1
+oiadsgf	170	Save Logfile	Measurement,46	Measurement	46			511617	0	392			0		other	0
+oiadsgf	170	Port Input	77					513169	1552	1
+oiadsgf	170	Port Input	49					513189	1572	1
+oiadsgf	170	Port Input	99					513199	1582	1
+oiadsgf	170	Port Input	99					513209	1592	1
+oiadsgf	171	Save Logfile	Measurement,46	Measurement	46			514641	0	209			0		other	0
+oiadsgf	171	Port Input	77					515999	1358	1
+oiadsgf	171	Port Input	49					516019	1378	1
+oiadsgf	171	Port Input	99					516029	1388	1
+oiadsgf	171	Port Input	99					516039	1398	1
+oiadsgf	172	Save Logfile	Measurement,46	Measurement	46			517443	0	215			0		other	0
+oiadsgf	172	Port Input	77					518829	1386	1
+oiadsgf	172	Port Input	49					518849	1406	1
+oiadsgf	172	Port Input	99					518859	1416	1
+oiadsgf	172	Port Input	99					518869	1426	1
+oiadsgf	173	Save Logfile	Measurement,46	Measurement	46			520273	0	283			0		other	0
+oiadsgf	173	Port Input	77					521829	1556	1
+oiadsgf	173	Port Input	49					521849	1576	1
+oiadsgf	173	Port Input	99					521859	1586	1
+oiadsgf	173	Port Input	99					521869	1596	1
+oiadsgf	174	Save Logfile	Measurement,46	Measurement	46			523273	0	202			0		other	0
+oiadsgf	174	Port Input	77					524659	1386	1
+oiadsgf	174	Port Input	49					524679	1406	1
+oiadsgf	174	Port Input	99					524689	1416	1
+oiadsgf	174	Port Input	99					524699	1426	1
+oiadsgf	175	Save Logfile	Measurement,46	Measurement	46			526103	0	206			0		other	0
+oiadsgf	175	Port Input	77					527539	1436	1
+oiadsgf	175	Port Input	49					527559	1456	1
+oiadsgf	175	Port Input	99					527569	1466	1
+oiadsgf	175	Port Input	100					527579	1476	1
+oiadsgf	176	Save Logfile	Measurement,46.1	Measurement	46.1			528983	0	212			0		other	0
+oiadsgf	176	Port Input	77					530319	1336	1
+oiadsgf	176	Port Input	49					530339	1356	1
+oiadsgf	176	Port Input	99					530349	1366	1
+oiadsgf	176	Port Input	99					530359	1376	1
+oiadsgf	177	Save Logfile	Measurement,46	Measurement	46			531763	0	287			0		other	0
+oiadsgf	177	Port Input	77					533159	1396	1
+oiadsgf	177	Port Input	49					533179	1416	1
+oiadsgf	177	Port Input	99					533189	1426	1
+oiadsgf	177	Port Input	99					533199	1436	1
+oiadsgf	178	Save Logfile	Measurement,46	Measurement	46			534603	0	205			0		other	0
+oiadsgf	178	Port Input	77					535989	1386	1
+oiadsgf	178	Port Input	49					536009	1406	1
+oiadsgf	178	Port Input	99					536019	1416	1
+oiadsgf	178	Port Input	100					536029	1426	1
+oiadsgf	179	Save Logfile	Measurement,46.1	Measurement	46.1			537433	0	213			0		other	0
+oiadsgf	179	Port Input	77					538819	1386	1
+oiadsgf	179	Port Input	49					538839	1406	1
+oiadsgf	179	Port Input	99					538849	1416	1
+oiadsgf	179	Port Input	99					538859	1426	1
+oiadsgf	180	Save Logfile	Measurement,46	Measurement	46			540263	0	217			0		other	0
+oiadsgf	180	Port Input	77					541649	1386	1
+oiadsgf	180	Port Input	49					541669	1406	1
+oiadsgf	180	Port Input	99					541679	1416	1
+oiadsgf	180	Port Input	99					541689	1426	1
+oiadsgf	181	Save Logfile	Measurement,46	Measurement	46			543093	0	213			0		other	0
+oiadsgf	181	Port Input	77					544549	1456	1
+oiadsgf	181	Port Input	49					544569	1476	1
+oiadsgf	181	Port Input	99					544579	1486	1
+oiadsgf	181	Port Input	99					544589	1496	1
+oiadsgf	182	Save Logfile	Measurement,46	Measurement	46			545995	0	447			0		other	0
+oiadsgf	182	Port Input	77					547630	1635	32
+oiadsgf	182	Port Input	49					547660	1665	51
+oiadsgf	182	Port Input	99					547660	1665	51
+oiadsgf	182	Port Input	99					547660	1665	51
+oiadsgf	183	Save Logfile	Measurement,46	Measurement	46			549094	0	421			0		other	0
+oiadsgf	183	Port Input	77					550639	1545	1
+oiadsgf	183	Port Input	49					550659	1565	1
+oiadsgf	183	Port Input	99					550669	1575	1
+oiadsgf	183	Port Input	99					550679	1585	1
+oiadsgf	184	Save Logfile	Measurement,46	Measurement	46			552084	0	435			0		other	0
+oiadsgf	184	Port Input	77					553809	1725	1
+oiadsgf	184	Port Input	49					553829	1745	1
+oiadsgf	184	Port Input	99					553839	1755	1
+oiadsgf	184	Port Input	99					553849	1765	1
+oiadsgf	185	Save Logfile	Measurement,46	Measurement	46			555254	0	445			0		other	0
+oiadsgf	185	Port Input	77					556969	1715	1
+oiadsgf	185	Port Input	49					556989	1735	1
+oiadsgf	185	Port Input	99					556999	1745	1
+oiadsgf	185	Port Input	99					557009	1755	1
+oiadsgf	186	Save Logfile	Measurement,46	Measurement	46			558414	0	432			0		other	0
+oiadsgf	186	Port Input	77					560139	1725	2
+oiadsgf	186	Port Input	49					560159	1745	2
+oiadsgf	186	Port Input	99					560169	1755	1
+oiadsgf	186	Port Input	99					560179	1765	2
+oiadsgf	187	Save Logfile	Measurement,46	Measurement	46			561584	0	439			0		other	0
+oiadsgf	187	Port Input	77					563299	1715	2
+oiadsgf	187	Port Input	49					563319	1735	2
+oiadsgf	187	Port Input	99					563329	1745	1
+oiadsgf	187	Port Input	99					563339	1755	1
+oiadsgf	188	Save Logfile	Measurement,46	Measurement	46			564761	0	450			0		other	0
+oiadsgf	188	Port Input	77					566459	1698	2
+oiadsgf	188	Port Input	49					566479	1718	2
+oiadsgf	188	Port Input	99					566480	1719	26
+oiadsgf	188	Port Input	99					566480	1719	26
+oiadsgf	189	Save Logfile	Measurement,46	Measurement	46			567905	0	459			0		other	0
+oiadsgf	189	Port Input	77					569629	1724	2
+oiadsgf	189	Port Input	49					569649	1744	2
+oiadsgf	189	Port Input	99					569659	1754	1
+oiadsgf	189	Port Input	99					569669	1764	2
+oiadsgf	189	Port Input	80					571000	3095	1
+oiadsgf	189	Port Input	49					571029	3124	1
+oiadsgf	189	Port Input	99					571039	3134	1
+oiadsgf	189	Port Input	99					571049	3144	1
+oiadsgf	190	Save Logfile	Measurement,46	Measurement	46			571074	0	465			0		other	0
+oiadsgf	191	Save Logfile	Subject Response,46	Subject Response	46			571728	0	437			0		other	0
+oiadsgf	191	Port Input	67					573370	1642	1
+oiadsgf	191	Port Input	48					573379	1651	2
+oiadsgf	191	Port Input	48					573389	1661	2
+oiadsgf	191	Port Input	48					573399	1671	2
+oiadsgf	191	Port Input	77					574860	3132	1
+oiadsgf	191	Port Input	49					574879	3151	1
+oiadsgf	191	Port Input	99					574889	3161	1
+oiadsgf	191	Port Input	53					574899	3171	1
+oiadsgf	192	Save Logfile	Measurement,45.3, ,38	Measurement	45.3	 	38	575304	0	1342			0		other	0
+oiadsgf	192	Port Input	77					577789	2485	1
+oiadsgf	192	Port Input	49					577809	2505	1
+oiadsgf	192	Port Input	98					577819	2515	1
+oiadsgf	192	Port Input	54					577829	2525	1
+oiadsgf	193	Save Logfile	Measurement,43.8, ,38	Measurement	43.8	 	38	578235	0	264			0		other	0
+oiadsgf	193	Port Input	77					579669	1434	1
+oiadsgf	193	Port Input	49					579689	1454	1
+oiadsgf	193	Port Input	97					579699	1464	1
+oiadsgf	193	Port Input	99					579709	1474	1
+oiadsgf	194	Save Logfile	Measurement,42.8, ,38	Measurement	42.8	 	38	580114	0	347			0		other	0
+oiadsgf	194	Port Input	77					581609	1495	1
+oiadsgf	194	Port Input	49					581639	1525	1
+oiadsgf	194	Port Input	97					581649	1535	1
+oiadsgf	194	Port Input	50					581659	1545	1
+oiadsgf	195	Save Logfile	Measurement,41.8, ,38	Measurement	41.8	 	38	582064	0	237			0		other	0
+oiadsgf	195	Port Input	77					583449	1385	1
+oiadsgf	195	Port Input	49					583469	1405	1
+oiadsgf	195	Port Input	57					583479	1415	1
+oiadsgf	195	Port Input	56					583489	1425	1
+oiadsgf	196	Save Logfile	Measurement,40.8, ,38	Measurement	40.8	 	38	583895	0	248			0		other	0
+oiadsgf	196	Port Input	77					585279	1384	1
+oiadsgf	196	Port Input	49					585299	1404	1
+oiadsgf	196	Port Input	56					585309	1414	1
+oiadsgf	196	Port Input	102					585319	1424	1
+oiadsgf	197	Save Logfile	Measurement,39.9, ,38	Measurement	39.9	 	38	585725	0	375			0		other	0
+oiadsgf	197	Port Input	77					587279	1554	1
+oiadsgf	197	Port Input	49					587299	1574	1
+oiadsgf	197	Port Input	56					587309	1584	1
+oiadsgf	197	Port Input	53					587319	1594	1
+oiadsgf	198	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	587725	0	266			0		other	0
+oiadsgf	198	Port Input	77					589109	1384	1
+oiadsgf	198	Port Input	49					589129	1404	1
+oiadsgf	198	Port Input	55					589139	1414	1
+oiadsgf	198	Port Input	100					589149	1424	1
+oiadsgf	199	Save Logfile	Measurement,38.1	Measurement	38.1			590553	0	229			0		other	0
+oiadsgf	199	Port Input	77					591929	1376	1
+oiadsgf	199	Port Input	49					591959	1406	1
+oiadsgf	199	Port Input	55					591969	1416	1
+oiadsgf	199	Port Input	98					591979	1426	1
+oiadsgf	200	Save Logfile	Measurement,37.9	Measurement	37.9			593384	0	231			0		other	0
+oiadsgf	200	Port Input	77					594779	1395	1
+oiadsgf	200	Port Input	49					594799	1415	1
+oiadsgf	200	Port Input	55					594809	1425	1
+oiadsgf	200	Port Input	99					594819	1435	1
+oiadsgf	201	Save Logfile	Measurement,38	Measurement	38			596223	0	237			0		other	0
+oiadsgf	201	Port Input	77					597609	1386	2
+oiadsgf	201	Port Input	49					597629	1406	1
+oiadsgf	201	Port Input	55					597639	1416	1
+oiadsgf	201	Port Input	99					597649	1426	2
+oiadsgf	202	Save Logfile	Measurement,38	Measurement	38			599054	0	250			0		other	0
+oiadsgf	202	Port Input	77					600439	1385	1
+oiadsgf	202	Port Input	49					600459	1405	2
+oiadsgf	202	Port Input	55					600469	1415	1
+oiadsgf	202	Port Input	99					600479	1425	1
+oiadsgf	203	Save Logfile	Measurement,38	Measurement	38			601883	0	247			0		other	0
+oiadsgf	203	Port Input	77					603269	1386	2
+oiadsgf	203	Port Input	49					603289	1406	1
+oiadsgf	203	Port Input	55					603299	1416	1
+oiadsgf	203	Port Input	99					603309	1426	1
+oiadsgf	204	Save Logfile	Measurement,38	Measurement	38			604713	0	1909			0		other	0
+oiadsgf	204	Port Input	77					607899	3186	2
+oiadsgf	204	Port Input	49					607929	3216	2
+oiadsgf	204	Port Input	55					607939	3226	1
+oiadsgf	204	Port Input	99					607949	3236	2
+oiadsgf	205	Save Logfile	Measurement,38	Measurement	38			609343	0	242			0		other	0
+oiadsgf	205	Port Input	77					610750	1407	1
+oiadsgf	205	Port Input	49					610779	1436	2
+oiadsgf	205	Port Input	55					610789	1446	2
+oiadsgf	205	Port Input	99					610799	1456	2
+oiadsgf	206	Save Logfile	Measurement,38	Measurement	38			612203	0	346			0		other	0
+oiadsgf	206	Port Input	77					613759	1556	2
+oiadsgf	206	Port Input	49					613779	1576	2
+oiadsgf	206	Port Input	55					613789	1586	2
+oiadsgf	206	Port Input	99					613799	1596	2
+oiadsgf	207	Save Logfile	Measurement,38	Measurement	38			615203	0	1253			0		other	0
+oiadsgf	207	Port Input	77					617589	2386	2
+oiadsgf	207	Port Input	49					617609	2406	2
+oiadsgf	207	Port Input	55					617619	2416	2
+oiadsgf	207	Port Input	99					617629	2426	2
+oiadsgf	208	Save Logfile	Measurement,38	Measurement	38			619033	0	244			0		other	0
+oiadsgf	208	Port Input	77					620420	1387	1
+oiadsgf	208	Port Input	49					620439	1406	2
+oiadsgf	208	Port Input	55					620449	1416	2
+oiadsgf	208	Port Input	99					620459	1426	2
+oiadsgf	209	Save Logfile	Measurement,38	Measurement	38			621863	0	252			0		other	0
+oiadsgf	209	Port Input	77					623239	1376	2
+oiadsgf	209	Port Input	49					623270	1407	1
+oiadsgf	209	Port Input	55					623280	1417	1
+oiadsgf	209	Port Input	99					623289	1426	2
+oiadsgf	210	Save Logfile	Measurement,38	Measurement	38			624693	0	246			0		other	0
+oiadsgf	210	Port Input	77					626080	1387	1
+oiadsgf	210	Port Input	49					626099	1406	2
+oiadsgf	210	Port Input	55					626109	1416	2
+oiadsgf	210	Port Input	99					626120	1427	1
+oiadsgf	211	Save Logfile	Measurement,38	Measurement	38			627523	0	242			0		other	0
+oiadsgf	211	Port Input	77					628910	1387	1
+oiadsgf	211	Port Input	49					628940	1417	1
+oiadsgf	211	Port Input	55					628950	1427	1
+oiadsgf	211	Port Input	99					628959	1436	2
+oiadsgf	212	Save Logfile	Measurement,38	Measurement	38			630363	0	252			0		other	0
+oiadsgf	212	Port Input	77					631740	1377	1
+oiadsgf	212	Port Input	49					631769	1406	2
+oiadsgf	212	Port Input	55					631780	1417	1
+oiadsgf	212	Port Input	99					631790	1427	1
+oiadsgf	213	Save Logfile	Measurement,38	Measurement	38			633193	0	252			0		other	0
+oiadsgf	213	Port Input	77					634580	1387	1
+oiadsgf	213	Port Input	49					634600	1407	1
+oiadsgf	213	Port Input	55					634610	1417	1
+oiadsgf	213	Port Input	99					634620	1427	1
+oiadsgf	214	Save Logfile	Measurement,38	Measurement	38			636023	0	244			0		other	0
+oiadsgf	214	Port Input	77					637400	1377	1
+oiadsgf	214	Port Input	49					637430	1407	1
+oiadsgf	214	Port Input	55					637440	1417	1
+oiadsgf	214	Port Input	99					637450	1427	1
+oiadsgf	215	Save Logfile	Measurement,38	Measurement	38			639357	0	245			0		other	0
+oiadsgf	215	Port Input	77					640730	1373	1
+oiadsgf	215	Port Input	49					640760	1403	1
+oiadsgf	215	Port Input	55					640770	1413	1
+oiadsgf	215	Port Input	100					640780	1423	1
+oiadsgf	216	Save Logfile	Measurement,38.1	Measurement	38.1			642183	0	256			0		other	0
+oiadsgf	216	Port Input	77					643560	1377	1
+oiadsgf	216	Port Input	49					643590	1407	1
+oiadsgf	216	Port Input	55					643600	1417	1
+oiadsgf	216	Port Input	100					643610	1427	1
+oiadsgf	217	Save Logfile	Measurement,38.1	Measurement	38.1			645013	0	249			0		other	0
+oiadsgf	217	Port Input	77					646400	1387	1
+oiadsgf	217	Port Input	49					646420	1407	1
+oiadsgf	217	Port Input	55					646430	1417	1
+oiadsgf	217	Port Input	100					646440	1427	1
+oiadsgf	218	Save Logfile	Measurement,38.1	Measurement	38.1			647973	0	273			0		other	0
+oiadsgf	218	Port Input	77					649400	1427	1
+oiadsgf	218	Port Input	49					649420	1447	1
+oiadsgf	218	Port Input	55					649430	1457	1
+oiadsgf	218	Port Input	100					649440	1467	1
+oiadsgf	219	Save Logfile	Measurement,38.1	Measurement	38.1			650843	0	250			0		other	0
+oiadsgf	219	Port Input	77					652220	1377	1
+oiadsgf	219	Port Input	49					652250	1407	1
+oiadsgf	219	Port Input	55					652260	1417	1
+oiadsgf	219	Port Input	100					652270	1427	1
+oiadsgf	220	Save Logfile	Measurement,38.1	Measurement	38.1			653673	0	257			0		other	0
+oiadsgf	220	Port Input	77					655050	1377	1
+oiadsgf	220	Port Input	49					655080	1407	1
+oiadsgf	220	Port Input	55					655090	1417	1
+oiadsgf	220	Port Input	100					655100	1427	1
+oiadsgf	221	Save Logfile	Measurement,38.1	Measurement	38.1			656503	0	258			0		other	0
+oiadsgf	221	Port Input	77					657880	1377	1
+oiadsgf	221	Port Input	49					657910	1407	1
+oiadsgf	221	Port Input	55					657920	1417	1
+oiadsgf	221	Port Input	100					657930	1427	1
+oiadsgf	222	Save Logfile	Measurement,38.1	Measurement	38.1			659333	0	251			0		other	0
+oiadsgf	222	Port Input	77					660710	1377	1
+oiadsgf	222	Port Input	49					660740	1407	1
+oiadsgf	222	Port Input	55					660750	1417	1
+oiadsgf	222	Port Input	100					660760	1427	1
+oiadsgf	223	Save Logfile	Measurement,38.1	Measurement	38.1			662163	0	255			0		other	0
+oiadsgf	223	Port Input	77					663560	1397	1
+oiadsgf	223	Port Input	49					663580	1417	1
+oiadsgf	223	Port Input	55					663590	1427	1
+oiadsgf	223	Port Input	100					663600	1437	1
+oiadsgf	224	Save Logfile	Measurement,38.1	Measurement	38.1			665003	0	258			0		other	0
+oiadsgf	224	Port Input	77					666560	1557	1
+oiadsgf	224	Port Input	49					666580	1577	1
+oiadsgf	224	Port Input	55					666590	1587	1
+oiadsgf	224	Port Input	100					666600	1597	1
+oiadsgf	225	Save Logfile	Measurement,38.1	Measurement	38.1			668003	0	255			0		other	0
+oiadsgf	225	Port Input	77					669370	1367	1
+oiadsgf	225	Port Input	49					669400	1397	1
+oiadsgf	225	Port Input	55					669410	1407	1
+oiadsgf	225	Port Input	100					669420	1417	1
+oiadsgf	226	Save Logfile	Measurement,38.1	Measurement	38.1			670823	0	267			0		other	0
+oiadsgf	226	Port Input	77					672210	1387	1
+oiadsgf	226	Port Input	49					672240	1417	1
+oiadsgf	226	Port Input	55					672250	1427	1
+oiadsgf	226	Port Input	100					672260	1437	1
+oiadsgf	227	Save Logfile	Measurement,38.1	Measurement	38.1			673663	0	263			0		other	0
+oiadsgf	227	Port Input	77					675050	1387	1
+oiadsgf	227	Port Input	49					675070	1407	1
+oiadsgf	227	Port Input	55					675080	1417	1
+oiadsgf	227	Port Input	100					675090	1427	1
+oiadsgf	228	Save Logfile	Measurement,38.1	Measurement	38.1			676499	0	265			0		other	0
+oiadsgf	228	Port Input	77					677870	1371	1
+oiadsgf	228	Port Input	49					677900	1401	1
+oiadsgf	228	Port Input	55					677910	1411	1
+oiadsgf	228	Port Input	100					677920	1421	1
+oiadsgf	229	Save Logfile	Measurement,38.1	Measurement	38.1			679324	0	260			0		other	0
+oiadsgf	229	Port Input	77					680700	1376	1
+oiadsgf	229	Port Input	49					680730	1406	1
+oiadsgf	229	Port Input	55					680740	1416	1
+oiadsgf	229	Port Input	100					680750	1426	1
+oiadsgf	230	Save Logfile	Measurement,38.1	Measurement	38.1			682153	0	259			0		other	0
+oiadsgf	230	Port Input	77					683540	1387	1
+oiadsgf	230	Port Input	49					683560	1407	1
+oiadsgf	230	Port Input	55					683570	1417	1
+oiadsgf	230	Port Input	100					683580	1427	1
+oiadsgf	231	Save Logfile	Measurement,38.1	Measurement	38.1			684983	0	519			0		other	0
+oiadsgf	231	Port Input	77					686700	1717	1
+oiadsgf	231	Port Input	49					686720	1737	1
+oiadsgf	231	Port Input	55					686730	1747	1
+oiadsgf	231	Port Input	100					686740	1757	1
+oiadsgf	232	Save Logfile	Measurement,38.1	Measurement	38.1			688144	0	532			0		other	0
+oiadsgf	232	Port Input	77					689870	1726	1
+oiadsgf	232	Port Input	49					689890	1746	1
+oiadsgf	232	Port Input	55					689900	1756	1
+oiadsgf	232	Port Input	100					689910	1766	1
+oiadsgf	233	Save Logfile	Measurement,38.1	Measurement	38.1			691314	0	861			0		other	0
+oiadsgf	233	Port Input	77					693370	2056	1
+oiadsgf	233	Port Input	49					693390	2076	1
+oiadsgf	233	Port Input	55					693400	2086	1
+oiadsgf	233	Port Input	100					693410	2096	1
+oiadsgf	234	Save Logfile	Measurement,38.1	Measurement	38.1			694815	0	649			0		other	0
+oiadsgf	234	Port Input	77					696700	1885	1
+oiadsgf	234	Port Input	49					696720	1905	1
+oiadsgf	234	Port Input	55					696730	1915	1
+oiadsgf	234	Port Input	100					696740	1925	1
+oiadsgf	235	Save Logfile	Measurement,38.1	Measurement	38.1			698145	0	552			0		other	0
+oiadsgf	235	Port Input	77					699860	1715	1
+oiadsgf	235	Port Input	49					699880	1735	1
+oiadsgf	235	Port Input	55					699890	1745	1
+oiadsgf	235	Port Input	100					699900	1755	1
+oiadsgf	236	Save Logfile	Measurement,38.1	Measurement	38.1			701304	0	554			0		other	0
+oiadsgf	236	Port Input	77					703030	1726	1
+oiadsgf	236	Port Input	49					703050	1746	1
+oiadsgf	236	Port Input	55					703060	1756	1
+oiadsgf	236	Port Input	100					703070	1766	1
+oiadsgf	237	Save Logfile	Measurement,38.1	Measurement	38.1			704474	0	573			0		other	0
+oiadsgf	237	Port Input	77					706190	1716	1
+oiadsgf	237	Port Input	49					706210	1736	1
+oiadsgf	237	Port Input	55					706220	1746	1
+oiadsgf	237	Port Input	100					706230	1756	1
+oiadsgf	238	Save Logfile	Measurement,38.1	Measurement	38.1			707635	0	566			0		other	0
+oiadsgf	238	Port Input	77					709350	1715	1
+oiadsgf	238	Port Input	49					709370	1735	1
+oiadsgf	238	Port Input	55					709380	1745	1
+oiadsgf	238	Port Input	100					709390	1755	1
+oiadsgf	239	Save Logfile	Measurement,38.1	Measurement	38.1			710795	0	577			0		other	0
+oiadsgf	239	Port Input	77					712510	1715	1
+oiadsgf	239	Port Input	49					712540	1745	1
+oiadsgf	239	Port Input	55					712550	1755	1
+oiadsgf	239	Port Input	100					712560	1765	1
+oiadsgf	240	Save Logfile	Measurement,38.1	Measurement	38.1			713964	0	554			0		other	0
+oiadsgf	240	Port Input	77					715680	1716	1
+oiadsgf	240	Port Input	49					715710	1746	1
+oiadsgf	240	Port Input	55					715720	1756	1
+oiadsgf	240	Port Input	100					715730	1766	1
+oiadsgf	241	Save Logfile	Measurement,38.1	Measurement	38.1			717133	0	286			0		other	0
+oiadsgf	241	Port Input	77					718670	1537	1
+oiadsgf	241	Port Input	49					718700	1567	1
+oiadsgf	241	Port Input	55					718710	1577	1
+oiadsgf	241	Port Input	100					718720	1587	1
+oiadsgf	242	Save Logfile	Measurement,38.1	Measurement	38.1			720123	0	285			0		other	0
+oiadsgf	242	Port Input	77					721670	1547	1
+oiadsgf	242	Port Input	49					721700	1577	1
+oiadsgf	242	Port Input	55					721710	1587	1
+oiadsgf	242	Port Input	100					721720	1597	1
+oiadsgf	243	Save Logfile	Measurement,38.1	Measurement	38.1			723123	0	289			0		other	0
+oiadsgf	243	Port Input	77					724670	1547	1
+oiadsgf	243	Port Input	49					724700	1577	1
+oiadsgf	243	Port Input	55					724710	1587	1
+oiadsgf	243	Port Input	100					724720	1597	1
+oiadsgf	244	Save Logfile	Measurement,38.1	Measurement	38.1			726123	0	286			0		other	0
+oiadsgf	244	Port Input	77					727660	1537	1
+oiadsgf	244	Port Input	49					727690	1567	1
+oiadsgf	244	Port Input	55					727700	1577	1
+oiadsgf	244	Port Input	100					727710	1587	1
+oiadsgf	245	Save Logfile	Measurement,38.1	Measurement	38.1			729114	0	277			0		other	0
+oiadsgf	245	Port Input	77					730500	1386	1
+oiadsgf	245	Port Input	49					730520	1406	1
+oiadsgf	245	Port Input	55					730530	1416	1
+oiadsgf	245	Port Input	100					730540	1426	1
+oiadsgf	246	Save Logfile	Measurement,38.1	Measurement	38.1			731943	0	292			0		other	0
+oiadsgf	246	Port Input	77					733490	1547	1
+oiadsgf	246	Port Input	49					733520	1577	1
+oiadsgf	246	Port Input	55					733530	1587	1
+oiadsgf	246	Port Input	100					733540	1597	1
+oiadsgf	247	Save Logfile	Measurement,38.1	Measurement	38.1			734944	0	278			0		other	0
+oiadsgf	247	Port Input	77					736320	1376	1
+oiadsgf	247	Port Input	49					736350	1406	1
+oiadsgf	247	Port Input	55					736360	1416	1
+oiadsgf	247	Port Input	100					736370	1426	1
+oiadsgf	248	Save Logfile	Measurement,38.1	Measurement	38.1			737773	0	284			0		other	0
+oiadsgf	248	Port Input	77					739150	1377	1
+oiadsgf	248	Port Input	49					739180	1407	1
+oiadsgf	248	Port Input	55					739190	1417	1
+oiadsgf	248	Port Input	100					739200	1427	1
+oiadsgf	249	Save Logfile	Measurement,38.1	Measurement	38.1			740603	0	295			0		other	0
+oiadsgf	249	Port Input	77					742150	1547	1
+oiadsgf	249	Port Input	49					742180	1577	1
+oiadsgf	249	Port Input	55					742190	1587	1
+oiadsgf	249	Port Input	100					742200	1597	1
+oiadsgf	250	Save Logfile	Measurement,38.1	Measurement	38.1			743603	0	283			0		other	0
+oiadsgf	250	Port Input	77					744980	1377	1
+oiadsgf	250	Port Input	49					745010	1407	1
+oiadsgf	250	Port Input	55					745020	1417	1
+oiadsgf	250	Port Input	100					745031	1428	1
+oiadsgf	251	Save Logfile	Measurement,38.1	Measurement	38.1			746434	0	603			0		other	0
+oiadsgf	251	Port Input	77					748320	1886	2
+oiadsgf	251	Port Input	49					748340	1906	2
+oiadsgf	251	Port Input	55					748350	1916	1
+oiadsgf	251	Port Input	100					748360	1926	1
+oiadsgf	252	Save Logfile	Measurement,38.1	Measurement	38.1			749764	0	620			0		other	0
+oiadsgf	252	Port Input	77					751651	1887	1
+oiadsgf	252	Port Input	49					751670	1906	2
+oiadsgf	252	Port Input	55					751680	1916	2
+oiadsgf	252	Port Input	100					751690	1926	2
+oiadsgf	253	Save Logfile	Measurement,38.1	Measurement	38.1			753095	0	586			0		other	0
+oiadsgf	253	Port Input	77					754950	1855	2
+oiadsgf	253	Port Input	49					754980	1885	2
+oiadsgf	253	Port Input	55					754990	1895	2
+oiadsgf	253	Port Input	100					755000	1905	1
+oiadsgf	254	Save Logfile	Measurement,38.1	Measurement	38.1			756395	0	606			0		other	0
+oiadsgf	254	Port Input	77					758161	1766	1
+oiadsgf	254	Port Input	49					758190	1795	1
+oiadsgf	254	Port Input	55					758200	1805	2
+oiadsgf	254	Port Input	100					758210	1815	2
+oiadsgf	255	Save Logfile	Measurement,38.1	Measurement	38.1			759675	0	617			0		other	0
+oiadsgf	255	Port Input	77					761470	1795	2
+oiadsgf	255	Port Input	49					761500	1825	2
+oiadsgf	255	Port Input	55					761510	1835	2
+oiadsgf	255	Port Input	100					761520	1845	2
+oiadsgf	256	Save Logfile	Measurement,38.1	Measurement	38.1			762975	0	586			0		other	0
+oiadsgf	256	Port Input	77					764810	1835	2
+oiadsgf	256	Port Input	49					764830	1855	2
+oiadsgf	256	Port Input	55					764840	1865	2
+oiadsgf	256	Port Input	100					764850	1875	2
+oiadsgf	257	Save Logfile	Measurement,38.1	Measurement	38.1			766655	0	580			0		other	0
+oiadsgf	257	Port Input	77					768443	1788	32
+oiadsgf	257	Port Input	49					768500	1845	2
+oiadsgf	257	Port Input	55					768510	1855	2
+oiadsgf	257	Port Input	100					768520	1865	2
+oiadsgf	258	Save Logfile	Measurement,38.1	Measurement	38.1			769925	0	751			0		other	0
+oiadsgf	258	Port Input	77					771961	2036	1
+oiadsgf	258	Port Input	49					771990	2065	2
+oiadsgf	258	Port Input	55					772000	2075	2
+oiadsgf	258	Port Input	100					772011	2086	1
+oiadsgf	259	Save Logfile	Measurement,38.1	Measurement	38.1			773976	0	799			0		other	0
+oiadsgf	259	Port Input	77					775960	1984	1
+oiadsgf	259	Port Input	49					775990	2014	1
+oiadsgf	259	Port Input	55					776000	2024	1
+oiadsgf	259	Port Input	100					776010	2034	2
+oiadsgf	260	Save Logfile	Measurement,38.1	Measurement	38.1			777413	0	301			0		other	0
+oiadsgf	260	Port Input	77					778960	1547	1
+oiadsgf	260	Port Input	49					778990	1577	1
+oiadsgf	260	Port Input	55					779000	1587	1
+oiadsgf	260	Port Input	100					779010	1597	2
+oiadsgf	261	Save Logfile	Measurement,38.1	Measurement	38.1			780543	0	300			0		other	0
+oiadsgf	261	Port Input	77					782120	1577	2
+oiadsgf	261	Port Input	49					782150	1607	1
+oiadsgf	261	Port Input	55					782160	1617	1
+oiadsgf	261	Port Input	100					782170	1627	1
+oiadsgf	262	Save Logfile	Measurement,38.1	Measurement	38.1			783573	0	1000			0		other	0
+oiadsgf	262	Port Input	77					785820	2247	2
+oiadsgf	262	Port Input	49					785840	2267	2
+oiadsgf	262	Port Input	55					785850	2277	1
+oiadsgf	262	Port Input	100					785860	2287	1
+oiadsgf	263	Save Logfile	Measurement,38.1	Measurement	38.1			787263	0	368			0		other	0
+oiadsgf	263	Port Input	77					788780	1517	2
+oiadsgf	263	Port Input	49					788810	1547	1
+oiadsgf	263	Port Input	55					788820	1557	2
+oiadsgf	263	Port Input	100					788830	1567	2
+oiadsgf	264	Save Logfile	Measurement,38.1	Measurement	38.1			790233	0	303			0		other	0
+oiadsgf	264	Port Input	77					791780	1547	2
+oiadsgf	264	Port Input	49					791810	1577	2
+oiadsgf	264	Port Input	55					791820	1587	2
+oiadsgf	264	Port Input	100					791830	1597	2
+oiadsgf	265	Save Logfile	Measurement,38.1	Measurement	38.1			793623	0	309			0		other	0
+oiadsgf	265	Port Input	77					795110	1487	2
+oiadsgf	265	Port Input	49					795140	1517	2
+oiadsgf	265	Port Input	55					795150	1527	2
+oiadsgf	265	Port Input	100					795160	1537	2
+oiadsgf	266	Save Logfile	Measurement,38.1	Measurement	38.1			796563	0	304			0		other	0
+oiadsgf	266	Port Input	77					798580	2017	2
+oiadsgf	266	Port Input	49					798600	2037	2
+oiadsgf	266	Port Input	55					798610	2047	2
+oiadsgf	266	Port Input	100					798620	2057	2
+oiadsgf	267	Save Logfile	Measurement,38.1	Measurement	38.1			800023	0	308			0		other	0
+oiadsgf	267	Port Input	77					801441	1418	1
+oiadsgf	267	Port Input	49					801470	1447	2
+oiadsgf	267	Port Input	55					801480	1457	2
+oiadsgf	267	Port Input	100					801490	1467	2
+oiadsgf	268	Save Logfile	Measurement,38.1	Measurement	38.1			802893	0	299			0		other	0
+oiadsgf	268	Port Input	77					804440	1547	2
+oiadsgf	268	Port Input	49					804470	1577	2
+oiadsgf	268	Port Input	55					804480	1587	2
+oiadsgf	268	Port Input	100					804491	1598	1
+oiadsgf	269	Save Logfile	Measurement,38.1	Measurement	38.1			805895	0	649			0		other	0
+oiadsgf	269	Port Input	77					807771	1876	1
+oiadsgf	269	Port Input	49					807801	1906	1
+oiadsgf	269	Port Input	55					807811	1916	1
+oiadsgf	269	Port Input	100					807821	1926	1
+oiadsgf	270	Save Logfile	Measurement,38.1	Measurement	38.1			809224	0	620			0		other	0
+oiadsgf	270	Port Input	77					811111	1887	1
+oiadsgf	270	Port Input	49					811131	1907	1
+oiadsgf	270	Port Input	55					811141	1917	1
+oiadsgf	270	Port Input	100					811151	1927	1
+oiadsgf	271	Save Logfile	Measurement,38.1	Measurement	38.1			812554	0	628			0		other	0
+oiadsgf	271	Port Input	77					814441	1887	1
+oiadsgf	271	Port Input	49					814471	1917	1
+oiadsgf	271	Port Input	55					814481	1927	1
+oiadsgf	271	Port Input	100					814491	1937	1
+oiadsgf	272	Save Logfile	Measurement,38.1	Measurement	38.1			815885	0	633			0		other	0
+oiadsgf	272	Port Input	77					817761	1876	1
+oiadsgf	272	Port Input	49					817791	1906	1
+oiadsgf	272	Port Input	55					817801	1916	1
+oiadsgf	272	Port Input	100					817811	1926	1
+oiadsgf	273	Save Logfile	Measurement,38.1	Measurement	38.1			819275	0	649			0		other	0
+oiadsgf	273	Port Input	77					821101	1826	1
+oiadsgf	273	Port Input	49					821121	1846	1
+oiadsgf	273	Port Input	55					821131	1856	1
+oiadsgf	273	Port Input	100					821141	1866	1
+oiadsgf	274	Save Logfile	Measurement,38.1	Measurement	38.1			822545	0	618			0		other	0
+oiadsgf	274	Port Input	77					824421	1876	1
+oiadsgf	274	Port Input	49					824451	1906	1
+oiadsgf	274	Port Input	55					824461	1916	1
+oiadsgf	274	Port Input	100					824471	1926	1
+oiadsgf	275	Save Logfile	Measurement,38.1	Measurement	38.1			825874	0	610			0		other	0
+oiadsgf	275	Port Input	77					827751	1877	1
+oiadsgf	275	Port Input	49					827781	1907	1
+oiadsgf	275	Port Input	55					827791	1917	1
+oiadsgf	275	Port Input	100					827801	1927	1
+oiadsgf	276	Save Logfile	Measurement,38.1	Measurement	38.1			829204	0	635			0		other	0
+oiadsgf	276	Port Input	77					831091	1887	1
+oiadsgf	276	Port Input	49					831111	1907	1
+oiadsgf	276	Port Input	55					831121	1917	1
+oiadsgf	276	Port Input	100					831131	1927	1
+oiadsgf	277	Save Logfile	Measurement,38.1	Measurement	38.1			832534	0	640			0		other	0
+oiadsgf	277	Port Input	77					834411	1877	1
+oiadsgf	277	Port Input	49					834441	1907	1
+oiadsgf	277	Port Input	55					834451	1917	1
+oiadsgf	277	Port Input	100					834461	1927	1
+oiadsgf	278	Save Logfile	Measurement,38.1	Measurement	38.1			835863	0	311			0		other	0
+oiadsgf	278	Port Input	77					837411	1548	1
+oiadsgf	278	Port Input	49					837441	1578	1
+oiadsgf	278	Port Input	55					837451	1588	1
+oiadsgf	278	Port Input	100					837461	1598	1
+oiadsgf	279	Save Logfile	Measurement,38.1	Measurement	38.1			838863	0	317			0		other	0
+oiadsgf	279	Port Input	77					840411	1548	1
+oiadsgf	279	Port Input	49					840441	1578	1
+oiadsgf	279	Port Input	55					840451	1588	1
+oiadsgf	279	Port Input	100					840461	1598	1
+oiadsgf	280	Save Logfile	Measurement,38.1	Measurement	38.1			841863	0	314			0		other	0
+oiadsgf	280	Port Input	77					843411	1548	1
+oiadsgf	280	Port Input	49					843441	1578	1
+oiadsgf	280	Port Input	55					843451	1588	1
+oiadsgf	280	Port Input	100					843461	1598	1
+oiadsgf	281	Save Logfile	Measurement,38.1	Measurement	38.1			844888	0	355			0		other	0
+oiadsgf	281	Port Input	77					846401	1513	1
+oiadsgf	281	Port Input	49					846431	1543	1
+oiadsgf	281	Port Input	55					846441	1553	1
+oiadsgf	281	Port Input	100					846451	1563	1
+oiadsgf	282	Save Logfile	Measurement,38.1	Measurement	38.1			847853	0	321			0		other	0
+oiadsgf	282	Port Input	77					849401	1548	1
+oiadsgf	282	Port Input	49					849431	1578	1
+oiadsgf	282	Port Input	55					849441	1588	1
+oiadsgf	282	Port Input	100					849451	1598	1
+oiadsgf	283	Save Logfile	Measurement,38.1	Measurement	38.1			850853	0	313			0		other	0
+oiadsgf	283	Port Input	77					852401	1548	1
+oiadsgf	283	Port Input	49					852431	1578	1
+oiadsgf	283	Port Input	55					852441	1588	1
+oiadsgf	283	Port Input	100					852451	1598	1
+oiadsgf	284	Save Logfile	Measurement,38.1	Measurement	38.1			853853	0	325			0		other	0
+oiadsgf	284	Port Input	77					855401	1548	1
+oiadsgf	284	Port Input	49					855431	1578	1
+oiadsgf	284	Port Input	55					855441	1588	1
+oiadsgf	284	Port Input	100					855451	1598	1
+oiadsgf	285	Save Logfile	Measurement,38.1	Measurement	38.1			856853	0	332			0		other	0
+oiadsgf	285	Port Input	77					858401	1548	1
+oiadsgf	285	Port Input	49					858431	1578	1
+oiadsgf	285	Port Input	55					858441	1588	1
+oiadsgf	285	Port Input	100					858451	1598	1
+oiadsgf	286	Save Logfile	Measurement,38.1	Measurement	38.1			859853	0	320			0		other	0
+oiadsgf	286	Port Input	77					861391	1538	1
+oiadsgf	286	Port Input	49					861421	1568	1
+oiadsgf	286	Port Input	55					861431	1578	1
+oiadsgf	286	Port Input	100					861441	1588	1
+oiadsgf	287	Save Logfile	Measurement,38.1	Measurement	38.1			862843	0	324			0		other	0
+oiadsgf	287	Port Input	77					864391	1548	1
+oiadsgf	287	Port Input	49					864421	1578	1
+oiadsgf	287	Port Input	55					864431	1588	1
+oiadsgf	287	Port Input	100					864441	1598	1
+oiadsgf	288	Save Logfile	Measurement,38.1	Measurement	38.1			865844	0	677			0		other	0
+oiadsgf	288	Port Input	77					867721	1877	1
+oiadsgf	288	Port Input	49					867751	1907	1
+oiadsgf	288	Port Input	55					867761	1917	1
+oiadsgf	288	Port Input	100					867771	1927	1
+oiadsgf	289	Save Logfile	Measurement,38.1	Measurement	38.1			869174	0	659			0		other	0
+oiadsgf	289	Port Input	77					871051	1877	1
+oiadsgf	289	Port Input	49					871081	1907	1
+oiadsgf	289	Port Input	55					871091	1917	1
+oiadsgf	289	Port Input	100					871101	1927	1
+oiadsgf	290	Save Logfile	Measurement,38.1	Measurement	38.1			872504	0	660			0		other	0
+oiadsgf	290	Port Input	77					874431	1927	1
+oiadsgf	290	Port Input	49					874451	1947	1
+oiadsgf	290	Port Input	55					874461	1957	1
+oiadsgf	290	Port Input	99					874471	1967	1
+oiadsgf	291	Save Logfile	Measurement,38	Measurement	38			875946	0	746			0		other	0
+oiadsgf	291	Port Input	77					878051	2105	1
+oiadsgf	291	Port Input	49					878081	2135	1
+oiadsgf	291	Port Input	55					878091	2145	1
+oiadsgf	291	Port Input	99					878101	2155	1
+oiadsgf	292	Save Logfile	Measurement,38	Measurement	38			879504	0	675			0		other	0
+oiadsgf	292	Port Input	77					881381	1877	1
+oiadsgf	292	Port Input	49					881411	1907	1
+oiadsgf	292	Port Input	55					881421	1917	1
+oiadsgf	292	Port Input	99					881431	1927	1
+oiadsgf	293	Save Logfile	Measurement,38	Measurement	38			882834	0	669			0		other	0
+oiadsgf	293	Port Input	77					884721	1887	1
+oiadsgf	293	Port Input	49					884751	1917	1
+oiadsgf	293	Port Input	55					884761	1927	1
+oiadsgf	293	Port Input	99					884771	1937	1
+oiadsgf	294	Save Logfile	Measurement,38	Measurement	38			886185	0	1346			0		other	0
+oiadsgf	294	Port Input	77					888851	2666	1
+oiadsgf	294	Port Input	49					888881	2696	1
+oiadsgf	294	Port Input	55					888891	2706	1
+oiadsgf	294	Port Input	100					888901	2716	1
+oiadsgf	295	Save Logfile	Measurement,38.1	Measurement	38.1			890294	0	671			0		other	0
+oiadsgf	295	Port Input	77					892201	1907	1
+oiadsgf	295	Port Input	49					892231	1937	1
+oiadsgf	295	Port Input	55					892241	1947	1
+oiadsgf	295	Port Input	100					892251	1957	1
+oiadsgf	296	Save Logfile	Measurement,38.1	Measurement	38.1			894242	0	936			0		other	0
+oiadsgf	296	Port Input	77					896571	2329	1
+oiadsgf	296	Port Input	49					896601	2359	1
+oiadsgf	296	Port Input	55					896611	2369	1
+oiadsgf	296	Port Input	100					896621	2379	1
+oiadsgf	297	Save Logfile	Measurement,38.1	Measurement	38.1			898119	0	671			0		other	0
+oiadsgf	297	Port Input	77					900171	2052	1
+oiadsgf	297	Port Input	49					900191	2072	1
+oiadsgf	297	Port Input	55					900201	2082	1
+oiadsgf	297	Port Input	99					900211	2092	1
+oiadsgf	298	Save Logfile	Measurement,38	Measurement	38			901613	0	655			0		other	0
+oiadsgf	298	Port Input	77					903681	2068	2
+oiadsgf	298	Port Input	49					903701	2088	1
+oiadsgf	298	Port Input	55					903711	2098	1
+oiadsgf	298	Port Input	99					903721	2108	1
+oiadsgf	299	Save Logfile	Measurement,38	Measurement	38			905123	0	345			0		other	0
+oiadsgf	299	Port Input	77					906691	1568	1
+oiadsgf	299	Port Input	49					906721	1598	1
+oiadsgf	299	Port Input	55					906731	1608	1
+oiadsgf	299	Port Input	99					906741	1618	1
+oiadsgf	300	Save Logfile	Measurement,38	Measurement	38			908143	0	348			0		other	0
+oiadsgf	300	Port Input	77					909691	1548	1
+oiadsgf	300	Port Input	49					909721	1578	1
+oiadsgf	300	Port Input	55					909731	1588	1
+oiadsgf	300	Port Input	99					909741	1598	1
+oiadsgf	301	Save Logfile	Measurement,38	Measurement	38			911143	0	341			0		other	0
+oiadsgf	301	Response	3					911143	0	55

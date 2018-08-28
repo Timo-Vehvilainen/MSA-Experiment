@@ -1,0 +1,3155 @@
+Scenario - MSA_peak_threshold
+Logfile written - 08/07/2014 09:56:27
+
+Subject	Trial	Event Type	Code	Event(str)	Temperature(num)	VAS(num)	Target_temperature(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+slope5	0	Port Input	73					18081	18081	1
+slope5	0	Port Input	78					18134	18134	1
+slope5	0	Port Input	70					18140	18140	1
+slope5	0	Port Input	48					18140	18140	1
+slope5	0	Port Input	49					18140	18140	1
+slope5	0	Port Input	46					18140	18140	1
+slope5	0	Port Input	48					18150	18150	1
+slope5	0	Port Input	51					18160	18160	2
+slope5	1	Save Logfile	Initialised	Initialised				18164	0	23			0		other	0
+slope5	1	Port Input	71					19371	1207	1
+slope5	1	Port Input	49					19391	1227	1
+slope5	1	Port Input	53					19400	1236	1
+slope5	1	Port Input	102					19410	1246	1
+slope5	1	Port Input	72					20860	2696	79
+slope5	1	Port Input	49					20860	2696	79
+slope5	1	Port Input	98					20860	2696	79
+slope5	1	Port Input	102					20860	2696	79
+slope5	1	Port Input	79					22390	4226	2
+slope5	1	Port Input	48					22410	4246	2
+slope5	1	Port Input	49					22420	4256	1
+slope5	1	Port Input	98					22430	4266	2
+slope5	1	Port Input	78					23900	5736	2
+slope5	1	Port Input	49					23920	5756	2
+slope5	1	Port Input	57					23930	5766	2
+slope5	1	Port Input	102					23940	5776	2
+slope5	1	Port Input	75					25411	7247	1
+slope5	1	Port Input	49					25431	7267	1
+slope5	1	Port Input	101					25440	7276	1
+slope5	1	Port Input	53					25450	7286	1
+slope5	1	Port Input	76					26920	8756	2
+slope5	1	Port Input	49					26940	8776	1
+slope5	1	Port Input	100					26950	8786	1
+slope5	1	Port Input	50					26960	8796	1
+slope5	1	Port Input	66					28570	10406	2
+slope5	1	Port Input	49					28580	10416	1
+slope5	1	Port Input	55					28590	10426	1
+slope5	1	Port Input	99					28600	10436	1
+slope5	1	Port Input	82					30070	11906	1
+slope5	1	Port Input	48					30090	11926	2
+slope5	1	Port Input	51					30100	11936	1
+slope5	1	Port Input	50					30110	11946	1
+slope5	1	Port Input	83					31580	13416	1
+slope5	1	Port Input	48					31600	13436	1
+slope5	1	Port Input	51					31610	13446	1
+slope5	1	Port Input	50					31620	13456	1
+slope5	1	Port Input	84					33090	14926	2
+slope5	1	Port Input	49					33110	14946	1
+slope5	1	Port Input	55					33120	14956	1
+slope5	1	Port Input	99					33130	14966	2
+slope5	1	Port Input	67					34880	16716	2
+slope5	1	Port Input	48					34890	16726	1
+slope5	1	Port Input	48					34910	16746	1
+slope5	1	Port Input	48					34920	16756	1
+slope5	1	Port Input	77					36370	18206	1
+slope5	1	Port Input	49					36400	18236	1
+slope5	1	Port Input	55					36410	18246	2
+slope5	1	Port Input	98					36420	18256	1
+slope5	2	Save Logfile	Measurement,37.9, ,38	Measurement	37.9	 	38	36824	0	20			0		other	0
+slope5	2	Port Input	77					38210	1386	2
+slope5	2	Port Input	49					38240	1416	2
+slope5	2	Port Input	55					38250	1426	1
+slope5	2	Port Input	99					38260	1436	1
+slope5	3	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	40684	0	19			0		other	0
+slope5	3	Port Input	77					41860	1176	2
+slope5	3	Port Input	49					41890	1206	1
+slope5	3	Port Input	55					41900	1216	1
+slope5	3	Port Input	99					41910	1226	1
+slope5	4	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	44313	0	21			0		other	0
+slope5	4	Port Input	77					45520	1207	1
+slope5	4	Port Input	49					45550	1237	1
+slope5	4	Port Input	55					45560	1247	1
+slope5	4	Port Input	99					45570	1257	1
+slope5	5	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	47974	0	98			0		other	0
+slope5	5	Port Input	77					49190	1216	2
+slope5	5	Port Input	49					49220	1246	1
+slope5	5	Port Input	55					49230	1256	1
+slope5	5	Port Input	99					49240	1266	1
+slope5	5	Response	1					50377	2403	1
+slope5	6	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	51643	0	23			0		other	0
+slope5	6	Response	1					52176	533	2
+slope5	6	Port Input	77					52860	1217	2
+slope5	6	Port Input	49					52890	1247	1
+slope5	6	Port Input	55					52900	1257	1
+slope5	6	Port Input	99					52910	1267	1
+slope5	7	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	55313	0	24			0		other	0
+slope5	7	Port Input	77					56520	1207	1
+slope5	7	Port Input	49					56550	1237	1
+slope5	7	Port Input	55					56560	1247	1
+slope5	7	Port Input	99					56570	1257	1
+slope5	8	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	58973	0	25			0		other	0
+slope5	8	Port Input	77					60180	1207	1
+slope5	8	Port Input	49					60210	1237	1
+slope5	8	Port Input	55					60220	1247	1
+slope5	8	Port Input	99					60230	1257	1
+slope5	9	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	62633	0	26			0		other	0
+slope5	9	Port Input	77					63840	1207	1
+slope5	9	Port Input	49					63870	1237	1
+slope5	9	Port Input	55					63880	1247	1
+slope5	9	Port Input	99					63890	1257	1
+slope5	10	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	66293	0	27			0		other	0
+slope5	10	Port Input	77					67500	1207	1
+slope5	10	Port Input	49					67530	1237	1
+slope5	10	Port Input	55					67540	1247	1
+slope5	10	Port Input	99					67550	1257	1
+slope5	11	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	69953	0	29			0		other	0
+slope5	11	Port Input	77					71170	1217	1
+slope5	11	Port Input	49					71200	1247	1
+slope5	11	Port Input	55					71210	1257	1
+slope5	11	Port Input	99					71220	1267	1
+slope5	12	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	73623	0	29			0		other	0
+slope5	12	Response	4					74657	1034	2
+slope5	12	Port Input	77					74830	1207	1
+slope5	12	Port Input	49					74860	1237	2
+slope5	12	Port Input	55					74870	1247	1
+slope5	12	Port Input	99					74880	1257	1
+slope5	13	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	77283	0	32			0		other	0
+slope5	13	Port Input	84					78510	1227	1
+slope5	13	Port Input	49					78520	1237	1
+slope5	13	Port Input	57					78530	1247	1
+slope5	13	Port Input	48					78540	1257	1
+slope5	13	Port Input	67					80050	2767	1
+slope5	13	Port Input	48					80060	2777	1
+slope5	13	Port Input	48					80070	2787	1
+slope5	13	Port Input	51					80080	2797	1
+slope5	14	Save Logfile	Initiate Peak,38, ,40	Initiate Peak	38	 	40	80463	0	32			0		other	0
+slope5	14	Port Input	77					81560	1097	1
+slope5	14	Port Input	49					81590	1127	1
+slope5	14	Port Input	55					81600	1137	1
+slope5	14	Port Input	99					81610	1147	1
+slope5	15	Save Logfile	Measurement,38, ,40	Measurement	38	 	40	84013	0	33			0		other	0
+slope5	15	Port Input	77					85160	1147	1
+slope5	15	Port Input	49					85190	1177	1
+slope5	15	Port Input	56					85200	1187	1
+slope5	15	Port Input	56					85210	1197	1
+slope5	15	Port Input	70					86520	2507	2
+slope5	15	Port Input	49					86540	2527	1
+slope5	15	Port Input	57					86550	2537	1
+slope5	15	Port Input	48					86570	2557	1
+slope5	16	Save Logfile	Measurement,40, ,40	Measurement	40	 	40	87613	0	34			0		other	0
+slope5	17	Save Logfile	Peak Temperature,40, ,40	Peak Temperature	40	 	40	87932	0	35			0		other	0
+slope5	17	Port Input	67					89040	1108	1
+slope5	17	Port Input	48					89060	1128	1
+slope5	17	Port Input	48					89070	1138	1
+slope5	17	Port Input	48					89080	1148	1
+slope5	17	Port Input	77					90530	2598	1
+slope5	17	Port Input	49					90560	2628	1
+slope5	17	Port Input	57					90570	2638	1
+slope5	17	Port Input	97					90580	2648	1
+slope5	18	Save Logfile	Measurement,41, ,38	Measurement	41	 	38	90984	0	36			0		other	0
+slope5	18	Port Input	77					92150	1166	1
+slope5	18	Port Input	49					92180	1196	1
+slope5	18	Port Input	57					92190	1206	1
+slope5	18	Port Input	53					92200	1216	2
+slope5	19	Save Logfile	Measurement,40.5, ,38	Measurement	40.5	 	38	92604	0	37			0		other	0
+slope5	19	Port Input	77					93820	1216	1
+slope5	19	Port Input	49					93850	1246	2
+slope5	19	Port Input	56					93860	1256	1
+slope5	19	Port Input	101					93870	1266	1
+slope5	20	Save Logfile	Measurement,39.8, ,38	Measurement	39.8	 	38	94275	0	39			0		other	0
+slope5	20	Port Input	77					95480	1205	1
+slope5	20	Port Input	49					95510	1235	1
+slope5	20	Port Input	56					95520	1245	1
+slope5	20	Port Input	55					95530	1255	1
+slope5	21	Save Logfile	Measurement,39.1, ,38	Measurement	39.1	 	38	95934	0	40			0		other	0
+slope5	21	Port Input	77					97150	1216	1
+slope5	21	Port Input	49					97180	1246	1
+slope5	21	Port Input	56					97190	1256	1
+slope5	21	Port Input	48					97200	1266	1
+slope5	22	Save Logfile	Measurement,38.4, ,38	Measurement	38.4	 	38	97604	0	42			0		other	0
+slope5	22	Port Input	77					98810	1206	1
+slope5	22	Port Input	49					98840	1236	1
+slope5	22	Port Input	55					98850	1246	1
+slope5	22	Port Input	100					98860	1256	1
+slope5	23	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	101263	0	45			0		other	0
+slope5	23	Port Input	77					102480	1217	1
+slope5	23	Port Input	49					102510	1247	1
+slope5	23	Port Input	55					102520	1257	1
+slope5	23	Port Input	99					102530	1267	1
+slope5	24	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	104933	0	43			0		other	0
+slope5	24	Port Input	77					106140	1207	1
+slope5	24	Port Input	49					106170	1237	1
+slope5	24	Port Input	55					106180	1247	1
+slope5	24	Port Input	100					106190	1257	1
+slope5	25	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	108594	0	43			0		other	0
+slope5	25	Response	1					108781	187	2
+slope5	25	Port Input	77					109800	1206	1
+slope5	25	Port Input	49					109830	1236	1
+slope5	25	Port Input	55					109840	1246	1
+slope5	25	Port Input	99					109850	1256	1
+slope5	25	Response	1					110642	2048	2
+slope5	26	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	112253	0	47			0		other	0
+slope5	26	Port Input	77					113480	1227	1
+slope5	26	Port Input	49					113510	1257	1
+slope5	26	Port Input	55					113520	1267	1
+slope5	26	Port Input	99					113530	1277	1
+slope5	27	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	115933	0	47			0		other	0
+slope5	27	Port Input	77					117140	1207	1
+slope5	27	Port Input	49					117170	1237	1
+slope5	27	Port Input	55					117180	1247	1
+slope5	27	Port Input	99					117190	1257	1
+slope5	28	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	119593	0	47			0		other	0
+slope5	28	Port Input	77					120800	1207	1
+slope5	28	Port Input	49					120830	1237	1
+slope5	28	Port Input	55					120840	1247	1
+slope5	28	Port Input	99					120850	1257	1
+slope5	29	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	123253	0	48			0		other	0
+slope5	29	Port Input	77					124470	1217	1
+slope5	29	Port Input	49					124490	1237	1
+slope5	29	Port Input	55					124500	1247	1
+slope5	29	Port Input	99					124510	1257	1
+slope5	30	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	126913	0	51			0		other	0
+slope5	30	Port Input	77					128120	1207	1
+slope5	30	Port Input	49					128150	1237	1
+slope5	30	Port Input	55					128160	1247	1
+slope5	30	Port Input	99					128170	1257	1
+slope5	31	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	130574	0	51			0		other	0
+slope5	31	Port Input	77					131790	1216	1
+slope5	31	Port Input	49					131820	1246	1
+slope5	31	Port Input	55					131830	1256	1
+slope5	31	Port Input	99					131840	1266	1
+slope5	32	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	134243	0	51			0		other	0
+slope5	32	Response	4					134452	209	1
+slope5	32	Port Input	77					135460	1217	1
+slope5	32	Port Input	49					135480	1237	1
+slope5	32	Port Input	55					135490	1247	1
+slope5	32	Port Input	99					135500	1257	1
+slope5	33	Save Logfile	Measurement,38, ,0	Measurement	38	 	0	137904	0	51			0		other	0
+slope5	33	Port Input	84					139130	1226	1
+slope5	33	Port Input	49					139140	1236	1
+slope5	33	Port Input	97					139150	1246	1
+slope5	33	Port Input	52					139160	1256	1
+slope5	33	Port Input	67					140670	2766	1
+slope5	33	Port Input	48					140680	2776	1
+slope5	33	Port Input	48					140690	2786	1
+slope5	33	Port Input	51					140700	2796	1
+slope5	34	Save Logfile	Initiate Peak,38, ,42	Initiate Peak	38	 	42	141083	0	56			0		other	0
+slope5	34	Port Input	77					142210	1127	1
+slope5	34	Port Input	49					142240	1157	1
+slope5	34	Port Input	55					142250	1167	1
+slope5	34	Port Input	100					142260	1177	1
+slope5	35	Save Logfile	Measurement,38.1, ,42	Measurement	38.1	 	42	144663	0	58			0		other	0
+slope5	35	Port Input	77					145950	1287	1
+slope5	35	Port Input	49					145970	1307	1
+slope5	35	Port Input	56					145980	1317	1
+slope5	35	Port Input	57					145990	1327	1
+slope5	36	Save Logfile	Measurement,39.3, ,42	Measurement	39.3	 	42	148393	0	57			0		other	0
+slope5	36	Port Input	77					149620	1227	1
+slope5	36	Port Input	49					149640	1247	1
+slope5	36	Port Input	97					149650	1257	1
+slope5	36	Port Input	48					149660	1267	1
+slope5	36	Port Input	70					150240	1847	1
+slope5	36	Port Input	49					150260	1867	1
+slope5	36	Port Input	97					150270	1877	1
+slope5	36	Port Input	51					150280	1887	1
+slope5	37	Save Logfile	Measurement,41.9, ,42	Measurement	41.9	 	42	152063	0	60			0		other	0
+slope5	38	Save Logfile	Peak Temperature,41.9, ,42	Peak Temperature	41.9	 	42	152382	0	58			0		other	0
+slope5	38	Port Input	67					153520	1138	1
+slope5	38	Port Input	48					153530	1148	1
+slope5	38	Port Input	48					153540	1158	1
+slope5	38	Port Input	48					153550	1168	1
+slope5	38	Port Input	77					155000	2618	1
+slope5	38	Port Input	49					155030	2648	1
+slope5	38	Port Input	97					155040	2658	1
+slope5	38	Port Input	57					155050	2668	1
+slope5	39	Save Logfile	Measurement,42.5, ,38	Measurement	42.5	 	38	155454	0	60			0		other	0
+slope5	39	Port Input	77					156610	1156	1
+slope5	39	Port Input	49					156630	1176	1
+slope5	39	Port Input	97					156640	1186	1
+slope5	39	Port Input	51					156650	1196	1
+slope5	40	Save Logfile	Measurement,41.9, ,38	Measurement	41.9	 	38	157054	0	61			0		other	0
+slope5	40	Port Input	77					158280	1226	1
+slope5	40	Port Input	49					158300	1246	1
+slope5	40	Port Input	57					158310	1256	1
+slope5	40	Port Input	99					158320	1266	1
+slope5	41	Save Logfile	Measurement,41.2, ,38	Measurement	41.2	 	38	158724	0	65			0		other	0
+slope5	41	Port Input	77					159940	1216	1
+slope5	41	Port Input	49					159960	1236	1
+slope5	41	Port Input	57					159970	1246	1
+slope5	41	Port Input	52					159980	1256	1
+slope5	42	Save Logfile	Measurement,40.4, ,38	Measurement	40.4	 	38	160385	0	63			0		other	0
+slope5	42	Port Input	77					161600	1215	1
+slope5	42	Port Input	49					161630	1245	1
+slope5	42	Port Input	56					161640	1255	1
+slope5	42	Port Input	100					161650	1265	1
+slope5	43	Save Logfile	Measurement,39.7, ,38	Measurement	39.7	 	38	162054	0	66			0		other	0
+slope5	43	Port Input	77					163260	1206	1
+slope5	43	Port Input	49					163290	1236	1
+slope5	43	Port Input	56					163300	1246	1
+slope5	43	Port Input	53					163310	1256	1
+slope5	44	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	163714	0	67			0		other	0
+slope5	44	Port Input	77					164930	1216	1
+slope5	44	Port Input	49					164960	1246	1
+slope5	44	Port Input	55					164970	1256	1
+slope5	44	Port Input	102					164980	1266	1
+slope5	45	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	167383	0	65			0		other	0
+slope5	45	Port Input	77					168590	1207	1
+slope5	45	Port Input	49					168620	1237	1
+slope5	45	Port Input	55					168630	1247	1
+slope5	45	Port Input	100					168640	1257	1
+slope5	46	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	171043	0	70			0		other	0
+slope5	46	Port Input	77					172270	1227	1
+slope5	46	Port Input	49					172290	1247	1
+slope5	46	Port Input	55					172300	1257	1
+slope5	46	Port Input	100					172310	1267	1
+slope5	47	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	174713	0	69			0		other	0
+slope5	47	Port Input	77					175920	1207	1
+slope5	47	Port Input	49					175950	1237	1
+slope5	47	Port Input	55					175960	1247	1
+slope5	47	Port Input	100					175970	1257	1
+slope5	48	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	178374	0	69			0		other	0
+slope5	48	Port Input	77					179580	1206	1
+slope5	48	Port Input	49					179610	1236	1
+slope5	48	Port Input	55					179620	1246	1
+slope5	48	Port Input	100					179630	1256	1
+slope5	48	Response	1					180359	1985	2
+slope5	49	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	182033	0	72			0		other	0
+slope5	49	Response	1					182880	847	1
+slope5	49	Port Input	77					183270	1237	1
+slope5	49	Port Input	49					183290	1257	1
+slope5	49	Port Input	55					183300	1267	1
+slope5	49	Port Input	100					183310	1277	1
+slope5	50	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	185713	0	73			0		other	0
+slope5	50	Port Input	77					186930	1217	1
+slope5	50	Port Input	49					186950	1237	1
+slope5	50	Port Input	55					186960	1247	1
+slope5	50	Port Input	100					186970	1257	1
+slope5	51	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	189374	0	72			0		other	0
+slope5	51	Port Input	77					190580	1206	1
+slope5	51	Port Input	49					190600	1226	1
+slope5	51	Port Input	55					190610	1236	1
+slope5	51	Port Input	100					190620	1246	1
+slope5	52	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	193023	0	78			0		other	0
+slope5	52	Port Input	77					194240	1217	1
+slope5	52	Port Input	49					194270	1247	1
+slope5	52	Port Input	55					194280	1257	1
+slope5	52	Port Input	100					194290	1267	1
+slope5	53	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	196693	0	74			0		other	0
+slope5	53	Port Input	77					197900	1207	1
+slope5	53	Port Input	49					197930	1237	1
+slope5	53	Port Input	55					197940	1247	1
+slope5	53	Port Input	100					197950	1257	1
+slope5	53	Response	4					198248	1555	1
+slope5	54	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	200353	0	79			0		other	0
+slope5	54	Port Input	84					201580	1227	1
+slope5	54	Port Input	49					201590	1237	1
+slope5	54	Port Input	98					201600	1247	1
+slope5	54	Port Input	56					201610	1257	1
+slope5	54	Port Input	67					203120	2767	1
+slope5	54	Port Input	48					203130	2777	1
+slope5	54	Port Input	48					203140	2787	1
+slope5	54	Port Input	51					203150	2797	1
+slope5	55	Save Logfile	Initiate Peak,38.1, ,44	Initiate Peak	38.1	 	44	203533	0	79			0		other	0
+slope5	55	Port Input	77					204680	1147	1
+slope5	55	Port Input	49					204710	1177	1
+slope5	55	Port Input	55					204720	1187	1
+slope5	55	Port Input	101					204730	1197	1
+slope5	56	Save Logfile	Measurement,38.2, ,44	Measurement	38.2	 	44	207133	0	81			0		other	0
+slope5	56	Port Input	77					208400	1267	1
+slope5	56	Port Input	49					208420	1287	1
+slope5	56	Port Input	56					208430	1297	1
+slope5	56	Port Input	97					208440	1307	1
+slope5	57	Save Logfile	Measurement,39.4, ,44	Measurement	39.4	 	44	210843	0	83			0		other	0
+slope5	57	Port Input	77					212060	1217	1
+slope5	57	Port Input	49					212090	1247	1
+slope5	57	Port Input	97					212100	1257	1
+slope5	57	Port Input	49					212110	1267	1
+slope5	58	Save Logfile	Measurement,41.7, ,44	Measurement	41.7	 	44	214513	0	83			0		other	0
+slope5	58	Port Input	77					215730	1217	1
+slope5	58	Port Input	49					215750	1237	1
+slope5	58	Port Input	98					215760	1247	1
+slope5	58	Port Input	53					215770	1257	1
+slope5	58	Port Input	70					216230	1717	1
+slope5	58	Port Input	49					216250	1737	1
+slope5	58	Port Input	98					216260	1747	1
+slope5	58	Port Input	55					216270	1757	1
+slope5	59	Save Logfile	Measurement,43.9, ,44	Measurement	43.9	 	44	218174	0	83			0		other	0
+slope5	60	Save Logfile	Peak Temperature,43.9, ,44	Peak Temperature	43.9	 	44	218497	0	86			0		other	0
+slope5	60	Port Input	67					219670	1173	1
+slope5	60	Port Input	48					219680	1183	1
+slope5	60	Port Input	48					219690	1193	1
+slope5	60	Port Input	48					219700	1203	1
+slope5	60	Port Input	77					221150	2653	1
+slope5	60	Port Input	49					221180	2683	1
+slope5	60	Port Input	98					221190	2693	1
+slope5	60	Port Input	99					221200	2703	1
+slope5	61	Save Logfile	Measurement,44.4, ,38	Measurement	44.4	 	38	221604	0	87			0		other	0
+slope5	61	Port Input	77					222880	1276	1
+slope5	61	Port Input	49					222910	1306	1
+slope5	61	Port Input	98					222920	1316	1
+slope5	61	Port Input	53					222930	1326	1
+slope5	62	Save Logfile	Measurement,43.7, ,38	Measurement	43.7	 	38	223334	0	88			0		other	0
+slope5	62	Port Input	77					224550	1216	1
+slope5	62	Port Input	49					224580	1246	1
+slope5	62	Port Input	97					224590	1256	1
+slope5	62	Port Input	101					224600	1266	1
+slope5	63	Save Logfile	Measurement,43, ,38	Measurement	43	 	38	225005	0	88			0		other	0
+slope5	63	Port Input	77					226210	1205	1
+slope5	63	Port Input	49					226240	1235	1
+slope5	63	Port Input	97					226250	1245	1
+slope5	63	Port Input	54					226260	1255	1
+slope5	64	Save Logfile	Measurement,42.2, ,38	Measurement	42.2	 	38	226664	0	90			0		other	0
+slope5	64	Port Input	77					227890	1226	1
+slope5	64	Port Input	49					227910	1246	1
+slope5	64	Port Input	57					227920	1256	1
+slope5	64	Port Input	102					227930	1266	1
+slope5	65	Save Logfile	Measurement,41.5, ,38	Measurement	41.5	 	38	228335	0	88			0		other	0
+slope5	65	Port Input	77					229540	1205	1
+slope5	65	Port Input	49					229570	1235	1
+slope5	65	Port Input	57					229580	1245	1
+slope5	65	Port Input	55					229590	1255	1
+slope5	66	Save Logfile	Measurement,40.7, ,38	Measurement	40.7	 	38	229995	0	91			0		other	0
+slope5	66	Port Input	77					231210	1215	1
+slope5	66	Port Input	49					231240	1245	1
+slope5	66	Port Input	56					231250	1255	1
+slope5	66	Port Input	102					231260	1265	1
+slope5	67	Save Logfile	Measurement,39.9, ,38	Measurement	39.9	 	38	231664	0	93			0		other	0
+slope5	67	Port Input	77					232870	1206	1
+slope5	67	Port Input	49					232900	1236	1
+slope5	67	Port Input	56					232910	1246	1
+slope5	67	Port Input	55					232920	1256	1
+slope5	68	Save Logfile	Measurement,39.1, ,38	Measurement	39.1	 	38	233324	0	96			0		other	0
+slope5	68	Port Input	77					234540	1216	1
+slope5	68	Port Input	49					234570	1246	1
+slope5	68	Port Input	56					234580	1256	1
+slope5	68	Port Input	48					234590	1266	1
+slope5	69	Save Logfile	Measurement,38.4, ,38	Measurement	38.4	 	38	234998	0	231			0		other	0
+slope5	69	Port Input	77					236380	1382	1
+slope5	69	Port Input	49					236400	1402	1
+slope5	69	Port Input	55					236410	1412	1
+slope5	69	Port Input	101					236420	1422	1
+slope5	70	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	238823	0	190			0		other	0
+slope5	70	Port Input	77					240210	1387	1
+slope5	70	Port Input	49					240240	1417	1
+slope5	70	Port Input	55					240250	1427	1
+slope5	70	Port Input	102					240260	1437	1
+slope5	71	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	242667	0	219			0		other	0
+slope5	71	Port Input	77					244040	1373	1
+slope5	71	Port Input	49					244060	1393	1
+slope5	71	Port Input	55					244070	1403	1
+slope5	71	Port Input	102					244080	1413	1
+slope5	72	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	246483	0	98			0		other	0
+slope5	72	Response	1					246686	203	2
+slope5	72	Port Input	77					247710	1227	1
+slope5	72	Port Input	49					247730	1247	1
+slope5	72	Port Input	55					247740	1257	1
+slope5	72	Port Input	101					247750	1267	1
+slope5	72	Response	1					248956	2473	1
+slope5	73	Save Logfile	Measurement,38.2, ,0	Measurement	38.2	 	0	250153	0	99			0		other	0
+slope5	73	Port Input	77					251380	1227	1
+slope5	73	Port Input	49					251410	1257	1
+slope5	73	Port Input	55					251420	1267	1
+slope5	73	Port Input	102					251430	1277	1
+slope5	74	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	253833	0	99			0		other	0
+slope5	74	Port Input	77					255070	1237	1
+slope5	74	Port Input	49					255090	1257	1
+slope5	74	Port Input	55					255100	1267	1
+slope5	74	Port Input	102					255110	1277	1
+slope5	75	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	257513	0	101			0		other	0
+slope5	75	Port Input	77					258860	1347	1
+slope5	75	Port Input	49					258890	1377	1
+slope5	75	Port Input	55					258900	1387	1
+slope5	75	Port Input	102					258910	1397	1
+slope5	76	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	261313	0	103			0		other	0
+slope5	76	Port Input	77					262520	1207	1
+slope5	76	Port Input	49					262550	1237	1
+slope5	76	Port Input	55					262560	1247	1
+slope5	76	Port Input	102					262570	1257	1
+slope5	77	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	264973	0	102			0		other	0
+slope5	77	Port Input	77					266180	1207	1
+slope5	77	Port Input	49					266210	1237	1
+slope5	77	Port Input	55					266220	1247	1
+slope5	77	Port Input	102					266230	1257	1
+slope5	78	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	268633	0	105			0		other	0
+slope5	78	Port Input	77					269860	1227	1
+slope5	78	Port Input	49					269880	1247	1
+slope5	78	Port Input	55					269890	1257	1
+slope5	78	Port Input	102					269900	1267	1
+slope5	79	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	272313	0	104			0		other	0
+slope5	79	Port Input	77					273510	1197	1
+slope5	79	Port Input	49					273540	1227	1
+slope5	79	Port Input	55					273550	1237	1
+slope5	79	Port Input	102					273560	1247	1
+slope5	80	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	275963	0	110			0		other	0
+slope5	80	Response	4					276102	139	1
+slope5	80	Port Input	84					277190	1227	1
+slope5	80	Port Input	49					277200	1237	1
+slope5	80	Port Input	99					277210	1247	1
+slope5	80	Port Input	99					277220	1257	1
+slope5	80	Port Input	67					278730	2767	1
+slope5	80	Port Input	48					278740	2777	1
+slope5	80	Port Input	48					278750	2787	1
+slope5	80	Port Input	51					278760	2797	1
+slope5	81	Save Logfile	Initiate Peak,38.3, ,46	Initiate Peak	38.3	 	46	279143	0	110			0		other	0
+slope5	81	Port Input	77					280329	1186	3
+slope5	81	Port Input	49					280350	1207	1
+slope5	81	Port Input	55					280360	1217	1
+slope5	81	Port Input	102					280370	1227	1
+slope5	82	Save Logfile	Measurement,38.3, ,46	Measurement	38.3	 	46	282774	0	108			0		other	0
+slope5	82	Port Input	77					284010	1236	1
+slope5	82	Port Input	49					284030	1256	1
+slope5	82	Port Input	56					284039	1265	2
+slope5	82	Port Input	98					284050	1276	1
+slope5	83	Save Logfile	Measurement,39.5, ,46	Measurement	39.5	 	46	286453	0	109			0		other	0
+slope5	83	Port Input	77					287680	1227	1
+slope5	83	Port Input	49					287700	1247	1
+slope5	83	Port Input	97					287710	1257	1
+slope5	83	Port Input	50					287719	1266	2
+slope5	84	Save Logfile	Measurement,41.8, ,46	Measurement	41.8	 	46	290123	0	2753			0		other	0
+slope5	84	Port Input	77					293990	3867	1
+slope5	84	Port Input	49					294020	3897	1
+slope5	84	Port Input	99					294029	3906	2
+slope5	84	Port Input	52					294040	3917	1
+slope5	84	Port Input	70					295400	5277	1
+slope5	84	Port Input	49					295430	5307	1
+slope5	84	Port Input	99					295439	5316	2
+slope5	84	Port Input	98					295449	5326	2
+slope5	85	Save Logfile	Measurement,45.9, ,46	Measurement	45.9	 	46	296443	0	595			0		other	0
+slope5	86	Save Logfile	Peak Temperature,45.9, ,46	Peak Temperature	45.9	 	46	297269	0	114			0		other	0
+slope5	86	Port Input	67					298470	1201	1
+slope5	86	Port Input	48					298479	1210	2
+slope5	86	Port Input	48					298490	1221	1
+slope5	86	Port Input	48					298499	1230	2
+slope5	86	Port Input	77					299959	2690	2
+slope5	86	Port Input	49					299979	2710	2
+slope5	86	Port Input	100					299989	2720	2
+slope5	86	Port Input	50					299999	2730	2
+slope5	87	Save Logfile	Measurement,46.6, ,38	Measurement	46.6	 	38	300404	0	117			0		other	0
+slope5	87	Port Input	77					301660	1256	1
+slope5	87	Port Input	49					301680	1276	1
+slope5	87	Port Input	99					301689	1285	2
+slope5	87	Port Input	98					301700	1296	1
+slope5	88	Save Logfile	Measurement,45.9, ,38	Measurement	45.9	 	38	302105	0	117			0		other	0
+slope5	88	Port Input	77					303330	1225	1
+slope5	88	Port Input	49					303349	1244	2
+slope5	88	Port Input	99					303359	1254	2
+slope5	88	Port Input	52					303369	1264	2
+slope5	89	Save Logfile	Measurement,45.2, ,38	Measurement	45.2	 	38	303776	0	121			0		other	0
+slope5	89	Port Input	77					304990	1214	1
+slope5	89	Port Input	49					305019	1243	2
+slope5	89	Port Input	98					305029	1253	2
+slope5	89	Port Input	100					305039	1263	2
+slope5	90	Save Logfile	Measurement,44.5, ,38	Measurement	44.5	 	38	305444	0	119			0		other	0
+slope5	90	Port Input	77					306659	1215	2
+slope5	90	Port Input	49					306679	1235	2
+slope5	90	Port Input	98					306689	1245	2
+slope5	90	Port Input	53					306699	1255	2
+slope5	91	Save Logfile	Measurement,43.7, ,38	Measurement	43.7	 	38	307104	0	121			0		other	0
+slope5	91	Port Input	77					308329	1225	2
+slope5	91	Port Input	49					308349	1245	2
+slope5	91	Port Input	97					308359	1255	2
+slope5	91	Port Input	100					308369	1265	2
+slope5	92	Save Logfile	Measurement,42.9, ,38	Measurement	42.9	 	38	308775	0	123			0		other	0
+slope5	92	Port Input	77					309989	1214	2
+slope5	92	Port Input	49					310009	1234	2
+slope5	92	Port Input	97					310019	1244	2
+slope5	92	Port Input	53					310029	1254	2
+slope5	93	Save Logfile	Measurement,42.1, ,38	Measurement	42.1	 	38	310435	0	120			0		other	0
+slope5	93	Port Input	77					311650	1215	1
+slope5	93	Port Input	49					311679	1244	2
+slope5	93	Port Input	57					311689	1254	2
+slope5	93	Port Input	100					311699	1264	2
+slope5	94	Save Logfile	Measurement,41.3, ,38	Measurement	41.3	 	38	312105	0	121			0		other	0
+slope5	94	Port Input	77					313319	1214	2
+slope5	94	Port Input	49					313339	1234	2
+slope5	94	Port Input	57					313349	1244	2
+slope5	94	Port Input	52					313359	1254	2
+slope5	95	Save Logfile	Measurement,40.4, ,38	Measurement	40.4	 	38	313765	0	129			0		other	0
+slope5	95	Port Input	77					314980	1215	1
+slope5	95	Port Input	49					315009	1244	2
+slope5	95	Port Input	56					315019	1254	2
+slope5	95	Port Input	99					315029	1264	2
+slope5	96	Save Logfile	Measurement,39.6, ,38	Measurement	39.6	 	38	315434	0	125			0		other	0
+slope5	96	Port Input	77					316650	1216	1
+slope5	96	Port Input	49					316669	1235	2
+slope5	96	Port Input	56					316679	1245	2
+slope5	96	Port Input	52					316689	1255	2
+slope5	97	Save Logfile	Measurement,38.8, ,38	Measurement	38.8	 	38	317094	0	129			0		other	0
+slope5	97	Port Input	77					318319	1225	2
+slope5	97	Port Input	49					318339	1245	2
+slope5	97	Port Input	56					318349	1255	2
+slope5	97	Port Input	48					318359	1265	2
+slope5	98	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	320763	0	133			0		other	0
+slope5	98	Port Input	77					322149	1386	2
+slope5	98	Port Input	49					322169	1406	2
+slope5	98	Port Input	56					322179	1416	2
+slope5	98	Port Input	48					322189	1426	2
+slope5	99	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	324593	0	131			0		other	0
+slope5	99	Port Input	77					325979	1386	2
+slope5	99	Port Input	49					325999	1406	2
+slope5	99	Port Input	56					326009	1416	2
+slope5	99	Port Input	48					326019	1426	2
+slope5	100	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	328423	0	132			0		other	0
+slope5	100	Response	1					329329	906	1
+slope5	100	Port Input	77					329809	1386	2
+slope5	100	Port Input	49					329829	1406	2
+slope5	100	Port Input	56					329839	1416	2
+slope5	100	Port Input	48					329849	1426	2
+slope5	101	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	332253	0	131			0		other	0
+slope5	101	Response	1					332908	655	1
+slope5	101	Port Input	77					333639	1386	2
+slope5	101	Port Input	49					333669	1416	2
+slope5	101	Port Input	56					333679	1426	2
+slope5	101	Port Input	48					333689	1436	1
+slope5	102	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	336093	0	135			0		other	0
+slope5	102	Port Input	77					337479	1386	2
+slope5	102	Port Input	49					337499	1406	2
+slope5	102	Port Input	56					337509	1416	1
+slope5	102	Port Input	48					337519	1426	2
+slope5	103	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	339923	0	138			0		other	0
+slope5	103	Port Input	77					341289	1366	2
+slope5	103	Port Input	49					341319	1396	1
+slope5	103	Port Input	56					341329	1406	1
+slope5	103	Port Input	48					341339	1416	1
+slope5	104	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	343743	0	134			0		other	0
+slope5	104	Port Input	77					345129	1386	2
+slope5	104	Port Input	49					345149	1406	1
+slope5	104	Port Input	56					345159	1416	1
+slope5	104	Port Input	48					345169	1426	2
+slope5	105	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	347574	0	153			0		other	0
+slope5	105	Port Input	77					348960	1386	1
+slope5	105	Port Input	49					348979	1405	2
+slope5	105	Port Input	56					348989	1415	1
+slope5	105	Port Input	48					348999	1425	1
+slope5	106	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	351403	0	133			0		other	0
+slope5	106	Port Input	77					352789	1386	2
+slope5	106	Port Input	49					352809	1406	1
+slope5	106	Port Input	56					352819	1416	1
+slope5	106	Port Input	48					352829	1426	1
+slope5	107	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	355233	0	134			0		other	0
+slope5	107	Port Input	77					356619	1386	2
+slope5	107	Port Input	49					356639	1406	1
+slope5	107	Port Input	56					356649	1416	1
+slope5	107	Port Input	48					356659	1426	1
+slope5	107	Response	4					358970	3737	1
+slope5	108	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	359063	0	141			0		other	0
+slope5	108	Port Input	84					360449	1386	1
+slope5	108	Port Input	49					360460	1397	1
+slope5	108	Port Input	101					360469	1406	1
+slope5	108	Port Input	48					360479	1416	1
+slope5	108	Port Input	67					361989	2926	2
+slope5	108	Port Input	48					361999	2936	1
+slope5	108	Port Input	48					362009	2946	1
+slope5	108	Port Input	51					362019	2956	1
+slope5	109	Save Logfile	Initiate Peak,38.4, ,48	Initiate Peak	38.4	 	48	362403	0	141			0		other	0
+slope5	109	Port Input	77					363619	1216	1
+slope5	109	Port Input	49					363639	1236	1
+slope5	109	Port Input	56					363649	1246	1
+slope5	109	Port Input	49					363659	1256	1
+slope5	110	Save Logfile	Measurement,38.5, ,48	Measurement	38.5	 	48	366063	0	144			0		other	0
+slope5	110	Port Input	77					367449	1386	1
+slope5	110	Port Input	49					367469	1406	1
+slope5	110	Port Input	56					367479	1416	1
+slope5	110	Port Input	101					367489	1426	1
+slope5	111	Save Logfile	Measurement,39.8, ,48	Measurement	39.8	 	48	369893	0	149			0		other	0
+slope5	111	Port Input	77					371279	1386	1
+slope5	111	Port Input	49					371299	1406	1
+slope5	111	Port Input	97					371309	1416	1
+slope5	111	Port Input	53					371319	1426	1
+slope5	112	Save Logfile	Measurement,42.1, ,48	Measurement	42.1	 	48	373723	0	144			0		other	0
+slope5	112	Port Input	77					375109	1386	1
+slope5	112	Port Input	49					375129	1406	1
+slope5	112	Port Input	98					375139	1416	1
+slope5	112	Port Input	97					375149	1426	1
+slope5	113	Save Logfile	Measurement,44.2, ,48	Measurement	44.2	 	48	377553	0	145			0		other	0
+slope5	113	Port Input	77					378939	1386	1
+slope5	113	Port Input	49					378959	1406	1
+slope5	113	Port Input	99					378969	1416	1
+slope5	113	Port Input	101					378979	1426	1
+slope5	114	Save Logfile	Measurement,46.2, ,48	Measurement	46.2	 	48	381383	0	149			0		other	0
+slope5	114	Port Input	70					382160	777	1
+slope5	114	Port Input	49					382179	796	1
+slope5	114	Port Input	100					382189	806	2
+slope5	114	Port Input	102					382199	816	2
+slope5	114	Port Input	77					382759	1376	1
+slope5	114	Port Input	49					382789	1406	1
+slope5	114	Port Input	101					382799	1416	1
+slope5	114	Port Input	51					382809	1426	1
+slope5	115	Save Logfile	Measurement,48.3, ,48	Measurement	48.3	 	48	385213	0	190			0		other	0
+slope5	116	Save Logfile	Peak Temperature,48.3, ,48	Peak Temperature	48.3	 	48	385700	0	146			0		other	0
+slope5	116	Port Input	67					386929	1229	1
+slope5	116	Port Input	48					386939	1239	1
+slope5	116	Port Input	48					386949	1249	1
+slope5	116	Port Input	48					386959	1259	1
+slope5	116	Port Input	77					388409	2709	1
+slope5	116	Port Input	49					388439	2739	1
+slope5	116	Port Input	100					388449	2749	1
+slope5	116	Port Input	102					388459	2759	1
+slope5	117	Save Logfile	Measurement,47.9, ,38	Measurement	47.9	 	38	388864	0	150			0		other	0
+slope5	117	Port Input	77					390259	1395	1
+slope5	117	Port Input	49					390279	1415	1
+slope5	117	Port Input	100					390289	1425	1
+slope5	117	Port Input	55					390299	1435	1
+slope5	118	Save Logfile	Measurement,47.1, ,38	Measurement	47.1	 	38	390704	0	151			0		other	0
+slope5	118	Port Input	77					392089	1385	1
+slope5	118	Port Input	49					392109	1405	1
+slope5	118	Port Input	99					392119	1415	1
+slope5	118	Port Input	102					392129	1425	1
+slope5	119	Save Logfile	Measurement,46.3, ,38	Measurement	46.3	 	38	392534	0	151			0		other	0
+slope5	119	Port Input	77					393929	1395	1
+slope5	119	Port Input	49					393949	1415	1
+slope5	119	Port Input	99					393959	1425	1
+slope5	119	Port Input	54					393969	1435	1
+slope5	120	Save Logfile	Measurement,45.4, ,38	Measurement	45.4	 	38	394376	0	155			0		other	0
+slope5	120	Port Input	77					395759	1383	1
+slope5	120	Port Input	49					395779	1403	1
+slope5	120	Port Input	98					395789	1413	1
+slope5	120	Port Input	100					395799	1423	1
+slope5	121	Save Logfile	Measurement,44.5, ,38	Measurement	44.5	 	38	396204	0	151			0		other	0
+slope5	121	Port Input	77					397589	1385	1
+slope5	121	Port Input	49					397609	1405	1
+slope5	121	Port Input	98					397619	1415	1
+slope5	121	Port Input	52					397629	1425	1
+slope5	122	Save Logfile	Measurement,43.6, ,38	Measurement	43.6	 	38	398034	0	154			0		other	0
+slope5	122	Port Input	77					399419	1385	1
+slope5	122	Port Input	49					399439	1405	1
+slope5	122	Port Input	97					399449	1415	1
+slope5	122	Port Input	97					399459	1425	1
+slope5	123	Save Logfile	Measurement,42.6, ,38	Measurement	42.6	 	38	399864	0	161			0		other	0
+slope5	123	Port Input	77					401249	1385	1
+slope5	123	Port Input	49					401269	1405	1
+slope5	123	Port Input	97					401279	1415	1
+slope5	123	Port Input	48					401289	1425	1
+slope5	124	Save Logfile	Measurement,41.6, ,38	Measurement	41.6	 	38	401694	0	161			0		other	0
+slope5	124	Port Input	77					403089	1395	1
+slope5	124	Port Input	49					403109	1415	1
+slope5	124	Port Input	57					403119	1425	1
+slope5	124	Port Input	55					403129	1435	1
+slope5	125	Save Logfile	Measurement,40.7, ,38	Measurement	40.7	 	38	403534	0	158			0		other	0
+slope5	125	Port Input	77					404919	1385	1
+slope5	125	Port Input	49					404939	1405	1
+slope5	125	Port Input	56					404949	1415	1
+slope5	125	Port Input	101					404959	1425	1
+slope5	126	Save Logfile	Measurement,39.8, ,38	Measurement	39.8	 	38	405365	0	163			0		other	0
+slope5	126	Port Input	77					406749	1384	1
+slope5	126	Port Input	49					406769	1404	1
+slope5	126	Port Input	56					406779	1414	1
+slope5	126	Port Input	53					406789	1424	1
+slope5	127	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	407195	0	157			0		other	0
+slope5	127	Port Input	77					408579	1384	1
+slope5	127	Port Input	49					408599	1404	1
+slope5	127	Port Input	56					408609	1414	1
+slope5	127	Port Input	49					408619	1424	1
+slope5	128	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	411024	0	164			0		other	0
+slope5	128	Port Input	77					412409	1385	1
+slope5	128	Port Input	49					412429	1405	1
+slope5	128	Port Input	56					412439	1415	1
+slope5	128	Port Input	49					412449	1425	1
+slope5	129	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	414853	0	162			0		other	0
+slope5	129	Port Input	77					416239	1386	1
+slope5	129	Port Input	49					416259	1406	1
+slope5	129	Port Input	56					416269	1416	1
+slope5	129	Port Input	49					416279	1426	1
+slope5	130	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	418683	0	161			0		other	0
+slope5	130	Port Input	77					420069	1386	1
+slope5	130	Port Input	49					420089	1406	1
+slope5	130	Port Input	56					420099	1416	1
+slope5	130	Port Input	49					420109	1426	1
+slope5	131	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	422513	0	164			0		other	0
+slope5	131	Response	1					423767	1254	1
+slope5	131	Port Input	77					423899	1386	1
+slope5	131	Port Input	49					423919	1406	1
+slope5	131	Port Input	56					423929	1416	1
+slope5	131	Port Input	49					423939	1426	1
+slope5	131	Response	1					425971	3458	1
+slope5	132	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	426343	0	164			0		other	0
+slope5	132	Port Input	77					427739	1396	1
+slope5	132	Port Input	49					427759	1416	1
+slope5	132	Port Input	56					427769	1426	1
+slope5	132	Port Input	49					427779	1436	1
+slope5	133	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	430183	0	179			0		other	0
+slope5	133	Port Input	77					431569	1386	1
+slope5	133	Port Input	49					431589	1406	1
+slope5	133	Port Input	56					431599	1416	1
+slope5	133	Port Input	49					431609	1426	1
+slope5	134	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	434013	0	169			0		other	0
+slope5	134	Port Input	77					435389	1376	1
+slope5	134	Port Input	49					435409	1396	1
+slope5	134	Port Input	56					435419	1406	1
+slope5	134	Port Input	49					435429	1416	1
+slope5	135	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	437833	0	177			0		other	0
+slope5	135	Port Input	77					439219	1386	1
+slope5	135	Port Input	49					439239	1406	1
+slope5	135	Port Input	56					439249	1416	1
+slope5	135	Port Input	49					439259	1426	1
+slope5	136	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	441663	0	171			0		other	0
+slope5	136	Port Input	77					443059	1396	1
+slope5	136	Port Input	49					443079	1416	1
+slope5	136	Port Input	56					443089	1426	1
+slope5	136	Port Input	50					443099	1436	1
+slope5	137	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	445503	0	168			0		other	0
+slope5	137	Port Input	77					446889	1386	1
+slope5	137	Port Input	49					446909	1406	1
+slope5	137	Port Input	56					446919	1416	1
+slope5	137	Port Input	49					446929	1426	1
+slope5	137	Response	4					448264	2761	2
+slope5	138	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	449333	0	171			0		other	0
+slope5	138	Port Input	84					450719	1386	1
+slope5	138	Port Input	49					450729	1396	1
+slope5	138	Port Input	102					450739	1406	1
+slope5	138	Port Input	52					450749	1416	1
+slope5	138	Port Input	67					452259	2926	1
+slope5	138	Port Input	48					452269	2936	1
+slope5	138	Port Input	48					452279	2946	1
+slope5	138	Port Input	51					452289	2956	1
+slope5	139	Save Logfile	Initiate Peak,38.5, ,50	Initiate Peak	38.5	 	50	452673	0	175			0		other	0
+slope5	139	Port Input	77					453929	1256	1
+slope5	139	Port Input	49					453959	1286	1
+slope5	139	Port Input	56					453969	1296	1
+slope5	139	Port Input	50					453978	1305	3
+slope5	140	Save Logfile	Measurement,38.6, ,50	Measurement	38.6	 	50	456375	0	304			0		other	0
+slope5	140	Port Input	77					457879	1504	1
+slope5	140	Port Input	49					457899	1524	1
+slope5	140	Port Input	57					457909	1534	1
+slope5	140	Port Input	48					457919	1544	1
+slope5	141	Save Logfile	Measurement,40, ,50	Measurement	40	 	50	460326	0	306			0		other	0
+slope5	141	Port Input	77					461869	1543	1
+slope5	141	Port Input	49					461889	1563	1
+slope5	141	Port Input	97					461899	1573	1
+slope5	141	Port Input	57					461909	1583	1
+slope5	142	Save Logfile	Measurement,42.5, ,50	Measurement	42.5	 	50	464313	0	176			0		other	0
+slope5	142	Port Input	77					465699	1386	1
+slope5	142	Port Input	49					465719	1406	1
+slope5	142	Port Input	98					465729	1416	1
+slope5	142	Port Input	100					465739	1426	1
+slope5	143	Save Logfile	Measurement,44.5, ,50	Measurement	44.5	 	50	468143	0	175			0		other	0
+slope5	143	Port Input	77					469529	1386	1
+slope5	143	Port Input	49					469549	1406	1
+slope5	143	Port Input	100					469559	1416	1
+slope5	143	Port Input	49					469569	1426	1
+slope5	144	Save Logfile	Measurement,46.5, ,50	Measurement	46.5	 	50	472048	0	177			0		other	0
+slope5	144	Port Input	77					473359	1311	1
+slope5	144	Port Input	49					473379	1331	1
+slope5	144	Port Input	101					473389	1341	1
+slope5	144	Port Input	54					473399	1351	1
+slope5	145	Save Logfile	Measurement,48.6, ,50	Measurement	48.6	 	50	475803	0	176			0		other	0
+slope5	145	Port Input	70					475803	0	177
+slope5	145	Port Input	49					475979	176	13
+slope5	145	Port Input	102					475999	196	2
+slope5	145	Port Input	52					476009	206	1
+slope5	145	Port Input	77					477189	1386	1
+slope5	145	Port Input	49					477209	1406	1
+slope5	145	Port Input	102					477219	1416	1
+slope5	145	Port Input	97					477229	1426	1
+slope5	146	Save Logfile	Measurement,50.6, ,50	Measurement	50.6	 	50	479633	0	183			0		other	0
+slope5	147	Save Logfile	Peak Temperature,50.6, ,50	Peak Temperature	50.6	 	50	480127	0	186			0		other	0
+slope5	147	Port Input	67					481399	1272	1
+slope5	147	Port Input	48					481409	1282	1
+slope5	147	Port Input	48					481419	1292	1
+slope5	147	Port Input	48					481429	1302	1
+slope5	147	Port Input	77					482889	2762	1
+slope5	147	Port Input	49					482909	2782	1
+slope5	147	Port Input	102					482919	2792	1
+slope5	147	Port Input	48					482929	2802	1
+slope5	148	Save Logfile	Measurement,49.6, ,38	Measurement	49.6	 	38	483334	0	187			0		other	0
+slope5	148	Port Input	77					484689	1355	1
+slope5	148	Port Input	49					484709	1375	1
+slope5	148	Port Input	101					484719	1385	1
+slope5	148	Port Input	56					484729	1395	1
+slope5	149	Save Logfile	Measurement,48.8, ,38	Measurement	48.8	 	38	485134	0	192			0		other	0
+slope5	149	Port Input	77					486519	1385	1
+slope5	149	Port Input	49					486539	1405	1
+slope5	149	Port Input	100					486549	1415	1
+slope5	149	Port Input	102					486559	1425	1
+slope5	150	Save Logfile	Measurement,47.9, ,38	Measurement	47.9	 	38	486964	0	187			0		other	0
+slope5	150	Port Input	77					488349	1385	1
+slope5	150	Port Input	49					488369	1405	1
+slope5	150	Port Input	100					488379	1415	1
+slope5	150	Port Input	54					488389	1425	1
+slope5	151	Save Logfile	Measurement,47, ,38	Measurement	47	 	38	488794	0	186			0		other	0
+slope5	151	Port Input	77					490179	1385	1
+slope5	151	Port Input	49					490199	1405	1
+slope5	151	Port Input	99					490209	1415	1
+slope5	151	Port Input	100					490219	1425	1
+slope5	152	Save Logfile	Measurement,46.1, ,38	Measurement	46.1	 	38	490624	0	202			0		other	0
+slope5	152	Port Input	77					492019	1395	1
+slope5	152	Port Input	49					492039	1415	1
+slope5	152	Port Input	99					492049	1425	1
+slope5	152	Port Input	51					492059	1435	1
+slope5	153	Save Logfile	Measurement,45.1, ,38	Measurement	45.1	 	38	492464	0	187			0		other	0
+slope5	153	Port Input	77					493849	1385	1
+slope5	153	Port Input	49					493869	1405	1
+slope5	153	Port Input	98					493879	1415	1
+slope5	153	Port Input	97					493889	1425	1
+slope5	154	Save Logfile	Measurement,44.2, ,38	Measurement	44.2	 	38	494294	0	189			0		other	0
+slope5	154	Port Input	77					495679	1385	1
+slope5	154	Port Input	49					495699	1405	1
+slope5	154	Port Input	98					495709	1415	1
+slope5	154	Port Input	48					495719	1425	1
+slope5	155	Save Logfile	Measurement,43.2, ,38	Measurement	43.2	 	38	496124	0	189			0		other	0
+slope5	155	Port Input	77					497509	1385	1
+slope5	155	Port Input	49					497529	1405	1
+slope5	155	Port Input	97					497539	1415	1
+slope5	155	Port Input	54					497549	1425	1
+slope5	156	Save Logfile	Measurement,42.2, ,38	Measurement	42.2	 	38	497954	0	192			0		other	0
+slope5	156	Port Input	77					499339	1385	1
+slope5	156	Port Input	49					499359	1405	1
+slope5	156	Port Input	57					499369	1415	1
+slope5	156	Port Input	99					499379	1425	1
+slope5	157	Save Logfile	Measurement,41.2, ,38	Measurement	41.2	 	38	499784	0	192			0		other	0
+slope5	157	Port Input	77					501179	1395	1
+slope5	157	Port Input	49					501199	1415	1
+slope5	157	Port Input	57					501209	1425	1
+slope5	157	Port Input	51					501219	1435	1
+slope5	158	Save Logfile	Measurement,40.3, ,38	Measurement	40.3	 	38	501624	0	198			0		other	0
+slope5	158	Port Input	77					503009	1385	1
+slope5	158	Port Input	49					503029	1405	1
+slope5	158	Port Input	56					503039	1415	1
+slope5	158	Port Input	57					503049	1425	1
+slope5	159	Save Logfile	Measurement,39.3, ,38	Measurement	39.3	 	38	503454	0	198			0		other	0
+slope5	159	Port Input	77					504839	1385	1
+slope5	159	Port Input	49					504859	1405	1
+slope5	159	Port Input	56					504869	1415	1
+slope5	159	Port Input	51					504879	1425	1
+slope5	160	Save Logfile	Measurement,38.7, ,38	Measurement	38.7	 	38	505284	0	203			0		other	0
+slope5	160	Port Input	77					506669	1385	1
+slope5	160	Port Input	49					506689	1405	1
+slope5	160	Port Input	56					506699	1415	1
+slope5	160	Port Input	49					506709	1425	1
+slope5	161	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	509113	0	198			0		other	0
+slope5	161	Port Input	77					510499	1386	1
+slope5	161	Port Input	49					510519	1406	1
+slope5	161	Port Input	56					510529	1416	1
+slope5	161	Port Input	50					510539	1426	1
+slope5	162	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	512943	0	196			0		other	0
+slope5	162	Port Input	77					514329	1386	1
+slope5	162	Port Input	49					514349	1406	1
+slope5	162	Port Input	56					514359	1416	1
+slope5	162	Port Input	50					514369	1426	1
+slope5	162	Response	1					515137	2194	2
+slope5	163	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	516773	0	203			0		other	0
+slope5	163	Response	1					517623	850	1
+slope5	163	Port Input	77					518169	1396	1
+slope5	163	Port Input	49					518189	1416	1
+slope5	163	Port Input	56					518199	1426	1
+slope5	163	Port Input	50					518209	1436	1
+slope5	163	Response	1					520066	3293	1
+slope5	164	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	520613	0	198			0		other	0
+slope5	164	Port Input	77					521999	1386	1
+slope5	164	Port Input	49					522019	1406	1
+slope5	164	Port Input	56					522029	1416	1
+slope5	164	Port Input	50					522039	1426	1
+slope5	165	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	524443	0	201			0		other	0
+slope5	165	Port Input	77					525829	1386	1
+slope5	165	Port Input	49					525849	1406	1
+slope5	165	Port Input	56					525859	1416	1
+slope5	165	Port Input	50					525869	1426	1
+slope5	166	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	528273	0	199			0		other	0
+slope5	166	Port Input	77					529649	1376	1
+slope5	166	Port Input	49					529669	1396	1
+slope5	166	Port Input	56					529679	1406	1
+slope5	166	Port Input	50					529689	1416	1
+slope5	167	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	532093	0	204			0		other	0
+slope5	167	Port Input	77					533479	1386	1
+slope5	167	Port Input	49					533499	1406	1
+slope5	167	Port Input	56					533509	1416	1
+slope5	167	Port Input	50					533519	1426	1
+slope5	168	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	535923	0	569			0		other	0
+slope5	168	Port Input	77					537649	1726	1
+slope5	168	Port Input	49					537669	1746	1
+slope5	168	Port Input	56					537679	1756	1
+slope5	168	Port Input	50					537689	1766	1
+slope5	169	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	540093	0	206			0		other	0
+slope5	169	Response	4					540093	0	177
+slope5	169	Port Input	84					541479	1386	1
+slope5	169	Port Input	50					541489	1396	1
+slope5	169	Port Input	49					541499	1406	1
+slope5	169	Port Input	50					541509	1416	1
+slope5	169	Port Input	67					543019	2926	1
+slope5	169	Port Input	48					543029	2936	1
+slope5	169	Port Input	48					543039	2946	1
+slope5	169	Port Input	51					543049	2956	1
+slope5	170	Save Logfile	Initiate Peak,38.6, ,53	Initiate Peak	38.6	 	53	543433	0	210			0		other	0
+slope5	170	Port Input	77					544719	1286	1
+slope5	170	Port Input	49					544739	1306	1
+slope5	170	Port Input	56					544749	1316	1
+slope5	170	Port Input	51					544759	1326	1
+slope5	171	Save Logfile	Measurement,38.7, ,53	Measurement	38.7	 	53	547163	0	209			0		other	0
+slope5	171	Port Input	77					548469	1306	1
+slope5	171	Port Input	49					548489	1326	1
+slope5	171	Port Input	57					548499	1336	1
+slope5	171	Port Input	48					548509	1346	1
+slope5	172	Save Logfile	Measurement,40, ,53	Measurement	40	 	53	550913	0	208			0		other	0
+slope5	172	Port Input	77					552299	1386	1
+slope5	172	Port Input	49					552319	1406	1
+slope5	172	Port Input	97					552329	1416	1
+slope5	172	Port Input	56					552339	1426	1
+slope5	173	Save Logfile	Measurement,42.4, ,53	Measurement	42.4	 	53	554743	0	211			0		other	0
+slope5	173	Port Input	77					556129	1386	1
+slope5	173	Port Input	49					556149	1406	1
+slope5	173	Port Input	98					556159	1416	1
+slope5	173	Port Input	99					556169	1426	1
+slope5	174	Save Logfile	Measurement,44.4, ,53	Measurement	44.4	 	53	558573	0	208			0		other	0
+slope5	174	Port Input	77					559959	1386	1
+slope5	174	Port Input	49					559979	1406	1
+slope5	174	Port Input	100					559989	1416	1
+slope5	174	Port Input	48					559999	1426	1
+slope5	175	Save Logfile	Measurement,46.4, ,53	Measurement	46.4	 	53	562403	0	211			0		other	0
+slope5	175	Port Input	77					563789	1386	1
+slope5	175	Port Input	49					563810	1407	1
+slope5	175	Port Input	101					563819	1416	1
+slope5	175	Port Input	53					563829	1426	1
+slope5	176	Save Logfile	Measurement,48.5, ,53	Measurement	48.5	 	53	566233	0	215			0		other	0
+slope5	176	Port Input	77					567619	1386	1
+slope5	176	Port Input	49					567639	1406	1
+slope5	176	Port Input	102					567649	1416	1
+slope5	176	Port Input	57					567659	1426	1
+slope5	177	Save Logfile	Measurement,50.5, ,53	Measurement	50.5	 	53	570063	0	218			0		other	0
+slope5	177	Port Input	77					571449	1386	1
+slope5	177	Port Input	50					571469	1406	1
+slope5	177	Port Input	48					571479	1416	1
+slope5	177	Port Input	100					571489	1426	1
+slope5	177	Port Input	70					572129	2066	1
+slope5	177	Port Input	50					572149	2086	1
+slope5	177	Port Input	49					572169	2106	1
+slope5	177	Port Input	49					572179	2116	1
+slope5	178	Save Logfile	Measurement,52.9, ,53	Measurement	52.9	 	53	573893	0	214			0		other	0
+slope5	179	Save Logfile	Peak Temperature,52.9, ,53	Peak Temperature	52.9	 	53	574386	0	216			0		other	0
+slope5	179	Port Input	67					575689	1303	1
+slope5	179	Port Input	48					575699	1313	1
+slope5	179	Port Input	48					575709	1323	1
+slope5	179	Port Input	48					575719	1333	1
+slope5	179	Port Input	77					577179	2793	1
+slope5	179	Port Input	50					577199	2813	1
+slope5	179	Port Input	49					577209	2823	1
+slope5	179	Port Input	53					577219	2833	1
+slope5	180	Save Logfile	Measurement,53.3, ,38	Measurement	53.3	 	38	577624	0	215			0		other	0
+slope5	180	Port Input	77					578949	1325	1
+slope5	180	Port Input	50					578969	1345	1
+slope5	180	Port Input	48					578979	1355	1
+slope5	180	Port Input	100					578989	1365	1
+slope5	181	Save Logfile	Measurement,52.5, ,38	Measurement	52.5	 	38	579394	0	219			0		other	0
+slope5	181	Port Input	77					580779	1385	1
+slope5	181	Port Input	50					580799	1405	1
+slope5	181	Port Input	48					580809	1415	1
+slope5	181	Port Input	53					580819	1425	1
+slope5	182	Save Logfile	Measurement,51.7, ,38	Measurement	51.7	 	38	581224	0	225			0		other	0
+slope5	182	Port Input	77					582609	1385	1
+slope5	182	Port Input	49					582629	1405	1
+slope5	182	Port Input	102					582639	1415	1
+slope5	182	Port Input	99					582649	1425	1
+slope5	183	Save Logfile	Measurement,50.8, ,38	Measurement	50.8	 	38	583054	0	220			0		other	0
+slope5	183	Port Input	77					584439	1385	1
+slope5	183	Port Input	49					584459	1405	1
+slope5	183	Port Input	102					584469	1415	1
+slope5	183	Port Input	50					584479	1425	1
+slope5	184	Save Logfile	Measurement,49.8, ,38	Measurement	49.8	 	38	584884	0	221			0		other	0
+slope5	184	Port Input	77					586279	1395	1
+slope5	184	Port Input	49					586299	1415	1
+slope5	184	Port Input	101					586309	1425	1
+slope5	184	Port Input	57					586319	1435	1
+slope5	185	Save Logfile	Measurement,48.9, ,38	Measurement	48.9	 	38	586724	0	224			0		other	0
+slope5	185	Port Input	77					588109	1385	1
+slope5	185	Port Input	49					588129	1405	1
+slope5	185	Port Input	100					588139	1415	1
+slope5	185	Port Input	101					588149	1425	1
+slope5	186	Save Logfile	Measurement,47.8, ,38	Measurement	47.8	 	38	588554	0	225			0		other	0
+slope5	186	Port Input	77					589939	1385	1
+slope5	186	Port Input	49					589959	1405	1
+slope5	186	Port Input	100					589969	1415	1
+slope5	186	Port Input	53					589979	1425	1
+slope5	187	Save Logfile	Measurement,46.9, ,38	Measurement	46.9	 	38	590384	0	228			0		other	0
+slope5	187	Port Input	77					591769	1385	1
+slope5	187	Port Input	49					591789	1405	1
+slope5	187	Port Input	99					591799	1415	1
+slope5	187	Port Input	98					591809	1425	1
+slope5	188	Save Logfile	Measurement,45.9, ,38	Measurement	45.9	 	38	592215	0	225			0		other	0
+slope5	188	Port Input	77					593599	1384	1
+slope5	188	Port Input	49					593619	1404	1
+slope5	188	Port Input	99					593629	1414	1
+slope5	188	Port Input	49					593639	1424	1
+slope5	189	Save Logfile	Measurement,44.9, ,38	Measurement	44.9	 	38	594034	0	231			0		other	0
+slope5	189	Port Input	77					595439	1405	1
+slope5	189	Port Input	49					595459	1425	1
+slope5	189	Port Input	98					595469	1435	1
+slope5	189	Port Input	55					595479	1445	1
+slope5	190	Save Logfile	Measurement,43.9, ,38	Measurement	43.9	 	38	595904	0	230			0		other	0
+slope5	190	Port Input	77					597269	1365	1
+slope5	190	Port Input	49					597289	1385	1
+slope5	190	Port Input	97					597298	1394	2
+slope5	190	Port Input	100					597309	1405	1
+slope5	191	Save Logfile	Measurement,42.9, ,38	Measurement	42.9	 	38	597714	0	231			0		other	0
+slope5	191	Port Input	77					599099	1385	1
+slope5	191	Port Input	49					599119	1405	1
+slope5	191	Port Input	97					599129	1415	1
+slope5	191	Port Input	51					599139	1425	1
+slope5	192	Save Logfile	Measurement,41.9, ,38	Measurement	41.9	 	38	599544	0	239			0		other	0
+slope5	192	Port Input	77					600929	1385	1
+slope5	192	Port Input	49					600949	1405	1
+slope5	192	Port Input	57					600958	1414	2
+slope5	192	Port Input	57					600969	1425	1
+slope5	193	Save Logfile	Measurement,40.9, ,38	Measurement	40.9	 	38	601374	0	235			0		other	0
+slope5	193	Port Input	77					602759	1385	1
+slope5	193	Port Input	49					602779	1405	1
+slope5	193	Port Input	57					602788	1414	2
+slope5	193	Port Input	48					602799	1425	1
+slope5	194	Save Logfile	Measurement,40, ,38	Measurement	40	 	38	603204	0	232			0		other	0
+slope5	194	Port Input	77					604589	1385	1
+slope5	194	Port Input	49					604609	1405	1
+slope5	194	Port Input	56					604618	1414	2
+slope5	194	Port Input	55					604629	1425	1
+slope5	195	Save Logfile	Measurement,39.1, ,38	Measurement	39.1	 	38	605034	0	232			0		other	0
+slope5	195	Port Input	77					606449	1415	1
+slope5	195	Port Input	49					606459	1425	1
+slope5	195	Port Input	56					606469	1435	1
+slope5	196	Save Logfile	Measurement,39.1, ,38	Measurement	39.1	 	38	606876	0	447			0		other	0
+slope5	196	Port Input	50					608428	1552	2
+slope5	196	Port Input	77					608449	1573	1
+slope5	196	Port Input	49					608458	1582	2
+slope5	196	Port Input	56					608505	1629	1
+slope5	197	Save Logfile	Measurement,38.6, ,38	Measurement	38.6	 	38	608875	0	236			0		other	0
+slope5	197	Port Input	50					610259	1384	1
+slope5	197	Port Input	77					610278	1403	2
+slope5	197	Port Input	49					610288	1413	2
+slope5	197	Port Input	56					610298	1423	2
+slope5	198	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	612704	0	242			0		other	0
+slope5	198	Port Input	50					614089	1385	1
+slope5	198	Port Input	77					614108	1404	2
+slope5	198	Port Input	49					614118	1414	2
+slope5	198	Port Input	56					614128	1424	2
+slope5	199	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	616533	0	237			0		other	0
+slope5	199	Port Input	51					617919	1386	1
+slope5	199	Port Input	77					617938	1405	2
+slope5	199	Port Input	49					617948	1415	2
+slope5	199	Port Input	56					617958	1425	2
+slope5	200	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	620363	0	239			0		other	0
+slope5	200	Port Input	51					621749	1386	1
+slope5	200	Port Input	77					621768	1405	2
+slope5	200	Port Input	49					621778	1415	2
+slope5	200	Port Input	56					621788	1425	2
+slope5	201	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	624194	0	238			0		other	0
+slope5	201	Port Input	51					625578	1384	2
+slope5	201	Port Input	77					625598	1404	2
+slope5	201	Port Input	49					625608	1414	2
+slope5	201	Port Input	56					625618	1424	2
+slope5	202	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	628023	0	242			0		other	0
+slope5	202	Port Input	51					629408	1385	2
+slope5	202	Port Input	77					629428	1405	2
+slope5	202	Port Input	49					629438	1415	2
+slope5	202	Port Input	56					629448	1425	2
+slope5	203	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	631853	0	240			0		other	0
+slope5	203	Port Input	51					633238	1385	2
+slope5	203	Port Input	77					633258	1405	2
+slope5	203	Port Input	49					633310	1457	2
+slope5	203	Port Input	56					633318	1465	2
+slope5	204	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	635683	0	248			0		other	0
+slope5	204	Port Input	51					637068	1385	2
+slope5	204	Port Input	77					637088	1405	2
+slope5	204	Port Input	49					637098	1415	2
+slope5	204	Port Input	56					637108	1425	2
+slope5	205	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	639503	0	247			0		other	0
+slope5	205	Port Input	51					640898	1395	2
+slope5	205	Port Input	77					640918	1415	2
+slope5	205	Port Input	49					640928	1425	2
+slope5	205	Port Input	56					640938	1435	2
+slope5	206	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	643334	0	253			0		other	0
+slope5	206	Port Input	51					644728	1394	2
+slope5	206	Port Input	77					644748	1414	1
+slope5	206	Port Input	49					644758	1424	2
+slope5	206	Port Input	56					644768	1434	2
+slope5	207	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	647174	0	249			0		other	0
+slope5	207	Port Input	51					648728	1554	2
+slope5	207	Port Input	77					648748	1574	2
+slope5	207	Port Input	49					648758	1584	2
+slope5	207	Port Input	56					648768	1594	2
+slope5	208	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	651164	0	247			0		other	0
+slope5	208	Port Input	52					652558	1394	2
+slope5	208	Port Input	77					652578	1414	2
+slope5	208	Port Input	49					652588	1424	2
+slope5	208	Port Input	56					652598	1434	1
+slope5	209	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	654993	0	252			0		other	0
+slope5	209	Port Input	52					656320	1327	81
+slope5	209	Port Input	77					656409	1416	1
+slope5	209	Port Input	49					656418	1425	1
+slope5	209	Port Input	56					656428	1435	1
+slope5	210	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	658903	0	250			0		other	0
+slope5	210	Port Input	52					660388	1485	2
+slope5	210	Port Input	77					660408	1505	1
+slope5	210	Port Input	49					660418	1515	1
+slope5	210	Port Input	56					660428	1525	1
+slope5	210	Response	2					661916	3013	1
+slope5	211	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	662823	0	474			0		other	0
+slope5	211	Response	2					663782	959	2
+slope5	211	Port Input	52					664578	1755	2
+slope5	211	Port Input	77					664598	1775	1
+slope5	211	Port Input	49					664608	1785	1
+slope5	211	Port Input	56					664618	1795	1
+slope5	211	Response	2					665634	2811	1
+slope5	212	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	667023	0	254			0		other	0
+slope5	212	Response	2					667603	580	1
+slope5	212	Port Input	52					668408	1385	2
+slope5	212	Port Input	77					668428	1405	1
+slope5	212	Port Input	49					668438	1415	1
+slope5	212	Port Input	56					668448	1425	1
+slope5	212	Response	2					669435	2412	1
+slope5	213	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	670844	0	254			0		other	0
+slope5	213	Response	2					671469	625	2
+slope5	213	Port Input	52					672228	1384	2
+slope5	213	Port Input	77					672248	1404	2
+slope5	213	Port Input	49					672258	1414	1
+slope5	213	Port Input	56					672268	1424	2
+slope5	213	Response	2					673389	2545	2
+slope5	214	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	674666	0	458			0		other	0
+slope5	214	Port Input	52					676378	1712	2
+slope5	214	Port Input	77					676398	1732	1
+slope5	214	Port Input	49					676408	1742	1
+slope5	214	Port Input	56					676417	1751	3
+slope5	215	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	678816	0	466			0		other	0
+slope5	215	Port Input	52					680548	1732	2
+slope5	215	Port Input	77					680568	1752	1
+slope5	215	Port Input	49					680578	1762	1
+slope5	215	Port Input	56					680588	1772	1
+slope5	216	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	682984	0	256			0		other	0
+slope5	216	Port Input	52					684388	1404	1
+slope5	216	Port Input	77					684418	1434	1
+slope5	216	Port Input	49					684428	1444	1
+slope5	217	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	686823	0	258			0		other	0
+slope5	217	Port Input	56					688218	1395	1
+slope5	217	Port Input	52					688238	1415	1
+slope5	217	Port Input	77					688248	1425	1
+slope5	217	Port Input	49					688258	1435	1
+slope5	218	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	690653	0	259			0		other	0
+slope5	218	Port Input	56					692028	1375	1
+slope5	218	Port Input	52					692048	1395	1
+slope5	218	Port Input	77					692058	1405	1
+slope5	218	Port Input	49					692068	1415	1
+slope5	219	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	694463	0	262			0		other	0
+slope5	219	Port Input	56					695858	1395	1
+slope5	219	Port Input	52					695878	1415	1
+slope5	219	Port Input	77					695888	1425	1
+slope5	219	Port Input	49					695898	1435	1
+slope5	220	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	698303	0	260			0		other	0
+slope5	220	Port Input	56					699688	1385	1
+slope5	220	Port Input	52					699708	1405	1
+slope5	220	Port Input	77					699718	1415	1
+slope5	220	Port Input	49					699728	1425	1
+slope5	221	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	702123	0	262			0		other	0
+slope5	221	Port Input	56					703518	1395	1
+slope5	221	Port Input	52					703538	1415	1
+slope5	221	Port Input	77					703548	1425	1
+slope5	221	Port Input	49					703558	1435	1
+slope5	222	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	705953	0	272			0		other	0
+slope5	222	Port Input	56					707348	1395	1
+slope5	222	Port Input	52					707368	1415	1
+slope5	222	Port Input	77					707378	1425	1
+slope5	222	Port Input	49					707388	1435	1
+slope5	223	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	709783	0	263			0		other	0
+slope5	223	Port Input	56					711178	1395	1
+slope5	223	Port Input	52					711198	1415	1
+slope5	223	Port Input	77					711208	1425	1
+slope5	223	Port Input	49					711218	1435	1
+slope5	224	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	713613	0	279			0		other	0
+slope5	224	Port Input	56					715008	1395	1
+slope5	224	Port Input	52					715028	1415	1
+slope5	224	Port Input	77					715038	1425	1
+slope5	224	Port Input	49					715048	1435	1
+slope5	225	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	717443	0	278			0		other	0
+slope5	225	Port Input	56					718838	1395	1
+slope5	225	Port Input	51					718858	1415	1
+slope5	225	Port Input	77					718868	1425	1
+slope5	225	Port Input	49					718879	1436	1
+slope5	226	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	721273	0	271			0		other	0
+slope5	226	Port Input	56					722668	1395	1
+slope5	226	Port Input	51					722688	1415	1
+slope5	226	Port Input	77					722698	1425	1
+slope5	226	Port Input	49					722708	1435	1
+slope5	227	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	725103	0	268			0		other	0
+slope5	227	Port Input	56					726498	1395	1
+slope5	227	Port Input	51					726518	1415	1
+slope5	227	Port Input	77					726528	1425	1
+slope5	227	Port Input	49					726538	1435	1
+slope5	228	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	728933	0	269			0		other	0
+slope5	228	Response	2					729249	316	2
+slope5	228	Port Input	56					730338	1405	2
+slope5	228	Port Input	51					730358	1425	1
+slope5	228	Port Input	77					730368	1435	1
+slope5	228	Port Input	49					730378	1445	1
+slope5	228	Response	2					731362	2429	1
+slope5	229	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	732773	0	271			0		other	0
+slope5	229	Response	2					733218	445	1
+slope5	229	Port Input	56					734178	1405	1
+slope5	229	Port Input	51					734198	1425	1
+slope5	229	Port Input	77					734208	1435	1
+slope5	229	Port Input	49					734218	1445	1
+slope5	229	Response	2					735158	2385	1
+slope5	230	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	736613	0	273			0		other	0
+slope5	230	Response	2					737088	475	2
+slope5	230	Port Input	56					738018	1405	1
+slope5	230	Port Input	51					738038	1425	1
+slope5	230	Port Input	77					738048	1435	1
+slope5	230	Port Input	49					738058	1445	1
+slope5	231	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	740453	0	275			0		other	0
+slope5	231	Port Input	56					741858	1405	1
+slope5	231	Port Input	51					741878	1425	1
+slope5	231	Port Input	77					741888	1435	1
+slope5	231	Port Input	49					741898	1445	1
+slope5	232	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	744293	0	280			0		other	0
+slope5	232	Response	2					744796	503	1
+slope5	232	Port Input	56					745828	1535	1
+slope5	232	Port Input	51					745848	1555	1
+slope5	232	Port Input	77					745858	1565	1
+slope5	232	Port Input	49					745868	1575	1
+slope5	233	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	748263	0	277			0		other	0
+slope5	233	Port Input	56					749668	1405	1
+slope5	233	Response	2					749680	1417	2
+slope5	233	Port Input	51					749688	1425	1
+slope5	233	Port Input	77					749698	1435	1
+slope5	233	Port Input	49					749708	1445	1
+slope5	233	Response	2					751716	3453	1
+slope5	234	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	752103	0	278			0		other	0
+slope5	234	Port Input	56					753518	1415	1
+slope5	234	Port Input	51					753538	1435	1
+slope5	234	Port Input	77					753548	1445	1
+slope5	234	Port Input	49					753558	1455	1
+slope5	235	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	755953	0	286			0		other	0
+slope5	235	Port Input	56					757478	1525	1
+slope5	235	Port Input	50					757498	1545	1
+slope5	235	Port Input	77					757508	1555	1
+slope5	235	Port Input	49					757518	1565	1
+slope5	236	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	759913	0	291			0		other	0
+slope5	236	Port Input	56					761308	1395	1
+slope5	236	Port Input	50					761328	1415	1
+slope5	236	Port Input	77					761338	1425	1
+slope5	236	Port Input	49					761348	1435	1
+slope5	237	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	763743	0	282			0		other	0
+slope5	237	Port Input	56					765138	1395	1
+slope5	237	Port Input	50					765158	1415	1
+slope5	237	Port Input	77					765168	1425	1
+slope5	237	Port Input	49					765178	1435	1
+slope5	238	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	767576	0	291			0		other	0
+slope5	238	Response	2					767576	0	198
+slope5	238	Port Input	56					768998	1422	1
+slope5	238	Port Input	50					769018	1442	1
+slope5	238	Port Input	77					769028	1452	1
+slope5	238	Port Input	49					769038	1462	1
+slope5	238	Response	2					770136	2560	2
+slope5	239	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	771433	0	281			0		other	0
+slope5	239	Response	2					772297	864	1
+slope5	239	Port Input	56					772968	1535	1
+slope5	239	Port Input	50					772988	1555	1
+slope5	239	Port Input	77					772998	1565	1
+slope5	239	Port Input	49					773008	1575	1
+slope5	239	Response	2					775321	3888	1
+slope5	240	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	775403	0	292			0		other	0
+slope5	240	Port Input	56					776828	1425	1
+slope5	240	Port Input	50					776848	1445	1
+slope5	240	Port Input	77					776858	1455	1
+slope5	240	Port Input	49					776868	1465	1
+slope5	241	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	779263	0	284			0		other	0
+slope5	241	Port Input	56					780798	1535	1
+slope5	241	Port Input	50					780818	1555	1
+slope5	241	Port Input	77					780828	1565	1
+slope5	241	Port Input	49					780838	1575	1
+slope5	241	Response	2					782703	3440	1
+slope5	242	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	783249	0	510			0		other	0
+slope5	242	Port Input	56					784968	1719	1
+slope5	242	Port Input	50					784988	1739	1
+slope5	242	Port Input	77					784998	1749	1
+slope5	242	Port Input	49					785008	1759	1
+slope5	243	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	787406	0	506			0		other	0
+slope5	243	Port Input	56					789118	1712	1
+slope5	243	Port Input	50					789138	1732	1
+slope5	243	Port Input	77					789148	1742	1
+slope5	243	Port Input	49					789158	1752	1
+slope5	244	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	791554	0	287			0		other	0
+slope5	244	Port Input	56					792948	1394	1
+slope5	244	Port Input	50					792968	1414	1
+slope5	244	Port Input	77					792978	1424	2
+slope5	244	Port Input	49					792988	1434	1
+slope5	245	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	795383	0	301			0		other	0
+slope5	245	Port Input	56					796779	1396	1
+slope5	245	Port Input	50					796798	1415	1
+slope5	245	Port Input	77					796808	1425	1
+slope5	245	Port Input	49					796818	1435	1
+slope5	246	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	799213	0	292			0		other	0
+slope5	246	Port Input	56					800608	1395	1
+slope5	246	Port Input	49					800628	1415	1
+slope5	246	Port Input	77					800639	1426	1
+slope5	246	Port Input	49					800648	1435	1
+slope5	247	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	803043	0	292			0		other	0
+slope5	247	Port Input	56					804438	1395	1
+slope5	247	Port Input	49					804458	1415	1
+slope5	247	Port Input	77					804468	1425	1
+slope5	247	Port Input	49					804478	1435	1
+slope5	248	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	806873	0	293			0		other	0
+slope5	248	Response	4					807904	1031	1
+slope5	248	Port Input	56					808267	1394	2
+slope5	248	Port Input	49					808288	1415	1
+slope5	248	Port Input	77					808298	1425	1
+slope5	248	Port Input	49					808308	1435	1
+slope5	249	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	810703	0	294			0		other	0
+slope5	249	Port Input	56					812098	1395	1
+slope5	249	Port Input	49					812108	1405	1
+slope5	249	Port Input	84					812118	1415	1
+slope5	249	Port Input	49					812128	1425	1
+slope5	249	Port Input	52					813638	2935	1
+slope5	249	Port Input	97					813648	2945	1
+slope5	249	Port Input	67					813658	2955	1
+slope5	249	Port Input	48					813678	2975	1
+slope5	250	Save Logfile	Initiate Peak,38.5, ,33	Initiate Peak	38.5	 	33	814043	0	295			0		other	0
+slope5	250	Port Input	48					815408	1365	1
+slope5	250	Port Input	51					815428	1385	1
+slope5	250	Port Input	77					815438	1395	1
+slope5	250	Port Input	49					815448	1405	1
+slope5	250	Port Input	56					818908	4865	1
+slope5	250	Port Input	48					818928	4885	1
+slope5	250	Port Input	77					818938	4895	1
+slope5	250	Port Input	49					818948	4905	1
+slope5	251	Save Logfile	Measurement,38.4, ,33	Measurement	38.4	 	33	821343	0	312			0		other	0
+slope5	251	Port Input	55					822760	1417	1
+slope5	251	Port Input	51					822778	1435	1
+slope5	251	Port Input	77					822788	1445	1
+slope5	251	Port Input	49					822798	1455	1
+slope5	252	Save Logfile	Measurement,37.1, ,33	Measurement	37.1	 	33	825193	0	313			0		other	0
+slope5	252	Port Input	54					826758	1565	1
+slope5	252	Port Input	48					826778	1585	1
+slope5	252	Port Input	77					826788	1595	1
+slope5	252	Port Input	49					826798	1605	1
+slope5	252	Port Input	52					827508	2315	1
+slope5	252	Port Input	100					827537	2344	3
+slope5	252	Port Input	70					827548	2355	1
+slope5	252	Port Input	49					827558	2365	1
+slope5	253	Save Logfile	Measurement,33.3, ,33	Measurement	33.3	 	33	829194	0	305			0		other	0
+slope5	253	Port Input	52					830749	1555	1
+slope5	253	Port Input	57					830768	1574	1
+slope5	253	Port Input	77					830778	1584	1
+slope5	253	Port Input	49					830789	1595	1
+slope5	254	Save Logfile	Measurement,32.9, ,33	Measurement	32.9	 	33	833183	0	302			0		other	0
+slope5	255	Save Logfile	Peak Temperature,32.9, ,33	Peak Temperature	32.9	 	33	833685	0	304			0		other	0
+slope5	255	Port Input	52					835068	1383	1
+slope5	255	Port Input	48					835078	1393	1
+slope5	255	Port Input	67					835088	1403	1
+slope5	255	Port Input	48					835098	1413	1
+slope5	255	Port Input	48					836548	2863	1
+slope5	255	Port Input	48					836568	2883	1
+slope5	255	Port Input	77					836578	2893	1
+slope5	255	Port Input	49					836588	2903	1
+slope5	256	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	836985	0	303			0		other	0
+slope5	256	Port Input	53					838408	1423	1
+slope5	256	Port Input	101					838428	1443	1
+slope5	256	Port Input	77					838438	1453	1
+slope5	256	Port Input	49					838448	1463	1
+slope5	257	Save Logfile	Measurement,35, ,38	Measurement	35	 	38	838846	0	306			0		other	0
+slope5	257	Port Input	54					840238	1392	1
+slope5	257	Port Input	56					840258	1412	1
+slope5	257	Port Input	77					840268	1422	1
+slope5	257	Port Input	49					840278	1432	1
+slope5	258	Save Logfile	Measurement,36, ,38	Measurement	36	 	38	840675	0	305			0		other	0
+slope5	258	Port Input	55					842078	1403	1
+slope5	258	Port Input	50					842098	1423	1
+slope5	258	Port Input	77					842108	1433	1
+slope5	258	Port Input	49					842118	1443	1
+slope5	259	Save Logfile	Measurement,37, ,38	Measurement	37	 	38	842515	0	310			0		other	0
+slope5	259	Port Input	55					844078	1563	1
+slope5	259	Port Input	98					844098	1583	1
+slope5	259	Port Input	77					844108	1593	1
+slope5	259	Port Input	49					844118	1603	1
+slope5	260	Save Logfile	Measurement,37.9, ,38	Measurement	37.9	 	38	844515	0	308			0		other	0
+slope5	260	Port Input	56					846068	1553	1
+slope5	260	Port Input	50					846088	1573	1
+slope5	260	Port Input	77					846098	1583	1
+slope5	260	Port Input	49					846108	1593	1
+slope5	261	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	848503	0	319			0		other	0
+slope5	261	Port Input	56					850068	1565	1
+slope5	261	Port Input	51					850088	1585	1
+slope5	261	Port Input	77					850098	1595	1
+slope5	261	Port Input	49					850108	1605	1
+slope5	262	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	852503	0	308			0		other	0
+slope5	262	Port Input	56					854068	1565	1
+slope5	262	Port Input	48					854088	1585	1
+slope5	262	Port Input	77					854098	1595	1
+slope5	262	Port Input	49					854108	1605	1
+slope5	263	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	856504	0	314			0		other	0
+slope5	263	Response	2					857518	1014	1
+slope5	263	Port Input	56					858068	1564	1
+slope5	263	Port Input	49					858088	1584	1
+slope5	263	Port Input	77					858098	1594	1
+slope5	263	Port Input	49					858108	1604	1
+slope5	263	Response	2					859393	2889	1
+slope5	264	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	860503	0	312			0		other	0
+slope5	264	Response	2					861155	652	2
+slope5	264	Port Input	56					862068	1565	1
+slope5	264	Port Input	49					862088	1585	1
+slope5	264	Port Input	77					862098	1595	1
+slope5	264	Port Input	49					862108	1605	1
+slope5	264	Response	2					862898	2395	1
+slope5	265	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	864503	0	317			0		other	0
+slope5	265	Response	2					864503	0	83
+slope5	265	Port Input	56					866068	1565	1
+slope5	265	Port Input	48					866088	1585	1
+slope5	265	Port Input	77					866098	1595	1
+slope5	265	Port Input	49					866108	1605	1
+slope5	266	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	868503	0	315			0		other	0
+slope5	266	Port Input	56					870058	1555	1
+slope5	266	Port Input	48					870078	1575	1
+slope5	266	Port Input	77					870088	1585	1
+slope5	266	Port Input	49					870098	1595	1
+slope5	267	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	872493	0	320			0		other	0
+slope5	267	Port Input	56					874058	1565	1
+slope5	267	Port Input	48					874078	1585	1
+slope5	267	Port Input	77					874088	1595	1
+slope5	267	Port Input	49					874098	1605	1
+slope5	268	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	876493	0	316			0		other	0
+slope5	268	Port Input	56					878058	1565	1
+slope5	268	Port Input	48					878078	1585	1
+slope5	268	Port Input	77					878088	1595	1
+slope5	268	Port Input	49					878098	1605	1
+slope5	269	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	880504	0	327			0		other	0
+slope5	269	Port Input	56					882048	1544	1
+slope5	269	Port Input	48					882068	1564	1
+slope5	269	Port Input	77					882078	1574	1
+slope5	269	Port Input	49					882088	1584	1
+slope5	270	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	884483	0	321			0		other	0
+slope5	270	Port Input	56					886038	1555	1
+slope5	270	Port Input	48					886058	1575	1
+slope5	270	Port Input	77					886068	1585	1
+slope5	270	Port Input	49					886078	1595	1
+slope5	271	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	888474	0	325			0		other	0
+slope5	271	Port Input	56					890038	1564	1
+slope5	271	Port Input	48					890058	1584	1
+slope5	271	Port Input	77					890068	1594	1
+slope5	271	Port Input	49					890078	1604	1
+slope5	271	Response	4					891939	3465	1
+slope5	272	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	892476	0	592			0		other	0
+slope5	272	Port Input	56					894208	1732	1
+slope5	272	Port Input	48					894218	1742	1
+slope5	272	Port Input	84					894228	1752	1
+slope5	272	Port Input	49					894238	1762	1
+slope5	272	Port Input	49					895738	3262	1
+slope5	272	Port Input	56					895748	3272	1
+slope5	272	Port Input	67					895768	3292	1
+slope5	272	Port Input	48					895778	3302	1
+slope5	273	Save Logfile	Initiate Peak,38.4, ,28	Initiate Peak	38.4	 	28	896143	0	527			0		other	0
+slope5	273	Port Input	48					897748	1605	1
+slope5	273	Port Input	51					897768	1625	1
+slope5	273	Port Input	77					897778	1635	1
+slope5	273	Port Input	49					897788	1645	1
+slope5	273	Port Input	55					901440	5297	95
+slope5	273	Port Input	102					901440	5297	95
+slope5	273	Port Input	77					901538	5395	1
+slope5	273	Port Input	49					901548	5405	1
+slope5	274	Save Logfile	Measurement,38.3, ,28	Measurement	38.3	 	28	904034	0	335			0		other	0
+slope5	274	Port Input	55					905528	1494	1
+slope5	274	Port Input	48					905548	1514	1
+slope5	274	Port Input	77					905558	1524	1
+slope5	274	Port Input	49					905568	1534	1
+slope5	275	Save Logfile	Measurement,36.8, ,28	Measurement	36.8	 	28	907963	0	326			0		other	0
+slope5	275	Port Input	53					909518	1555	1
+slope5	275	Port Input	99					909538	1575	1
+slope5	275	Port Input	77					909548	1585	1
+slope5	275	Port Input	49					909558	1595	1
+slope5	276	Save Logfile	Measurement,34.8, ,28	Measurement	34.8	 	28	911953	0	328			0		other	0
+slope5	276	Port Input	52					913518	1565	1
+slope5	276	Port Input	97					913538	1585	1
+slope5	276	Port Input	77					913548	1595	1
+slope5	276	Port Input	49					913558	1605	1
+slope5	277	Save Logfile	Measurement,33, ,28	Measurement	33	 	28	915983	0	2052			0		other	0
+slope5	277	Port Input	51					919178	3195	1
+slope5	277	Port Input	55					919198	3215	1
+slope5	277	Port Input	77					919208	3225	1
+slope5	277	Port Input	49					919217	3234	2
+slope5	277	Port Input	49					920528	4545	1
+slope5	277	Port Input	100					920548	4565	1
+slope5	277	Port Input	70					920557	4574	2
+slope5	277	Port Input	49					920567	4584	2
+slope5	278	Save Logfile	Measurement,28.5, ,28	Measurement	28.5	 	28	921614	0	328			0		other	0
+slope5	278	Port Input	49					923178	1564	1
+slope5	278	Port Input	55					923197	1583	2
+slope5	278	Port Input	77					923208	1594	1
+slope5	278	Port Input	49					923217	1603	2
+slope5	279	Save Logfile	Measurement,27.9, ,28	Measurement	27.9	 	28	925613	0	341			0		other	0
+slope5	280	Save Logfile	Peak Temperature,27.9, ,28	Peak Temperature	27.9	 	28	926279	0	340			0		other	0
+slope5	280	Port Input	48					927698	1419	1
+slope5	280	Port Input	101					927708	1429	1
+slope5	280	Port Input	67					927718	1439	1
+slope5	280	Port Input	48					927727	1448	2
+slope5	280	Port Input	48					929178	2899	1
+slope5	280	Port Input	48					929197	2918	2
+slope5	280	Port Input	77					929207	2928	2
+slope5	280	Port Input	49					929217	2938	2
+slope5	281	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	929615	0	345			0		other	0
+slope5	281	Port Input	50					931168	1553	1
+slope5	281	Port Input	56					931187	1572	2
+slope5	281	Port Input	77					931198	1583	1
+slope5	281	Port Input	49					931207	1592	2
+slope5	282	Save Logfile	Measurement,29.6, ,38	Measurement	29.6	 	38	931605	0	340			0		other	0
+slope5	282	Port Input	51					933168	1563	1
+slope5	282	Port Input	52					933187	1582	2
+slope5	282	Port Input	77					933197	1592	2
+slope5	282	Port Input	49					933207	1602	2
+slope5	283	Save Logfile	Measurement,30.8, ,38	Measurement	30.8	 	38	933606	0	335			0		other	0
+slope5	283	Port Input	51					935168	1562	1
+slope5	283	Port Input	101					935187	1581	2
+slope5	283	Port Input	77					935197	1591	2
+slope5	283	Port Input	49					935207	1601	2
+slope5	284	Save Logfile	Measurement,31.8, ,38	Measurement	31.8	 	38	935605	0	337			0		other	0
+slope5	284	Port Input	52					937168	1563	1
+slope5	284	Port Input	56					937187	1582	2
+slope5	284	Port Input	77					937198	1593	1
+slope5	284	Port Input	49					937207	1602	2
+slope5	285	Save Logfile	Measurement,32.8, ,38	Measurement	32.8	 	38	937606	0	338			0		other	0
+slope5	285	Port Input	53					939167	1561	2
+slope5	285	Port Input	51					939187	1581	2
+slope5	285	Port Input	77					939197	1591	2
+slope5	285	Port Input	49					939207	1601	2
+slope5	286	Save Logfile	Measurement,33.9, ,38	Measurement	33.9	 	38	939605	0	346			0		other	0
+slope5	286	Port Input	53					941167	1562	2
+slope5	286	Port Input	100					941187	1582	2
+slope5	286	Port Input	77					941197	1592	2
+slope5	286	Port Input	49					941208	1603	1
+slope5	287	Save Logfile	Measurement,34.9, ,38	Measurement	34.9	 	38	941605	0	359			0		other	0
+slope5	287	Port Input	54					943158	1553	1
+slope5	287	Port Input	56					943177	1572	2
+slope5	287	Port Input	77					943187	1582	2
+slope5	287	Port Input	49					943197	1592	2
+slope5	288	Save Logfile	Measurement,36, ,38	Measurement	36	 	38	943595	0	343			0		other	0
+slope5	288	Port Input	55					945158	1563	1
+slope5	288	Port Input	51					945177	1582	2
+slope5	288	Port Input	77					945187	1592	2
+slope5	288	Port Input	49					945197	1602	2
+slope5	289	Save Logfile	Measurement,37.1, ,38	Measurement	37.1	 	38	945595	0	341			0		other	0
+slope5	289	Port Input	55					947157	1562	2
+slope5	289	Port Input	100					947177	1582	2
+slope5	289	Port Input	77					947187	1592	2
+slope5	289	Port Input	49					947197	1602	2
+slope5	290	Save Logfile	Measurement,38.1, ,0	Measurement	38.1	 	0	949613	0	341			0		other	0
+slope5	290	Port Input	56					951157	1544	2
+slope5	290	Port Input	51					951177	1564	2
+slope5	290	Port Input	77					951187	1574	2
+slope5	290	Port Input	49					951197	1584	2
+slope5	291	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	953593	0	355			0		other	0
+slope5	291	Port Input	56					955157	1564	2
+slope5	291	Port Input	49					955177	1584	2
+slope5	291	Port Input	77					955187	1594	2
+slope5	291	Port Input	49					955197	1604	2
+slope5	292	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	957593	0	343			0		other	0
+slope5	292	Port Input	56					959147	1554	2
+slope5	292	Port Input	49					959167	1574	2
+slope5	292	Port Input	77					959177	1584	2
+slope5	292	Port Input	49					959187	1594	2
+slope5	293	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	961583	0	346			0		other	0
+slope5	293	Port Input	56					963147	1564	2
+slope5	293	Port Input	50					963167	1584	2
+slope5	293	Port Input	77					963177	1594	2
+slope5	293	Port Input	49					963187	1604	1
+slope5	294	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	965583	0	351			0		other	0
+slope5	294	Port Input	56					967147	1564	2
+slope5	294	Port Input	49					967167	1584	2
+slope5	294	Port Input	77					967177	1594	1
+slope5	294	Port Input	49					967187	1604	2
+slope5	294	Response	2					968571	2988	1
+slope5	295	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	969583	0	351			0		other	0
+slope5	295	Response	2					970873	1290	1
+slope5	295	Port Input	56					971147	1564	2
+slope5	295	Port Input	49					971167	1584	2
+slope5	295	Port Input	77					971177	1594	2
+slope5	295	Port Input	49					971187	1604	2
+slope5	295	Response	2					973050	3467	1
+slope5	296	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	973583	0	359			0		other	0
+slope5	296	Response	2					975100	1517	1
+slope5	296	Port Input	56					975147	1564	2
+slope5	296	Port Input	49					975167	1584	1
+slope5	296	Port Input	77					975177	1594	1
+slope5	296	Port Input	49					975186	1603	3
+slope5	296	Response	2					977280	3697	1
+slope5	297	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	977584	0	357			0		other	0
+slope5	297	Port Input	56					979148	1564	1
+slope5	297	Port Input	49					979167	1583	2
+slope5	297	Port Input	77					979177	1593	2
+slope5	297	Port Input	49					979187	1603	1
+slope5	298	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	981584	0	350			0		other	0
+slope5	298	Port Input	56					983137	1553	1
+slope5	298	Port Input	49					983157	1573	1
+slope5	298	Port Input	77					983167	1583	1
+slope5	298	Port Input	49					983177	1593	1
+slope5	299	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	985573	0	354			0		other	0
+slope5	299	Port Input	56					987137	1564	1
+slope5	299	Port Input	49					987157	1584	1
+slope5	299	Port Input	77					987167	1594	1
+slope5	299	Port Input	49					987177	1604	1
+slope5	300	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	989573	0	355			0		other	0
+slope5	300	Port Input	56					991127	1554	1
+slope5	300	Port Input	49					991147	1574	1
+slope5	300	Port Input	77					991157	1584	1
+slope5	300	Port Input	49					991167	1594	1
+slope5	301	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	993563	0	355			0		other	0
+slope5	301	Port Input	56					995117	1554	1
+slope5	301	Port Input	49					995137	1574	1
+slope5	301	Port Input	77					995147	1584	1
+slope5	301	Port Input	49					995157	1594	1
+slope5	302	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	997553	0	372			0		other	0
+slope5	302	Port Input	56					999118	1565	1
+slope5	302	Port Input	49					999137	1584	1
+slope5	302	Port Input	77					999147	1594	1
+slope5	302	Port Input	49					999157	1604	1
+slope5	303	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1001555	0	369			0		other	0
+slope5	303	Port Input	56					1003117	1562	1
+slope5	303	Port Input	49					1003137	1582	1
+slope5	303	Port Input	77					1003147	1592	1
+slope5	303	Port Input	49					1003157	1602	1
+slope5	303	Response	4					1004658	3103	2
+slope5	304	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	1005556	0	651			0		other	0
+slope5	304	Port Input	56					1007448	1892	1
+slope5	304	Port Input	49					1007457	1901	1
+slope5	304	Port Input	84					1007467	1911	1
+slope5	304	Port Input	48					1007477	1921	1
+slope5	304	Port Input	101					1008987	3431	2
+slope5	304	Port Input	54					1008997	3441	1
+slope5	304	Port Input	67					1009007	3451	1
+slope5	304	Port Input	48					1009017	3461	1
+slope5	305	Save Logfile	Initiate Peak,38.5, ,23	Initiate Peak	38.5	 	23	1009383	0	556			0		other	0
+slope5	305	Port Input	48					1011017	1634	2
+slope5	305	Port Input	51					1011037	1654	1
+slope5	305	Port Input	77					1011047	1664	1
+slope5	305	Port Input	49					1011057	1674	1
+slope5	305	Port Input	56					1014517	5134	1
+slope5	305	Port Input	48					1014537	5154	1
+slope5	305	Port Input	77					1014547	5164	1
+slope5	305	Port Input	49					1014557	5174	1
+slope5	306	Save Logfile	Measurement,38.4, ,23	Measurement	38.4	 	23	1016953	0	370			0		other	0
+slope5	306	Port Input	55					1018437	1484	1
+slope5	306	Port Input	50					1018457	1504	1
+slope5	306	Port Input	77					1018467	1514	1
+slope5	306	Port Input	49					1018477	1524	1
+slope5	307	Save Logfile	Measurement,37, ,23	Measurement	37	 	23	1020873	0	363			0		other	0
+slope5	307	Port Input	53					1022437	1564	1
+slope5	307	Port Input	102					1022457	1584	1
+slope5	307	Port Input	77					1022467	1594	1
+slope5	307	Port Input	49					1022477	1604	1
+slope5	308	Save Logfile	Measurement,35.1, ,23	Measurement	35.1	 	23	1024873	0	370			0		other	0
+slope5	308	Port Input	52					1026427	1554	1
+slope5	308	Port Input	99					1026447	1574	1
+slope5	308	Port Input	77					1026457	1584	1
+slope5	308	Port Input	49					1026467	1594	1
+slope5	309	Save Logfile	Measurement,33.2, ,23	Measurement	33.2	 	23	1028863	0	367			0		other	0
+slope5	309	Port Input	51					1030427	1564	1
+slope5	309	Port Input	57					1030447	1584	1
+slope5	309	Port Input	77					1030457	1594	1
+slope5	309	Port Input	49					1030467	1604	1
+slope5	310	Save Logfile	Measurement,31.3, ,23	Measurement	31.3	 	23	1032863	0	1207			0		other	0
+slope5	310	Port Input	50					1035258	2395	1
+slope5	310	Port Input	55					1035277	2414	1
+slope5	310	Port Input	77					1035287	2424	1
+slope5	310	Port Input	49					1035297	2434	1
+slope5	311	Save Logfile	Measurement,29.5, ,23	Measurement	29.5	 	23	1037693	0	376			0		other	0
+slope5	311	Port Input	49					1039257	1564	1
+slope5	311	Port Input	50					1039277	1584	1
+slope5	311	Port Input	77					1039287	1594	1
+slope5	311	Port Input	49					1039297	1604	1
+slope5	312	Save Logfile	Measurement,27.4, ,23	Measurement	27.4	 	23	1041693	0	368			0		other	0
+slope5	312	Port Input	48					1043247	1554	1
+slope5	312	Port Input	49					1043257	1564	1
+slope5	312	Port Input	77					1043267	1574	1
+slope5	312	Port Input	48					1043277	1584	1
+slope5	313	Save Logfile	Measurement,25.7, ,23	Measurement	25.7	 	23	1045683	0	380			0		other	0
+slope5	313	Port Input	102					1046247	564	2
+slope5	313	Port Input	49					1046257	574	1
+slope5	313	Port Input	70					1046267	584	1
+slope5	313	Port Input	48					1046277	594	1
+slope5	313	Port Input	101					1047247	1564	1
+slope5	313	Port Input	53					1047257	1574	1
+slope5	313	Port Input	77					1047267	1584	1
+slope5	313	Port Input	48					1047277	1594	1
+slope5	314	Save Logfile	Measurement,22.9, ,23	Measurement	22.9	 	23	1049683	0	374			0		other	0
+slope5	315	Save Logfile	Peak Temperature,22.9, ,23	Peak Temperature	22.9	 	23	1050349	0	371			0		other	0
+slope5	315	Port Input	101					1051807	1458	1
+slope5	315	Port Input	50					1051817	1468	1
+slope5	315	Port Input	67					1051827	1478	1
+slope5	315	Port Input	48					1051837	1488	1
+slope5	315	Port Input	48					1053287	2938	1
+slope5	315	Port Input	48					1053297	2948	1
+slope5	315	Port Input	77					1053307	2958	1
+slope5	315	Port Input	48					1053317	2968	1
+slope5	316	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1053725	0	370			0		other	0
+slope5	316	Port Input	101					1055237	1512	1
+slope5	316	Port Input	99					1055247	1522	1
+slope5	316	Port Input	77					1055257	1532	1
+slope5	316	Port Input	48					1055267	1542	1
+slope5	317	Save Logfile	Measurement,23.6, ,38	Measurement	23.6	 	38	1055675	0	386			0		other	0
+slope5	317	Port Input	102					1057237	1562	1
+slope5	317	Port Input	56					1057257	1582	1
+slope5	317	Port Input	77					1057267	1592	1
+slope5	317	Port Input	49					1057277	1602	1
+slope5	318	Save Logfile	Measurement,24.8, ,38	Measurement	24.8	 	38	1057675	0	375			0		other	0
+slope5	318	Port Input	48					1059237	1562	1
+slope5	318	Port Input	52					1059257	1582	1
+slope5	318	Port Input	77					1059267	1592	1
+slope5	318	Port Input	49					1059277	1602	1
+slope5	319	Save Logfile	Measurement,26, ,38	Measurement	26	 	38	1059676	0	382			0		other	0
+slope5	319	Port Input	48					1061237	1561	1
+slope5	319	Port Input	102					1061257	1581	1
+slope5	319	Port Input	77					1061267	1591	1
+slope5	319	Port Input	49					1061277	1601	1
+slope5	320	Save Logfile	Measurement,27.1, ,38	Measurement	27.1	 	38	1061675	0	384			0		other	0
+slope5	320	Port Input	49					1063237	1562	1
+slope5	320	Port Input	57					1063257	1582	1
+slope5	320	Port Input	77					1063267	1592	1
+slope5	320	Port Input	49					1063277	1602	1
+slope5	321	Save Logfile	Measurement,28.1, ,38	Measurement	28.1	 	38	1063675	0	593			0		other	0
+slope5	321	Port Input	50					1065397	1722	1
+slope5	321	Port Input	51					1065417	1742	1
+slope5	321	Port Input	77					1065427	1752	1
+slope5	321	Port Input	49					1065437	1762	1
+slope5	322	Save Logfile	Measurement,29.1, ,38	Measurement	29.1	 	38	1065835	0	386			0		other	0
+slope5	322	Port Input	50					1067397	1562	1
+slope5	322	Port Input	102					1067417	1582	1
+slope5	322	Port Input	77					1067427	1592	1
+slope5	322	Port Input	49					1067437	1602	1
+slope5	323	Save Logfile	Measurement,30.3, ,38	Measurement	30.3	 	38	1067835	0	381			0		other	0
+slope5	323	Port Input	51					1069397	1562	1
+slope5	323	Port Input	57					1069417	1582	1
+slope5	323	Port Input	77					1069427	1592	1
+slope5	323	Port Input	49					1069437	1602	1
+slope5	324	Save Logfile	Measurement,31.3, ,38	Measurement	31.3	 	38	1069836	0	382			0		other	0
+slope5	324	Port Input	52					1071397	1561	1
+slope5	324	Port Input	52					1071417	1581	1
+slope5	324	Port Input	77					1071427	1591	1
+slope5	324	Port Input	49					1071437	1601	1
+slope5	325	Save Logfile	Measurement,32.4, ,38	Measurement	32.4	 	38	1071835	0	388			0		other	0
+slope5	325	Port Input	52					1073397	1562	1
+slope5	325	Port Input	102					1073417	1582	1
+slope5	325	Port Input	77					1073427	1592	1
+slope5	325	Port Input	49					1073437	1602	1
+slope5	326	Save Logfile	Measurement,33.5, ,38	Measurement	33.5	 	38	1073835	0	385			0		other	0
+slope5	326	Port Input	53					1075387	1552	1
+slope5	326	Port Input	57					1075407	1572	1
+slope5	326	Port Input	77					1075417	1582	1
+slope5	326	Port Input	49					1075427	1592	1
+slope5	327	Save Logfile	Measurement,34.5, ,38	Measurement	34.5	 	38	1075825	0	388			0		other	0
+slope5	327	Port Input	54					1077387	1562	1
+slope5	327	Port Input	52					1077407	1582	1
+slope5	327	Port Input	77					1077417	1592	1
+slope5	327	Port Input	49					1077427	1602	1
+slope5	328	Save Logfile	Measurement,35.6, ,38	Measurement	35.6	 	38	1077825	0	392			0		other	0
+slope5	328	Port Input	54					1079387	1562	1
+slope5	328	Port Input	102					1079407	1582	1
+slope5	328	Port Input	77					1079417	1592	1
+slope5	328	Port Input	49					1079427	1602	1
+slope5	329	Save Logfile	Measurement,36.7, ,38	Measurement	36.7	 	38	1079825	0	398			0		other	0
+slope5	329	Port Input	55					1081387	1562	1
+slope5	329	Port Input	57					1081407	1582	1
+slope5	329	Port Input	77					1081417	1592	1
+slope5	329	Port Input	49					1081427	1602	1
+slope5	330	Save Logfile	Measurement,37.7, ,38	Measurement	37.7	 	38	1081825	0	389			0		other	0
+slope5	330	Port Input	56					1083387	1562	1
+slope5	330	Port Input	50					1083407	1582	1
+slope5	330	Port Input	77					1083417	1592	1
+slope5	330	Port Input	49					1083427	1602	1
+slope5	331	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	1085823	0	395			0		other	0
+slope5	331	Port Input	56					1087387	1564	1
+slope5	331	Port Input	53					1087407	1584	1
+slope5	331	Port Input	77					1087417	1594	1
+slope5	331	Port Input	49					1087427	1604	1
+slope5	332	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1089823	0	393			0		other	0
+slope5	332	Port Input	56					1091377	1554	1
+slope5	332	Port Input	51					1091397	1574	1
+slope5	332	Port Input	77					1091407	1584	1
+slope5	332	Port Input	49					1091417	1594	1
+slope5	333	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1093813	0	393			0		other	0
+slope5	333	Port Input	56					1095377	1564	1
+slope5	333	Port Input	51					1095397	1584	1
+slope5	333	Port Input	77					1095407	1594	1
+slope5	333	Port Input	49					1095417	1604	1
+slope5	334	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1097814	0	396			0		other	0
+slope5	334	Port Input	56					1099377	1563	1
+slope5	334	Port Input	51					1099397	1583	1
+slope5	334	Port Input	77					1099407	1593	1
+slope5	334	Port Input	49					1099417	1603	1
+slope5	335	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1101813	0	401			0		other	0
+slope5	335	Port Input	56					1103367	1554	1
+slope5	335	Port Input	51					1103387	1574	1
+slope5	335	Port Input	77					1103397	1584	1
+slope5	335	Port Input	49					1103407	1594	1
+slope5	336	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1105803	0	393			0		other	0
+slope5	336	Port Input	56					1107367	1564	1
+slope5	336	Port Input	51					1107387	1584	1
+slope5	336	Port Input	77					1107397	1594	1
+slope5	336	Port Input	49					1107407	1604	1
+slope5	337	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1109804	0	403			0		other	0
+slope5	337	Port Input	56					1111367	1563	1
+slope5	337	Port Input	51					1111387	1583	1
+slope5	337	Port Input	77					1111397	1593	1
+slope5	337	Port Input	49					1111407	1603	1
+slope5	338	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1113808	0	416			0		other	0
+slope5	338	Port Input	56					1115357	1549	1
+slope5	338	Port Input	51					1115377	1569	1
+slope5	338	Port Input	77					1115387	1579	1
+slope5	338	Port Input	49					1115397	1589	1
+slope5	339	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1117797	0	709			0		other	0
+slope5	339	Port Input	56					1119687	1890	1
+slope5	339	Port Input	51					1119707	1910	1
+slope5	339	Port Input	77					1119717	1920	1
+slope5	339	Port Input	49					1119727	1930	1
+slope5	340	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1122125	0	720			0		other	0
+slope5	340	Port Input	56					1124017	1892	1
+slope5	340	Port Input	51					1124037	1912	1
+slope5	340	Port Input	77					1124047	1922	1
+slope5	340	Port Input	49					1124057	1932	1
+slope5	340	Response	2					1125183	3058	1
+slope5	341	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1126453	0	400			0		other	0
+slope5	341	Response	2					1127532	1079	1
+slope5	341	Port Input	56					1128027	1574	1
+slope5	341	Port Input	51					1128047	1594	1
+slope5	341	Port Input	77					1128057	1604	1
+slope5	341	Port Input	49					1128067	1614	1
+slope5	341	Response	2					1129938	3485	1
+slope5	342	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1130463	0	407			0		other	0
+slope5	342	Port Input	56					1132027	1564	1
+slope5	342	Port Input	51					1132047	1584	1
+slope5	342	Port Input	77					1132057	1594	1
+slope5	342	Port Input	49					1132067	1604	1
+slope5	342	Response	2					1132323	1860	1
+slope5	343	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1134463	0	402			0		other	0
+slope5	343	Port Input	56					1136017	1554	1
+slope5	343	Port Input	51					1136037	1574	1
+slope5	343	Port Input	77					1136047	1584	1
+slope5	343	Port Input	49					1136057	1594	1
+slope5	343	Response	2					1137590	3127	1
+slope5	344	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1138453	0	420			0		other	0
+slope5	344	Port Input	56					1140017	1564	1
+slope5	344	Port Input	51					1140037	1584	1
+slope5	344	Port Input	77					1140047	1594	1
+slope5	344	Port Input	49					1140057	1604	1
+slope5	345	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1142453	0	409			0		other	0
+slope5	345	Port Input	56					1144017	1564	1
+slope5	345	Port Input	51					1144037	1584	1
+slope5	345	Port Input	77					1144047	1594	1
+slope5	345	Port Input	49					1144057	1604	1
+slope5	346	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1146453	0	403			0		other	0
+slope5	346	Port Input	56					1148007	1554	1
+slope5	346	Port Input	51					1148027	1574	1
+slope5	346	Port Input	77					1148036	1583	3
+slope5	346	Port Input	49					1148047	1594	1
+slope5	347	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1150443	0	413			0		other	0
+slope5	347	Port Input	56					1151997	1554	1
+slope5	347	Port Input	51					1152017	1574	1
+slope5	347	Port Input	77					1152027	1584	1
+slope5	347	Port Input	49					1152037	1594	1
+slope5	347	Response	4					1154025	3582	2
+slope5	348	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1154434	0	436			0		other	0
+slope5	348	Port Input	56					1155997	1563	1
+slope5	348	Port Input	51					1156007	1573	1
+slope5	348	Port Input	84					1156017	1583	1
+slope5	348	Port Input	48					1156027	1593	1
+slope5	348	Port Input	98					1157537	3103	1
+slope5	348	Port Input	52					1157547	3113	1
+slope5	348	Port Input	67					1157553	3119	22
+slope5	348	Port Input	48					1157553	3119	22
+slope5	349	Save Logfile	Initiate Peak,38.7, ,18	Initiate Peak	38.7	 	18	1157933	0	416			0		other	0
+slope5	349	Port Input	48					1159427	1494	1
+slope5	349	Port Input	51					1159447	1514	1
+slope5	349	Port Input	77					1159457	1524	1
+slope5	349	Port Input	49					1159467	1534	1
+slope5	349	Port Input	56					1162927	4994	1
+slope5	349	Port Input	50					1162947	5014	1
+slope5	349	Port Input	77					1162957	5024	1
+slope5	349	Port Input	49					1162967	5034	1
+slope5	350	Save Logfile	Measurement,38.6, ,18	Measurement	38.6	 	18	1165363	0	420			0		other	0
+slope5	350	Port Input	55					1166987	1624	1
+slope5	350	Port Input	52					1167007	1644	1
+slope5	350	Port Input	77					1167017	1654	1
+slope5	350	Port Input	49					1167027	1664	1
+slope5	351	Save Logfile	Measurement,37.2, ,18	Measurement	37.2	 	18	1169423	0	416			0		other	0
+slope5	351	Port Input	54					1170987	1564	1
+slope5	351	Port Input	49					1171007	1584	1
+slope5	351	Port Input	77					1171017	1594	1
+slope5	351	Port Input	49					1171027	1604	1
+slope5	352	Save Logfile	Measurement,35.3, ,18	Measurement	35.3	 	18	1173423	0	419			0		other	0
+slope5	352	Port Input	52					1174977	1554	1
+slope5	352	Port Input	100					1174997	1574	1
+slope5	352	Port Input	77					1175007	1584	1
+slope5	352	Port Input	49					1175017	1594	1
+slope5	353	Save Logfile	Measurement,33.3, ,18	Measurement	33.3	 	18	1177413	0	422			0		other	0
+slope5	353	Port Input	51					1178977	1564	1
+slope5	353	Port Input	97					1178997	1584	1
+slope5	353	Port Input	77					1179007	1594	1
+slope5	353	Port Input	49					1179017	1604	1
+slope5	354	Save Logfile	Measurement,31.4, ,18	Measurement	31.4	 	18	1181413	0	414			0		other	0
+slope5	354	Port Input	50					1182977	1564	1
+slope5	354	Port Input	56					1182997	1584	1
+slope5	354	Port Input	77					1183007	1594	1
+slope5	354	Port Input	49					1183017	1604	1
+slope5	355	Save Logfile	Measurement,29.6, ,18	Measurement	29.6	 	18	1185413	0	428			0		other	0
+slope5	355	Port Input	49					1186977	1564	1
+slope5	355	Port Input	54					1186997	1584	1
+slope5	355	Port Input	77					1187007	1594	1
+slope5	355	Port Input	49					1187017	1604	1
+slope5	356	Save Logfile	Measurement,27.8, ,18	Measurement	27.8	 	18	1189413	0	419			0		other	0
+slope5	356	Port Input	48					1190967	1554	1
+slope5	356	Port Input	54					1190977	1564	1
+slope5	356	Port Input	77					1190987	1574	1
+slope5	356	Port Input	48					1190997	1584	1
+slope5	357	Save Logfile	Measurement,26.2, ,18	Measurement	26.2	 	18	1193403	0	427			0		other	0
+slope5	357	Port Input	102					1194967	1564	1
+slope5	357	Port Input	53					1194977	1574	1
+slope5	357	Port Input	77					1194987	1584	1
+slope5	357	Port Input	48					1194997	1594	1
+slope5	358	Save Logfile	Measurement,24.5, ,18	Measurement	24.5	 	18	1197403	0	420			0		other	0
+slope5	358	Port Input	101					1198967	1564	1
+slope5	358	Port Input	54					1198977	1574	1
+slope5	358	Port Input	77					1198987	1584	1
+slope5	358	Port Input	48					1198997	1594	1
+slope5	359	Save Logfile	Measurement,23, ,18	Measurement	23	 	18	1201403	0	439			0		other	0
+slope5	359	Port Input	100					1202957	1554	1
+slope5	359	Port Input	55					1202967	1564	1
+slope5	359	Port Input	77					1202977	1574	1
+slope5	359	Port Input	48					1202987	1584	1
+slope5	360	Save Logfile	Measurement,21.5, ,18	Measurement	21.5	 	18	1205393	0	431			0		other	0
+slope5	360	Port Input	99					1206957	1564	1
+slope5	360	Port Input	57					1206967	1574	1
+slope5	360	Port Input	77					1206977	1584	1
+slope5	360	Port Input	48					1206987	1594	1
+slope5	361	Save Logfile	Measurement,20.1, ,18	Measurement	20.1	 	18	1209393	0	514			0		other	0
+slope5	361	Port Input	98					1209393	0	514
+slope5	361	Port Input	99					1209393	0	514
+slope5	361	Port Input	70					1209393	0	514
+slope5	361	Port Input	48					1209393	0	514
+slope5	361	Port Input	98					1211117	1724	1
+slope5	361	Port Input	51					1211127	1734	1
+slope5	361	Port Input	77					1211137	1744	1
+slope5	361	Port Input	48					1211147	1754	1
+slope5	362	Save Logfile	Measurement,17.9, ,18	Measurement	17.9	 	18	1213553	0	448			0		other	0
+slope5	363	Save Logfile	Peak Temperature,17.9, ,18	Peak Temperature	17.9	 	18	1214221	0	426			0		other	0
+slope5	363	Port Input	97					1215727	1506	1
+slope5	363	Port Input	102					1215737	1516	1
+slope5	363	Port Input	67					1215747	1526	1
+slope5	363	Port Input	48					1215757	1536	1
+slope5	363	Port Input	48					1217233	3012	1
+slope5	363	Port Input	48					1217236	3015	2
+slope5	363	Port Input	77					1217236	3015	2
+slope5	363	Port Input	48					1217236	3015	2
+slope5	364	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1217645	0	427			0		other	0
+slope5	364	Port Input	98					1219277	1632	1
+slope5	364	Port Input	102					1219287	1642	1
+slope5	364	Port Input	77					1219297	1652	1
+slope5	364	Port Input	48					1219307	1662	1
+slope5	365	Save Logfile	Measurement,19.1, ,38	Measurement	19.1	 	38	1219715	0	441			0		other	0
+slope5	365	Port Input	99					1221277	1562	1
+slope5	365	Port Input	98					1221287	1572	1
+slope5	365	Port Input	77					1221297	1582	1
+slope5	365	Port Input	48					1221307	1592	1
+slope5	366	Save Logfile	Measurement,20.3, ,38	Measurement	20.3	 	38	1221716	0	513			0		other	0
+slope5	366	Port Input	100					1223472	1756	1
+slope5	366	Port Input	54					1223477	1761	1
+slope5	366	Port Input	77					1223477	1761	1
+slope5	366	Port Input	48					1223477	1761	1
+slope5	367	Save Logfile	Measurement,21.4, ,38	Measurement	21.4	 	38	1223885	0	476			0		other	0
+slope5	367	Port Input	101					1225607	1722	1
+slope5	367	Port Input	50					1225617	1732	1
+slope5	367	Port Input	77					1225627	1742	1
+slope5	367	Port Input	48					1225637	1752	1
+slope5	368	Save Logfile	Measurement,22.6, ,38	Measurement	22.6	 	38	1226046	0	439			0		other	0
+slope5	368	Port Input	101					1227607	1561	1
+slope5	368	Port Input	100					1227617	1571	1
+slope5	368	Port Input	77					1227627	1581	1
+slope5	368	Port Input	48					1227683	1637	1
+slope5	369	Save Logfile	Measurement,23.7, ,38	Measurement	23.7	 	38	1228046	0	439			0		other	0
+slope5	369	Port Input	102					1229607	1561	1
+slope5	369	Port Input	56					1229627	1581	1
+slope5	369	Port Input	77					1229637	1591	1
+slope5	369	Port Input	49					1229647	1601	1
+slope5	370	Save Logfile	Measurement,24.8, ,38	Measurement	24.8	 	38	1230055	0	447			0		other	0
+slope5	370	Port Input	48					1231607	1552	1
+slope5	370	Port Input	51					1231627	1572	1
+slope5	370	Port Input	77					1231637	1582	1
+slope5	370	Port Input	49					1231647	1592	1
+slope5	371	Save Logfile	Measurement,25.9, ,38	Measurement	25.9	 	38	1232045	0	450			0		other	0
+slope5	371	Port Input	48					1233607	1562	1
+slope5	371	Port Input	100					1233626	1581	2
+slope5	371	Port Input	77					1233637	1592	1
+slope5	371	Port Input	49					1233647	1602	1
+slope5	372	Save Logfile	Measurement,26.9, ,38	Measurement	26.9	 	38	1234045	0	439			0		other	0
+slope5	372	Port Input	49					1235597	1552	1
+slope5	372	Port Input	56					1235617	1572	1
+slope5	372	Port Input	77					1235627	1582	1
+slope5	372	Port Input	49					1235636	1591	2
+slope5	373	Save Logfile	Measurement,28, ,38	Measurement	28	 	38	1236035	0	448			0		other	0
+slope5	373	Port Input	50					1237589	1554	81
+slope5	373	Port Input	50					1237589	1554	81
+slope5	373	Port Input	77					1237589	1554	81
+slope5	373	Port Input	49					1237589	1554	81
+slope5	374	Save Logfile	Measurement,29, ,38	Measurement	29	 	38	1238035	0	438			0		other	0
+slope5	374	Port Input	50					1239597	1562	1
+slope5	374	Port Input	100					1239617	1582	1
+slope5	374	Port Input	77					1239626	1591	2
+slope5	374	Port Input	49					1239637	1602	1
+slope5	375	Save Logfile	Measurement,30.1, ,38	Measurement	30.1	 	38	1240035	0	447			0		other	0
+slope5	375	Port Input	51					1241597	1562	1
+slope5	375	Port Input	56					1241617	1582	1
+slope5	375	Port Input	77					1241626	1591	2
+slope5	375	Port Input	49					1241636	1601	2
+slope5	376	Save Logfile	Measurement,31.2, ,38	Measurement	31.2	 	38	1242037	0	439			0		other	0
+slope5	376	Port Input	52					1243597	1560	1
+slope5	376	Port Input	51					1243617	1580	1
+slope5	376	Port Input	77					1243627	1590	1
+slope5	376	Port Input	49					1243637	1600	1
+slope5	377	Save Logfile	Measurement,32.3, ,38	Measurement	32.3	 	38	1244035	0	451			0		other	0
+slope5	377	Port Input	52					1245597	1562	1
+slope5	377	Port Input	100					1245617	1582	1
+slope5	377	Port Input	77					1245626	1591	2
+slope5	377	Port Input	49					1245636	1601	2
+slope5	378	Save Logfile	Measurement,33.3, ,38	Measurement	33.3	 	38	1246035	0	801			0		other	0
+slope5	378	Port Input	53					1248087	2052	1
+slope5	378	Port Input	56					1248107	2072	1
+slope5	378	Port Input	77					1248116	2081	2
+slope5	378	Port Input	49					1248126	2091	2
+slope5	379	Save Logfile	Measurement,34.4, ,38	Measurement	34.4	 	38	1248525	0	450			0		other	0
+slope5	379	Port Input	54					1250087	1562	1
+slope5	379	Port Input	53					1250106	1581	2
+slope5	379	Port Input	77					1250116	1591	2
+slope5	379	Port Input	49					1250127	1602	1
+slope5	380	Save Logfile	Measurement,35.7, ,38	Measurement	35.7	 	38	1250525	0	455			0		other	0
+slope5	380	Port Input	55					1252087	1562	1
+slope5	380	Port Input	48					1252107	1582	1
+slope5	380	Port Input	77					1252117	1592	1
+slope5	380	Port Input	49					1252126	1601	2
+slope5	381	Save Logfile	Measurement,36.8, ,38	Measurement	36.8	 	38	1252525	0	455			0		other	0
+slope5	381	Port Input	55					1254087	1562	1
+slope5	381	Port Input	98					1254106	1581	2
+slope5	381	Port Input	77					1254116	1591	2
+slope5	381	Port Input	49					1254127	1602	1
+slope5	382	Save Logfile	Measurement,37.9, ,38	Measurement	37.9	 	38	1254525	0	461			0		other	0
+slope5	382	Port Input	56					1256086	1561	2
+slope5	382	Port Input	52					1256106	1581	2
+slope5	382	Port Input	77					1256116	1591	2
+slope5	382	Port Input	49					1256126	1601	2
+slope5	383	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1258523	0	454			0		other	0
+slope5	383	Port Input	56					1260044	1521	79
+slope5	383	Port Input	56					1260044	1521	79
+slope5	383	Port Input	77					1260044	1521	79
+slope5	383	Port Input	49					1260126	1603	2
+slope5	384	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	1262523	0	467			0		other	0
+slope5	384	Port Input	56					1264246	1723	2
+slope5	384	Port Input	53					1264266	1743	2
+slope5	384	Port Input	77					1264276	1753	2
+slope5	384	Port Input	49					1264286	1763	2
+slope5	385	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1266683	0	460			0		other	0
+slope5	385	Port Input	56					1268247	1564	1
+slope5	385	Port Input	53					1268266	1583	2
+slope5	385	Port Input	77					1268276	1593	2
+slope5	385	Port Input	49					1268286	1603	2
+slope5	386	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1270683	0	456			0		other	0
+slope5	386	Port Input	56					1272237	1554	1
+slope5	386	Port Input	53					1272256	1573	2
+slope5	386	Port Input	77					1272266	1583	2
+slope5	386	Port Input	49					1272276	1593	2
+slope5	387	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1274673	0	462			0		other	0
+slope5	387	Port Input	56					1276236	1563	2
+slope5	387	Port Input	53					1276256	1583	2
+slope5	387	Port Input	77					1276266	1593	2
+slope5	387	Port Input	49					1276276	1603	2
+slope5	388	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1278673	0	456			0		other	0
+slope5	388	Port Input	56					1280236	1563	2
+slope5	388	Port Input	53					1280256	1583	2
+slope5	388	Port Input	77					1280266	1593	2
+slope5	388	Port Input	49					1280276	1603	2
+slope5	389	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1282673	0	456			0		other	0
+slope5	389	Port Input	56					1284226	1553	2
+slope5	389	Port Input	53					1284246	1573	2
+slope5	389	Port Input	77					1284256	1583	2
+slope5	389	Port Input	49					1284266	1593	2
+slope5	390	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1286663	0	452			0		other	0
+slope5	390	Port Input	56					1288226	1563	2
+slope5	390	Port Input	53					1288246	1583	2
+slope5	390	Port Input	77					1288256	1593	1
+slope5	390	Port Input	49					1288266	1603	1
+slope5	391	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1290663	0	460			0		other	0
+slope5	391	Port Input	56					1292226	1563	2
+slope5	391	Port Input	53					1292246	1583	1
+slope5	391	Port Input	77					1292256	1593	1
+slope5	391	Port Input	49					1292266	1603	2
+slope5	392	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1294663	0	456			0		other	0
+slope5	392	Port Input	56					1296216	1553	1
+slope5	392	Port Input	53					1296236	1573	2
+slope5	392	Port Input	77					1296246	1583	2
+slope5	392	Port Input	49					1296256	1593	1
+slope5	393	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1298653	0	465			0		other	0
+slope5	393	Port Input	56					1300216	1563	1
+slope5	393	Port Input	53					1300236	1583	2
+slope5	393	Port Input	77					1300246	1593	1
+slope5	393	Port Input	49					1300256	1603	2
+slope5	393	Response	2					1300529	1876	1
+slope5	394	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1302653	0	461			0		other	0
+slope5	394	Response	2					1303575	922	2
+slope5	394	Port Input	56					1304236	1583	2
+slope5	394	Port Input	53					1304256	1603	1
+slope5	394	Port Input	77					1304266	1613	1
+slope5	394	Port Input	49					1304276	1623	1
+slope5	394	Response	2					1306247	3594	1
+slope5	395	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1306673	0	479			0		other	0
+slope5	395	Port Input	56					1308386	1713	2
+slope5	395	Port Input	52					1308406	1733	1
+slope5	395	Port Input	77					1308416	1743	2
+slope5	395	Port Input	49					1308426	1753	1
+slope5	395	Response	2					1308893	2220	1
+slope5	396	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1310823	0	467			0		other	0
+slope5	396	Response	2					1311745	922	1
+slope5	396	Port Input	56					1312546	1723	2
+slope5	396	Port Input	53					1312566	1743	1
+slope5	396	Port Input	77					1312576	1753	1
+slope5	396	Port Input	49					1312586	1763	1
+slope5	397	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1314983	0	468			0		other	0
+slope5	397	Port Input	56					1316716	1733	1
+slope5	397	Port Input	52					1316736	1753	1
+slope5	397	Port Input	77					1316746	1763	1
+slope5	397	Port Input	49					1316756	1773	1
+slope5	398	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1319153	0	474			0		other	0
+slope5	398	Port Input	56					1320876	1723	1
+slope5	398	Port Input	52					1320896	1743	1
+slope5	398	Port Input	77					1320906	1753	1
+slope5	398	Port Input	49					1320916	1763	1
+slope5	399	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1323313	0	495			0		other	0
+slope5	399	Port Input	56					1325026	1713	1
+slope5	399	Port Input	52					1325046	1733	1
+slope5	399	Port Input	77					1325056	1743	1
+slope5	399	Port Input	49					1325066	1753	1
+slope5	400	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1327463	0	483			0		other	0
+slope5	400	Port Input	56					1329196	1733	1
+slope5	400	Port Input	52					1329216	1753	1
+slope5	400	Port Input	77					1329226	1763	1
+slope5	400	Port Input	49					1329236	1773	1
+slope5	401	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1331633	0	469			0		other	0
+slope5	401	Port Input	56					1333186	1553	1
+slope5	401	Port Input	52					1333206	1573	1
+slope5	401	Port Input	77					1333216	1583	2
+slope5	401	Port Input	49					1333226	1593	1
+slope5	402	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1335626	0	811			0		other	0
+slope5	402	Port Input	56					1337687	2061	1
+slope5	402	Port Input	52					1337706	2080	1
+slope5	402	Port Input	77					1337716	2090	1
+slope5	402	Port Input	49					1337727	2101	1
+slope5	402	Response	4					1339555	3929	2
+slope5	403	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	1340126	0	956			0		other	0
+slope5	403	Port Input	56					1342187	2061	1
+slope5	403	Port Input	52					1342196	2070	1
+slope5	403	Port Input	84					1342206	2080	1
+slope5	403	Port Input	48					1342216	2090	1
+slope5	403	Port Input	56					1343726	3600	1
+slope5	403	Port Input	50					1343736	3610	1
+slope5	403	Port Input	67					1343746	3620	1
+slope5	403	Port Input	48					1343756	3630	1
+slope5	404	Save Logfile	Initiate Peak,38.8, ,13	Initiate Peak	38.8	 	13	1344123	0	471			0		other	0
+slope5	404	Port Input	48					1345666	1543	1
+slope5	404	Port Input	51					1345686	1563	1
+slope5	404	Port Input	77					1345696	1573	1
+slope5	404	Port Input	49					1345706	1583	1
+slope5	404	Port Input	56					1349166	5043	1
+slope5	404	Port Input	51					1349186	5063	1
+slope5	404	Port Input	77					1349196	5073	1
+slope5	404	Port Input	49					1349206	5083	1
+slope5	405	Save Logfile	Measurement,38.7, ,13	Measurement	38.7	 	13	1351603	0	474			0		other	0
+slope5	405	Port Input	55					1353176	1573	2
+slope5	405	Port Input	52					1353196	1593	1
+slope5	405	Port Input	77					1353206	1603	1
+slope5	405	Port Input	49					1353216	1613	1
+slope5	406	Save Logfile	Measurement,37.2, ,13	Measurement	37.2	 	13	1355613	0	472			0		other	0
+slope5	406	Port Input	54					1357336	1723	1
+slope5	406	Port Input	49					1357356	1743	1
+slope5	406	Port Input	77					1357366	1753	1
+slope5	406	Port Input	49					1357376	1763	1
+slope5	407	Save Logfile	Measurement,35.3, ,13	Measurement	35.3	 	13	1359773	0	487			0		other	0
+slope5	407	Port Input	52					1361506	1733	2
+slope5	407	Port Input	100					1361526	1753	1
+slope5	407	Port Input	77					1361536	1763	1
+slope5	407	Port Input	49					1361546	1773	1
+slope5	408	Save Logfile	Measurement,33.3, ,13	Measurement	33.3	 	13	1363944	0	490			0		other	0
+slope5	408	Port Input	51					1365666	1722	1
+slope5	408	Port Input	57					1365686	1742	1
+slope5	408	Port Input	77					1365696	1752	1
+slope5	408	Port Input	49					1365706	1762	1
+slope5	409	Save Logfile	Measurement,31.3, ,13	Measurement	31.3	 	13	1368104	0	671			0		other	0
+slope5	409	Port Input	50					1369996	1892	1
+slope5	409	Port Input	54					1370016	1912	1
+slope5	409	Port Input	77					1370026	1922	1
+slope5	409	Port Input	49					1370036	1932	1
+slope5	410	Save Logfile	Measurement,29.4, ,13	Measurement	29.4	 	13	1372433	0	490			0		other	0
+slope5	410	Port Input	49					1374156	1723	1
+slope5	410	Port Input	51					1374176	1743	1
+slope5	410	Port Input	77					1374186	1753	1
+slope5	410	Port Input	49					1374196	1763	1
+slope5	411	Save Logfile	Measurement,27.5, ,13	Measurement	27.5	 	13	1376593	0	483			0		other	0
+slope5	411	Port Input	48					1378326	1733	1
+slope5	411	Port Input	50					1378336	1743	1
+slope5	411	Port Input	77					1378346	1753	1
+slope5	411	Port Input	48					1378356	1763	1
+slope5	412	Save Logfile	Measurement,25.8, ,13	Measurement	25.8	 	13	1380763	0	493			0		other	0
+slope5	412	Port Input	102					1382486	1723	1
+slope5	412	Port Input	49					1382496	1733	1
+slope5	412	Port Input	77					1382506	1743	1
+slope5	412	Port Input	48					1382516	1753	1
+slope5	413	Save Logfile	Measurement,24.1, ,13	Measurement	24.1	 	13	1384923	0	484			0		other	0
+slope5	413	Port Input	101					1386646	1723	1
+slope5	413	Port Input	49					1386656	1733	1
+slope5	413	Port Input	77					1386666	1743	1
+slope5	413	Port Input	48					1386676	1753	1
+slope5	414	Save Logfile	Measurement,22.5, ,13	Measurement	22.5	 	13	1389083	0	480			0		other	0
+slope5	414	Port Input	100					1390816	1733	1
+slope5	414	Port Input	50					1390826	1743	1
+slope5	414	Port Input	77					1390836	1753	1
+slope5	414	Port Input	48					1390846	1763	1
+slope5	415	Save Logfile	Measurement,21, ,13	Measurement	21	 	13	1393253	0	486			0		other	0
+slope5	415	Port Input	99					1394976	1723	1
+slope5	415	Port Input	52					1394986	1733	1
+slope5	415	Port Input	77					1394996	1743	1
+slope5	415	Port Input	48					1395006	1753	1
+slope5	416	Save Logfile	Measurement,19.6, ,13	Measurement	19.6	 	13	1397413	0	607			0		other	0
+slope5	416	Port Input	98					1399136	1723	1
+slope5	416	Port Input	54					1399146	1733	1
+slope5	416	Port Input	77					1399156	1743	1
+slope5	416	Port Input	48					1399166	1753	1
+slope5	417	Save Logfile	Measurement,18.2, ,13	Measurement	18.2	 	13	1401573	0	493			0		other	0
+slope5	417	Port Input	97					1403306	1733	2
+slope5	417	Port Input	57					1403316	1743	1
+slope5	417	Port Input	77					1403326	1753	1
+slope5	417	Port Input	48					1403336	1763	1
+slope5	418	Save Logfile	Measurement,16.9, ,13	Measurement	16.9	 	13	1405743	0	490			0		other	0
+slope5	418	Port Input	57					1407465	1722	3
+slope5	418	Port Input	100					1407476	1733	1
+slope5	418	Port Input	77					1407486	1743	1
+slope5	418	Port Input	48					1407496	1753	1
+slope5	419	Save Logfile	Measurement,15.7, ,13	Measurement	15.7	 	13	1409903	0	513			0		other	0
+slope5	419	Port Input	57					1411626	1723	1
+slope5	419	Port Input	49					1411636	1733	1
+slope5	419	Port Input	77					1411646	1743	1
+slope5	419	Port Input	48					1411656	1753	1
+slope5	419	Port Input	56					1413366	3463	1
+slope5	419	Port Input	54					1413376	3473	1
+slope5	419	Port Input	70					1413386	3483	1
+slope5	419	Port Input	48					1413392	3489	13
+slope5	420	Save Logfile	Measurement,13.4, ,13	Measurement	13.4	 	13	1414063	0	496			0		other	0
+slope5	420	Port Input	56					1415796	1733	1
+slope5	420	Port Input	49					1415806	1743	1
+slope5	420	Port Input	77					1415816	1753	1
+slope5	420	Port Input	48					1415826	1763	1
+slope5	421	Save Logfile	Measurement,12.9, ,13	Measurement	12.9	 	13	1418233	0	497			0		other	0
+slope5	422	Save Logfile	Peak Temperature,12.9, ,13	Peak Temperature	12.9	 	13	1419062	0	490			0		other	0
+slope5	422	Port Input	55					1420636	1574	1
+slope5	422	Port Input	99					1420646	1584	1
+slope5	422	Port Input	67					1420656	1594	1
+slope5	422	Port Input	48					1420666	1604	1
+slope5	422	Port Input	48					1422116	3054	1
+slope5	422	Port Input	48					1422126	3064	1
+slope5	422	Port Input	77					1422136	3074	1
+slope5	422	Port Input	48					1422146	3084	1
+slope5	423	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1422555	0	509			0		other	0
+slope5	423	Port Input	57					1424286	1731	1
+slope5	423	Port Input	53					1424296	1741	1
+slope5	423	Port Input	77					1424306	1751	1
+slope5	423	Port Input	48					1424316	1761	1
+slope5	424	Save Logfile	Measurement,14.9, ,38	Measurement	14.9	 	38	1424726	0	494			0		other	0
+slope5	424	Port Input	97					1426446	1720	1
+slope5	424	Port Input	49					1426456	1730	1
+slope5	424	Port Input	77					1426466	1740	1
+slope5	424	Port Input	48					1426476	1750	1
+slope5	425	Save Logfile	Measurement,16.1, ,38	Measurement	16.1	 	38	1426885	0	502			0		other	0
+slope5	425	Port Input	97					1428616	1731	1
+slope5	425	Port Input	100					1428626	1741	1
+slope5	425	Port Input	77					1428636	1751	1
+slope5	425	Port Input	48					1428646	1761	1
+slope5	426	Save Logfile	Measurement,17.3, ,38	Measurement	17.3	 	38	1429055	0	495			0		other	0
+slope5	426	Port Input	98					1430776	1721	1
+slope5	426	Port Input	56					1430786	1731	1
+slope5	426	Port Input	77					1430796	1741	1
+slope5	426	Port Input	48					1430806	1751	1
+slope5	427	Save Logfile	Measurement,18.4, ,38	Measurement	18.4	 	38	1431215	0	500			0		other	0
+slope5	427	Port Input	99					1432946	1731	1
+slope5	427	Port Input	51					1432956	1741	1
+slope5	427	Port Input	77					1432966	1751	1
+slope5	427	Port Input	48					1432976	1761	1
+slope5	428	Save Logfile	Measurement,19.5, ,38	Measurement	19.5	 	38	1433385	0	516			0		other	0
+slope5	428	Port Input	99					1435106	1721	1
+slope5	428	Port Input	102					1435116	1731	1
+slope5	428	Port Input	77					1435126	1741	1
+slope5	428	Port Input	48					1435136	1751	1
+slope5	429	Save Logfile	Measurement,20.7, ,38	Measurement	20.7	 	38	1435546	0	516			0		other	0
+slope5	429	Port Input	100					1437276	1730	1
+slope5	429	Port Input	98					1437286	1740	1
+slope5	429	Port Input	77					1437296	1750	1
+slope5	429	Port Input	48					1437306	1760	1
+slope5	430	Save Logfile	Measurement,21.9, ,38	Measurement	21.9	 	38	1437715	0	514			0		other	0
+slope5	430	Port Input	101					1439436	1721	1
+slope5	430	Port Input	54					1439445	1730	3
+slope5	430	Port Input	77					1439456	1741	1
+slope5	430	Port Input	48					1439466	1751	1
+slope5	431	Save Logfile	Measurement,23, ,38	Measurement	23	 	38	1439875	0	506			0		other	0
+slope5	431	Port Input	102					1441606	1731	1
+slope5	431	Port Input	50					1441616	1741	1
+slope5	431	Port Input	77					1441626	1751	1
+slope5	431	Port Input	48					1441636	1761	1
+slope5	432	Save Logfile	Measurement,24.2, ,38	Measurement	24.2	 	38	1442045	0	520			0		other	0
+slope5	432	Port Input	102					1443766	1721	1
+slope5	432	Port Input	101					1443786	1741	1
+slope5	432	Port Input	77					1443796	1751	1
+slope5	432	Port Input	49					1443806	1761	1
+slope5	433	Save Logfile	Measurement,25.4, ,38	Measurement	25.4	 	38	1444215	0	575			0		other	0
+slope5	433	Port Input	48					1445936	1721	1
+slope5	433	Port Input	57					1445956	1741	1
+slope5	433	Port Input	77					1445966	1751	1
+slope5	433	Port Input	49					1445976	1761	1
+slope5	434	Save Logfile	Measurement,26.5, ,38	Measurement	26.5	 	38	1446376	0	509			0		other	0
+slope5	434	Port Input	49					1448096	1720	1
+slope5	434	Port Input	53					1448116	1740	1
+slope5	434	Port Input	77					1448126	1750	1
+slope5	434	Port Input	49					1448136	1760	1
+slope5	435	Save Logfile	Measurement,27.7, ,38	Measurement	27.7	 	38	1448535	0	672			0		other	0
+slope5	435	Port Input	50					1450433	1898	8
+slope5	435	Port Input	48					1450456	1921	1
+slope5	435	Port Input	77					1450466	1931	1
+slope5	435	Port Input	49					1450476	1941	1
+slope5	436	Save Logfile	Measurement,28.8, ,38	Measurement	28.8	 	38	1450875	0	506			0		other	0
+slope5	436	Port Input	50					1452596	1721	1
+slope5	436	Port Input	100					1452616	1741	1
+slope5	436	Port Input	77					1452626	1751	1
+slope5	436	Port Input	49					1452636	1761	1
+slope5	437	Save Logfile	Measurement,30.1, ,38	Measurement	30.1	 	38	1453035	0	516			0		other	0
+slope5	437	Port Input	51					1454766	1731	1
+slope5	437	Port Input	56					1454786	1751	1
+slope5	437	Port Input	77					1454796	1761	1
+slope5	437	Port Input	49					1454806	1771	1
+slope5	438	Save Logfile	Measurement,31.2, ,38	Measurement	31.2	 	38	1455206	0	512			0		other	0
+slope5	438	Port Input	52					1456926	1720	1
+slope5	438	Port Input	52					1456946	1740	1
+slope5	438	Port Input	77					1456956	1750	1
+slope5	438	Port Input	49					1456966	1760	1
+slope5	439	Save Logfile	Measurement,32.4, ,38	Measurement	32.4	 	38	1457365	0	553			0		other	0
+slope5	439	Port Input	52					1459096	1731	1
+slope5	439	Port Input	102					1459116	1751	1
+slope5	439	Port Input	77					1459126	1761	1
+slope5	439	Port Input	49					1459136	1771	1
+slope5	440	Save Logfile	Measurement,33.5, ,38	Measurement	33.5	 	38	1459535	0	516			0		other	0
+slope5	440	Port Input	53					1461256	1721	1
+slope5	440	Port Input	98					1461276	1741	1
+slope5	440	Port Input	77					1461285	1750	3
+slope5	440	Port Input	49					1461296	1761	1
+slope5	441	Save Logfile	Measurement,34.7, ,38	Measurement	34.7	 	38	1461696	0	530			0		other	0
+slope5	441	Port Input	54					1463426	1730	1
+slope5	441	Port Input	55					1463446	1750	1
+slope5	441	Port Input	77					1463456	1760	1
+slope5	441	Port Input	49					1463466	1770	1
+slope5	442	Save Logfile	Measurement,35.9, ,38	Measurement	35.9	 	38	1463865	0	527			0		other	0
+slope5	442	Port Input	55					1465586	1721	1
+slope5	442	Port Input	50					1465606	1741	1
+slope5	442	Port Input	77					1465616	1751	1
+slope5	442	Port Input	49					1465626	1761	1
+slope5	443	Save Logfile	Measurement,37, ,38	Measurement	37	 	38	1466025	0	520			0		other	0
+slope5	443	Port Input	55					1467756	1731	1
+slope5	443	Port Input	100					1467776	1751	1
+slope5	443	Port Input	77					1467786	1761	1
+slope5	443	Port Input	49					1467796	1771	1
+slope5	444	Save Logfile	Measurement,38.1, ,38	Measurement	38.1	 	38	1468195	0	538			0		other	0
+slope5	444	Port Input	56					1469916	1721	1
+slope5	444	Port Input	55					1469936	1741	1
+slope5	444	Port Input	77					1469946	1751	1
+slope5	444	Port Input	49					1469956	1761	1
+slope5	445	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1472353	0	539			0		other	0
+slope5	445	Port Input	56					1474086	1733	1
+slope5	445	Port Input	57					1474106	1753	1
+slope5	445	Port Input	77					1474116	1763	1
+slope5	445	Port Input	49					1474126	1773	1
+slope5	446	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1476523	0	525			0		other	0
+slope5	446	Port Input	56					1478246	1723	1
+slope5	446	Port Input	55					1478266	1743	1
+slope5	446	Port Input	77					1478276	1753	1
+slope5	446	Port Input	49					1478286	1763	1
+slope5	447	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1480683	0	535			0		other	0
+slope5	447	Port Input	56					1482406	1723	1
+slope5	447	Port Input	55					1482426	1743	1
+slope5	447	Port Input	77					1482436	1753	1
+slope5	447	Port Input	49					1482446	1763	1
+slope5	448	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1484844	0	531			0		other	0
+slope5	448	Port Input	56					1486576	1732	1
+slope5	448	Port Input	55					1486596	1752	1
+slope5	448	Port Input	77					1486606	1762	1
+slope5	448	Port Input	49					1486616	1772	1
+slope5	449	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1489014	0	538			0		other	0
+slope5	449	Port Input	56					1490736	1722	1
+slope5	449	Port Input	55					1490756	1742	1
+slope5	449	Port Input	77					1490766	1752	1
+slope5	449	Port Input	49					1490776	1762	1
+slope5	449	Response	2					1491776	2762	1
+slope5	450	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1493173	0	521			0		other	0
+slope5	450	Response	2					1494403	1230	1
+slope5	450	Port Input	56					1494906	1733	1
+slope5	450	Port Input	55					1494926	1753	1
+slope5	450	Port Input	77					1494936	1763	1
+slope5	450	Port Input	49					1494946	1773	1
+slope5	450	Response	2					1497230	4057	1
+slope5	451	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1497343	0	552			0		other	0
+slope5	451	Port Input	56					1499066	1723	1
+slope5	451	Port Input	54					1499086	1743	1
+slope5	451	Port Input	77					1499096	1753	1
+slope5	451	Port Input	49					1499106	1763	1
+slope5	451	Response	2					1499861	2518	1
+slope5	452	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1501503	0	543			0		other	0
+slope5	452	Response	2					1502588	1085	2
+slope5	452	Port Input	56					1503236	1733	1
+slope5	452	Port Input	54					1503256	1753	1
+slope5	452	Port Input	77					1503266	1763	1
+slope5	452	Port Input	49					1503276	1773	1
+slope5	453	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1505673	0	550			0		other	0
+slope5	453	Port Input	56					1507396	1723	1
+slope5	453	Port Input	54					1507416	1743	1
+slope5	453	Port Input	77					1507426	1753	1
+slope5	453	Port Input	49					1507436	1763	1
+slope5	454	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1509833	0	547			0		other	0
+slope5	454	Port Input	56					1511556	1723	1
+slope5	454	Port Input	54					1511576	1743	1
+slope5	454	Port Input	77					1511586	1753	1
+slope5	454	Port Input	49					1511596	1763	1
+slope5	455	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1513993	0	535			0		other	0
+slope5	455	Port Input	56					1515716	1723	1
+slope5	455	Port Input	54					1515736	1743	1
+slope5	455	Port Input	77					1515746	1753	1
+slope5	455	Port Input	49					1515756	1763	1
+slope5	456	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1518153	0	543			0		other	0
+slope5	456	Port Input	56					1519876	1723	1
+slope5	456	Port Input	54					1519896	1743	1
+slope5	456	Port Input	77					1519906	1753	1
+slope5	456	Port Input	49					1519916	1763	1
+slope5	457	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1522314	0	2164			0		other	0
+slope5	457	Port Input	56					1525706	3392	1
+slope5	457	Port Input	54					1525726	3412	1
+slope5	457	Port Input	77					1525736	3422	1
+slope5	457	Port Input	49					1525746	3432	1
+slope5	458	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1528143	0	548			0		other	0
+slope5	458	Response	4					1529466	1323	1
+slope5	458	Port Input	56					1529866	1723	1
+slope5	458	Port Input	53					1529886	1743	1
+slope5	458	Port Input	77					1529896	1753	1
+slope5	458	Port Input	49					1529906	1763	1
+slope5	459	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1532304	0	536			0		other	0
+slope5	459	Port Input	56					1534036	1732	1
+slope5	459	Port Input	53					1534046	1742	1
+slope5	459	Port Input	84					1534056	1752	1
+slope5	459	Port Input	48					1534066	1762	1
+slope5	459	Port Input	53					1535576	3272	1
+slope5	459	Port Input	48					1535586	3282	1
+slope5	459	Port Input	67					1535596	3292	1
+slope5	459	Port Input	48					1535606	3302	1
+slope5	460	Save Logfile	Initiate Peak,38.9, ,8	Initiate Peak	38.9	 	8	1535973	0	672			0		other	0
+slope5	460	Port Input	48					1537716	1743	1
+slope5	460	Port Input	51					1537736	1763	1
+slope5	460	Port Input	77					1537746	1773	1
+slope5	460	Port Input	49					1537756	1783	1
+slope5	460	Port Input	56					1541216	5243	1
+slope5	460	Port Input	52					1541236	5263	1
+slope5	460	Port Input	77					1541246	5273	1
+slope5	460	Port Input	49					1541256	5283	1
+slope5	461	Save Logfile	Measurement,38.8, ,8	Measurement	38.8	 	8	1543655	0	896			0		other	0
+slope5	461	Port Input	55					1545696	2041	1
+slope5	461	Port Input	53					1545716	2061	1
+slope5	461	Port Input	77					1545726	2071	1
+slope5	461	Port Input	49					1545736	2081	1
+slope5	462	Save Logfile	Measurement,37.3, ,8	Measurement	37.3	 	8	1548133	0	554			0		other	0
+slope5	462	Port Input	53					1549856	1723	1
+slope5	462	Port Input	102					1549876	1743	1
+slope5	462	Port Input	77					1549886	1753	1
+slope5	462	Port Input	49					1549896	1763	1
+slope5	463	Save Logfile	Measurement,35.1, ,8	Measurement	35.1	 	8	1552304	0	1096			0		other	0
+slope5	463	Port Input	52					1554516	2212	1
+slope5	463	Port Input	98					1554536	2232	1
+slope5	463	Port Input	77					1554546	2242	1
+slope5	463	Port Input	49					1554556	2252	1
+slope5	464	Save Logfile	Measurement,33.1, ,8	Measurement	33.1	 	8	1556956	0	1035			0		other	0
+slope5	464	Port Input	51					1559186	2230	1
+slope5	464	Port Input	53					1559205	2249	2
+slope5	464	Port Input	77					1559215	2259	2
+slope5	464	Port Input	49					1559226	2270	1
+slope5	465	Save Logfile	Measurement,30.9, ,8	Measurement	30.9	 	8	1561624	0	554			0		other	0
+slope5	465	Port Input	50					1563346	1722	1
+slope5	465	Port Input	48					1563365	1741	2
+slope5	465	Port Input	77					1563375	1751	2
+slope5	465	Port Input	49					1563386	1762	1
+slope5	466	Save Logfile	Measurement,28.8, ,8	Measurement	28.8	 	8	1565783	0	564			0		other	0
+slope5	466	Port Input	48					1567506	1723	1
+slope5	466	Port Input	101					1567515	1732	2
+slope5	466	Port Input	77					1567525	1742	2
+slope5	466	Port Input	48					1567535	1752	2
+slope5	467	Save Logfile	Measurement,27, ,8	Measurement	27	 	8	1569943	0	557			0		other	0
+slope5	467	Port Input	102					1571676	1733	1
+slope5	467	Port Input	100					1571686	1743	1
+slope5	467	Port Input	77					1571695	1752	2
+slope5	467	Port Input	48					1571705	1762	2
+slope5	468	Save Logfile	Measurement,25.3, ,8	Measurement	25.3	 	8	1574113	0	546			0		other	0
+slope5	468	Port Input	101					1575836	1723	1
+slope5	468	Port Input	100					1575845	1732	2
+slope5	468	Port Input	77					1575855	1742	2
+slope5	468	Port Input	48					1575865	1752	2
+slope5	469	Save Logfile	Measurement,23.7, ,8	Measurement	23.7	 	8	1578273	0	555			0		other	0
+slope5	469	Port Input	100					1579995	1722	2
+slope5	469	Port Input	100					1580005	1732	2
+slope5	469	Port Input	77					1580015	1742	2
+slope5	469	Port Input	48					1580026	1753	1
+slope5	470	Save Logfile	Measurement,22.1, ,8	Measurement	22.1	 	8	1582433	0	564			0		other	0
+slope5	470	Port Input	99					1584165	1732	2
+slope5	470	Port Input	102					1584175	1742	2
+slope5	470	Port Input	77					1584185	1752	2
+slope5	470	Port Input	48					1584195	1762	2
+slope5	471	Save Logfile	Measurement,20.7, ,8	Measurement	20.7	 	8	1586604	0	557			0		other	0
+slope5	471	Port Input	99					1588326	1722	1
+slope5	471	Port Input	48					1588335	1731	2
+slope5	471	Port Input	77					1588345	1741	2
+slope5	471	Port Input	48					1588355	1751	2
+slope5	472	Save Logfile	Measurement,19.2, ,8	Measurement	19.2	 	8	1590763	0	563			0		other	0
+slope5	472	Port Input	98					1592485	1722	2
+slope5	472	Port Input	51					1592496	1733	1
+slope5	472	Port Input	77					1592505	1742	2
+slope5	472	Port Input	48					1592515	1752	2
+slope5	473	Save Logfile	Measurement,17.9, ,8	Measurement	17.9	 	8	1594923	0	551			0		other	0
+slope5	473	Port Input	97					1596655	1732	2
+slope5	473	Port Input	54					1596665	1742	2
+slope5	473	Port Input	77					1596675	1752	2
+slope5	473	Port Input	48					1596685	1762	1
+slope5	474	Save Logfile	Measurement,16.6, ,8	Measurement	16.6	 	8	1599093	0	571			0		other	0
+slope5	474	Port Input	57					1600815	1722	2
+slope5	474	Port Input	97					1600825	1732	2
+slope5	474	Port Input	77					1600835	1742	1
+slope5	474	Port Input	48					1600845	1752	2
+slope5	475	Save Logfile	Measurement,15.4, ,8	Measurement	15.4	 	8	1603253	0	564			0		other	0
+slope5	475	Port Input	56					1604975	1722	2
+slope5	475	Port Input	101					1604985	1732	2
+slope5	475	Port Input	77					1604995	1742	2
+slope5	475	Port Input	48					1605005	1752	2
+slope5	476	Save Logfile	Measurement,14.2, ,8	Measurement	14.2	 	8	1607413	0	590			0		other	0
+slope5	476	Port Input	56					1609145	1732	2
+slope5	476	Port Input	51					1609155	1742	2
+slope5	476	Port Input	77					1609165	1752	2
+slope5	476	Port Input	48					1609175	1762	1
+slope5	477	Save Logfile	Measurement,13.1, ,8	Measurement	13.1	 	8	1611583	0	569			0		other	0
+slope5	477	Port Input	55					1613305	1722	1
+slope5	477	Port Input	57					1613315	1732	1
+slope5	477	Port Input	77					1613325	1742	1
+slope5	477	Port Input	48					1613335	1752	1
+slope5	478	Save Logfile	Measurement,12.1, ,8	Measurement	12.1	 	8	1615743	0	574			0		other	0
+slope5	478	Port Input	54					1617465	1722	2
+slope5	478	Port Input	102					1617475	1732	2
+slope5	478	Port Input	77					1617485	1742	2
+slope5	478	Port Input	48					1617495	1752	1
+slope5	479	Save Logfile	Measurement,11.1, ,8	Measurement	11.1	 	8	1619903	0	558			0		other	0
+slope5	479	Port Input	54					1621635	1732	1
+slope5	479	Port Input	53					1621645	1742	1
+slope5	479	Port Input	77					1621655	1752	1
+slope5	479	Port Input	48					1621665	1762	2
+slope5	480	Save Logfile	Measurement,10.1, ,8	Measurement	10.1	 	8	1624073	0	569			0		other	0
+slope5	480	Port Input	53					1625795	1722	2
+slope5	480	Port Input	99					1625805	1732	1
+slope5	480	Port Input	77					1625815	1742	1
+slope5	480	Port Input	48					1625825	1752	1
+slope5	480	Port Input	53					1627376	3303	1
+slope5	480	Port Input	51					1627385	3312	1
+slope5	480	Port Input	70					1627395	3322	1
+slope5	480	Port Input	48					1627405	3332	1
+slope5	481	Save Logfile	Measurement,8.3, ,8	Measurement	8.3	 	8	1628233	0	571			0		other	0
+slope5	481	Port Input	52					1629955	1722	1
+slope5	481	Port Input	102					1629965	1732	1
+slope5	481	Port Input	77					1629975	1742	1
+slope5	481	Port Input	48					1629985	1752	1
+slope5	482	Save Logfile	Measurement,7.9, ,8	Measurement	7.9	 	8	1632393	0	588			0		other	0
+slope5	483	Save Logfile	Peak Temperature,7.9, ,8	Peak Temperature	7.9	 	8	1633228	0	572			0		other	0
+slope5	483	Port Input	52					1634885	1657	1
+slope5	483	Port Input	98					1634895	1667	1
+slope5	483	Port Input	67					1634905	1677	1
+slope5	483	Port Input	48					1634915	1687	1
+slope5	483	Port Input	48					1636365	3137	2
+slope5	483	Port Input	48					1636375	3147	1
+slope5	483	Port Input	77					1636385	3157	1
+slope5	483	Port Input	48					1636395	3167	1
+slope5	484	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1636805	0	573			0		other	0
+slope5	484	Port Input	54					1638615	1810	1
+slope5	484	Port Input	55					1638625	1820	1
+slope5	484	Port Input	77					1638635	1830	1
+slope5	484	Port Input	48					1638645	1840	1
+slope5	485	Save Logfile	Measurement,10.3, ,38	Measurement	10.3	 	38	1639055	0	589			0		other	0
+slope5	485	Port Input	55					1640785	1730	1
+slope5	485	Port Input	51					1640795	1740	1
+slope5	485	Port Input	77					1640805	1750	1
+slope5	485	Port Input	48					1640815	1760	1
+slope5	486	Save Logfile	Measurement,11.5, ,38	Measurement	11.5	 	38	1641225	0	575			0		other	0
+slope5	486	Port Input	55					1642945	1720	1
+slope5	486	Port Input	102					1642955	1730	1
+slope5	486	Port Input	77					1642965	1740	1
+slope5	486	Port Input	48					1642975	1750	1
+slope5	487	Save Logfile	Measurement,12.7, ,38	Measurement	12.7	 	38	1643385	0	598			0		other	0
+slope5	487	Port Input	56					1645116	1731	1
+slope5	487	Port Input	98					1645125	1740	1
+slope5	487	Port Input	77					1645135	1750	1
+slope5	487	Port Input	48					1645145	1760	1
+slope5	488	Save Logfile	Measurement,13.9, ,38	Measurement	13.9	 	38	1645555	0	572			0		other	0
+slope5	488	Port Input	57					1647275	1720	1
+slope5	488	Port Input	54					1647285	1730	1
+slope5	488	Port Input	77					1647295	1740	1
+slope5	488	Port Input	48					1647305	1750	1
+slope5	489	Save Logfile	Measurement,15, ,38	Measurement	15	 	38	1647715	0	579			0		other	0
+slope5	489	Port Input	97					1649445	1730	1
+slope5	489	Port Input	49					1649455	1740	1
+slope5	489	Port Input	77					1649465	1750	1
+slope5	489	Port Input	48					1649475	1760	1
+slope5	490	Save Logfile	Measurement,16.1, ,38	Measurement	16.1	 	38	1649885	0	573			0		other	0
+slope5	490	Port Input	97					1651605	1720	1
+slope5	490	Port Input	100					1651615	1730	1
+slope5	490	Port Input	77					1651625	1740	1
+slope5	490	Port Input	48					1651635	1750	1
+slope5	491	Save Logfile	Measurement,17.3, ,38	Measurement	17.3	 	38	1652045	0	670			0		other	0
+slope5	491	Port Input	98					1653935	1890	1
+slope5	491	Port Input	56					1653945	1900	1
+slope5	491	Port Input	77					1653955	1910	1
+slope5	491	Port Input	48					1653965	1920	1
+slope5	492	Save Logfile	Measurement,18.4, ,38	Measurement	18.4	 	38	1654375	0	589			0		other	0
+slope5	492	Port Input	99					1656105	1730	1
+slope5	492	Port Input	53					1656115	1740	1
+slope5	492	Port Input	77					1656125	1750	1
+slope5	492	Port Input	48					1656135	1760	1
+slope5	493	Save Logfile	Measurement,19.7, ,38	Measurement	19.7	 	38	1656545	0	590			0		other	0
+slope5	493	Port Input	100					1658265	1720	1
+slope5	493	Port Input	49					1658275	1730	1
+slope5	493	Port Input	77					1658285	1740	1
+slope5	493	Port Input	48					1658295	1750	1
+slope5	494	Save Logfile	Measurement,20.9, ,38	Measurement	20.9	 	38	1658705	0	590			0		other	0
+slope5	494	Port Input	100					1660435	1730	1
+slope5	494	Port Input	99					1660445	1740	1
+slope5	494	Port Input	77					1660455	1750	1
+slope5	494	Port Input	48					1660465	1760	1
+slope5	495	Save Logfile	Measurement,22, ,38	Measurement	22	 	38	1660876	0	585			0		other	0
+slope5	495	Port Input	101					1662596	1720	1
+slope5	495	Port Input	56					1662605	1729	1
+slope5	495	Port Input	77					1662615	1739	1
+slope5	495	Port Input	48					1662625	1749	1
+slope5	496	Save Logfile	Measurement,23.2, ,38	Measurement	23.2	 	38	1663036	0	784			0		other	0
+slope5	496	Port Input	102					1664936	1900	1
+slope5	496	Port Input	51					1664955	1919	1
+slope5	496	Port Input	77					1664965	1929	1
+slope5	496	Port Input	49					1664975	1939	1
+slope5	497	Save Logfile	Measurement,24.3, ,38	Measurement	24.3	 	38	1665375	0	858			0		other	0
+slope5	497	Port Input	48					1667426	2051	1
+slope5	497	Port Input	48					1667445	2070	1
+slope5	497	Port Input	77					1667455	2080	1
+slope5	497	Port Input	49					1667465	2090	1
+slope5	498	Save Logfile	Measurement,25.6, ,38	Measurement	25.6	 	38	1667866	0	945			0		other	0
+slope5	498	Port Input	48					1669925	2059	1
+slope5	498	Port Input	100					1669945	2079	1
+slope5	498	Port Input	77					1669955	2089	1
+slope5	498	Port Input	49					1669965	2099	1
+slope5	499	Save Logfile	Measurement,26.9, ,38	Measurement	26.9	 	38	1670365	0	681			0		other	0
+slope5	499	Port Input	49					1672256	1891	1
+slope5	499	Port Input	97					1672275	1910	1
+slope5	499	Port Input	77					1672285	1920	1
+slope5	499	Port Input	49					1672295	1930	1
+slope5	500	Save Logfile	Measurement,28.2, ,38	Measurement	28.2	 	38	1672696	0	632			0		other	0
+slope5	500	Port Input	50					1674425	1729	1
+slope5	500	Port Input	55					1674445	1749	1
+slope5	500	Port Input	77					1674455	1759	1
+slope5	500	Port Input	49					1674465	1769	1
+slope5	501	Save Logfile	Measurement,29.5, ,38	Measurement	29.5	 	38	1674865	0	595			0		other	0
+slope5	501	Port Input	51					1676585	1720	1
+slope5	501	Port Input	50					1676605	1740	1
+slope5	501	Port Input	77					1676615	1750	1
+slope5	501	Port Input	49					1676625	1760	1
+slope5	502	Save Logfile	Measurement,30.6, ,38	Measurement	30.6	 	38	1677025	0	613			0		other	0
+slope5	502	Port Input	51					1678755	1730	2
+slope5	502	Port Input	101					1678775	1750	1
+slope5	502	Port Input	77					1678785	1760	1
+slope5	502	Port Input	49					1678795	1770	1
+slope5	503	Save Logfile	Measurement,31.8, ,38	Measurement	31.8	 	38	1679195	0	604			0		other	0
+slope5	503	Port Input	52					1680915	1720	1
+slope5	503	Port Input	57					1680935	1740	3
+slope5	503	Port Input	77					1680945	1750	1
+slope5	503	Port Input	49					1680955	1760	1
+slope5	504	Save Logfile	Measurement,32.9, ,38	Measurement	32.9	 	38	1681355	0	600			0		other	0
+slope5	504	Port Input	53					1683085	1730	1
+slope5	504	Port Input	53					1683105	1750	1
+slope5	504	Port Input	77					1683115	1760	1
+slope5	504	Port Input	49					1683125	1770	1
+slope5	505	Save Logfile	Measurement,34.1, ,38	Measurement	34.1	 	38	1683525	0	607			0		other	0
+slope5	505	Port Input	54					1685245	1720	1
+slope5	505	Port Input	48					1685265	1740	1
+slope5	505	Port Input	77					1685275	1750	1
+slope5	505	Port Input	49					1685285	1760	1
+slope5	506	Save Logfile	Measurement,35.2, ,38	Measurement	35.2	 	38	1685685	0	598			0		other	0
+slope5	506	Port Input	54					1687415	1730	1
+slope5	506	Port Input	99					1687435	1750	1
+slope5	506	Port Input	77					1687445	1760	1
+slope5	506	Port Input	49					1687455	1770	1
+slope5	507	Save Logfile	Measurement,36.4, ,38	Measurement	36.4	 	38	1687855	0	597			0		other	0
+slope5	507	Port Input	55					1689575	1720	2
+slope5	507	Port Input	55					1689595	1740	1
+slope5	507	Port Input	77					1689605	1750	1
+slope5	507	Port Input	49					1689615	1760	1
+slope5	508	Save Logfile	Measurement,37.5, ,38	Measurement	37.5	 	38	1690016	0	587			0		other	0
+slope5	508	Port Input	56					1691745	1729	1
+slope5	508	Port Input	51					1691765	1749	1
+slope5	508	Port Input	77					1691775	1759	1
+slope5	508	Port Input	49					1691785	1769	1
+slope5	509	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1694183	0	596			0		other	0
+slope5	509	Port Input	56					1695905	1722	1
+slope5	509	Port Input	98					1695925	1742	1
+slope5	509	Port Input	77					1695935	1752	1
+slope5	509	Port Input	49					1695945	1762	1
+slope5	510	Save Logfile	Measurement,39.5, ,0	Measurement	39.5	 	0	1698344	0	597			0		other	0
+slope5	510	Port Input	56					1700075	1731	1
+slope5	510	Port Input	97					1700095	1751	1
+slope5	510	Port Input	77					1700105	1761	1
+slope5	510	Port Input	49					1700115	1771	1
+slope5	511	Save Logfile	Measurement,39.4, ,0	Measurement	39.4	 	0	1702513	0	597			0		other	0
+slope5	511	Port Input	56					1704235	1722	1
+slope5	511	Port Input	57					1704255	1742	1
+slope5	511	Port Input	77					1704265	1752	1
+slope5	511	Port Input	49					1704275	1762	1
+slope5	512	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1706673	0	598			0		other	0
+slope5	512	Response	2					1707792	1119	1
+slope5	512	Port Input	56					1708395	1722	1
+slope5	512	Port Input	57					1708415	1742	1
+slope5	512	Port Input	77					1708425	1752	1
+slope5	512	Port Input	49					1708435	1762	1
+slope5	512	Response	2					1710222	3549	1
+slope5	513	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1710833	0	618			0		other	0
+slope5	513	Port Input	56					1712575	1742	1
+slope5	513	Port Input	57					1712595	1762	1
+slope5	513	Port Input	77					1712604	1771	4
+slope5	513	Port Input	49					1712615	1782	1
+slope5	513	Response	2					1712679	1846	1
+slope5	514	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1715013	0	597			0		other	0
+slope5	514	Port Input	56					1716735	1722	1
+slope5	514	Port Input	57					1716755	1742	1
+slope5	514	Port Input	77					1716765	1752	1
+slope5	514	Port Input	49					1716775	1762	1
+slope5	515	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1719173	0	597			0		other	0
+slope5	515	Port Input	56					1720895	1722	1
+slope5	515	Port Input	56					1720915	1742	1
+slope5	515	Port Input	77					1720925	1752	1
+slope5	515	Port Input	49					1720935	1762	1
+slope5	516	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	1723334	0	622			0		other	0
+slope5	516	Port Input	56					1725055	1721	1
+slope5	516	Port Input	56					1725075	1741	1
+slope5	516	Port Input	77					1725085	1751	1
+slope5	516	Port Input	49					1725095	1761	1
+slope5	517	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	1727493	0	650			0		other	0
+slope5	517	Port Input	56					1729385	1892	1
+slope5	517	Port Input	56					1729405	1912	1
+slope5	517	Port Input	77					1729415	1922	1
+slope5	517	Port Input	49					1729425	1932	1
+slope5	518	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	1731823	0	614			0		other	0
+slope5	518	Response	4					1732661	838	1
+slope5	518	Port Input	56					1733545	1722	1
+slope5	518	Port Input	56					1733565	1742	1
+slope5	518	Port Input	77					1733575	1752	1
+slope5	518	Port Input	49					1733585	1762	1
+slope5	519	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	1735983	0	619			0		other	0
+slope5	519	Port Input	56					1737705	1722	1
+slope5	519	Port Input	56					1737715	1732	1
+slope5	519	Port Input	84					1737725	1742	1
+slope5	519	Port Input	48					1737735	1752	1
+slope5	519	Port Input	51					1739245	3262	1
+slope5	519	Port Input	50					1739255	3272	1
+slope5	519	Port Input	67					1739265	3282	1
+slope5	519	Port Input	48					1739275	3292	1
+slope5	520	Save Logfile	Initiate Peak,39.2, ,5	Initiate Peak	39.2	 	5	1739643	0	607			0		other	0
+slope5	520	Port Input	48					1741325	1682	1
+slope5	520	Port Input	51					1741345	1702	1
+slope5	520	Port Input	77					1741355	1712	1
+slope5	520	Port Input	49					1741365	1722	1
+slope5	520	Port Input	56					1744825	5182	1
+slope5	520	Port Input	54					1744845	5202	1
+slope5	520	Port Input	77					1744855	5212	1
+slope5	520	Port Input	49					1744865	5222	1
+slope5	521	Save Logfile	Measurement,39, ,5	Measurement	39	 	5	1747263	0	624			0		other	0
+slope5	521	Port Input	55					1749035	1772	1
+slope5	521	Port Input	56					1749055	1792	1
+slope5	521	Port Input	77					1749065	1802	1
+slope5	521	Port Input	49					1749075	1812	1
+slope5	522	Save Logfile	Measurement,37.6, ,5	Measurement	37.6	 	5	1751473	0	610			0		other	0
+slope5	522	Port Input	54					1753195	1722	1
+slope5	522	Port Input	51					1753215	1742	1
+slope5	522	Port Input	77					1753225	1752	1
+slope5	522	Port Input	49					1753235	1762	1
+slope5	523	Save Logfile	Measurement,35.5, ,5	Measurement	35.5	 	5	1755633	0	622			0		other	0
+slope5	523	Port Input	52					1757355	1722	1
+slope5	523	Port Input	102					1757375	1742	1
+slope5	523	Port Input	77					1757385	1752	1
+slope5	523	Port Input	49					1757395	1762	1
+slope5	524	Save Logfile	Measurement,33.5, ,5	Measurement	33.5	 	5	1759793	0	607			0		other	0
+slope5	524	Port Input	51					1761525	1732	1
+slope5	524	Port Input	98					1761545	1752	1
+slope5	524	Port Input	77					1761555	1762	1
+slope5	524	Port Input	49					1761565	1772	1
+slope5	525	Save Logfile	Measurement,31.5, ,5	Measurement	31.5	 	5	1763963	0	620			0		other	0
+slope5	525	Port Input	50					1765685	1722	1
+slope5	525	Port Input	56					1765705	1742	1
+slope5	525	Port Input	77					1765715	1752	1
+slope5	525	Port Input	49					1765725	1762	1
+slope5	526	Save Logfile	Measurement,29.6, ,5	Measurement	29.6	 	5	1768123	0	739			0		other	0
+slope5	526	Port Input	49					1770015	1892	1
+slope5	526	Port Input	53					1770035	1912	1
+slope5	526	Port Input	77					1770045	1922	1
+slope5	526	Port Input	49					1770055	1932	1
+slope5	527	Save Logfile	Measurement,27.7, ,5	Measurement	27.7	 	5	1772457	0	1201			0		other	0
+slope5	527	Port Input	48					1774845	2388	1
+slope5	527	Port Input	51					1774855	2398	1
+slope5	527	Port Input	77					1774865	2408	1
+slope5	527	Port Input	48					1774875	2418	1
+slope5	528	Save Logfile	Measurement,25.9, ,5	Measurement	25.9	 	5	1777287	0	1102			0		other	0
+slope5	528	Port Input	102					1779505	2218	1
+slope5	528	Port Input	48					1779515	2228	1
+slope5	528	Port Input	77					1779525	2238	1
+slope5	528	Port Input	48					1779535	2248	1
+slope5	529	Save Logfile	Measurement,24, ,5	Measurement	24	 	5	1781943	0	628			0		other	0
+slope5	529	Port Input	100					1783675	1732	1
+slope5	529	Port Input	101					1783685	1742	1
+slope5	529	Port Input	77					1783695	1752	1
+slope5	529	Port Input	48					1783705	1762	1
+slope5	530	Save Logfile	Measurement,22.2, ,5	Measurement	22.2	 	5	1786113	0	631			0		other	0
+slope5	530	Port Input	100					1787835	1722	1
+slope5	530	Port Input	48					1787845	1732	1
+slope5	530	Port Input	77					1787855	1742	1
+slope5	530	Port Input	48					1787865	1752	1
+slope5	531	Save Logfile	Measurement,20.8, ,5	Measurement	20.8	 	5	1790273	0	636			0		other	0
+slope5	531	Port Input	99					1791995	1722	1
+slope5	531	Port Input	49					1792005	1732	1
+slope5	531	Port Input	77					1792015	1742	1
+slope5	531	Port Input	48					1792025	1752	1
+slope5	532	Save Logfile	Measurement,19.3, ,5	Measurement	19.3	 	5	1794433	0	633			0		other	0
+slope5	532	Port Input	98					1796165	1732	1
+slope5	532	Port Input	52					1796175	1742	1
+slope5	532	Port Input	77					1796185	1752	1
+slope5	532	Port Input	48					1796195	1762	1
+slope5	533	Save Logfile	Measurement,18, ,5	Measurement	18	 	5	1798603	0	636			0		other	0
+slope5	533	Port Input	97					1800495	1892	1
+slope5	533	Port Input	55					1800505	1902	1
+slope5	533	Port Input	77					1800514	1911	3
+slope5	533	Port Input	48					1800525	1922	1
+slope5	534	Save Logfile	Measurement,16.7, ,5	Measurement	16.7	 	5	1802933	0	639			0		other	0
+slope5	534	Port Input	57					1804825	1892	1
+slope5	534	Port Input	98					1804835	1902	1
+slope5	534	Port Input	77					1804845	1912	1
+slope5	534	Port Input	48					1804855	1922	1
+slope5	535	Save Logfile	Measurement,15.5, ,5	Measurement	15.5	 	5	1807263	0	643			0		other	0
+slope5	535	Port Input	56					1809155	1892	1
+slope5	535	Port Input	102					1809165	1902	1
+slope5	535	Port Input	77					1809175	1912	1
+slope5	535	Port Input	48					1809185	1922	1
+slope5	536	Save Logfile	Measurement,14.3, ,5	Measurement	14.3	 	5	1811593	0	628			0		other	0
+slope5	536	Port Input	56					1813315	1722	1
+slope5	536	Port Input	51					1813325	1732	1
+slope5	536	Port Input	77					1813335	1742	1
+slope5	536	Port Input	48					1813345	1752	1
+slope5	537	Save Logfile	Measurement,13.1, ,5	Measurement	13.1	 	5	1815753	0	641			0		other	0
+slope5	537	Port Input	55					1817645	1892	1
+slope5	537	Port Input	57					1817655	1902	1
+slope5	537	Port Input	77					1817665	1912	1
+slope5	537	Port Input	48					1817675	1922	1
+slope5	538	Save Logfile	Measurement,12.1, ,5	Measurement	12.1	 	5	1820083	0	623			0		other	0
+slope5	538	Port Input	54					1821805	1722	1
+slope5	538	Port Input	101					1821815	1732	1
+slope5	538	Port Input	77					1821825	1742	1
+slope5	538	Port Input	48					1821835	1752	1
+slope5	539	Save Logfile	Measurement,11, ,5	Measurement	11	 	5	1824243	0	639			0		other	0
+slope5	539	Port Input	54					1825975	1732	1
+slope5	539	Port Input	53					1825985	1742	1
+slope5	539	Port Input	77					1825995	1752	1
+slope5	539	Port Input	48					1826005	1762	1
+slope5	540	Save Logfile	Measurement,10.1, ,5	Measurement	10.1	 	5	1828413	0	628			0		other	0
+slope5	540	Port Input	53					1830135	1722	1
+slope5	540	Port Input	99					1830145	1732	1
+slope5	540	Port Input	77					1830155	1742	1
+slope5	540	Port Input	48					1830165	1752	1
+slope5	541	Save Logfile	Measurement,9.2, ,5	Measurement	9.2	 	5	1832573	0	629			0		other	0
+slope5	541	Port Input	53					1834295	1722	1
+slope5	541	Port Input	51					1834305	1732	1
+slope5	541	Port Input	77					1834315	1742	1
+slope5	541	Port Input	48					1834325	1752	1
+slope5	542	Save Logfile	Measurement,8.3, ,5	Measurement	8.3	 	5	1836733	0	648			0		other	0
+slope5	542	Port Input	52					1838695	1962	1
+slope5	542	Port Input	97					1838705	1972	1
+slope5	542	Port Input	77					1838715	1982	1
+slope5	542	Port Input	48					1838725	1992	1
+slope5	543	Save Logfile	Measurement,7.4, ,5	Measurement	7.4	 	5	1841133	0	653			0		other	0
+slope5	543	Port Input	52					1842955	1822	1
+slope5	543	Port Input	50					1842965	1832	1
+slope5	543	Port Input	77					1842975	1842	1
+slope5	543	Port Input	48					1842985	1852	1
+slope5	544	Save Logfile	Measurement,6.6, ,5	Measurement	6.6	 	5	1845393	0	717			0		other	0
+slope5	544	Port Input	51					1847285	1892	1
+slope5	544	Port Input	97					1847295	1902	1
+slope5	544	Port Input	77					1847305	1912	1
+slope5	544	Port Input	48					1847315	1922	1
+slope5	544	Port Input	51					1847635	2242	1
+slope5	544	Port Input	50					1847645	2252	1
+slope5	544	Port Input	70					1847655	2262	1
+slope5	544	Port Input	48					1847665	2272	1
+slope5	545	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	1849723	0	727			0		other	0
+slope5	545	Port Input	51					1851615	1892	1
+slope5	545	Port Input	50					1851625	1902	1
+slope5	545	Port Input	77					1851635	1912	1
+slope5	545	Port Input	48					1851645	1922	1
+slope5	546	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	1854053	0	737			0		other	0
+slope5	547	Save Logfile	Peak Temperature,5, ,5	Peak Temperature	5	 	5	1855056	0	659			0		other	0
+slope5	547	Port Input	51					1856795	1739	1
+slope5	547	Port Input	50					1856805	1749	1
+slope5	547	Port Input	67					1856815	1759	1
+slope5	547	Port Input	48					1856825	1769	1
+slope5	547	Port Input	48					1858275	3219	1
+slope5	547	Port Input	48					1858285	3229	1
+slope5	547	Port Input	77					1858295	3239	1
+slope5	547	Port Input	48					1858305	3249	1
+slope5	548	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1858715	0	713			0		other	0
+slope5	548	Port Input	53					1860615	1900	1
+slope5	548	Port Input	52					1860625	1910	1
+slope5	548	Port Input	77					1860635	1920	1
+slope5	548	Port Input	48					1860645	1930	1
+slope5	549	Save Logfile	Measurement,8.4, ,38	Measurement	8.4	 	38	1861055	0	646			0		other	0
+slope5	549	Port Input	54					1862945	1890	1
+slope5	549	Port Input	49					1862955	1900	1
+slope5	549	Port Input	77					1862965	1910	1
+slope5	549	Port Input	48					1862975	1920	1
+slope5	550	Save Logfile	Measurement,9.7, ,38	Measurement	9.7	 	38	1863385	0	647			0		other	0
+slope5	550	Port Input	54					1865275	1890	1
+slope5	550	Port Input	100					1865285	1900	1
+slope5	550	Port Input	77					1865294	1909	2
+slope5	550	Port Input	48					1865305	1920	1
+slope5	551	Save Logfile	Measurement,10.9, ,38	Measurement	10.9	 	38	1865717	0	649			0		other	0
+slope5	551	Port Input	55					1867605	1888	1
+slope5	551	Port Input	97					1867615	1898	1
+slope5	551	Port Input	77					1867625	1908	1
+slope5	551	Port Input	48					1867634	1917	2
+slope5	552	Save Logfile	Measurement,12.2, ,38	Measurement	12.2	 	38	1868045	0	642			0		other	0
+slope5	552	Port Input	56					1869935	1890	1
+slope5	552	Port Input	54					1869945	1900	1
+slope5	552	Port Input	77					1869955	1910	1
+slope5	552	Port Input	48					1869965	1920	1
+slope5	553	Save Logfile	Measurement,13.4, ,38	Measurement	13.4	 	38	1870375	0	659			0		other	0
+slope5	553	Port Input	57					1872265	1890	1
+slope5	553	Port Input	50					1872275	1900	1
+slope5	553	Port Input	77					1872285	1910	1
+slope5	553	Port Input	48					1872295	1920	1
+slope5	554	Save Logfile	Measurement,14.6, ,38	Measurement	14.6	 	38	1872705	0	662			0		other	0
+slope5	554	Port Input	57					1874605	1900	1
+slope5	554	Port Input	102					1874615	1910	1
+slope5	554	Port Input	77					1874625	1920	1
+slope5	554	Port Input	48					1874634	1929	2
+slope5	555	Save Logfile	Measurement,15.9, ,38	Measurement	15.9	 	38	1875045	0	646			0		other	0
+slope5	555	Port Input	97					1876935	1890	1
+slope5	555	Port Input	98					1876945	1900	1
+slope5	555	Port Input	77					1876955	1910	1
+slope5	555	Port Input	48					1876965	1920	1
+slope5	556	Save Logfile	Measurement,17.1, ,38	Measurement	17.1	 	38	1877375	0	667			0		other	0
+slope5	556	Port Input	98					1879265	1890	1
+slope5	556	Port Input	56					1879274	1899	2
+slope5	556	Port Input	77					1879284	1909	2
+slope5	556	Port Input	48					1879295	1920	1
+slope5	557	Save Logfile	Measurement,18.4, ,38	Measurement	18.4	 	38	1879706	0	663			0		other	0
+slope5	557	Port Input	99					1881595	1889	1
+slope5	557	Port Input	52					1881605	1899	1
+slope5	557	Port Input	77					1881614	1908	2
+slope5	557	Port Input	48					1881624	1918	2
+slope5	558	Save Logfile	Measurement,19.6, ,38	Measurement	19.6	 	38	1882036	0	1016			0		other	0
+slope5	558	Port Input	100					1884255	2219	1
+slope5	558	Port Input	49					1884264	2228	2
+slope5	558	Port Input	77					1884274	2238	2
+slope5	558	Port Input	48					1884284	2248	2
+slope5	559	Save Logfile	Measurement,20.9, ,38	Measurement	20.9	 	38	1884695	0	1097			0		other	0
+slope5	559	Port Input	100					1886924	2229	2
+slope5	559	Port Input	102					1886934	2239	2
+slope5	559	Port Input	77					1886945	2250	1
+slope5	559	Port Input	48					1886954	2259	2
+slope5	560	Save Logfile	Measurement,22.3, ,38	Measurement	22.3	 	38	1887365	0	995			0		other	0
+slope5	560	Port Input	101					1889585	2220	1
+slope5	560	Port Input	100					1889595	2230	1
+slope5	560	Port Input	77					1889605	2240	1
+slope5	560	Port Input	48					1889615	2250	1
+slope5	561	Save Logfile	Measurement,23.7, ,38	Measurement	23.7	 	38	1890025	0	666			0		other	0
+slope5	561	Port Input	102					1891924	1899	2
+slope5	561	Port Input	98					1891945	1920	1
+slope5	561	Port Input	77					1891955	1930	1
+slope5	561	Port Input	49					1891964	1939	2
+slope5	562	Save Logfile	Measurement,25.1, ,38	Measurement	25.1	 	38	1892365	0	678			0		other	0
+slope5	562	Port Input	48					1894255	1890	1
+slope5	562	Port Input	56					1894274	1909	2
+slope5	562	Port Input	77					1894285	1920	1
+slope5	562	Port Input	49					1894294	1929	2
+slope5	563	Save Logfile	Measurement,26.4, ,38	Measurement	26.4	 	38	1894695	0	1008			0		other	0
+slope5	563	Port Input	49					1896914	2219	2
+slope5	563	Port Input	52					1896934	2239	2
+slope5	563	Port Input	77					1896944	2249	2
+slope5	563	Port Input	49					1896954	2259	2
+slope5	564	Save Logfile	Measurement,27.6, ,38	Measurement	27.6	 	38	1897355	0	653			0		other	0
+slope5	564	Port Input	50					1899245	1890	1
+slope5	564	Port Input	50					1899264	1909	2
+slope5	564	Port Input	77					1899274	1919	2
+slope5	564	Port Input	49					1899284	1929	2
+slope5	565	Save Logfile	Measurement,29, ,38	Measurement	29	 	38	1899685	0	684			0		other	0
+slope5	565	Port Input	50					1901575	1890	1
+slope5	565	Port Input	101					1901594	1909	2
+slope5	565	Port Input	77					1901604	1919	2
+slope5	565	Port Input	49					1901614	1929	2
+slope5	566	Save Logfile	Measurement,30.2, ,38	Measurement	30.2	 	38	1902015	0	653			0		other	0
+slope5	566	Port Input	51					1903915	1900	1
+slope5	566	Port Input	98					1903934	1919	2
+slope5	566	Port Input	77					1903944	1929	2
+slope5	566	Port Input	49					1903954	1939	2
+slope5	567	Save Logfile	Measurement,31.5, ,38	Measurement	31.5	 	38	1904355	0	672			0		other	0
+slope5	567	Port Input	52					1906244	1889	2
+slope5	567	Port Input	55					1906264	1909	2
+slope5	567	Port Input	77					1906274	1919	2
+slope5	567	Port Input	49					1906284	1929	2
+slope5	568	Save Logfile	Measurement,32.7, ,38	Measurement	32.7	 	38	1906685	0	670			0		other	0
+slope5	568	Port Input	53					1908575	1890	1
+slope5	568	Port Input	52					1908594	1909	2
+slope5	568	Port Input	77					1908604	1919	2
+slope5	568	Port Input	49					1908614	1929	2
+slope5	569	Save Logfile	Measurement,34, ,38	Measurement	34	 	38	1909015	0	667			0		other	0
+slope5	569	Port Input	54					1910904	1889	2
+slope5	569	Port Input	48					1910924	1909	2
+slope5	569	Port Input	77					1910934	1919	2
+slope5	569	Port Input	49					1910944	1929	2
+slope5	570	Save Logfile	Measurement,35.2, ,38	Measurement	35.2	 	38	1911345	0	655			0		other	0
+slope5	570	Port Input	54					1913234	1889	2
+slope5	570	Port Input	99					1913254	1909	2
+slope5	570	Port Input	77					1913264	1919	2
+slope5	570	Port Input	49					1913274	1929	2
+slope5	571	Save Logfile	Measurement,36.4, ,38	Measurement	36.4	 	38	1913675	0	689			0		other	0
+slope5	571	Port Input	55					1915564	1889	2
+slope5	571	Port Input	57					1915584	1909	2
+slope5	571	Port Input	77					1915594	1919	2
+slope5	571	Port Input	49					1915604	1929	2
+slope5	572	Save Logfile	Measurement,37.7, ,38	Measurement	37.7	 	38	1916005	0	662			0		other	0
+slope5	572	Port Input	56					1917904	1899	2
+slope5	572	Port Input	53					1917924	1919	1
+slope5	572	Port Input	77					1917934	1929	2
+slope5	572	Port Input	49					1917944	1939	2
+slope5	573	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1920343	0	687			0		other	0
+slope5	573	Port Input	56					1922234	1891	2
+slope5	573	Port Input	101					1922254	1911	2
+slope5	573	Port Input	77					1922264	1921	1
+slope5	573	Port Input	49					1922274	1931	2
+slope5	574	Save Logfile	Measurement,39.8, ,0	Measurement	39.8	 	0	1924673	0	691			0		other	0
+slope5	574	Port Input	56					1926564	1891	2
+slope5	574	Port Input	99					1926584	1911	2
+slope5	574	Port Input	77					1926594	1921	2
+slope5	574	Port Input	49					1926604	1931	2
+slope5	575	Save Logfile	Measurement,39.6, ,0	Measurement	39.6	 	0	1929003	0	673			0		other	0
+slope5	575	Port Input	56					1930894	1891	2
+slope5	575	Port Input	98					1930914	1911	1
+slope5	575	Port Input	77					1930924	1921	1
+slope5	575	Port Input	49					1930934	1931	1
+slope5	576	Save Logfile	Measurement,39.5, ,0	Measurement	39.5	 	0	1933333	0	663			0		other	0
+slope5	576	Response	3					1934394	1061	1
+slope5	576	Port Input	56					1935225	1892	1
+slope5	576	Port Input	98					1935244	1911	1
+slope5	576	Port Input	77					1935254	1921	2
+slope5	576	Port Input	49					1935264	1931	1
+slope5	577	Save Logfile	Measurement,39.5, ,0	Measurement	39.5	 	0	1937663	0	669			0		other	0
+slope5	578	Save Logfile	Exit program,39.5	Exit program	39.5			1938491	0	698			0		other	0

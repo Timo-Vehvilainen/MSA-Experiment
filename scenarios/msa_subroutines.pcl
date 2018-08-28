@@ -1,0 +1,212 @@
+
+/*
+	SUBROUTINE ------------   int_to_hex   ---------------
+		
+		This helper function turns an integer 
+		within the range [0, 4096) into a 3-digit hexadecimal string.
+		It is used to interpret user-given Experiment Parameters for the device.
+		
+	PARAMETERS
+		- the integer to be converted
+	RETURN VALUE
+		- a 3-digit hexadecimal representation of the string. If the number is
+		larger or equal to 4096, "fff" is returned.
+*/
+
+sub
+	string int_to_hex(int i)
+begin
+	if i >= pow(16, 3) then
+		return "fff";
+	end;
+	
+	string hex = "000";
+	loop until i == 0 begin;
+		int n = 0;
+		loop until pow(16, n + 1) > i begin;
+			n = n + 1;
+		end;
+		int index = hex.count() - n;
+		int char = int( i / int(pow(16, n)));
+		if char < 10 then
+			hex.set_char(index, (string(char)[1]));
+		else
+			hex.set_char(index, (string(char)[2] + 49))
+		end;
+		i = i - (char * int(pow(16, n)));
+		if (index >= 3 || i == 0) then
+			return hex;
+		end;
+	end;
+	return "000";
+end;
+
+
+/*
+	SUBROUTINE  -------------   	hex_to_double   ---------------
+	
+		Turns the last 3 characters of a hexadecimal string into a double
+		(with one decimal after dividing by 10). This subroutine is designed
+		to be used in conjuction with get_signal() in order to decipher input
+		from the MSA device.
+		
+	PARAMETERS
+		- a string, with the 3 last characters representing hexadecimal values
+
+	RETURN VALUE
+		- The decimal representation of the hex number divided by 10. 
+			If the string is invalid, returns 0.0. 
+*/
+
+sub
+	double hex_to_double(string input)
+begin
+	string hex = ("0x" + input.substring(input.count() - 2, 3));
+	if is_int(hex) then
+		return (double(int(hex)) / 10);
+	end;
+	return -1.0;
+end;
+
+/*
+	SUBROUTINE  ---------------- get_latest_signal -----------------
+	
+		Gets the latest 4-character signal that starts with a large letter from the input port.
+		
+
+	PARAMETERS
+		- the input port
+	
+	RETURN VALUE
+		- The latest 4 character signal that started with a large alphabetical letter from the input.
+*/
+
+sub
+	string get_latest_signal(input_port iport)
+begin
+	if iport.total_count() < 4 then
+		return "0000";
+	end;
+	int setback = 3; # The latest large letter has to be atleast 3 characters behind
+	loop until (iport.codes(iport.total_count()- setback) > 64 && iport.codes(iport.total_count()- setback) < 91) begin 
+		setback = setback + 1;
+	end;
+	string signal = "    "; #4 spaces for 4 characters
+	loop int index = 1; until index > 4 begin
+		signal.set_char(index, iport.codes(iport.total_count() - setback + index - 1)); #replace a space with a character
+		index = index + 1;
+	end;
+	return signal;
+end;
+
+/*
+	SUBROUTINE  ---------------- check_init -----------------
+	
+		Checks if the initialisation string is the latest code received
+		
+
+	PARAMETERS
+		- the input port
+	
+	RETURN VALUE
+		- A boolean value, which is true if the initialisation string was found as the latest input
+*/
+
+sub 
+	bool check_init(input_port iport)
+begin
+	string init = parameter_manager.get_string("Initialisation Signal", "INF01.03");
+	if iport.total_count() < init.count() then
+		return false;
+	end;
+	loop int index = 0; until index >= init.count() begin
+		if iport.codes(iport.total_count() - index) != init[init.count() - index] then
+			return false;
+		end;
+		index = index + 1;
+	end;
+	return true;
+end;
+
+/*
+	SUBROUTINE 	------------	check_echo   --------------
+		
+		Checks if a given string has been received as the last code via the input port.
+	
+	PARAMETERS
+		- a string object the be checked
+		- the input port to be used
+	RETURN VALUE
+		- A boolean value indicating if the string was found in the input codes
+*/
+
+sub
+	bool check_echo( string command, input_port iport )
+begin
+	# If this is a temperature measurement, only the first character needs to be the same
+	# in order for the echo to be correct.
+	if command[1] == 'M' then
+		return (command[1] == (get_latest_signal(iport)[1]));
+	end;
+	
+	return (command == get_latest_signal(iport))
+end;
+
+
+/*
+	SUBROUTINE --------------   send_command   ----------------
+		
+		Sends a string command to the output port, 
+		checking for echo afterwards.
+	
+	PARAMETERS
+		- A string command to be sent.
+		- the output port to be used
+		- the input port to be used
+	RETURN VALUE
+		- A boolean value indicating if the echo was received correctly.
+*/
+
+sub
+	bool send_command( string command, input_port iport, output_port oport)
+begin
+	wait_interval(100); #wait 100ms between commands
+	oport.send_string(command); #Send command
+	wait_interval(50); #wait 50ms before reading echo
+	return check_echo(command, iport); #check echo
+end;
+
+/*
+	SUBROUTINE --------------   wait_for_start_temp   ----------------
+	
+		This function keeps checking the thermode temperature, until
+		the starting temperature set in Experiment Parameters is achieved, 
+		with a tolerance of 1 degree [C].
+		
+	PARAMETERS
+		- The input and output ports
+	
+	RETURN VALUE
+		None.
+*/
+
+sub
+	wait_for_start_temp(input_port iport, output_port oport)
+begin;
+	send_command("C000", iport, oport);
+	double start_temp = parameter_manager.get_double("Starting Temperature");
+	string temp_message = "Initializing temperature... xxxx [C]";
+	loop double current_temp = 0; until abs(start_temp - current_temp) < 1 begin
+		send_command("M000", iport, oport);
+		string signal = get_latest_signal(iport); 
+		
+		if signal[1] == 'M' || signal[1] == 'F' then
+			current_temp = hex_to_double(signal);
+			log_code.set_event_code("Measurement," + string(current_temp) + ", ," + string(start_temp));
+			log_event.present();
+			
+			progress.set_caption(temp_message.replace("xxxx", string(current_temp)), true);
+			display.present();
+		end;
+	end;
+end;

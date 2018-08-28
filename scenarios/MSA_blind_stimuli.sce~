@@ -1,0 +1,368 @@
+/*
+Author : Timo Vehviläinen
+Date: August 2014
+Developed with Presentation Version 17.1
+*/
+
+scenario = "MSA_blind_stimuli";
+
+#HEADER
+write_codes = false;
+stimulus_properties = Event, string, Temperature, number, VAS, number, Target_temperature, number;
+response_matching = simple_matching;
+#Set 1 response button [recommend ENTER, to go with code prompts]
+active_buttons = 1;
+button_codes = 1;
+default_font_size = 20;
+scenario_type = fMRI;
+pulse_code = 64; #tarvitaan
+scan_period = 2675; #tarvitaan jos mode on emulation
+pulses_per_scan = 40; # leikemaara
+pulse_width = 20; 
+
+
+#######################################################################
+
+#SDL
+begin;
+
+picture {
+	text {		
+		transparent_color = 0,0,0;
+		text_align = align_left;
+		caption = "mri sync received, starting...";  
+	};
+	x = 0; y = 0;
+} mrisync;
+
+# -- Sync scanner with the 
+trial {
+	picture mrisync;
+	time=0;
+	mri_pulse = 1;
+	duration=1000; # Multiple of the TR, need to check what it will be
+	code="fix";
+} wait_sync;
+
+#A text picture used to display the current state of the scenario
+picture {
+	text {		
+		transparent_color = 0,0,0;
+		text_align = align_left;
+		caption = "Starting up...";  
+	} progress;
+	x = 0; y = 200;
+	
+	text {
+		transparent_color = 0,0,0;
+		caption = "Blind stimuli scenario";
+		font_size = 40;
+	} title;
+	x = 0; y = 350;
+	
+	text {
+		transparent_color = 0,0,0;
+		caption = "Press ESC or Q to exit program";
+	} instruction;
+	x = -300; y = 0;
+	
+} display;
+
+picture {
+	bitmap {
+		filename = "up_cue.jpg";
+		transparent_color = 0,0,0;
+	};
+	x = 0; y = 0;
+} up_cue;
+
+picture {
+	bitmap {
+		filename = "down_cue.jpg";
+	};
+	x = 0; y = 0;
+} down_cue;
+
+picture {
+	bitmap {
+		filename = "plateau_cue.jpg";
+	};
+	x = 0; y = 0;
+} plateau_cue;
+
+picture {
+	bitmap {
+		filename = "blackscreen.jpg";
+	};
+	x = 0; y = 0;
+} blackscreen;
+
+#A stimulus event used for logging various events, and for backup temporary logs
+trial{ 
+	stimulus_event { 
+		save_logfile { filename = "failsafe.log"; }; 
+	} log_code; 
+} log_event;
+
+####################################################################
+
+#PCL
+begin_pcl;
+wait_sync.present();
+
+/*
+***	INCLUDE				start_up.pcl
+***					
+***	This external pcl-file requires that the following things are in place in order to work:
+***		
+***		- a picture called "display", which includes a text stimulus called "progress".
+***		- a trial called log_event, which includes a stimulus event called log_code
+***
+***	See start_up.pcl, subroutines.pcl and initialisation.pcl for more info.
+*/
+
+include_once "MSA_start_up.pcl";
+
+/*
+	SUBROUTINE	----------   wait_for_temp   ---------------
+
+		This function is used for keeping the communication between Presentation and the MSA device alive,
+		while waiting for it to settle to a temperature. This way accurate timing can be achieved in the 
+		two_plateaus-function
+
+	PARAMETERS:
+		- the target temperature that is waited for before return, expressed as a double value
+		- A string expressing, whether we are approaching the target temperature from below or from above.
+			This way we can achieve one-sided inequality checking without any extra tolerance. Values "UP" and "DOWN"
+			are recommended for clarity. Defaults to "UP", or approaching the target from below.
+		- A double value to tell how many seconds to wait at maximum. If the temperature is not reached by that point,
+			the function returns. Expressed in milliseconds
+
+*/
+
+
+sub 
+	wait_for_temp(double target_temp, string direction, double max_time) 
+begin
+	#An arbitrary temperature value for the start, which should pass either loop condition once
+	#(Not using the actual input for start prevents reading an echo from an unwanted command, such as "C003")
+	double current_temp = 33; 
+	string signal = " ";
+	string temp_message = "Going to " + string(target_temp) + " [C]... xxxx C";
+	
+	int start_time = clock.time();
+
+	#if approaching the target from above
+	if direction == "DOWN" then
+		loop until current_temp <= target_temp || clock.time() > (start_time + max_time) begin
+			send_command("M000", iport, oport);
+			signal = get_latest_signal(iport);
+			if signal[1] == 'M' || signal[1] == 'F' then
+				current_temp = hex_to_double(signal); 
+				
+				log_code.set_event_code("Measurement," + string(current_temp) + ", ," + string(target_temp));
+				log_event.present();
+				
+				progress.set_caption(temp_message.replace("xxxx", string(current_temp)), true);
+				#display.present();
+			end;
+		end;
+	#Or if approaching the target from below (default)
+	else
+		loop until current_temp >= target_temp || clock.time() > (start_time + max_time)begin
+			send_command("M000", iport, oport);
+			signal = get_latest_signal(iport);
+			if signal[1] == 'M' || signal[1] == 'F' then
+				current_temp = hex_to_double(signal); 
+				
+				log_code.set_event_code("Measurement," + string(current_temp) + ", ," + string(target_temp));
+				log_event.present();
+				
+				progress.set_caption(temp_message.replace("xxxx", string(current_temp)), true);
+				#display.present();
+			end;
+		end;
+	end;
+end;
+
+/*
+	SUBROUTINE	----------   two_plateaus   ---------------
+
+		This function handles creating the 2-plateau block in the blind stimulus scenario.
+		It uses any slopes for the target and start temperatures, which have been set before.
+		It then stays there for the amount of second determined in experiment parameter "Plateau Time".
+		Then it peaks at the original temperature (start_temp), stays at the plateau for another "Plateau Time" seconds,
+		and finally resumes back to the original temperature and ends.
+
+	PARAMETERS:
+		- The starting temperature as a double value
+		- The target plateau temperature as a double value
+
+*/
+
+sub 
+	two_plateaus(double start_temp, double target_temp)
+begin
+	#Switch the Target Temperature and Starting Temperature values
+	send_command("B" + int_to_hex(int(10 * target_temp)), iport, oport);
+	send_command("T" + int_to_hex(int(10 * start_temp)), iport, oport);
+	
+	double plateau_time = 1000 * parameter_manager.get_double("Plateau Time", 3); # Set the plateau time in milliseconds
+	double slope_time = 1000 * parameter_manager.get_double("Slope Time", 4); # Set max slope time in milliseconds
+	string current_temp_text = "Plateau, Current temperature [C] = xxxx\nTime = yyyy ms\nstart_time = zzzz ms"; #Info message
+
+	up_cue.present();								#Display UP-arrow
+	send_command("C000", iport, oport); 	#Go to the new Starting Temperature
+	wait_for_temp(target_temp, "UP", slope_time);		#Wait for the temperature to reach target before starting to record time
+	plateau_cue.present();						#Display level line
+	int start_time = clock.time();			#Start measuring time from the start of the first plateau
+	
+	loop until clock.time() > (start_time + plateau_time) begin #Keep measuring the temperature, until plateau_time is reached
+
+		send_command("M000", iport, oport);
+		string signal = get_latest_signal(iport);
+		
+		#Log the temperature measurement
+		if signal[1] == 'M' then
+			log_code.set_event_code("Measurement," + string(hex_to_double(signal)));
+			log_event.present();
+			progress.set_caption((current_temp_text.replace("xxxx", string(hex_to_double(signal)))).replace("yyyy", string(clock.time())).replace("zzzz", string(start_time)), true);
+			#display.present();
+		end;
+	end;
+	
+	down_cue.present();						#Display DOWN-arrow
+	send_command("C003", iport, oport); #Initiate peak to the new Target Temperature
+	
+	#Wait for temperature to go down and come back up
+	wait_for_temp(start_temp, "DOWN", slope_time);
+	up_cue.present();
+	wait_for_temp(target_temp, "UP", slope_time);
+	plateau_cue.present();
+	
+	start_time = clock.time(); # Start measuring time at the start of the second plateau
+	
+	loop until clock.time() > (start_time + plateau_time) begin #Keep measuring the temperature, until plateau_time is reached
+		send_command("M000", iport, oport);
+		string signal = get_latest_signal(iport);
+		#Log the temperature measurement
+		if signal[1] == 'M' then
+			log_code.set_event_code("Measurement," + string(hex_to_double(signal)));
+			log_event.present();
+			progress.set_caption((current_temp_text.replace("xxxx", string(hex_to_double(signal)))).replace("yyyy", string(clock.time())).replace("zzzz", string(start_time)), true);
+			#display.present();
+		end;
+	end;
+	
+	#Switch the Target and Starting Temperatures back
+	send_command("T" + (int_to_hex(int(10 * target_temp))), iport, oport);
+	send_command("B" + (int_to_hex(int(10 * start_temp))), iport, oport);
+	
+	down_cue.present();
+
+	send_command("C000", iport, oport);
+	wait_for_temp(start_temp, "DOWN", slope_time); #Resume back to the original Starting Temperature
+	
+	blackscreen.present();
+end;
+
+####################################################################
+
+#Check that the thermode has reached default temperature before starting any sequence
+progress.set_caption("Checking initial temperature...", true);
+display.present();
+
+wait_for_start_temp(iport, oport);
+
+#Start the main scenario
+progress.set_caption("Press Enter to start the experiment...", true);
+display.present();
+
+
+#SET VARIABLES
+ 
+string current_temp_text = "Current temperature [C] = xxxx\nTime = yyyy ms\nstart_time = zzzz ms";
+double start_temp = hex_to_double(experiment_data[1]);
+
+#Set the noxious and non-noxious target temperatures (default to 46 and 35)
+string noxious = "T" + int_to_hex(int(10 * parameter_manager.get_double("Noxious Temperature", 46)));
+string slope_to_noxious = int_to_hex(int(10 * (hex_to_double(noxious) - start_temp) / parameter_manager.get_double("Slope Time", 4)));
+
+string non_noxious = "T" + int_to_hex(int(10 * parameter_manager.get_double("Non-noxious Temperature", 35)));
+string slope_to_non_noxious = int_to_hex(int(10 *(hex_to_double(non_noxious) - start_temp) / parameter_manager.get_double("Slope Time", 4)));
+
+bool started = false; 						#indicates if ENTER has been pressed to start the sequence
+int interval_time = 0;						#used for detecting the 18-second intervals				
+string current_target = non_noxious;	#start with the non-noxious temperature as the first target plateau 
+send_command("S" + slope_to_non_noxious, iport, oport);
+send_command("R" + slope_to_non_noxious, iport, oport);
+int block_counter = 0;						#counts the blocks, and is used to break out of the loop after 10 blocks
+
+#THE MAIN LOOP
+
+loop until check_init(iport) begin #escape from the program if the signal time-outs
+
+	send_command("M000", iport, oport);
+	
+	#get the latest signal from the device
+	string signal = get_latest_signal(iport);
+	
+	#If the latest signal is still an echo from a previous temperature change, ignore it.
+	#Otherwise incorrect temperatures would be logged.
+	if signal[1] != 'M' && signal[1] != 'F' then
+		continue;
+	end;
+	
+	#Log the temperature measurement
+	log_code.set_event_code("Measurement," + string(hex_to_double(signal)));
+	log_event.present();
+	
+	#display the temperature measurement
+	if started && (signal[1] == 'M' || signal[1] == 'F')  then
+		progress.set_caption((current_temp_text.replace("xxxx", string(hex_to_double(signal)))).replace("yyyy", string(clock.time())).replace("zzzz", string(interval_time)), true);
+		#display.present();
+	end;
+	
+	#Receive the signal to start the program
+	if started == false && response_manager.total_response_count() > 0 then
+		
+		started = true;
+		send_command(current_target, iport, oport);
+		
+		log_code.set_event_code("Start Sequence");
+		log_event.present();
+		blackscreen.present();
+		
+		interval_time = clock.time();
+	end;
+	
+	#initiate the block after 18 seconds of initial temperature
+	if started && (clock.time_double() > (interval_time + 18000)) then
+		
+		#Break out if 10 blocks have already been measured
+		if block_counter >= 30 then 
+			break; 
+		end;
+		
+		#Create the plateaus
+		two_plateaus(start_temp, hex_to_double(current_target));
+		block_counter = block_counter + 1;
+		
+		#Switch the target for the next block
+		if current_target == non_noxious then
+			current_target = noxious;
+			send_command("S" + slope_to_noxious, iport, oport);
+			send_command("R" + slope_to_noxious, iport, oport);
+		else
+			current_target = non_noxious;
+			send_command("S" + slope_to_non_noxious, iport, oport);
+			send_command("R" + slope_to_non_noxious, iport, oport);
+		end;
+		
+		#Reset the interval timer
+		interval_time = clock.time();
+	end;
+end;
+
+progress.set_caption("Ending experiment...", true);
+display.present();

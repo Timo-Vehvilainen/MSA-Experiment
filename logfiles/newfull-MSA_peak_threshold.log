@@ -1,0 +1,194 @@
+Scenario - MSA_peak_threshold
+Logfile written - 08/13/2014 17:29:58
+
+Subject	Trial	Event Type	Code	Event(str)	Temperature(num)	VAS(num)	Target_temperature(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+newfull	0	Response	6					6437	6437	2
+newfull	0	Port Input	73					15295	15295	1
+newfull	0	Port Input	78					15305	15305	1
+newfull	0	Port Input	70					15315	15315	1
+newfull	0	Port Input	48					15325	15325	1
+newfull	0	Port Input	49					15335	15335	1
+newfull	0	Port Input	46					15345	15345	1
+newfull	0	Port Input	48					15355	15355	1
+newfull	0	Port Input	51					15365	15365	1
+newfull	1	Save Logfile	Initialised	Initialised				15368	0	14			0		other	0
+newfull	1	Port Input	71					16545	1177	1
+newfull	1	Port Input	49					16555	1187	1
+newfull	1	Port Input	53					16565	1197	1
+newfull	1	Port Input	102					16575	1207	1
+newfull	1	Port Input	72					18045	2677	1
+newfull	1	Port Input	49					18055	2687	1
+newfull	1	Port Input	98					18065	2697	1
+newfull	1	Port Input	102					18075	2707	1
+newfull	1	Port Input	79					19545	4177	1
+newfull	1	Port Input	48					19555	4187	1
+newfull	1	Port Input	49					19565	4197	1
+newfull	1	Port Input	98					19575	4207	1
+newfull	1	Port Input	78					21045	5677	1
+newfull	1	Port Input	49					21055	5687	1
+newfull	1	Port Input	57					21065	5697	1
+newfull	1	Port Input	102					21075	5707	1
+newfull	1	Port Input	75					22545	7177	1
+newfull	1	Port Input	49					22555	7187	1
+newfull	1	Port Input	101					22565	7197	1
+newfull	1	Port Input	53					22575	7207	1
+newfull	1	Port Input	76					24045	8677	1
+newfull	1	Port Input	49					24055	8687	1
+newfull	1	Port Input	100					24065	8697	1
+newfull	1	Port Input	50					24075	8707	1
+newfull	1	Port Input	66					25705	10337	1
+newfull	1	Port Input	48					25715	10347	1
+newfull	1	Port Input	99					25725	10357	1
+newfull	1	Port Input	56					25735	10367	1
+newfull	1	Port Input	82					27205	11837	1
+newfull	1	Port Input	48					27215	11847	1
+newfull	1	Port Input	51					27225	11857	1
+newfull	1	Port Input	50					27235	11867	1
+newfull	1	Port Input	83					28705	13337	1
+newfull	1	Port Input	48					28715	13347	1
+newfull	1	Port Input	50					28725	13357	1
+newfull	1	Port Input	56					28735	13367	1
+newfull	1	Port Input	84					30205	14837	1
+newfull	1	Port Input	49					30215	14847	1
+newfull	1	Port Input	55					30225	14857	1
+newfull	1	Port Input	99					30235	14867	1
+newfull	1	Port Input	67					32055	16687	1
+newfull	1	Port Input	48					32065	16697	1
+newfull	1	Port Input	48					32075	16707	1
+newfull	1	Port Input	48					32085	16717	1
+newfull	1	Port Input	77					33535	18167	1
+newfull	1	Port Input	49					33555	18187	1
+newfull	1	Port Input	55					33564	18196	3
+newfull	1	Port Input	98					33575	18207	1
+newfull	2	Save Logfile	Measurement,37.9, ,20	Measurement	37.9	 	20	33975	0	18			0		other	0
+newfull	2	Port Input	77					35205	1230	1
+newfull	2	Port Input	49					35225	1250	1
+newfull	2	Port Input	55					35235	1260	1
+newfull	2	Port Input	55					35245	1270	1
+newfull	3	Save Logfile	Measurement,37.5, ,20	Measurement	37.5	 	20	35644	0	20			0		other	0
+newfull	3	Port Input	77					36865	1221	1
+newfull	3	Port Input	49					36885	1241	1
+newfull	3	Port Input	55					36895	1251	1
+newfull	3	Port Input	48					36905	1261	1
+newfull	4	Save Logfile	Measurement,36.8, ,20	Measurement	36.8	 	20	37305	0	20			0		other	0
+newfull	4	Port Input	77					38535	1230	1
+newfull	4	Port Input	49					38555	1250	1
+newfull	4	Port Input	54					38565	1260	1
+newfull	4	Port Input	56					38575	1270	1
+newfull	5	Save Logfile	Measurement,36, ,20	Measurement	36	 	20	38976	0	39			0		other	0
+newfull	5	Port Input	77					40195	1219	1
+newfull	5	Port Input	49					40215	1239	1
+newfull	5	Port Input	54					40225	1249	1
+newfull	5	Port Input	48					40235	1259	1
+newfull	6	Save Logfile	Measurement,35.2, ,20	Measurement	35.2	 	20	40635	0	23			0		other	0
+newfull	6	Port Input	77					41865	1230	1
+newfull	6	Port Input	49					41885	1250	1
+newfull	6	Port Input	53					41895	1260	1
+newfull	6	Port Input	56					41905	1270	1
+newfull	7	Save Logfile	Measurement,34.4, ,20	Measurement	34.4	 	20	42304	0	24			0		other	0
+newfull	7	Port Input	77					43525	1221	1
+newfull	7	Port Input	49					43545	1241	1
+newfull	7	Port Input	53					43555	1251	1
+newfull	7	Port Input	48					43565	1261	1
+newfull	8	Save Logfile	Measurement,33.6, ,20	Measurement	33.6	 	20	43965	0	25			0		other	0
+newfull	8	Port Input	77					45195	1230	1
+newfull	8	Port Input	49					45215	1250	1
+newfull	8	Port Input	52					45225	1260	1
+newfull	8	Port Input	56					45235	1270	1
+newfull	9	Save Logfile	Measurement,32.8, ,20	Measurement	32.8	 	20	45635	0	25			0		other	0
+newfull	9	Port Input	77					46855	1220	1
+newfull	9	Port Input	49					46875	1240	1
+newfull	9	Port Input	52					46885	1250	1
+newfull	9	Port Input	48					46895	1260	1
+newfull	10	Save Logfile	Measurement,32, ,20	Measurement	32	 	20	47295	0	27			0		other	0
+newfull	10	Port Input	77					48525	1230	1
+newfull	10	Port Input	49					48545	1250	1
+newfull	10	Port Input	51					48555	1260	1
+newfull	10	Port Input	57					48565	1270	1
+newfull	11	Save Logfile	Measurement,31.3, ,20	Measurement	31.3	 	20	48965	0	28			0		other	0
+newfull	11	Port Input	77					50185	1220	1
+newfull	11	Port Input	49					50205	1240	1
+newfull	11	Port Input	51					50215	1250	1
+newfull	11	Port Input	49					50225	1260	1
+newfull	12	Save Logfile	Measurement,30.5, ,20	Measurement	30.5	 	20	50624	0	31			0		other	0
+newfull	12	Port Input	77					51855	1231	1
+newfull	12	Port Input	49					51875	1251	1
+newfull	12	Port Input	50					51885	1261	1
+newfull	12	Port Input	57					51895	1271	1
+newfull	13	Save Logfile	Measurement,29.7, ,20	Measurement	29.7	 	20	52295	0	30			0		other	0
+newfull	13	Port Input	77					53515	1220	1
+newfull	13	Port Input	49					53545	1250	1
+newfull	13	Port Input	50					53555	1260	1
+newfull	14	Save Logfile	Measurement,29.7, ,20	Measurement	29.7	 	20	53956	0	33			0		other	0
+newfull	14	Port Input	50					55185	1229	1
+newfull	14	Port Input	77					55205	1249	1
+newfull	14	Port Input	49					55215	1259	1
+newfull	14	Port Input	49					55225	1269	1
+newfull	15	Save Logfile	Measurement,29, ,20	Measurement	29	 	20	55626	0	32			0		other	0
+newfull	15	Port Input	98					56855	1229	1
+newfull	15	Port Input	77					56875	1249	1
+newfull	15	Port Input	49					56885	1259	1
+newfull	15	Port Input	49					56895	1269	1
+newfull	16	Save Logfile	Measurement,28.3, ,20	Measurement	28.3	 	20	57295	0	34			0		other	0
+newfull	16	Port Input	51					58515	1220	1
+newfull	16	Port Input	77					58535	1240	1
+newfull	16	Port Input	49					58545	1250	1
+newfull	16	Port Input	48					58555	1260	1
+newfull	17	Save Logfile	Measurement,27.5, ,20	Measurement	27.5	 	20	58956	0	34			0		other	0
+newfull	17	Port Input	99					60185	1229	1
+newfull	17	Port Input	77					60205	1249	1
+newfull	17	Port Input	49					60215	1259	1
+newfull	17	Port Input	48					60225	1269	1
+newfull	18	Save Logfile	Measurement,26.8, ,20	Measurement	26.8	 	20	60626	0	35			0		other	0
+newfull	18	Port Input	54					61895	1269	2
+newfull	18	Port Input	77					61905	1279	1
+newfull	18	Port Input	48					61915	1289	1
+newfull	18	Port Input	102					61925	1299	1
+newfull	19	Save Logfile	Measurement,26.2, ,20	Measurement	26.2	 	20	62336	0	36			0		other	0
+newfull	19	Port Input	102					63515	1179	1
+newfull	19	Port Input	77					63525	1189	1
+newfull	19	Port Input	48					63535	1199	1
+newfull	19	Port Input	102					63545	1209	1
+newfull	20	Save Logfile	Measurement,25.5, ,20	Measurement	25.5	 	20	63956	0	37			0		other	0
+newfull	20	Port Input	56					65175	1219	1
+newfull	20	Port Input	77					65185	1229	1
+newfull	20	Port Input	48					65195	1239	1
+newfull	20	Port Input	102					65205	1249	1
+newfull	21	Save Logfile	Measurement,24.8, ,20	Measurement	24.8	 	20	65616	0	40			0		other	0
+newfull	21	Port Input	50					66845	1229	1
+newfull	21	Port Input	77					66855	1239	1
+newfull	21	Port Input	48					66865	1249	1
+newfull	21	Port Input	101					66875	1259	1
+newfull	22	Save Logfile	Measurement,24.2, ,20	Measurement	24.2	 	20	67285	0	40			0		other	0
+newfull	22	Port Input	98					68505	1220	1
+newfull	22	Port Input	77					68515	1230	1
+newfull	22	Port Input	48					68525	1240	1
+newfull	22	Port Input	101					68535	1250	1
+newfull	23	Save Logfile	Measurement,23.5, ,20	Measurement	23.5	 	20	68946	0	42			0		other	0
+newfull	23	Port Input	53					70175	1229	1
+newfull	23	Port Input	77					70185	1239	1
+newfull	23	Port Input	48					70195	1249	1
+newfull	23	Port Input	100					70205	1259	1
+newfull	24	Save Logfile	Measurement,22.9, ,20	Measurement	22.9	 	20	70616	0	43			0		other	0
+newfull	24	Port Input	102					71835	1219	1
+newfull	24	Port Input	77					71845	1229	1
+newfull	24	Port Input	48					71855	1239	1
+newfull	24	Port Input	100					71865	1249	1
+newfull	25	Save Logfile	Measurement,22.3, ,20	Measurement	22.3	 	20	72276	0	44			0		other	0
+newfull	25	Port Input	57					73505	1229	1
+newfull	25	Port Input	77					73515	1239	1
+newfull	25	Port Input	48					73525	1249	1
+newfull	25	Port Input	100					73535	1259	1
+newfull	26	Save Logfile	Measurement,21.7, ,20	Measurement	21.7	 	20	73946	0	45			0		other	0
+newfull	26	Port Input	51					75165	1219	1
+newfull	26	Port Input	77					75175	1229	1
+newfull	26	Port Input	48					75185	1239	1
+newfull	26	Port Input	99					75195	1249	1
+newfull	27	Save Logfile	Measurement,21.1, ,20	Measurement	21.1	 	20	75606	0	46			0		other	0
+newfull	27	Port Input	100					76835	1229	1
+newfull	27	Port Input	77					76845	1239	1
+newfull	27	Port Input	48					76855	1249	1
+newfull	27	Port Input	99					76865	1259	1
+newfull	28	Save Logfile	Measurement,20.5, ,20	Measurement	20.5	 	20	77276	0	46			0		other	0
+newfull	28	Quit						78130	854

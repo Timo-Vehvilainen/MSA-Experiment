@@ -1,0 +1,3361 @@
+Scenario - MSA_peak_threshold
+Logfile written - 08/11/2014 13:09:31
+
+Subject	Trial	Event Type	Code	Event(str)	Temperature(num)	VAS(num)	Target_temperature(num)	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+slope6_skin	0	Port Input	73					16089	16089	1
+slope6_skin	0	Port Input	78					16099	16099	1
+slope6_skin	0	Port Input	70					16109	16109	1
+slope6_skin	0	Port Input	48					16119	16119	1
+slope6_skin	0	Port Input	49					16129	16129	1
+slope6_skin	0	Port Input	46					16139	16139	1
+slope6_skin	0	Port Input	48					16149	16149	1
+slope6_skin	0	Port Input	51					16159	16159	1
+slope6_skin	1	Save Logfile	Initialised	Initialised				16161	0	13			0		other	0
+slope6_skin	1	Port Input	71					17379	1218	1
+slope6_skin	1	Port Input	49					17399	1238	1
+slope6_skin	1	Port Input	53					17409	1248	1
+slope6_skin	1	Port Input	102					17419	1258	1
+slope6_skin	1	Port Input	72					18889	2728	1
+slope6_skin	1	Port Input	49					18909	2748	1
+slope6_skin	1	Port Input	98					18919	2758	1
+slope6_skin	1	Port Input	102					18929	2768	1
+slope6_skin	1	Port Input	79					20409	4248	1
+slope6_skin	1	Port Input	48					20419	4258	1
+slope6_skin	1	Port Input	49					20429	4268	1
+slope6_skin	1	Port Input	98					20439	4278	1
+slope6_skin	1	Port Input	78					21919	5758	1
+slope6_skin	1	Port Input	49					21929	5768	1
+slope6_skin	1	Port Input	57					21939	5778	1
+slope6_skin	1	Port Input	102					21949	5788	1
+slope6_skin	1	Port Input	75					23419	7258	1
+slope6_skin	1	Port Input	49					23439	7278	1
+slope6_skin	1	Port Input	101					23449	7288	1
+slope6_skin	1	Port Input	53					23459	7298	1
+slope6_skin	1	Port Input	76					24929	8768	1
+slope6_skin	1	Port Input	49					24949	8788	1
+slope6_skin	1	Port Input	100					24959	8798	1
+slope6_skin	1	Port Input	50					24969	8808	1
+slope6_skin	1	Port Input	66					26539	10378	1
+slope6_skin	1	Port Input	49					26559	10398	1
+slope6_skin	1	Port Input	55					26569	10408	1
+slope6_skin	1	Port Input	99					26579	10418	1
+slope6_skin	1	Port Input	82					28059	11898	1
+slope6_skin	1	Port Input	48					28069	11908	1
+slope6_skin	1	Port Input	51					28079	11918	1
+slope6_skin	1	Port Input	50					28089	11928	1
+slope6_skin	1	Port Input	83					29569	13408	1
+slope6_skin	1	Port Input	48					29579	13418	1
+slope6_skin	1	Port Input	51					29589	13428	1
+slope6_skin	1	Port Input	99					29599	13438	1
+slope6_skin	1	Port Input	84					31096	14935	1
+slope6_skin	1	Port Input	49					31099	14938	1
+slope6_skin	1	Port Input	55					31099	14938	1
+slope6_skin	1	Port Input	99					31109	14948	1
+slope6_skin	1	Port Input	67					32889	16728	1
+slope6_skin	1	Port Input	48					32899	16738	1
+slope6_skin	1	Port Input	48					32909	16748	1
+slope6_skin	1	Port Input	48					32919	16758	1
+slope6_skin	1	Port Input	77					34379	18218	1
+slope6_skin	1	Port Input	49					34399	18238	1
+slope6_skin	1	Port Input	56					34409	18248	1
+slope6_skin	1	Port Input	48					34419	18258	1
+slope6_skin	2	Save Logfile	Measurement,38.4, ,38	Measurement	38.4	 	38	34824	0	20			0		other	0
+slope6_skin	2	Port Input	77					36219	1395	1
+slope6_skin	2	Port Input	49					36239	1415	1
+slope6_skin	2	Port Input	56					36249	1425	1
+slope6_skin	2	Port Input	49					36259	1435	1
+slope6_skin	3	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	38663	0	23			0		other	0
+slope6_skin	3	Port Input	77					39869	1206	1
+slope6_skin	3	Port Input	49					39889	1226	1
+slope6_skin	3	Port Input	56					39899	1236	1
+slope6_skin	3	Port Input	49					39909	1246	1
+slope6_skin	4	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	42313	0	23			0		other	0
+slope6_skin	4	Port Input	77					43529	1216	1
+slope6_skin	4	Port Input	49					43549	1236	1
+slope6_skin	4	Port Input	56					43559	1246	1
+slope6_skin	4	Port Input	49					43569	1256	1
+slope6_skin	4	Response	1					44267	1954	1
+slope6_skin	5	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	45973	0	25			0		other	0
+slope6_skin	5	Response	1					46467	494	2
+slope6_skin	5	Port Input	77					47209	1236	80
+slope6_skin	5	Port Input	49					47209	1236	80
+slope6_skin	5	Port Input	56					47209	1236	80
+slope6_skin	5	Port Input	49					47209	1236	80
+slope6_skin	5	Response	1					48709	2736	1
+slope6_skin	6	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	49653	0	24			0		other	0
+slope6_skin	6	Response	1					50679	1026	2
+slope6_skin	6	Port Input	77					50869	1216	1
+slope6_skin	6	Port Input	49					50889	1236	1
+slope6_skin	6	Port Input	56					50899	1246	1
+slope6_skin	6	Port Input	49					50909	1256	1
+slope6_skin	7	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	53313	0	26			0		other	0
+slope6_skin	7	Port Input	77					54529	1216	1
+slope6_skin	7	Port Input	49					54549	1236	1
+slope6_skin	7	Port Input	56					54559	1246	1
+slope6_skin	7	Port Input	49					54569	1256	1
+slope6_skin	8	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	56992	0	29			0		other	0
+slope6_skin	8	Port Input	77					58199	1207	1
+slope6_skin	8	Port Input	49					58219	1227	1
+slope6_skin	8	Port Input	56					58229	1237	1
+slope6_skin	8	Port Input	48					58239	1247	1
+slope6_skin	9	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	60646	0	37			0		other	0
+slope6_skin	9	Port Input	77					61849	1203	1
+slope6_skin	9	Port Input	49					61869	1223	1
+slope6_skin	9	Port Input	56					61879	1233	1
+slope6_skin	9	Port Input	48					61889	1243	1
+slope6_skin	10	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	64294	0	27			0		other	0
+slope6_skin	10	Port Input	77					65519	1225	1
+slope6_skin	10	Port Input	49					65539	1245	1
+slope6_skin	10	Port Input	56					65549	1255	1
+slope6_skin	10	Port Input	48					65559	1265	1
+slope6_skin	11	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	67965	0	53			0		other	0
+slope6_skin	11	Port Input	77					69179	1214	1
+slope6_skin	11	Port Input	49					69199	1234	1
+slope6_skin	11	Port Input	56					69209	1244	1
+slope6_skin	11	Port Input	48					69219	1254	1
+slope6_skin	12	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	71623	0	32			0		other	0
+slope6_skin	12	Port Input	77					72839	1216	1
+slope6_skin	12	Port Input	49					72859	1236	1
+slope6_skin	12	Port Input	56					72869	1246	1
+slope6_skin	12	Port Input	48					72879	1256	1
+slope6_skin	13	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	75283	0	34			0		other	0
+slope6_skin	13	Port Input	77					76518	1235	1
+slope6_skin	13	Port Input	49					76529	1246	1
+slope6_skin	13	Port Input	56					76539	1256	1
+slope6_skin	13	Port Input	48					76549	1266	1
+slope6_skin	14	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	78953	0	37			0		other	0
+slope6_skin	14	Port Input	77					80169	1216	1
+slope6_skin	14	Port Input	49					80189	1236	1
+slope6_skin	14	Port Input	56					80199	1246	1
+slope6_skin	14	Port Input	48					80209	1256	1
+slope6_skin	15	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	82613	0	34			0		other	0
+slope6_skin	15	Port Input	77					83839	1226	1
+slope6_skin	15	Port Input	49					83859	1246	1
+slope6_skin	15	Port Input	56					83869	1256	1
+slope6_skin	15	Port Input	48					83879	1266	1
+slope6_skin	15	Response	4					84433	1820	1
+slope6_skin	16	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	86283	0	36			0		other	0
+slope6_skin	16	Port Input	84					87499	1216	1
+slope6_skin	16	Port Input	49					87509	1226	1
+slope6_skin	16	Port Input	97					87519	1236	1
+slope6_skin	16	Port Input	52					87529	1246	1
+slope6_skin	16	Port Input	67					89039	2756	1
+slope6_skin	16	Port Input	48					89049	2766	1
+slope6_skin	16	Port Input	48					89059	2776	1
+slope6_skin	16	Port Input	51					89069	2786	1
+slope6_skin	17	Save Logfile	Initiate Peak,38.4, ,42	Initiate Peak	38.4	 	42	89453	0	37			0		other	0
+slope6_skin	17	Port Input	77					90569	1116	2
+slope6_skin	17	Port Input	49					90589	1136	1
+slope6_skin	17	Port Input	56					90599	1146	1
+slope6_skin	17	Port Input	48					90609	1156	1
+slope6_skin	18	Save Logfile	Measurement,38.4, ,42	Measurement	38.4	 	42	93014	0	49			0		other	0
+slope6_skin	18	Port Input	77					94199	1185	1
+slope6_skin	18	Port Input	49					94219	1205	1
+slope6_skin	18	Port Input	56					94229	1215	1
+slope6_skin	18	Port Input	100					94239	1225	1
+slope6_skin	19	Save Logfile	Measurement,39.7, ,42	Measurement	39.7	 	42	96643	0	40			0		other	0
+slope6_skin	19	Port Input	70					97590	947	1
+slope6_skin	19	Port Input	49					97609	966	1
+slope6_skin	19	Port Input	97					97619	976	1
+slope6_skin	19	Port Input	51					97629	986	1
+slope6_skin	19	Port Input	77					97819	1176	1
+slope6_skin	19	Port Input	49					97839	1196	1
+slope6_skin	19	Port Input	97					97849	1206	1
+slope6_skin	19	Port Input	53					97859	1216	1
+slope6_skin	20	Save Logfile	Measurement,42.1, ,42	Measurement	42.1	 	42	100263	0	42			0		other	0
+slope6_skin	21	Save Logfile	Peak Temperature,42.1, ,42	Peak Temperature	42.1	 	42	100590	0	42			0		other	0
+slope6_skin	21	Port Input	67					101719	1129	1
+slope6_skin	21	Port Input	48					101729	1139	1
+slope6_skin	21	Port Input	48					101739	1149	1
+slope6_skin	21	Port Input	48					101749	1159	1
+slope6_skin	21	Port Input	77					103199	2609	2
+slope6_skin	21	Port Input	49					103229	2639	1
+slope6_skin	21	Port Input	97					103239	2649	1
+slope6_skin	21	Port Input	57					103249	2659	1
+slope6_skin	22	Save Logfile	Measurement,42.5, ,38	Measurement	42.5	 	38	103654	0	46			0		other	0
+slope6_skin	22	Port Input	77					104819	1165	1
+slope6_skin	22	Port Input	49					104839	1185	1
+slope6_skin	22	Port Input	97					104849	1195	1
+slope6_skin	22	Port Input	50					104859	1205	1
+slope6_skin	23	Save Logfile	Measurement,41.8, ,38	Measurement	41.8	 	38	105265	0	58			0		other	0
+slope6_skin	23	Port Input	77					106479	1214	1
+slope6_skin	23	Port Input	49					106499	1234	1
+slope6_skin	23	Port Input	57					106509	1244	1
+slope6_skin	23	Port Input	97					106519	1254	1
+slope6_skin	24	Save Logfile	Measurement,41, ,38	Measurement	41	 	38	106924	0	46			0		other	0
+slope6_skin	24	Port Input	77					108149	1225	1
+slope6_skin	24	Port Input	49					108169	1245	1
+slope6_skin	24	Port Input	57					108179	1255	1
+slope6_skin	24	Port Input	49					108189	1265	1
+slope6_skin	25	Save Logfile	Measurement,40.1, ,38	Measurement	40.1	 	38	108594	0	47			0		other	0
+slope6_skin	25	Port Input	77					109809	1215	1
+slope6_skin	25	Port Input	49					109829	1235	1
+slope6_skin	25	Port Input	56					109839	1245	1
+slope6_skin	25	Port Input	57					109849	1255	1
+slope6_skin	26	Save Logfile	Measurement,39.3, ,38	Measurement	39.3	 	38	110254	0	48			0		other	0
+slope6_skin	26	Port Input	77					111479	1225	1
+slope6_skin	26	Port Input	49					111499	1245	1
+slope6_skin	26	Port Input	56					111509	1255	1
+slope6_skin	26	Port Input	51					111519	1265	1
+slope6_skin	27	Save Logfile	Measurement,38.7, ,38	Measurement	38.7	 	38	111924	0	50			0		other	0
+slope6_skin	27	Port Input	77					113149	1225	1
+slope6_skin	27	Port Input	49					113169	1245	1
+slope6_skin	27	Port Input	56					113179	1255	1
+slope6_skin	27	Port Input	48					113189	1265	1
+slope6_skin	28	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	115593	0	50			0		other	0
+slope6_skin	28	Port Input	77					116809	1216	2
+slope6_skin	28	Port Input	49					116829	1236	1
+slope6_skin	28	Port Input	56					116839	1246	1
+slope6_skin	28	Port Input	48					116849	1256	1
+slope6_skin	29	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	119253	0	53			0		other	0
+slope6_skin	29	Response	1					120313	1060	2
+slope6_skin	29	Port Input	77					120460	1207	1
+slope6_skin	29	Port Input	49					120490	1237	1
+slope6_skin	29	Port Input	56					120499	1246	2
+slope6_skin	29	Port Input	48					120509	1256	2
+slope6_skin	29	Response	1					122375	3122	1
+slope6_skin	30	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	122913	0	52			0		other	0
+slope6_skin	30	Port Input	77					124139	1226	1
+slope6_skin	30	Port Input	49					124169	1256	2
+slope6_skin	30	Port Input	56					124179	1266	1
+slope6_skin	30	Port Input	48					124189	1276	1
+slope6_skin	30	Response	1					124366	1453	1
+slope6_skin	30	Response	1					126246	3333	1
+slope6_skin	31	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	126593	0	56			0		other	0
+slope6_skin	31	Port Input	77					127809	1216	2
+slope6_skin	31	Port Input	49					127829	1236	1
+slope6_skin	31	Port Input	56					127839	1246	1
+slope6_skin	31	Port Input	48					127849	1256	1
+slope6_skin	32	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	130253	0	56			0		other	0
+slope6_skin	32	Port Input	77					131469	1216	2
+slope6_skin	32	Port Input	49					131489	1236	2
+slope6_skin	32	Port Input	56					131499	1246	1
+slope6_skin	32	Port Input	48					131509	1256	1
+slope6_skin	33	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	133913	0	59			0		other	0
+slope6_skin	33	Port Input	77					135139	1226	2
+slope6_skin	33	Port Input	49					135159	1246	2
+slope6_skin	33	Port Input	55					135169	1256	2
+slope6_skin	33	Port Input	102					135179	1266	2
+slope6_skin	34	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	137583	0	58			0		other	0
+slope6_skin	34	Port Input	77					138779	1196	2
+slope6_skin	34	Port Input	49					138809	1226	2
+slope6_skin	34	Port Input	55					138819	1236	2
+slope6_skin	34	Port Input	102					138829	1246	2
+slope6_skin	35	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	141233	0	58			0		other	0
+slope6_skin	35	Port Input	77					142459	1226	2
+slope6_skin	35	Port Input	49					142479	1246	2
+slope6_skin	35	Port Input	55					142489	1256	2
+slope6_skin	35	Port Input	102					142499	1266	2
+slope6_skin	36	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	144903	0	58			0		other	0
+slope6_skin	36	Port Input	77					146120	1217	1
+slope6_skin	36	Port Input	49					146139	1236	2
+slope6_skin	36	Port Input	55					146149	1246	2
+slope6_skin	36	Port Input	102					146159	1256	2
+slope6_skin	36	Response	4					147668	2765	2
+slope6_skin	37	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	148563	0	61			0		other	0
+slope6_skin	37	Port Input	84					149790	1227	1
+slope6_skin	37	Port Input	49					149800	1237	1
+slope6_skin	37	Port Input	99					149809	1246	2
+slope6_skin	37	Port Input	99					149819	1256	2
+slope6_skin	37	Port Input	67					151330	2767	1
+slope6_skin	37	Port Input	48					151339	2776	2
+slope6_skin	37	Port Input	48					151350	2787	1
+slope6_skin	37	Port Input	51					151359	2796	2
+slope6_skin	38	Save Logfile	Initiate Peak,38.3, ,46	Initiate Peak	38.3	 	46	151743	0	63			0		other	0
+slope6_skin	38	Port Input	77					152870	1127	1
+slope6_skin	38	Port Input	49					152900	1157	1
+slope6_skin	38	Port Input	55					152910	1167	1
+slope6_skin	38	Port Input	102					152919	1176	2
+slope6_skin	39	Save Logfile	Measurement,38.3, ,46	Measurement	38.3	 	46	155323	0	65			0		other	0
+slope6_skin	39	Port Input	77					156610	1287	1
+slope6_skin	39	Port Input	49					156630	1307	1
+slope6_skin	39	Port Input	56					156639	1316	2
+slope6_skin	39	Port Input	101					156649	1326	2
+slope6_skin	40	Save Logfile	Measurement,39.8, ,46	Measurement	39.8	 	46	159053	0	65			0		other	0
+slope6_skin	40	Port Input	77					160280	1227	1
+slope6_skin	40	Port Input	49					160300	1247	1
+slope6_skin	40	Port Input	97					160309	1256	2
+slope6_skin	40	Port Input	54					160320	1267	1
+slope6_skin	41	Save Logfile	Measurement,42.2, ,46	Measurement	42.2	 	46	162723	0	91			0		other	0
+slope6_skin	41	Port Input	77					163940	1217	1
+slope6_skin	41	Port Input	49					163960	1237	1
+slope6_skin	41	Port Input	98					163970	1247	1
+slope6_skin	41	Port Input	102					163980	1257	1
+slope6_skin	41	Port Input	70					165870	3147	1
+slope6_skin	41	Port Input	49					165890	3167	1
+slope6_skin	41	Port Input	99					165900	3177	1
+slope6_skin	41	Port Input	98					165910	3187	1
+slope6_skin	42	Save Logfile	Measurement,45.9, ,46	Measurement	45.9	 	46	166383	0	68			0		other	0
+slope6_skin	43	Save Logfile	Peak Temperature,45.9, ,46	Peak Temperature	45.9	 	46	166706	0	68			0		other	0
+slope6_skin	43	Port Input	67					167850	1144	1
+slope6_skin	43	Port Input	48					167870	1164	1
+slope6_skin	43	Port Input	48					167879	1173	2
+slope6_skin	43	Port Input	48					167890	1184	1
+slope6_skin	43	Port Input	77					169340	2634	1
+slope6_skin	43	Port Input	49					169370	2664	1
+slope6_skin	43	Port Input	100					169380	2674	1
+slope6_skin	43	Port Input	55					169390	2684	1
+slope6_skin	44	Save Logfile	Measurement,47.1, ,38	Measurement	47.1	 	38	169796	0	95			0		other	0
+slope6_skin	44	Port Input	77					171100	1304	1
+slope6_skin	44	Port Input	49					171120	1324	1
+slope6_skin	44	Port Input	99					171130	1334	1
+slope6_skin	44	Port Input	102					171140	1344	1
+slope6_skin	45	Save Logfile	Measurement,46.3, ,38	Measurement	46.3	 	38	171544	0	75			0		other	0
+slope6_skin	45	Port Input	77					172770	1226	1
+slope6_skin	45	Port Input	49					172790	1246	1
+slope6_skin	45	Port Input	99					172800	1256	1
+slope6_skin	45	Port Input	55					172810	1266	1
+slope6_skin	46	Save Logfile	Measurement,45.5, ,38	Measurement	45.5	 	38	173214	0	91			0		other	0
+slope6_skin	46	Port Input	77					174430	1216	1
+slope6_skin	46	Port Input	49					174450	1236	1
+slope6_skin	46	Port Input	98					174460	1246	1
+slope6_skin	46	Port Input	101					174470	1256	1
+slope6_skin	47	Save Logfile	Measurement,44.6, ,38	Measurement	44.6	 	38	174874	0	74			0		other	0
+slope6_skin	47	Port Input	77					176100	1226	1
+slope6_skin	47	Port Input	49					176120	1246	1
+slope6_skin	47	Port Input	98					176130	1256	1
+slope6_skin	47	Port Input	53					176140	1266	1
+slope6_skin	48	Save Logfile	Measurement,43.7, ,38	Measurement	43.7	 	38	176544	0	80			0		other	0
+slope6_skin	48	Port Input	77					177750	1206	1
+slope6_skin	48	Port Input	49					177780	1236	1
+slope6_skin	48	Port Input	97					177790	1246	1
+slope6_skin	48	Port Input	100					177800	1256	1
+slope6_skin	49	Save Logfile	Measurement,42.9, ,38	Measurement	42.9	 	38	178204	0	82			0		other	0
+slope6_skin	49	Port Input	77					179430	1226	1
+slope6_skin	49	Port Input	49					179450	1246	1
+slope6_skin	49	Port Input	97					179460	1256	1
+slope6_skin	49	Port Input	52					179470	1266	1
+slope6_skin	50	Save Logfile	Measurement,42, ,38	Measurement	42	 	38	179874	0	80			0		other	0
+slope6_skin	50	Port Input	77					181090	1216	1
+slope6_skin	50	Port Input	49					181110	1236	1
+slope6_skin	50	Port Input	57					181120	1246	1
+slope6_skin	50	Port Input	99					181130	1256	1
+slope6_skin	51	Save Logfile	Measurement,41.2, ,38	Measurement	41.2	 	38	181534	0	82			0		other	0
+slope6_skin	51	Response	1					182152	618	1
+slope6_skin	51	Port Input	77					182750	1216	1
+slope6_skin	51	Port Input	49					182780	1246	1
+slope6_skin	51	Port Input	57					182790	1256	1
+slope6_skin	51	Port Input	52					182800	1266	1
+slope6_skin	52	Save Logfile	Measurement,40.4, ,38	Measurement	40.4	 	38	183205	0	81			0		other	0
+slope6_skin	52	Response	1					184291	1086	1
+slope6_skin	52	Port Input	77					184420	1215	1
+slope6_skin	52	Port Input	49					184440	1235	1
+slope6_skin	52	Port Input	56					184450	1245	1
+slope6_skin	52	Port Input	98					184460	1255	1
+slope6_skin	53	Save Logfile	Measurement,39.5, ,38	Measurement	39.5	 	38	184864	0	81			0		other	0
+slope6_skin	53	Port Input	77					186090	1226	1
+slope6_skin	53	Port Input	49					186110	1246	1
+slope6_skin	53	Port Input	56					186120	1256	1
+slope6_skin	53	Port Input	53					186130	1266	1
+slope6_skin	53	Response	1					186467	1603	1
+slope6_skin	54	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	186534	0	84			0		other	0
+slope6_skin	54	Port Input	77					187760	1226	1
+slope6_skin	54	Port Input	49					187780	1246	1
+slope6_skin	54	Port Input	56					187790	1256	1
+slope6_skin	54	Port Input	49					187800	1266	1
+slope6_skin	54	Response	1					188819	2285	1
+slope6_skin	55	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	190205	0	89			0		other	0
+slope6_skin	55	Port Input	77					191420	1215	1
+slope6_skin	55	Port Input	49					191450	1245	1
+slope6_skin	55	Port Input	56					191460	1255	1
+slope6_skin	55	Port Input	49					191469	1264	3
+slope6_skin	56	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	193875	0	83			0		other	0
+slope6_skin	56	Port Input	77					195080	1205	1
+slope6_skin	56	Port Input	49					195110	1235	1
+slope6_skin	56	Port Input	56					195120	1245	1
+slope6_skin	56	Port Input	49					195130	1255	1
+slope6_skin	57	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	197533	0	87			0		other	0
+slope6_skin	57	Port Input	77					198760	1227	1
+slope6_skin	57	Port Input	49					198780	1247	1
+slope6_skin	57	Port Input	56					198790	1257	1
+slope6_skin	57	Port Input	48					198800	1267	1
+slope6_skin	58	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	201203	0	87			0		other	0
+slope6_skin	58	Port Input	77					202430	1227	1
+slope6_skin	58	Port Input	49					202450	1247	1
+slope6_skin	58	Port Input	56					202460	1257	1
+slope6_skin	58	Port Input	48					202470	1267	1
+slope6_skin	59	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	204873	0	87			0		other	0
+slope6_skin	59	Port Input	77					206060	1187	1
+slope6_skin	59	Port Input	49					206090	1217	1
+slope6_skin	59	Port Input	56					206100	1227	1
+slope6_skin	59	Port Input	48					206110	1237	1
+slope6_skin	60	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	208513	0	99			0		other	0
+slope6_skin	60	Port Input	77					209730	1217	1
+slope6_skin	60	Port Input	49					209760	1247	1
+slope6_skin	60	Port Input	56					209770	1257	1
+slope6_skin	60	Port Input	48					209780	1267	1
+slope6_skin	60	Response	4					212012	3499	2
+slope6_skin	61	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	212183	0	100			0		other	0
+slope6_skin	61	Port Input	84					213400	1217	1
+slope6_skin	61	Port Input	49					213410	1227	1
+slope6_skin	61	Port Input	102					213420	1237	1
+slope6_skin	61	Port Input	52					213430	1247	1
+slope6_skin	61	Port Input	67					214940	2757	1
+slope6_skin	61	Port Input	48					214950	2767	1
+slope6_skin	61	Port Input	48					214960	2777	1
+slope6_skin	61	Port Input	51					214970	2787	1
+slope6_skin	62	Save Logfile	Initiate Peak,38.4, ,50	Initiate Peak	38.4	 	50	215353	0	92			0		other	0
+slope6_skin	62	Port Input	77					216520	1167	1
+slope6_skin	62	Port Input	49					216540	1187	1
+slope6_skin	62	Port Input	56					216550	1197	1
+slope6_skin	62	Port Input	48					216560	1207	1
+slope6_skin	63	Save Logfile	Measurement,38.4, ,50	Measurement	38.4	 	50	218963	0	100			0		other	0
+slope6_skin	63	Port Input	77					220220	1257	1
+slope6_skin	63	Port Input	49					220250	1287	1
+slope6_skin	63	Port Input	56					220260	1297	1
+slope6_skin	63	Port Input	101					220270	1307	1
+slope6_skin	64	Save Logfile	Measurement,39.8, ,50	Measurement	39.8	 	50	222673	0	108			0		other	0
+slope6_skin	64	Port Input	77					223890	1217	1
+slope6_skin	64	Port Input	49					223910	1237	1
+slope6_skin	64	Port Input	97					223920	1247	1
+slope6_skin	64	Port Input	55					223930	1257	1
+slope6_skin	65	Save Logfile	Measurement,42.3, ,50	Measurement	42.3	 	50	226333	0	107			0		other	0
+slope6_skin	65	Port Input	77					227560	1227	1
+slope6_skin	65	Port Input	49					227580	1247	1
+slope6_skin	65	Port Input	99					227590	1257	1
+slope6_skin	65	Port Input	48					227600	1267	1
+slope6_skin	66	Save Logfile	Measurement,44.8, ,50	Measurement	44.8	 	50	230003	0	98			0		other	0
+slope6_skin	66	Port Input	77					231220	1217	1
+slope6_skin	66	Port Input	49					231240	1237	1
+slope6_skin	66	Port Input	100					231250	1247	1
+slope6_skin	66	Port Input	55					231260	1257	1
+slope6_skin	67	Save Logfile	Measurement,47.1, ,50	Measurement	47.1	 	50	233663	0	103			0		other	0
+slope6_skin	67	Port Input	77					234890	1227	1
+slope6_skin	67	Port Input	49					234910	1247	1
+slope6_skin	67	Port Input	101					234920	1257	1
+slope6_skin	67	Port Input	100					234930	1267	1
+slope6_skin	67	Port Input	70					235920	2257	1
+slope6_skin	67	Port Input	49					235940	2277	1
+slope6_skin	67	Port Input	102					235950	2287	1
+slope6_skin	67	Port Input	52					235960	2297	1
+slope6_skin	68	Save Logfile	Measurement,50, ,50	Measurement	50	 	50	237333	0	102			0		other	0
+slope6_skin	69	Save Logfile	Peak Temperature,50, ,50	Peak Temperature	50	 	50	237651	0	100			0		other	0
+slope6_skin	69	Port Input	67					238840	1189	1
+slope6_skin	69	Port Input	48					238850	1199	1
+slope6_skin	69	Port Input	48					238860	1209	1
+slope6_skin	69	Port Input	48					238870	1219	1
+slope6_skin	69	Port Input	77					240320	2669	1
+slope6_skin	69	Port Input	49					240350	2699	1
+slope6_skin	69	Port Input	102					240360	2709	1
+slope6_skin	69	Port Input	99					240370	2719	1
+slope6_skin	70	Save Logfile	Measurement,50.8, ,38	Measurement	50.8	 	38	240774	0	104			0		other	0
+slope6_skin	70	Port Input	77					242050	1276	1
+slope6_skin	70	Port Input	49					242070	1296	1
+slope6_skin	70	Port Input	102					242080	1306	1
+slope6_skin	70	Port Input	51					242090	1316	1
+slope6_skin	71	Save Logfile	Measurement,49.9, ,38	Measurement	49.9	 	38	242494	0	106			0		other	0
+slope6_skin	71	Port Input	77					243700	1206	1
+slope6_skin	71	Port Input	49					243730	1236	1
+slope6_skin	71	Port Input	101					243740	1246	1
+slope6_skin	71	Port Input	97					243750	1256	1
+slope6_skin	72	Save Logfile	Measurement,49, ,38	Measurement	49	 	38	244154	0	103			0		other	0
+slope6_skin	72	Port Input	77					245380	1226	1
+slope6_skin	72	Port Input	49					245410	1256	1
+slope6_skin	72	Port Input	101					245420	1266	1
+slope6_skin	72	Port Input	48					245430	1276	1
+slope6_skin	73	Save Logfile	Measurement,48, ,38	Measurement	48	 	38	245834	0	106			0		other	0
+slope6_skin	73	Port Input	77					247040	1206	1
+slope6_skin	73	Port Input	49					247060	1226	1
+slope6_skin	73	Port Input	100					247070	1236	1
+slope6_skin	73	Port Input	55					247080	1246	1
+slope6_skin	74	Save Logfile	Measurement,47.1, ,38	Measurement	47.1	 	38	247484	0	106			0		other	0
+slope6_skin	74	Port Input	77					248710	1226	1
+slope6_skin	74	Port Input	49					248730	1246	1
+slope6_skin	74	Port Input	99					248740	1256	1
+slope6_skin	74	Port Input	101					248750	1266	1
+slope6_skin	75	Save Logfile	Measurement,46.2, ,38	Measurement	46.2	 	38	249154	0	107			0		other	0
+slope6_skin	75	Port Input	77					250370	1216	1
+slope6_skin	75	Port Input	49					250390	1236	1
+slope6_skin	75	Port Input	99					250400	1246	1
+slope6_skin	75	Port Input	53					250410	1256	1
+slope6_skin	76	Save Logfile	Measurement,45.3, ,38	Measurement	45.3	 	38	250814	0	108			0		other	0
+slope6_skin	76	Port Input	77					252030	1216	1
+slope6_skin	76	Port Input	49					252060	1246	1
+slope6_skin	76	Port Input	98					252070	1256	1
+slope6_skin	76	Port Input	99					252080	1266	1
+slope6_skin	77	Save Logfile	Measurement,44.4, ,38	Measurement	44.4	 	38	252484	0	113			0		other	0
+slope6_skin	77	Port Input	77					253700	1216	1
+slope6_skin	77	Port Input	49					253720	1236	1
+slope6_skin	77	Port Input	98					253730	1246	1
+slope6_skin	77	Port Input	52					253740	1256	1
+slope6_skin	78	Save Logfile	Measurement,43.6, ,38	Measurement	43.6	 	38	254144	0	112			0		other	0
+slope6_skin	78	Response	1					254881	737	1
+slope6_skin	78	Port Input	77					255360	1216	1
+slope6_skin	78	Port Input	49					255390	1246	1
+slope6_skin	78	Port Input	97					255400	1256	1
+slope6_skin	78	Port Input	98					255410	1266	1
+slope6_skin	79	Save Logfile	Measurement,42.7, ,38	Measurement	42.7	 	38	255815	0	116			0		other	0
+slope6_skin	79	Port Input	77					257020	1205	1
+slope6_skin	79	Port Input	49					257050	1235	1
+slope6_skin	79	Port Input	97					257060	1245	1
+slope6_skin	79	Port Input	51					257070	1255	1
+slope6_skin	79	Response	1					257190	1375	2
+slope6_skin	80	Save Logfile	Measurement,41.9, ,38	Measurement	41.9	 	38	257474	0	114			0		other	0
+slope6_skin	80	Port Input	77					258690	1216	1
+slope6_skin	80	Port Input	49					258720	1246	1
+slope6_skin	80	Port Input	57					258730	1256	1
+slope6_skin	80	Port Input	98					258740	1266	1
+slope6_skin	81	Save Logfile	Measurement,41.1, ,38	Measurement	41.1	 	38	259145	0	116			0		other	0
+slope6_skin	81	Response	1					259754	609	1
+slope6_skin	81	Port Input	77					260360	1215	1
+slope6_skin	81	Port Input	49					260390	1245	1
+slope6_skin	81	Port Input	57					260400	1255	1
+slope6_skin	81	Port Input	51					260410	1265	1
+slope6_skin	82	Save Logfile	Measurement,40.3, ,38	Measurement	40.3	 	38	260815	0	114			0		other	0
+slope6_skin	82	Port Input	77					262020	1205	1
+slope6_skin	82	Port Input	49					262050	1235	1
+slope6_skin	82	Port Input	56					262060	1245	1
+slope6_skin	82	Port Input	99					262070	1255	1
+slope6_skin	83	Save Logfile	Measurement,39.6, ,38	Measurement	39.6	 	38	262474	0	117			0		other	0
+slope6_skin	83	Port Input	77					263690	1216	1
+slope6_skin	83	Port Input	49					263720	1246	1
+slope6_skin	83	Port Input	56					263730	1256	1
+slope6_skin	83	Port Input	53					263740	1266	1
+slope6_skin	84	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	264144	0	119			0		other	0
+slope6_skin	84	Port Input	77					265350	1206	1
+slope6_skin	84	Port Input	49					265380	1236	1
+slope6_skin	84	Port Input	56					265390	1246	1
+slope6_skin	84	Port Input	51					265400	1256	1
+slope6_skin	85	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	267803	0	122			0		other	0
+slope6_skin	85	Port Input	77					269050	1247	1
+slope6_skin	85	Port Input	49					269080	1277	1
+slope6_skin	85	Port Input	56					269090	1287	1
+slope6_skin	85	Port Input	51					269100	1297	1
+slope6_skin	86	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	271503	0	124			0		other	0
+slope6_skin	86	Port Input	77					272870	1367	1
+slope6_skin	86	Port Input	49					272890	1387	1
+slope6_skin	86	Port Input	56					272901	1398	1
+slope6_skin	86	Port Input	50					272910	1407	1
+slope6_skin	87	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	275313	0	125			0		other	0
+slope6_skin	87	Port Input	77					276690	1377	1
+slope6_skin	87	Port Input	49					276720	1407	1
+slope6_skin	87	Port Input	56					276730	1417	1
+slope6_skin	87	Port Input	50					276740	1427	1
+slope6_skin	88	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	279144	0	170			0		other	0
+slope6_skin	88	Port Input	77					280521	1377	1
+slope6_skin	88	Port Input	49					280540	1396	2
+slope6_skin	88	Port Input	56					280550	1406	1
+slope6_skin	88	Port Input	50					280560	1416	1
+slope6_skin	89	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	282969	0	232			0		other	0
+slope6_skin	89	Port Input	77					284340	1371	2
+slope6_skin	89	Port Input	49					284370	1401	2
+slope6_skin	89	Port Input	56					284380	1411	1
+slope6_skin	89	Port Input	50					284390	1421	1
+slope6_skin	89	Response	4					286377	3408	1
+slope6_skin	90	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	286805	0	182			0		other	0
+slope6_skin	90	Port Input	84					288180	1375	1
+slope6_skin	90	Port Input	50					288190	1385	1
+slope6_skin	90	Port Input	49					288200	1395	1
+slope6_skin	90	Port Input	50					288210	1405	1
+slope6_skin	90	Port Input	67					289721	2916	1
+slope6_skin	90	Port Input	48					289730	2925	1
+slope6_skin	90	Port Input	48					289740	2935	1
+slope6_skin	90	Port Input	51					289750	2945	1
+slope6_skin	91	Save Logfile	Initiate Peak,38.6, ,53	Initiate Peak	38.6	 	53	290133	0	140			0		other	0
+slope6_skin	91	Port Input	77					291340	1207	1
+slope6_skin	91	Port Input	49					291370	1237	2
+slope6_skin	91	Port Input	56					291380	1247	1
+slope6_skin	91	Port Input	50					291390	1257	1
+slope6_skin	92	Save Logfile	Measurement,38.6, ,53	Measurement	38.6	 	53	293793	0	143			0		other	0
+slope6_skin	92	Port Input	77					295160	1367	2
+slope6_skin	92	Port Input	49					295190	1397	1
+slope6_skin	92	Port Input	57					295200	1407	1
+slope6_skin	92	Port Input	49					295210	1417	1
+slope6_skin	93	Save Logfile	Measurement,40.1, ,53	Measurement	40.1	 	53	297613	0	142			0		other	0
+slope6_skin	93	Port Input	77					299000	1387	1
+slope6_skin	93	Port Input	49					299020	1407	1
+slope6_skin	93	Port Input	97					299030	1417	1
+slope6_skin	93	Port Input	99					299040	1427	1
+slope6_skin	94	Save Logfile	Measurement,42.8, ,53	Measurement	42.8	 	53	301443	0	135			0		other	0
+slope6_skin	94	Port Input	77					302820	1377	2
+slope6_skin	94	Port Input	49					302850	1407	1
+slope6_skin	94	Port Input	99					302860	1417	1
+slope6_skin	94	Port Input	53					302870	1427	1
+slope6_skin	95	Save Logfile	Measurement,45.3, ,53	Measurement	45.3	 	53	305273	0	151			0		other	0
+slope6_skin	95	Port Input	77					306650	1377	2
+slope6_skin	95	Port Input	49					306680	1407	1
+slope6_skin	95	Port Input	100					306690	1417	1
+slope6_skin	95	Port Input	99					306700	1427	1
+slope6_skin	96	Save Logfile	Measurement,47.6, ,53	Measurement	47.6	 	53	309103	0	131			0		other	0
+slope6_skin	96	Port Input	77					310320	1217	2
+slope6_skin	96	Port Input	49					310350	1247	2
+slope6_skin	96	Port Input	102					310360	1257	1
+slope6_skin	96	Port Input	51					310370	1267	1
+slope6_skin	97	Save Logfile	Measurement,49.9, ,53	Measurement	49.9	 	53	312773	0	139			0		other	0
+slope6_skin	97	Port Input	77					314150	1377	2
+slope6_skin	97	Port Input	50					314180	1407	2
+slope6_skin	97	Port Input	48					314190	1417	1
+slope6_skin	97	Port Input	98					314200	1427	2
+slope6_skin	97	Port Input	70					315161	2388	1
+slope6_skin	97	Port Input	50					315180	2407	2
+slope6_skin	97	Port Input	49					315190	2417	2
+slope6_skin	97	Port Input	49					315200	2427	2
+slope6_skin	98	Save Logfile	Measurement,52.9, ,53	Measurement	52.9	 	53	316603	0	137			0		other	0
+slope6_skin	99	Save Logfile	Peak Temperature,52.9, ,53	Peak Temperature	52.9	 	53	317090	0	135			0		other	0
+slope6_skin	99	Port Input	67					318300	1210	2
+slope6_skin	99	Port Input	48					318310	1220	2
+slope6_skin	99	Port Input	48					318330	1240	2
+slope6_skin	99	Port Input	48					318340	1250	2
+slope6_skin	99	Port Input	77					319790	2700	2
+slope6_skin	99	Port Input	50					319820	2730	2
+slope6_skin	99	Port Input	49					319830	2740	2
+slope6_skin	99	Port Input	53					319840	2750	1
+slope6_skin	100	Save Logfile	Measurement,53.3, ,38	Measurement	53.3	 	38	320244	0	143			0		other	0
+slope6_skin	100	Port Input	77					321480	1236	2
+slope6_skin	100	Port Input	50					321510	1266	2
+slope6_skin	100	Port Input	48					321520	1276	2
+slope6_skin	100	Port Input	98					321530	1286	2
+slope6_skin	101	Save Logfile	Measurement,52.3, ,38	Measurement	52.3	 	38	321934	0	145			0		other	0
+slope6_skin	101	Port Input	77					323310	1376	2
+slope6_skin	101	Port Input	50					323340	1406	2
+slope6_skin	101	Port Input	48					323350	1416	2
+slope6_skin	101	Port Input	49					323360	1426	2
+slope6_skin	102	Save Logfile	Measurement,51.3, ,38	Measurement	51.3	 	38	323764	0	153			0		other	0
+slope6_skin	102	Port Input	77					325141	1377	1
+slope6_skin	102	Port Input	49					325171	1407	1
+slope6_skin	102	Port Input	102					325180	1416	2
+slope6_skin	102	Port Input	54					325190	1426	2
+slope6_skin	103	Save Logfile	Measurement,50.2, ,38	Measurement	50.2	 	38	325595	0	144			0		other	0
+slope6_skin	103	Port Input	77					326971	1376	1
+slope6_skin	103	Port Input	49					327001	1406	1
+slope6_skin	103	Port Input	101					327010	1415	2
+slope6_skin	103	Port Input	98					327020	1425	2
+slope6_skin	104	Save Logfile	Measurement,49.1, ,38	Measurement	49.1	 	38	327424	0	142			0		other	0
+slope6_skin	104	Port Input	77					328801	1377	1
+slope6_skin	104	Port Input	49					328830	1406	2
+slope6_skin	104	Port Input	101					328840	1416	2
+slope6_skin	104	Port Input	50					328850	1426	2
+slope6_skin	105	Save Logfile	Measurement,48.2, ,38	Measurement	48.2	 	38	329254	0	156			0		other	0
+slope6_skin	105	Port Input	77					330631	1377	1
+slope6_skin	105	Port Input	49					330660	1406	2
+slope6_skin	105	Port Input	100					330670	1416	2
+slope6_skin	105	Port Input	57					330680	1426	2
+slope6_skin	106	Save Logfile	Measurement,47.3, ,38	Measurement	47.3	 	38	331084	0	150			0		other	0
+slope6_skin	106	Port Input	77					332470	1386	2
+slope6_skin	106	Port Input	49					332500	1416	2
+slope6_skin	106	Port Input	99					332510	1426	2
+slope6_skin	106	Port Input	102					332520	1436	2
+slope6_skin	107	Save Logfile	Measurement,46.3, ,38	Measurement	46.3	 	38	332924	0	158			0		other	0
+slope6_skin	107	Port Input	77					334300	1376	2
+slope6_skin	107	Port Input	49					334331	1407	1
+slope6_skin	107	Port Input	99					334340	1416	2
+slope6_skin	107	Port Input	54					334351	1427	1
+slope6_skin	108	Save Logfile	Measurement,45.4, ,38	Measurement	45.4	 	38	334754	0	151			0		other	0
+slope6_skin	108	Port Input	77					336131	1377	1
+slope6_skin	108	Port Input	49					336161	1407	1
+slope6_skin	108	Port Input	98					336171	1417	1
+slope6_skin	108	Port Input	100					336180	1426	2
+slope6_skin	109	Save Logfile	Measurement,44.5, ,38	Measurement	44.5	 	38	336584	0	151			0		other	0
+slope6_skin	109	Port Input	77					337961	1377	1
+slope6_skin	109	Port Input	49					337991	1407	1
+slope6_skin	109	Port Input	98					338000	1416	2
+slope6_skin	109	Port Input	52					338010	1426	2
+slope6_skin	110	Save Logfile	Measurement,43.6, ,38	Measurement	43.6	 	38	338414	0	259			0		other	0
+slope6_skin	110	Port Input	77					339791	1377	1
+slope6_skin	110	Port Input	49					339821	1407	1
+slope6_skin	110	Port Input	97					339830	1416	2
+slope6_skin	110	Port Input	98					339841	1427	1
+slope6_skin	111	Save Logfile	Measurement,42.7, ,38	Measurement	42.7	 	38	340244	0	155			0		other	0
+slope6_skin	111	Port Input	77					341631	1387	1
+slope6_skin	111	Port Input	49					341661	1417	1
+slope6_skin	111	Port Input	97					341671	1427	1
+slope6_skin	111	Port Input	50					341680	1436	2
+slope6_skin	112	Save Logfile	Measurement,41.8, ,38	Measurement	41.8	 	38	342084	0	166			0		other	0
+slope6_skin	112	Port Input	77					343461	1377	1
+slope6_skin	112	Port Input	49					343490	1406	2
+slope6_skin	112	Port Input	57					343500	1416	2
+slope6_skin	112	Port Input	57					343511	1427	1
+slope6_skin	113	Save Logfile	Measurement,40.9, ,38	Measurement	40.9	 	38	343914	0	156			0		other	0
+slope6_skin	113	Port Input	77					345291	1377	1
+slope6_skin	113	Port Input	49					345321	1407	1
+slope6_skin	113	Port Input	57					345331	1417	1
+slope6_skin	113	Port Input	49					345341	1427	1
+slope6_skin	114	Save Logfile	Measurement,40.1, ,38	Measurement	40.1	 	38	345745	0	155			0		other	0
+slope6_skin	114	Port Input	77					347121	1376	1
+slope6_skin	114	Port Input	49					347151	1406	1
+slope6_skin	114	Port Input	56					347161	1416	1
+slope6_skin	114	Port Input	97					347171	1426	1
+slope6_skin	115	Save Logfile	Measurement,39.4, ,38	Measurement	39.4	 	38	347574	0	165			0		other	0
+slope6_skin	115	Port Input	77					348951	1377	1
+slope6_skin	115	Port Input	49					348981	1407	1
+slope6_skin	115	Port Input	56					348991	1417	1
+slope6_skin	115	Port Input	53					349000	1426	2
+slope6_skin	116	Save Logfile	Measurement,38.9, ,38	Measurement	38.9	 	38	349404	0	158			0		other	0
+slope6_skin	116	Port Input	77					350791	1387	1
+slope6_skin	116	Port Input	49					350821	1417	1
+slope6_skin	116	Port Input	56					350831	1427	1
+slope6_skin	116	Port Input	53					350841	1437	1
+slope6_skin	117	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	353243	0	159			0		other	0
+slope6_skin	117	Port Input	77					354621	1378	1
+slope6_skin	117	Port Input	49					354651	1408	1
+slope6_skin	117	Port Input	56					354661	1418	1
+slope6_skin	117	Port Input	53					354671	1428	1
+slope6_skin	118	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	357073	0	170			0		other	0
+slope6_skin	118	Port Input	77					358451	1378	1
+slope6_skin	118	Port Input	49					358481	1408	1
+slope6_skin	118	Port Input	56					358491	1418	1
+slope6_skin	118	Port Input	53					358501	1428	1
+slope6_skin	118	Response	2					359845	2772	2
+slope6_skin	119	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	360903	0	171			0		other	0
+slope6_skin	119	Response	2					361626	723	1
+slope6_skin	119	Port Input	77					362291	1388	1
+slope6_skin	119	Port Input	49					362321	1418	1
+slope6_skin	119	Port Input	56					362331	1428	1
+slope6_skin	119	Port Input	52					362341	1438	1
+slope6_skin	119	Response	2					363367	2464	2
+slope6_skin	120	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	364743	0	167			0		other	0
+slope6_skin	120	Response	2					364977	234	1
+slope6_skin	120	Port Input	77					366121	1378	1
+slope6_skin	120	Port Input	49					366151	1408	1
+slope6_skin	120	Port Input	56					366161	1418	1
+slope6_skin	120	Port Input	52					366171	1428	1
+slope6_skin	120	Response	2					366668	1925	1
+slope6_skin	120	Response	2					368320	3577	1
+slope6_skin	121	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	368591	0	169			0		other	0
+slope6_skin	121	Port Input	77					369951	1360	1
+slope6_skin	121	Port Input	49					369981	1390	1
+slope6_skin	121	Port Input	56					369991	1400	1
+slope6_skin	121	Port Input	52					370001	1410	1
+slope6_skin	121	Response	2					370066	1475	1
+slope6_skin	121	Response	2					371588	2997	1
+slope6_skin	122	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	372403	0	168			0		other	0
+slope6_skin	122	Response	2					373385	982	2
+slope6_skin	122	Port Input	77					373781	1378	1
+slope6_skin	122	Port Input	49					373811	1408	1
+slope6_skin	122	Port Input	56					373821	1418	1
+slope6_skin	122	Port Input	52					373831	1428	1
+slope6_skin	122	Response	2					375036	2633	1
+slope6_skin	123	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	376233	0	177			0		other	0
+slope6_skin	123	Response	2					376533	300	1
+slope6_skin	123	Port Input	77					377611	1378	1
+slope6_skin	123	Port Input	49					377641	1408	1
+slope6_skin	123	Port Input	56					377651	1418	1
+slope6_skin	123	Port Input	52					377661	1428	1
+slope6_skin	123	Response	2					378119	1886	1
+slope6_skin	123	Response	2					379703	3470	1
+slope6_skin	124	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	380063	0	180			0		other	0
+slope6_skin	124	Response	2					381336	1273	1
+slope6_skin	124	Port Input	77					381441	1378	1
+slope6_skin	124	Port Input	49					381471	1408	1
+slope6_skin	124	Port Input	56					381481	1418	1
+slope6_skin	124	Port Input	52					381491	1428	1
+slope6_skin	124	Response	2					383020	2957	2
+slope6_skin	125	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	383893	0	170			0		other	0
+slope6_skin	125	Response	2					384581	688	1
+slope6_skin	125	Port Input	77					385271	1378	1
+slope6_skin	125	Port Input	49					385301	1408	1
+slope6_skin	125	Port Input	56					385311	1418	1
+slope6_skin	125	Port Input	52					385321	1428	1
+slope6_skin	125	Response	2					386162	2269	1
+slope6_skin	126	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	387723	0	179			0		other	0
+slope6_skin	126	Response	2					387723	0	102
+slope6_skin	126	Port Input	77					389101	1378	1
+slope6_skin	126	Port Input	49					389131	1408	1
+slope6_skin	126	Port Input	56					389141	1418	1
+slope6_skin	126	Port Input	52					389151	1428	1
+slope6_skin	126	Response	2					389343	1620	1
+slope6_skin	126	Response	2					391017	3294	1
+slope6_skin	127	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	391556	0	299			0		other	0
+slope6_skin	127	Port Input	77					393101	1545	1
+slope6_skin	127	Port Input	49					393131	1575	1
+slope6_skin	127	Port Input	56					393141	1585	1
+slope6_skin	127	Port Input	52					393151	1595	1
+slope6_skin	128	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	395555	0	309			0		other	0
+slope6_skin	128	Port Input	77					397112	1557	1
+slope6_skin	128	Port Input	49					397131	1576	1
+slope6_skin	128	Port Input	56					397141	1586	1
+slope6_skin	128	Port Input	52					397151	1596	1
+slope6_skin	129	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	399553	0	244			0		other	0
+slope6_skin	129	Port Input	77					400921	1368	1
+slope6_skin	129	Port Input	49					400951	1398	1
+slope6_skin	129	Port Input	56					400961	1408	1
+slope6_skin	129	Port Input	52					400971	1418	1
+slope6_skin	130	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	403373	0	186			0		other	0
+slope6_skin	130	Port Input	77					404751	1378	1
+slope6_skin	130	Port Input	49					404781	1408	1
+slope6_skin	130	Port Input	56					404791	1418	1
+slope6_skin	130	Port Input	52					404801	1428	1
+slope6_skin	131	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	407204	0	185			0		other	0
+slope6_skin	131	Port Input	77					408581	1377	1
+slope6_skin	131	Port Input	49					408611	1407	1
+slope6_skin	131	Port Input	56					408621	1417	1
+slope6_skin	131	Port Input	52					408631	1427	1
+slope6_skin	132	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	411034	0	186			0		other	0
+slope6_skin	132	Port Input	77					412421	1387	1
+slope6_skin	132	Port Input	49					412451	1417	1
+slope6_skin	132	Port Input	56					412461	1427	1
+slope6_skin	132	Port Input	52					412471	1437	1
+slope6_skin	133	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	414873	0	176			0		other	0
+slope6_skin	133	Port Input	77					416251	1378	1
+slope6_skin	133	Port Input	49					416281	1408	1
+slope6_skin	133	Port Input	56					416291	1418	1
+slope6_skin	133	Port Input	52					416301	1428	1
+slope6_skin	134	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	418703	0	2210			0		other	0
+slope6_skin	134	Port Input	77					422081	3378	1
+slope6_skin	134	Port Input	49					422111	3408	1
+slope6_skin	134	Port Input	56					422121	3418	1
+slope6_skin	134	Port Input	52					422131	3428	1
+slope6_skin	135	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	424533	0	197			0		other	0
+slope6_skin	135	Port Input	77					425901	1368	1
+slope6_skin	135	Port Input	49					425931	1398	1
+slope6_skin	135	Port Input	56					425941	1408	1
+slope6_skin	135	Port Input	52					425951	1418	1
+slope6_skin	136	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	428353	0	388			0		other	0
+slope6_skin	136	Port Input	77					429901	1548	2
+slope6_skin	136	Port Input	49					429931	1578	1
+slope6_skin	136	Port Input	56					429941	1588	1
+slope6_skin	136	Port Input	52					429951	1598	1
+slope6_skin	137	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	432353	0	184			0		other	0
+slope6_skin	137	Port Input	77					433731	1378	1
+slope6_skin	137	Port Input	49					433761	1408	1
+slope6_skin	137	Port Input	56					433771	1418	1
+slope6_skin	137	Port Input	52					433781	1428	1
+slope6_skin	138	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	436183	0	2190			0		other	0
+slope6_skin	138	Port Input	77					439561	3378	1
+slope6_skin	138	Port Input	49					439601	3418	1
+slope6_skin	138	Port Input	56					439611	3428	1
+slope6_skin	139	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	442017	0	2198			0		other	0
+slope6_skin	139	Port Input	52					445391	3374	1
+slope6_skin	139	Port Input	77					445411	3394	1
+slope6_skin	139	Port Input	49					445421	3404	1
+slope6_skin	139	Port Input	56					445431	3414	1
+slope6_skin	140	Save Logfile	Measurement,38.8, ,0	Measurement	38.8	 	0	447834	0	193			0		other	0
+slope6_skin	140	Response	4					448094	260	2
+slope6_skin	140	Port Input	52					449211	1377	1
+slope6_skin	140	Port Input	84					449231	1397	1
+slope6_skin	140	Port Input	49					449241	1407	1
+slope6_skin	140	Port Input	52					449251	1417	1
+slope6_skin	140	Port Input	97					450761	2927	1
+slope6_skin	140	Port Input	67					450771	2937	1
+slope6_skin	140	Port Input	48					450781	2947	1
+slope6_skin	140	Port Input	48					450791	2957	1
+slope6_skin	141	Save Logfile	Initiate Peak,38.8, ,33	Initiate Peak	38.8	 	33	451173	0	199			0		other	0
+slope6_skin	141	Port Input	51					452441	1268	1
+slope6_skin	141	Port Input	77					452471	1298	1
+slope6_skin	141	Port Input	49					452481	1308	1
+slope6_skin	141	Port Input	56					452491	1318	1
+slope6_skin	141	Port Input	51					455951	4778	1
+slope6_skin	141	Port Input	77					455981	4808	1
+slope6_skin	141	Port Input	49					455991	4818	1
+slope6_skin	141	Port Input	55					456001	4828	1
+slope6_skin	142	Save Logfile	Measurement,38.7, ,33	Measurement	38.7	 	33	458474	0	272			0		other	0
+slope6_skin	142	Port Input	54					459871	1397	1
+slope6_skin	142	Port Input	77					459901	1427	2
+slope6_skin	142	Port Input	49					459911	1437	1
+slope6_skin	142	Port Input	54					459921	1447	1
+slope6_skin	143	Save Logfile	Measurement,37.4, ,33	Measurement	37.4	 	33	462324	0	197			0		other	0
+slope6_skin	143	Port Input	52					463701	1377	1
+slope6_skin	143	Port Input	77					463731	1407	1
+slope6_skin	143	Port Input	49					463741	1417	1
+slope6_skin	143	Port Input	53					463751	1427	1
+slope6_skin	144	Save Logfile	Measurement,35.6, ,33	Measurement	35.6	 	33	466154	0	192			0		other	0
+slope6_skin	144	Port Input	53					466742	588	1
+slope6_skin	144	Port Input	70					466771	617	1
+slope6_skin	144	Port Input	49					466781	627	1
+slope6_skin	144	Port Input	52					466791	637	1
+slope6_skin	144	Port Input	57					467531	1377	1
+slope6_skin	144	Port Input	77					467561	1407	1
+slope6_skin	144	Port Input	49					467571	1417	1
+slope6_skin	144	Port Input	52					467581	1427	1
+slope6_skin	145	Save Logfile	Measurement,32.9, ,33	Measurement	32.9	 	33	469984	0	193			0		other	0
+slope6_skin	146	Save Logfile	Peak Temperature,32.9, ,33	Peak Temperature	32.9	 	33	470472	0	196			0		other	0
+slope6_skin	146	Port Input	55					471741	1269	1
+slope6_skin	146	Port Input	67					471751	1279	1
+slope6_skin	146	Port Input	48					471761	1289	1
+slope6_skin	146	Port Input	48					471771	1299	1
+slope6_skin	146	Port Input	48					473231	2759	2
+slope6_skin	146	Port Input	77					473261	2789	1
+slope6_skin	146	Port Input	49					473271	2799	1
+slope6_skin	146	Port Input	53					473281	2809	1
+slope6_skin	147	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	473686	0	213			0		other	0
+slope6_skin	147	Port Input	51					475021	1335	1
+slope6_skin	147	Port Input	77					475051	1365	1
+slope6_skin	147	Port Input	49					475061	1375	1
+slope6_skin	147	Port Input	53					475071	1385	1
+slope6_skin	148	Save Logfile	Measurement,33.9, ,38	Measurement	33.9	 	38	475476	0	212			0		other	0
+slope6_skin	148	Port Input	100					476861	1385	2
+slope6_skin	148	Port Input	77					476891	1415	2
+slope6_skin	148	Port Input	49					476901	1425	1
+slope6_skin	148	Port Input	54					476911	1435	1
+slope6_skin	149	Save Logfile	Measurement,34.9, ,38	Measurement	34.9	 	38	477316	0	199			0		other	0
+slope6_skin	149	Port Input	55					478691	1375	2
+slope6_skin	149	Port Input	77					478721	1405	1
+slope6_skin	149	Port Input	49					478731	1415	1
+slope6_skin	149	Port Input	55					478741	1425	1
+slope6_skin	150	Save Logfile	Measurement,35.9, ,38	Measurement	35.9	 	38	479146	0	201			0		other	0
+slope6_skin	150	Port Input	48					480521	1375	1
+slope6_skin	150	Port Input	77					480552	1406	1
+slope6_skin	150	Port Input	49					480561	1415	1
+slope6_skin	150	Port Input	55					480571	1425	1
+slope6_skin	151	Save Logfile	Measurement,36.8, ,38	Measurement	36.8	 	38	480975	0	213			0		other	0
+slope6_skin	151	Port Input	57					482351	1376	1
+slope6_skin	151	Port Input	77					482381	1406	1
+slope6_skin	151	Port Input	49					482391	1416	1
+slope6_skin	151	Port Input	56					482401	1426	1
+slope6_skin	152	Save Logfile	Measurement,37.7, ,38	Measurement	37.7	 	38	482806	0	203			0		other	0
+slope6_skin	152	Port Input	49					484181	1375	2
+slope6_skin	152	Port Input	77					484211	1405	1
+slope6_skin	152	Port Input	49					484221	1415	1
+slope6_skin	152	Port Input	56					484231	1425	1
+slope6_skin	153	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	486634	0	204			0		other	0
+slope6_skin	153	Port Input	53					488011	1377	1
+slope6_skin	153	Port Input	77					488041	1407	2
+slope6_skin	153	Port Input	49					488051	1417	1
+slope6_skin	153	Port Input	56					488061	1427	1
+slope6_skin	154	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	490464	0	224			0		other	0
+slope6_skin	154	Port Input	50					491841	1377	2
+slope6_skin	154	Port Input	77					491872	1408	1
+slope6_skin	154	Port Input	49					491881	1417	2
+slope6_skin	154	Port Input	56					491891	1427	2
+slope6_skin	155	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	494294	0	224			0		other	0
+slope6_skin	155	Port Input	50					495681	1387	2
+slope6_skin	155	Port Input	77					495711	1417	2
+slope6_skin	155	Port Input	49					495721	1427	1
+slope6_skin	155	Port Input	56					495731	1437	1
+slope6_skin	156	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	498134	0	213			0		other	0
+slope6_skin	156	Port Input	50					499511	1377	2
+slope6_skin	156	Port Input	77					499541	1407	2
+slope6_skin	156	Port Input	49					499551	1417	2
+slope6_skin	156	Port Input	56					499561	1427	2
+slope6_skin	157	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	501964	0	208			0		other	0
+slope6_skin	157	Port Input	50					503342	1378	1
+slope6_skin	157	Port Input	77					503371	1407	2
+slope6_skin	157	Port Input	49					503381	1417	2
+slope6_skin	157	Port Input	56					503391	1427	2
+slope6_skin	158	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	505797	0	360			0		other	0
+slope6_skin	158	Port Input	51					507332	1535	1
+slope6_skin	158	Port Input	77					507362	1565	1
+slope6_skin	158	Port Input	49					507372	1575	1
+slope6_skin	158	Port Input	56					507381	1584	2
+slope6_skin	159	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	509786	0	345			0		other	0
+slope6_skin	159	Port Input	50					511332	1546	1
+slope6_skin	159	Port Input	77					511362	1576	1
+slope6_skin	159	Port Input	49					511372	1586	1
+slope6_skin	159	Port Input	56					511381	1595	2
+slope6_skin	160	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	513784	0	223			0		other	0
+slope6_skin	160	Port Input	50					515162	1378	1
+slope6_skin	160	Port Input	77					515192	1408	1
+slope6_skin	160	Port Input	49					515202	1418	1
+slope6_skin	160	Port Input	56					515212	1428	1
+slope6_skin	161	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	517613	0	223			0		other	0
+slope6_skin	161	Port Input	51					518992	1379	1
+slope6_skin	161	Port Input	77					519022	1409	1
+slope6_skin	161	Port Input	49					519032	1419	1
+slope6_skin	161	Port Input	56					519042	1429	1
+slope6_skin	162	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	521444	0	225			0		other	0
+slope6_skin	162	Port Input	50					522822	1378	1
+slope6_skin	162	Port Input	77					522852	1408	1
+slope6_skin	162	Port Input	49					522862	1418	1
+slope6_skin	162	Port Input	56					522872	1428	1
+slope6_skin	163	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	525274	0	237			0		other	0
+slope6_skin	163	Port Input	51					526652	1378	1
+slope6_skin	163	Port Input	77					526682	1408	1
+slope6_skin	163	Port Input	49					526692	1418	1
+slope6_skin	163	Port Input	56					526702	1428	1
+slope6_skin	164	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	529104	0	215			0		other	0
+slope6_skin	164	Port Input	50					530482	1378	1
+slope6_skin	164	Port Input	77					530512	1408	1
+slope6_skin	164	Port Input	49					530522	1418	1
+slope6_skin	164	Port Input	56					530532	1428	1
+slope6_skin	165	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	532933	0	228			0		other	0
+slope6_skin	165	Port Input	50					534312	1379	1
+slope6_skin	165	Port Input	77					534342	1409	1
+slope6_skin	165	Port Input	49					534352	1419	1
+slope6_skin	165	Port Input	56					534362	1429	1
+slope6_skin	166	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	536764	0	230			0		other	0
+slope6_skin	166	Response	2					537017	253	2
+slope6_skin	166	Port Input	51					538182	1418	1
+slope6_skin	166	Port Input	77					538192	1428	1
+slope6_skin	166	Port Input	49					538202	1438	1
+slope6_skin	166	Response	2					538835	2071	1
+slope6_skin	167	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	540603	0	241			0		other	0
+slope6_skin	167	Response	2					540603	0	58
+slope6_skin	167	Port Input	56					541982	1379	1
+slope6_skin	167	Port Input	50					542012	1409	1
+slope6_skin	167	Port Input	77					542022	1419	1
+slope6_skin	167	Port Input	49					542032	1429	1
+slope6_skin	167	Response	2					542485	1882	1
+slope6_skin	167	Response	2					544191	3588	1
+slope6_skin	168	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	544434	0	230			0		other	0
+slope6_skin	168	Port Input	56					545812	1378	1
+slope6_skin	168	Port Input	51					545842	1408	1
+slope6_skin	168	Port Input	77					545852	1418	1
+slope6_skin	168	Port Input	49					545862	1428	1
+slope6_skin	169	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	548263	0	418			0		other	0
+slope6_skin	169	Port Input	56					549812	1549	1
+slope6_skin	169	Port Input	50					549842	1579	1
+slope6_skin	169	Port Input	77					549852	1589	1
+slope6_skin	169	Port Input	49					549862	1599	1
+slope6_skin	170	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	552263	0	229			0		other	0
+slope6_skin	170	Port Input	56					553642	1379	1
+slope6_skin	170	Port Input	50					553672	1409	1
+slope6_skin	170	Port Input	77					553682	1419	1
+slope6_skin	170	Port Input	49					553692	1429	1
+slope6_skin	171	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	556083	0	229			0		other	0
+slope6_skin	171	Port Input	56					557462	1379	1
+slope6_skin	171	Port Input	50					557492	1409	2
+slope6_skin	171	Port Input	77					557502	1419	1
+slope6_skin	171	Port Input	49					557512	1429	1
+slope6_skin	171	Response	4					559594	3511	1
+slope6_skin	172	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	559903	0	230			0		other	0
+slope6_skin	172	Port Input	56					561292	1389	1
+slope6_skin	172	Port Input	50					561312	1409	1
+slope6_skin	172	Port Input	84					561322	1419	1
+slope6_skin	172	Port Input	49					561332	1429	1
+slope6_skin	172	Port Input	49					562852	2949	1
+slope6_skin	172	Port Input	56					562862	2959	1
+slope6_skin	172	Port Input	67					562872	2969	1
+slope6_skin	173	Save Logfile	Initiate Peak,38.6, ,28	Initiate Peak	38.6	 	28	563243	0	233			0		other	0
+slope6_skin	173	Port Input	48					564542	1299	1
+slope6_skin	173	Port Input	48					564572	1329	1
+slope6_skin	173	Port Input	51					564582	1339	1
+slope6_skin	173	Port Input	77					564592	1349	1
+slope6_skin	173	Port Input	49					568042	4799	1
+slope6_skin	173	Port Input	56					568072	4829	1
+slope6_skin	173	Port Input	50					568082	4839	1
+slope6_skin	173	Port Input	77					568092	4849	1
+slope6_skin	174	Save Logfile	Measurement,38.6, ,28	Measurement	38.6	 	28	570483	0	245			0		other	0
+slope6_skin	174	Port Input	49					571952	1469	1
+slope6_skin	174	Port Input	55					571982	1499	1
+slope6_skin	174	Port Input	52					571992	1509	1
+slope6_skin	174	Port Input	77					572002	1519	1
+slope6_skin	175	Save Logfile	Measurement,37.2, ,28	Measurement	37.2	 	28	574393	0	234			0		other	0
+slope6_skin	175	Port Input	49					575782	1389	1
+slope6_skin	175	Port Input	54					575812	1419	1
+slope6_skin	175	Port Input	50					575822	1429	1
+slope6_skin	175	Port Input	77					575832	1439	1
+slope6_skin	176	Save Logfile	Measurement,35.4, ,28	Measurement	35.4	 	28	578223	0	372			0		other	0
+slope6_skin	176	Port Input	49					579782	1559	1
+slope6_skin	176	Port Input	53					579812	1589	1
+slope6_skin	176	Port Input	51					579822	1599	1
+slope6_skin	176	Port Input	77					579832	1609	1
+slope6_skin	177	Save Logfile	Measurement,33.9, ,28	Measurement	33.9	 	28	582223	0	236			0		other	0
+slope6_skin	177	Port Input	49					583612	1389	1
+slope6_skin	177	Port Input	52					583642	1419	1
+slope6_skin	177	Port Input	52					583652	1429	1
+slope6_skin	177	Port Input	77					583662	1439	1
+slope6_skin	178	Save Logfile	Measurement,32.4, ,28	Measurement	32.4	 	28	586053	0	237			0		other	0
+slope6_skin	178	Port Input	49					587442	1389	1
+slope6_skin	178	Port Input	51					587472	1419	1
+slope6_skin	178	Port Input	55					587482	1429	1
+slope6_skin	178	Port Input	77					587492	1439	1
+slope6_skin	179	Save Logfile	Measurement,31.1, ,28	Measurement	31.1	 	28	589883	0	234			0		other	0
+slope6_skin	179	Port Input	49					591272	1389	1
+slope6_skin	179	Port Input	50					591302	1419	1
+slope6_skin	179	Port Input	98					591312	1429	1
+slope6_skin	179	Port Input	77					591322	1439	1
+slope6_skin	180	Save Logfile	Measurement,29.9, ,28	Measurement	29.9	 	28	593713	0	252			0		other	0
+slope6_skin	180	Port Input	49					594402	689	1
+slope6_skin	180	Port Input	50					594422	709	1
+slope6_skin	180	Port Input	48					594432	719	1
+slope6_skin	180	Port Input	70					594442	729	1
+slope6_skin	180	Port Input	49					595102	1389	1
+slope6_skin	180	Port Input	49					595132	1419	1
+slope6_skin	180	Port Input	55					595142	1429	1
+slope6_skin	180	Port Input	77					595152	1439	1
+slope6_skin	181	Save Logfile	Measurement,27.9, ,28	Measurement	27.9	 	28	597543	0	255			0		other	0
+slope6_skin	182	Save Logfile	Peak Temperature,27.9, ,28	Peak Temperature	27.9	 	28	598040	0	235			0		other	0
+slope6_skin	182	Port Input	49					599352	1312	1
+slope6_skin	182	Port Input	49					599362	1322	1
+slope6_skin	182	Port Input	53					599372	1332	1
+slope6_skin	182	Port Input	67					599382	1342	1
+slope6_skin	182	Port Input	48					600832	2792	1
+slope6_skin	182	Port Input	48					600862	2822	1
+slope6_skin	182	Port Input	48					600872	2832	1
+slope6_skin	182	Port Input	77					600882	2842	1
+slope6_skin	183	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	601275	0	256			0		other	0
+slope6_skin	183	Port Input	49					602762	1487	1
+slope6_skin	183	Port Input	50					602792	1517	1
+slope6_skin	183	Port Input	48					602802	1527	1
+slope6_skin	183	Port Input	77					602812	1537	1
+slope6_skin	184	Save Logfile	Measurement,28.8, ,38	Measurement	28.8	 	38	603205	0	247			0		other	0
+slope6_skin	184	Port Input	49					604592	1387	1
+slope6_skin	184	Port Input	50					604622	1417	1
+slope6_skin	184	Port Input	97					604632	1427	1
+slope6_skin	184	Port Input	77					604642	1437	1
+slope6_skin	185	Save Logfile	Measurement,29.8, ,38	Measurement	29.8	 	38	605035	0	256			0		other	0
+slope6_skin	185	Port Input	49					606422	1387	1
+slope6_skin	185	Port Input	51					606452	1417	1
+slope6_skin	185	Port Input	52					606462	1427	1
+slope6_skin	185	Port Input	77					606472	1437	1
+slope6_skin	186	Save Logfile	Measurement,30.8, ,38	Measurement	30.8	 	38	606867	0	255			0		other	0
+slope6_skin	186	Response	2					608206	1339	2
+slope6_skin	186	Port Input	49					608252	1385	1
+slope6_skin	186	Port Input	51					608282	1415	1
+slope6_skin	186	Port Input	100					608292	1425	1
+slope6_skin	186	Port Input	77					608302	1435	1
+slope6_skin	187	Save Logfile	Measurement,31.7, ,38	Measurement	31.7	 	38	608699	0	269			0		other	0
+slope6_skin	187	Port Input	49					610092	1393	1
+slope6_skin	187	Port Input	52					610122	1423	1
+slope6_skin	187	Port Input	54					610132	1433	1
+slope6_skin	187	Port Input	77					610142	1443	1
+slope6_skin	187	Response	2					610305	1606	1
+slope6_skin	188	Save Logfile	Measurement,32.6, ,38	Measurement	32.6	 	38	610537	0	257			0		other	0
+slope6_skin	188	Port Input	49					611922	1385	1
+slope6_skin	188	Port Input	52					611952	1415	1
+slope6_skin	188	Port Input	102					611962	1425	1
+slope6_skin	188	Port Input	77					611972	1435	1
+slope6_skin	189	Save Logfile	Measurement,33.5, ,38	Measurement	33.5	 	38	612367	0	264			0		other	0
+slope6_skin	189	Response	2					612367	0	2
+slope6_skin	189	Port Input	49					613752	1385	1
+slope6_skin	189	Port Input	53					613782	1415	1
+slope6_skin	189	Port Input	56					613792	1425	1
+slope6_skin	189	Port Input	77					613802	1435	1
+slope6_skin	190	Save Logfile	Measurement,34.4, ,38	Measurement	34.4	 	38	614197	0	371			0		other	0
+slope6_skin	190	Response	2					614197	0	61
+slope6_skin	190	Port Input	49					615752	1555	1
+slope6_skin	190	Port Input	54					615782	1585	1
+slope6_skin	190	Port Input	49					615792	1595	1
+slope6_skin	190	Port Input	77					615802	1605	1
+slope6_skin	190	Response	2					616041	1844	1
+slope6_skin	191	Save Logfile	Measurement,35.3, ,38	Measurement	35.3	 	38	616196	0	353			0		other	0
+slope6_skin	191	Port Input	49					617752	1556	1
+slope6_skin	191	Port Input	54					617782	1586	1
+slope6_skin	191	Port Input	98					617792	1596	1
+slope6_skin	191	Port Input	77					617802	1606	1
+slope6_skin	192	Save Logfile	Measurement,36.3, ,38	Measurement	36.3	 	38	618195	0	393			0		other	0
+slope6_skin	192	Port Input	49					619752	1557	2
+slope6_skin	192	Port Input	55					619782	1587	1
+slope6_skin	192	Port Input	54					619792	1597	1
+slope6_skin	192	Port Input	77					619802	1607	1
+slope6_skin	193	Save Logfile	Measurement,37.4, ,38	Measurement	37.4	 	38	620195	0	387			0		other	0
+slope6_skin	193	Port Input	49					621752	1557	1
+slope6_skin	193	Port Input	55					621782	1587	1
+slope6_skin	193	Port Input	102					621792	1597	1
+slope6_skin	193	Port Input	77					621802	1607	1
+slope6_skin	194	Save Logfile	Measurement,38.3, ,0	Measurement	38.3	 	0	624194	0	265			0		other	0
+slope6_skin	194	Port Input	49					625582	1388	2
+slope6_skin	194	Port Input	56					625612	1418	1
+slope6_skin	194	Port Input	50					625622	1428	1
+slope6_skin	194	Port Input	77					625632	1438	1
+slope6_skin	195	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	628023	0	276			0		other	0
+slope6_skin	195	Port Input	49					629432	1409	1
+slope6_skin	195	Port Input	56					629462	1439	1
+slope6_skin	195	Port Input	48					629472	1449	1
+slope6_skin	195	Port Input	77					629482	1459	1
+slope6_skin	196	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	631874	0	273			0		other	0
+slope6_skin	196	Port Input	49					633282	1408	1
+slope6_skin	196	Port Input	56					633312	1438	1
+slope6_skin	196	Port Input	48					633322	1448	1
+slope6_skin	196	Port Input	77					633332	1458	1
+slope6_skin	197	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	635723	0	258			0		other	0
+slope6_skin	197	Port Input	49					637112	1389	1
+slope6_skin	197	Port Input	56					637142	1419	1
+slope6_skin	197	Port Input	49					637152	1429	1
+slope6_skin	197	Port Input	77					637162	1439	1
+slope6_skin	198	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	639553	0	394			0		other	0
+slope6_skin	198	Port Input	49					641073	1520	1
+slope6_skin	198	Port Input	56					641102	1549	1
+slope6_skin	198	Port Input	49					641112	1559	1
+slope6_skin	198	Port Input	77					641122	1569	1
+slope6_skin	199	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	643513	0	278			0		other	0
+slope6_skin	199	Port Input	49					645062	1549	2
+slope6_skin	199	Port Input	56					645092	1579	1
+slope6_skin	199	Port Input	49					645102	1589	1
+slope6_skin	199	Port Input	77					645112	1599	1
+slope6_skin	200	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	647503	0	271			0		other	0
+slope6_skin	200	Port Input	49					648893	1390	1
+slope6_skin	200	Port Input	56					648922	1419	1
+slope6_skin	200	Port Input	49					648932	1429	1
+slope6_skin	200	Port Input	77					648942	1439	1
+slope6_skin	200	Response	4					651200	3697	1
+slope6_skin	201	Save Logfile	Measurement,38.5, ,0	Measurement	38.5	 	0	651343	0	285			0		other	0
+slope6_skin	201	Port Input	49					652723	1380	1
+slope6_skin	201	Port Input	56					652732	1389	2
+slope6_skin	201	Port Input	50					652742	1399	1
+slope6_skin	201	Port Input	84					652752	1409	1
+slope6_skin	201	Port Input	48					654262	2919	1
+slope6_skin	201	Port Input	101					654272	2929	1
+slope6_skin	201	Port Input	54					654282	2939	1
+slope6_skin	201	Port Input	67					654292	2949	1
+slope6_skin	202	Save Logfile	Initiate Peak,38.5, ,23	Initiate Peak	38.5	 	23	654666	0	278			0		other	0
+slope6_skin	202	Port Input	48					656012	1346	1
+slope6_skin	202	Port Input	48					656042	1376	2
+slope6_skin	202	Port Input	51					656052	1386	1
+slope6_skin	202	Port Input	77					656062	1396	1
+slope6_skin	202	Port Input	49					659512	4846	1
+slope6_skin	202	Port Input	56					659543	4877	1
+slope6_skin	202	Port Input	49					659552	4886	1
+slope6_skin	202	Port Input	77					659562	4896	1
+slope6_skin	203	Save Logfile	Measurement,38.5, ,23	Measurement	38.5	 	23	661953	0	282			0		other	0
+slope6_skin	203	Port Input	49					663382	1429	1
+slope6_skin	203	Port Input	55					663412	1459	1
+slope6_skin	203	Port Input	51					663422	1469	1
+slope6_skin	203	Port Input	77					663432	1479	1
+slope6_skin	204	Save Logfile	Measurement,37.1, ,23	Measurement	37.1	 	23	665833	0	287			0		other	0
+slope6_skin	204	Port Input	49					667213	1380	1
+slope6_skin	204	Port Input	54					667242	1409	2
+slope6_skin	204	Port Input	49					667252	1419	1
+slope6_skin	204	Port Input	77					667262	1429	1
+slope6_skin	205	Save Logfile	Measurement,35.3, ,23	Measurement	35.3	 	23	669663	0	358			0		other	0
+slope6_skin	205	Port Input	49					671212	1549	2
+slope6_skin	205	Port Input	53					671232	1569	2
+slope6_skin	205	Port Input	49					671252	1589	2
+slope6_skin	205	Port Input	77					671262	1599	1
+slope6_skin	206	Save Logfile	Measurement,33.7, ,23	Measurement	33.7	 	23	673653	0	288			0		other	0
+slope6_skin	206	Port Input	49					675042	1389	2
+slope6_skin	206	Port Input	52					675072	1419	2
+slope6_skin	206	Port Input	50					675082	1429	2
+slope6_skin	206	Port Input	77					675092	1439	2
+slope6_skin	207	Save Logfile	Measurement,32.2, ,23	Measurement	32.2	 	23	677483	0	284			0		other	0
+slope6_skin	207	Port Input	49					678873	1390	1
+slope6_skin	207	Port Input	51					678903	1420	1
+slope6_skin	207	Port Input	53					678912	1429	2
+slope6_skin	207	Port Input	77					678922	1439	1
+slope6_skin	207	Response	2					681315	3832	195
+slope6_skin	208	Save Logfile	Measurement,30.9, ,23	Measurement	30.9	 	23	681316	0	299			0		other	0
+slope6_skin	208	Port Input	49					682873	1557	1
+slope6_skin	208	Port Input	50					682902	1586	2
+slope6_skin	208	Port Input	57					682912	1596	2
+slope6_skin	208	Port Input	77					682922	1606	2
+slope6_skin	208	Response	2					683534	2218	2
+slope6_skin	209	Save Logfile	Measurement,29.7, ,23	Measurement	29.7	 	23	685328	0	365			0		other	0
+slope6_skin	209	Response	2					685328	0	348
+slope6_skin	209	Port Input	49					686873	1545	1
+slope6_skin	209	Port Input	49					686893	1565	1
+slope6_skin	209	Port Input	101					686913	1585	1
+slope6_skin	209	Port Input	77					686922	1594	2
+slope6_skin	209	Response	2					687564	2236	1
+slope6_skin	210	Save Logfile	Measurement,28.6, ,23	Measurement	28.6	 	23	689313	0	367			0		other	0
+slope6_skin	210	Response	2					689711	398	2
+slope6_skin	210	Port Input	49					690873	1560	1
+slope6_skin	210	Port Input	49					690892	1579	2
+slope6_skin	210	Port Input	51					690912	1599	2
+slope6_skin	210	Port Input	77					690923	1610	1
+slope6_skin	211	Save Logfile	Measurement,27.5, ,23	Measurement	27.5	 	23	693313	0	288			0		other	0
+slope6_skin	211	Port Input	49					694733	1420	1
+slope6_skin	211	Port Input	48					694763	1450	1
+slope6_skin	211	Port Input	57					694772	1459	2
+slope6_skin	211	Port Input	77					694782	1469	2
+slope6_skin	212	Save Logfile	Measurement,26.5, ,23	Measurement	26.5	 	23	697173	0	299			0		other	0
+slope6_skin	212	Port Input	49					698693	1520	1
+slope6_skin	212	Port Input	48					698703	1530	1
+slope6_skin	212	Port Input	48					698713	1540	1
+slope6_skin	212	Port Input	77					698722	1549	2
+slope6_skin	213	Save Logfile	Measurement,25.6, ,23	Measurement	25.6	 	23	701133	0	292			0		other	0
+slope6_skin	213	Port Input	48					702523	1390	1
+slope6_skin	213	Port Input	102					702533	1400	1
+slope6_skin	213	Port Input	56					702543	1410	1
+slope6_skin	213	Port Input	77					702553	1420	1
+slope6_skin	214	Save Logfile	Measurement,24.8, ,23	Measurement	24.8	 	23	704963	0	297			0		other	0
+slope6_skin	214	Port Input	48					706353	1390	1
+slope6_skin	214	Port Input	102					706363	1400	1
+slope6_skin	214	Port Input	48					706373	1410	1
+slope6_skin	214	Port Input	77					706383	1420	1
+slope6_skin	214	Port Input	48					708463	3500	1
+slope6_skin	214	Port Input	101					708483	3520	1
+slope6_skin	214	Port Input	57					708493	3530	1
+slope6_skin	214	Port Input	70					708502	3539	2
+slope6_skin	215	Save Logfile	Measurement,23.3, ,23	Measurement	23.3	 	23	708793	0	300			0		other	0
+slope6_skin	215	Port Input	48					710183	1390	1
+slope6_skin	215	Port Input	101					710193	1400	1
+slope6_skin	215	Port Input	53					710203	1410	1
+slope6_skin	215	Port Input	77					710213	1420	1
+slope6_skin	216	Save Logfile	Measurement,22.9, ,23	Measurement	22.9	 	23	712623	0	301			0		other	0
+slope6_skin	217	Save Logfile	Peak Temperature,22.9, ,23	Peak Temperature	22.9	 	23	713118	0	285			0		other	0
+slope6_skin	217	Port Input	48					714483	1365	1
+slope6_skin	217	Port Input	101					714493	1375	1
+slope6_skin	217	Port Input	51					714503	1385	1
+slope6_skin	217	Port Input	67					714513	1395	1
+slope6_skin	217	Port Input	48					715963	2845	1
+slope6_skin	217	Port Input	48					715973	2855	1
+slope6_skin	217	Port Input	48					715983	2865	1
+slope6_skin	217	Port Input	77					715993	2875	1
+slope6_skin	218	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	716405	0	285			0		other	0
+slope6_skin	218	Port Input	48					717843	1438	1
+slope6_skin	218	Port Input	102					717853	1448	1
+slope6_skin	218	Port Input	52					717863	1458	1
+slope6_skin	218	Port Input	77					717873	1468	1
+slope6_skin	219	Save Logfile	Measurement,24.4, ,38	Measurement	24.4	 	38	718284	0	300			0		other	0
+slope6_skin	219	Port Input	48					719673	1389	1
+slope6_skin	219	Port Input	102					719693	1409	1
+slope6_skin	219	Port Input	101					719703	1419	1
+slope6_skin	219	Port Input	77					719723	1439	1
+slope6_skin	220	Save Logfile	Measurement,25.4, ,38	Measurement	25.4	 	38	720115	0	305			0		other	0
+slope6_skin	220	Port Input	49					721673	1558	1
+slope6_skin	220	Port Input	48					721693	1578	1
+slope6_skin	220	Port Input	56					721713	1598	1
+slope6_skin	220	Port Input	77					721723	1608	1
+slope6_skin	221	Save Logfile	Measurement,26.4, ,38	Measurement	26.4	 	38	722115	0	308			0		other	0
+slope6_skin	221	Port Input	49					723673	1558	1
+slope6_skin	221	Port Input	49					723693	1578	1
+slope6_skin	221	Port Input	50					723713	1598	1
+slope6_skin	221	Port Input	77					723723	1608	1
+slope6_skin	222	Save Logfile	Measurement,27.4, ,38	Measurement	27.4	 	38	724117	0	288			0		other	0
+slope6_skin	222	Port Input	49					725503	1386	1
+slope6_skin	222	Port Input	49					725523	1406	1
+slope6_skin	222	Port Input	98					725543	1426	1
+slope6_skin	222	Port Input	77					725553	1436	1
+slope6_skin	223	Save Logfile	Measurement,28.3, ,38	Measurement	28.3	 	38	725945	0	436			0		other	0
+slope6_skin	223	Port Input	49					727503	1558	1
+slope6_skin	223	Port Input	50					727533	1588	1
+slope6_skin	223	Port Input	52					727543	1598	1
+slope6_skin	223	Port Input	77					727553	1608	1
+slope6_skin	224	Save Logfile	Measurement,29.2, ,38	Measurement	29.2	 	38	727945	0	419			0		other	0
+slope6_skin	224	Port Input	49					729493	1548	1
+slope6_skin	224	Port Input	50					729523	1578	1
+slope6_skin	224	Port Input	102					729533	1588	1
+slope6_skin	224	Port Input	77					729543	1598	1
+slope6_skin	225	Save Logfile	Measurement,30.3, ,38	Measurement	30.3	 	38	729939	0	557			0		other	0
+slope6_skin	225	Port Input	49					731663	1724	1
+slope6_skin	225	Port Input	51					731683	1744	1
+slope6_skin	225	Port Input	57					731703	1764	1
+slope6_skin	225	Port Input	77					731713	1774	1
+slope6_skin	226	Save Logfile	Measurement,31.3, ,38	Measurement	31.3	 	38	732105	0	521			0		other	0
+slope6_skin	226	Port Input	49					733823	1718	1
+slope6_skin	226	Port Input	52					733853	1748	1
+slope6_skin	226	Port Input	52					733863	1758	1
+slope6_skin	226	Port Input	77					733873	1768	1
+slope6_skin	227	Save Logfile	Measurement,32.4, ,38	Measurement	32.4	 	38	734265	0	739			0		other	0
+slope6_skin	227	Port Input	49					736163	1898	1
+slope6_skin	227	Port Input	52					736193	1928	1
+slope6_skin	227	Port Input	102					736203	1938	1
+slope6_skin	227	Port Input	77					736213	1948	1
+slope6_skin	228	Save Logfile	Measurement,33.5, ,38	Measurement	33.5	 	38	736605	0	306			0		other	0
+slope6_skin	228	Port Input	49					738153	1548	1
+slope6_skin	228	Port Input	53					738173	1568	1
+slope6_skin	228	Port Input	98					738193	1588	1
+slope6_skin	228	Port Input	77					738203	1598	1
+slope6_skin	229	Save Logfile	Measurement,34.7, ,38	Measurement	34.7	 	38	738595	0	313			0		other	0
+slope6_skin	229	Port Input	49					740153	1558	1
+slope6_skin	229	Port Input	54					740173	1578	1
+slope6_skin	229	Port Input	54					740193	1598	1
+slope6_skin	229	Port Input	77					740203	1608	1
+slope6_skin	230	Save Logfile	Measurement,35.8, ,38	Measurement	35.8	 	38	740595	0	307			0		other	0
+slope6_skin	230	Port Input	49					742153	1558	1
+slope6_skin	230	Port Input	55					742183	1588	1
+slope6_skin	230	Port Input	48					742193	1598	1
+slope6_skin	230	Port Input	77					742203	1608	1
+slope6_skin	231	Save Logfile	Measurement,36.8, ,38	Measurement	36.8	 	38	742595	0	316			0		other	0
+slope6_skin	231	Port Input	49					744153	1558	1
+slope6_skin	231	Port Input	55					744183	1588	1
+slope6_skin	231	Port Input	97					744193	1598	1
+slope6_skin	231	Port Input	77					744203	1608	1
+slope6_skin	232	Save Logfile	Measurement,37.8, ,38	Measurement	37.8	 	38	744595	0	313			0		other	0
+slope6_skin	232	Port Input	49					746153	1558	1
+slope6_skin	232	Port Input	56					746173	1578	1
+slope6_skin	232	Port Input	50					746183	1588	1
+slope6_skin	232	Port Input	77					746203	1608	1
+slope6_skin	233	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	748593	0	320			0		other	0
+slope6_skin	233	Port Input	49					750153	1560	1
+slope6_skin	233	Port Input	56					750173	1580	1
+slope6_skin	233	Port Input	51					750182	1589	3
+slope6_skin	233	Port Input	77					750193	1600	1
+slope6_skin	234	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	752593	0	318			0		other	0
+slope6_skin	234	Response	4					753094	501	2
+slope6_skin	234	Port Input	49					754143	1550	1
+slope6_skin	234	Port Input	56					754173	1580	1
+slope6_skin	234	Port Input	50					754183	1590	1
+slope6_skin	234	Port Input	77					754193	1600	1
+slope6_skin	235	Save Logfile	Measurement,38.6, ,0	Measurement	38.6	 	0	756584	0	319			0		other	0
+slope6_skin	235	Port Input	49					758143	1559	1
+slope6_skin	235	Port Input	56					758153	1569	1
+slope6_skin	235	Port Input	50					758163	1579	1
+slope6_skin	235	Port Input	84					758173	1589	1
+slope6_skin	235	Port Input	48					759683	3099	1
+slope6_skin	235	Port Input	98					759693	3109	1
+slope6_skin	235	Port Input	52					759703	3119	1
+slope6_skin	235	Port Input	67					759713	3129	1
+slope6_skin	236	Save Logfile	Initiate Peak,38.6, ,18	Initiate Peak	38.6	 	18	760083	0	321			0		other	0
+slope6_skin	236	Port Input	48					761473	1390	1
+slope6_skin	236	Port Input	48					761503	1420	1
+slope6_skin	236	Port Input	51					761513	1430	1
+slope6_skin	236	Port Input	77					761523	1440	1
+slope6_skin	236	Port Input	49					764973	4890	1
+slope6_skin	236	Port Input	56					764993	4910	1
+slope6_skin	236	Port Input	50					765013	4930	1
+slope6_skin	236	Port Input	77					765023	4940	1
+slope6_skin	237	Save Logfile	Measurement,38.6, ,18	Measurement	38.6	 	18	767413	0	324			0		other	0
+slope6_skin	237	Port Input	49					768963	1550	1
+slope6_skin	237	Port Input	55					768983	1570	1
+slope6_skin	237	Port Input	52					768993	1580	1
+slope6_skin	237	Port Input	77					769013	1600	1
+slope6_skin	238	Save Logfile	Measurement,37.2, ,18	Measurement	37.2	 	18	771403	0	318			0		other	0
+slope6_skin	238	Port Input	49					772963	1560	1
+slope6_skin	238	Port Input	54					772983	1580	1
+slope6_skin	238	Port Input	49					772993	1590	1
+slope6_skin	238	Port Input	77					773013	1610	1
+slope6_skin	239	Save Logfile	Measurement,35.3, ,18	Measurement	35.3	 	18	775403	0	331			0		other	0
+slope6_skin	239	Port Input	49					776963	1560	1
+slope6_skin	239	Port Input	53					776983	1580	1
+slope6_skin	239	Port Input	48					776993	1590	1
+slope6_skin	239	Port Input	77					777013	1610	1
+slope6_skin	240	Save Logfile	Measurement,33.6, ,18	Measurement	33.6	 	18	779403	0	327			0		other	0
+slope6_skin	240	Port Input	49					780963	1560	1
+slope6_skin	240	Port Input	52					780983	1580	1
+slope6_skin	240	Port Input	49					780993	1590	1
+slope6_skin	240	Port Input	77					781013	1610	1
+slope6_skin	241	Save Logfile	Measurement,32.1, ,18	Measurement	32.1	 	18	783403	0	333			0		other	0
+slope6_skin	241	Port Input	49					784953	1550	1
+slope6_skin	241	Port Input	51					784983	1580	1
+slope6_skin	241	Port Input	50					784993	1590	1
+slope6_skin	241	Port Input	77					785003	1600	1
+slope6_skin	242	Save Logfile	Measurement,30.6, ,18	Measurement	30.6	 	18	787393	0	333			0		other	0
+slope6_skin	242	Port Input	49					788953	1560	1
+slope6_skin	242	Port Input	50					788983	1590	1
+slope6_skin	242	Port Input	53					788993	1600	1
+slope6_skin	242	Port Input	77					789003	1610	1
+slope6_skin	243	Save Logfile	Measurement,29.3, ,18	Measurement	29.3	 	18	791393	0	327			0		other	0
+slope6_skin	243	Port Input	49					792953	1560	1
+slope6_skin	243	Port Input	49					792973	1580	1
+slope6_skin	243	Port Input	57					792983	1590	1
+slope6_skin	243	Port Input	77					792993	1600	1
+slope6_skin	244	Save Logfile	Measurement,28.1, ,18	Measurement	28.1	 	18	795393	0	334			0		other	0
+slope6_skin	244	Port Input	49					796943	1550	2
+slope6_skin	244	Port Input	48					796963	1570	1
+slope6_skin	244	Port Input	102					796983	1590	1
+slope6_skin	244	Port Input	77					796993	1600	1
+slope6_skin	245	Save Logfile	Measurement,27.1, ,18	Measurement	27.1	 	18	799383	0	327			0		other	0
+slope6_skin	245	Port Input	49					800943	1560	1
+slope6_skin	245	Port Input	48					800952	1569	2
+slope6_skin	245	Port Input	53					800963	1580	1
+slope6_skin	245	Port Input	77					800973	1590	1
+slope6_skin	246	Save Logfile	Measurement,26.1, ,18	Measurement	26.1	 	18	803383	0	345			0		other	0
+slope6_skin	246	Port Input	48					804943	1560	1
+slope6_skin	246	Port Input	102					804953	1570	1
+slope6_skin	246	Port Input	98					804963	1580	1
+slope6_skin	246	Port Input	77					804973	1590	1
+slope6_skin	247	Save Logfile	Measurement,25.1, ,18	Measurement	25.1	 	18	807383	0	338			0		other	0
+slope6_skin	247	Port Input	48					808933	1550	1
+slope6_skin	247	Port Input	102					808943	1560	1
+slope6_skin	247	Port Input	51					808953	1570	1
+slope6_skin	247	Port Input	77					808963	1580	1
+slope6_skin	248	Save Logfile	Measurement,24.3, ,18	Measurement	24.3	 	18	811374	0	328			0		other	0
+slope6_skin	248	Port Input	48					812933	1559	1
+slope6_skin	248	Port Input	101					812943	1569	1
+slope6_skin	248	Port Input	97					812953	1579	1
+slope6_skin	248	Port Input	77					812963	1589	1
+slope6_skin	249	Save Logfile	Measurement,23.4, ,18	Measurement	23.4	 	18	815374	0	345			0		other	0
+slope6_skin	249	Port Input	48					816933	1559	1
+slope6_skin	249	Port Input	101					816943	1569	1
+slope6_skin	249	Port Input	51					816953	1579	1
+slope6_skin	249	Port Input	77					816963	1589	1
+slope6_skin	250	Save Logfile	Measurement,22.7, ,18	Measurement	22.7	 	18	819375	0	439			0		other	0
+slope6_skin	250	Port Input	48					820923	1548	1
+slope6_skin	250	Port Input	100					820933	1558	1
+slope6_skin	250	Port Input	99					820943	1568	1
+slope6_skin	250	Port Input	77					820953	1578	1
+slope6_skin	251	Save Logfile	Measurement,22, ,18	Measurement	22	 	18	823363	0	343			0		other	0
+slope6_skin	251	Port Input	48					824923	1560	1
+slope6_skin	251	Port Input	100					824933	1570	2
+slope6_skin	251	Port Input	54					824943	1580	2
+slope6_skin	251	Port Input	77					824953	1590	1
+slope6_skin	252	Save Logfile	Measurement,21.4, ,18	Measurement	21.4	 	18	827363	0	322			0		other	0
+slope6_skin	252	Port Input	48					828923	1560	2
+slope6_skin	252	Port Input	99					828933	1570	2
+slope6_skin	252	Port Input	102					828943	1580	2
+slope6_skin	252	Port Input	77					828953	1590	2
+slope6_skin	253	Save Logfile	Measurement,20.7, ,18	Measurement	20.7	 	18	831365	0	342			0		other	0
+slope6_skin	253	Port Input	48					832923	1558	2
+slope6_skin	253	Port Input	99					832933	1568	2
+slope6_skin	253	Port Input	57					832943	1578	2
+slope6_skin	253	Port Input	77					832953	1588	1
+slope6_skin	254	Save Logfile	Measurement,20.1, ,18	Measurement	20.1	 	18	835366	0	516			0		other	0
+slope6_skin	254	Port Input	48					837084	1718	1
+slope6_skin	254	Port Input	99					837093	1727	1
+slope6_skin	254	Port Input	52					837103	1737	1
+slope6_skin	254	Port Input	77					837113	1747	1
+slope6_skin	255	Save Logfile	Measurement,19.6, ,18	Measurement	19.6	 	18	839526	0	571			0		other	0
+slope6_skin	255	Response	2					840707	1181	1
+slope6_skin	255	Port Input	48					841244	1718	1
+slope6_skin	255	Port Input	98					841253	1727	1
+slope6_skin	255	Port Input	101					841263	1737	1
+slope6_skin	255	Port Input	77					841273	1747	1
+slope6_skin	255	Response	2					842922	3396	2
+slope6_skin	256	Save Logfile	Measurement,19, ,18	Measurement	19	 	18	843686	0	556			0		other	0
+slope6_skin	256	Response	2					845103	1417	1
+slope6_skin	256	Port Input	48					845423	1737	2
+slope6_skin	256	Port Input	98					845433	1747	2
+slope6_skin	256	Port Input	57					845444	1758	1
+slope6_skin	256	Port Input	77					845453	1767	2
+slope6_skin	256	Port Input	48					845964	2278	1
+slope6_skin	256	Port Input	98					845973	2287	2
+slope6_skin	256	Port Input	52					845984	2298	1
+slope6_skin	256	Port Input	70					845993	2307	2
+slope6_skin	256	Response	2					847216	3530	1
+slope6_skin	257	Save Logfile	Measurement,18, ,18	Measurement	18	 	18	847863	0	352			0		other	0
+slope6_skin	257	Response	2					849293	1430	2
+slope6_skin	257	Port Input	48					849414	1551	1
+slope6_skin	257	Port Input	98					849423	1560	2
+slope6_skin	257	Port Input	51					849433	1570	2
+slope6_skin	257	Port Input	77					849444	1581	1
+slope6_skin	258	Save Logfile	Measurement,17.9, ,18	Measurement	17.9	 	18	851855	0	357			0		other	0
+slope6_skin	259	Save Logfile	Peak Temperature,17.9, ,18	Peak Temperature	17.9	 	18	852511	0	335			0		other	0
+slope6_skin	259	Port Input	48					853924	1413	1
+slope6_skin	259	Port Input	98					853933	1422	2
+slope6_skin	259	Port Input	52					853943	1432	2
+slope6_skin	259	Port Input	67					853953	1442	2
+slope6_skin	259	Port Input	48					855404	2893	1
+slope6_skin	259	Port Input	48					855413	2902	2
+slope6_skin	259	Port Input	48					855423	2912	2
+slope6_skin	259	Port Input	77					855433	2922	2
+slope6_skin	260	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	855845	0	353			0		other	0
+slope6_skin	260	Port Input	48					857404	1559	1
+slope6_skin	260	Port Input	100					857413	1568	2
+slope6_skin	260	Port Input	49					857424	1579	1
+slope6_skin	260	Port Input	77					857433	1588	2
+slope6_skin	261	Save Logfile	Measurement,20.9, ,38	Measurement	20.9	 	38	857846	0	353			0		other	0
+slope6_skin	261	Port Input	48					859393	1547	2
+slope6_skin	261	Port Input	100					859404	1558	1
+slope6_skin	261	Port Input	98					859413	1567	2
+slope6_skin	261	Port Input	77					859424	1578	1
+slope6_skin	262	Save Logfile	Measurement,21.9, ,38	Measurement	21.9	 	38	859835	0	348			0		other	0
+slope6_skin	262	Port Input	48					861394	1559	1
+slope6_skin	262	Port Input	101					861403	1568	2
+slope6_skin	262	Port Input	52					861413	1578	2
+slope6_skin	262	Port Input	77					861423	1588	2
+slope6_skin	263	Save Logfile	Measurement,22.8, ,38	Measurement	22.8	 	38	861835	0	355			0		other	0
+slope6_skin	263	Port Input	48					863393	1558	2
+slope6_skin	263	Port Input	101					863404	1569	1
+slope6_skin	263	Port Input	101					863413	1578	2
+slope6_skin	263	Port Input	77					863423	1588	2
+slope6_skin	264	Save Logfile	Measurement,23.8, ,38	Measurement	23.8	 	38	863835	0	370			0		other	0
+slope6_skin	264	Port Input	48					865394	1559	1
+slope6_skin	264	Port Input	102					865413	1578	2
+slope6_skin	264	Port Input	57					865423	1588	2
+slope6_skin	264	Port Input	77					865444	1609	1
+slope6_skin	265	Save Logfile	Measurement,24.9, ,38	Measurement	24.9	 	38	865835	0	357			0		other	0
+slope6_skin	265	Port Input	49					867394	1559	1
+slope6_skin	265	Port Input	48					867414	1579	1
+slope6_skin	265	Port Input	51					867424	1589	1
+slope6_skin	265	Port Input	77					867433	1598	2
+slope6_skin	266	Save Logfile	Measurement,25.9, ,38	Measurement	25.9	 	38	867835	0	359			0		other	0
+slope6_skin	266	Port Input	49					869394	1559	1
+slope6_skin	266	Port Input	48					869413	1578	2
+slope6_skin	266	Port Input	100					869424	1589	1
+slope6_skin	266	Port Input	77					869433	1598	2
+slope6_skin	267	Save Logfile	Measurement,26.9, ,38	Measurement	26.9	 	38	869835	0	342			0		other	0
+slope6_skin	267	Port Input	49					871394	1559	1
+slope6_skin	267	Port Input	49					871414	1579	1
+slope6_skin	267	Port Input	55					871423	1588	2
+slope6_skin	267	Port Input	77					871434	1599	1
+slope6_skin	268	Save Logfile	Measurement,27.9, ,38	Measurement	27.9	 	38	871835	0	367			0		other	0
+slope6_skin	268	Port Input	49					873383	1548	2
+slope6_skin	268	Port Input	50					873404	1569	1
+slope6_skin	268	Port Input	50					873413	1578	2
+slope6_skin	268	Port Input	77					873424	1589	1
+slope6_skin	269	Save Logfile	Measurement,29, ,38	Measurement	29	 	38	873826	0	372			0		other	0
+slope6_skin	269	Port Input	49					875393	1567	2
+slope6_skin	269	Port Input	50					875413	1587	2
+slope6_skin	269	Port Input	99					875423	1597	2
+slope6_skin	269	Port Input	77					875433	1607	2
+slope6_skin	270	Save Logfile	Measurement,30, ,38	Measurement	30	 	38	875835	0	365			0		other	0
+slope6_skin	270	Port Input	49					877384	1549	1
+slope6_skin	270	Port Input	51					877404	1569	1
+slope6_skin	270	Port Input	54					877413	1578	2
+slope6_skin	270	Port Input	77					877424	1589	1
+slope6_skin	271	Save Logfile	Measurement,31, ,38	Measurement	31	 	38	877825	0	369			0		other	0
+slope6_skin	271	Port Input	49					879384	1559	1
+slope6_skin	271	Port Input	52					879403	1578	2
+slope6_skin	271	Port Input	49					879413	1588	2
+slope6_skin	271	Port Input	77					879424	1599	1
+slope6_skin	272	Save Logfile	Measurement,32.1, ,38	Measurement	32.1	 	38	879825	0	351			0		other	0
+slope6_skin	272	Port Input	49					881384	1559	1
+slope6_skin	272	Port Input	52					881404	1579	1
+slope6_skin	272	Port Input	98					881414	1589	1
+slope6_skin	272	Port Input	77					881423	1598	2
+slope6_skin	273	Save Logfile	Measurement,33.1, ,38	Measurement	33.1	 	38	881825	0	370			0		other	0
+slope6_skin	273	Port Input	49					883384	1559	2
+slope6_skin	273	Port Input	53					883403	1578	2
+slope6_skin	273	Port Input	54					883413	1588	2
+slope6_skin	273	Port Input	77					883424	1599	1
+slope6_skin	274	Save Logfile	Measurement,34.2, ,38	Measurement	34.2	 	38	883825	0	373			0		other	0
+slope6_skin	274	Port Input	49					885373	1548	2
+slope6_skin	274	Port Input	54					885394	1569	1
+slope6_skin	274	Port Input	49					885404	1579	1
+slope6_skin	274	Port Input	77					885413	1588	2
+slope6_skin	275	Save Logfile	Measurement,35.3, ,38	Measurement	35.3	 	38	885825	0	369			0		other	0
+slope6_skin	275	Port Input	49					887374	1549	2
+slope6_skin	275	Port Input	54					887394	1569	1
+slope6_skin	275	Port Input	98					887404	1579	1
+slope6_skin	275	Port Input	77					887424	1599	1
+slope6_skin	276	Save Logfile	Measurement,36.3, ,38	Measurement	36.3	 	38	887815	0	369			0		other	0
+slope6_skin	276	Port Input	49					889374	1559	1
+slope6_skin	276	Port Input	55					889394	1579	1
+slope6_skin	276	Port Input	53					889404	1589	1
+slope6_skin	276	Port Input	77					889414	1599	1
+slope6_skin	277	Save Logfile	Measurement,37.3, ,38	Measurement	37.3	 	38	889816	0	361			0		other	0
+slope6_skin	277	Port Input	49					891374	1558	1
+slope6_skin	277	Port Input	56					891394	1578	1
+slope6_skin	277	Port Input	48					891404	1588	1
+slope6_skin	277	Port Input	77					891413	1597	2
+slope6_skin	278	Save Logfile	Measurement,38.4, ,0	Measurement	38.4	 	0	893813	0	371			0		other	0
+slope6_skin	278	Port Input	49					895394	1581	1
+slope6_skin	278	Port Input	56					895413	1600	2
+slope6_skin	278	Port Input	54					895423	1610	2
+slope6_skin	278	Port Input	77					895434	1621	1
+slope6_skin	279	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	897833	0	379			0		other	0
+slope6_skin	279	Port Input	49					899374	1541	1
+slope6_skin	279	Port Input	56					899393	1560	2
+slope6_skin	279	Port Input	54					899404	1571	2
+slope6_skin	279	Port Input	77					899413	1580	2
+slope6_skin	280	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	901813	0	375			0		other	0
+slope6_skin	280	Port Input	49					903364	1551	2
+slope6_skin	280	Port Input	56					903383	1570	2
+slope6_skin	280	Port Input	53					903393	1580	2
+slope6_skin	280	Port Input	77					903404	1591	1
+slope6_skin	281	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	905803	0	371			0		other	0
+slope6_skin	281	Port Input	49					907363	1560	2
+slope6_skin	281	Port Input	56					907385	1582	1
+slope6_skin	281	Port Input	54					907393	1590	2
+slope6_skin	281	Port Input	77					907404	1601	2
+slope6_skin	282	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	909804	0	370			0		other	0
+slope6_skin	282	Response	4					910932	1128	2
+slope6_skin	282	Port Input	49					911354	1550	1
+slope6_skin	282	Port Input	56					911374	1570	1
+slope6_skin	282	Port Input	55					911384	1580	1
+slope6_skin	282	Port Input	77					911394	1590	1
+slope6_skin	283	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	913794	0	381			0		other	0
+slope6_skin	283	Port Input	49					915353	1559	3
+slope6_skin	283	Port Input	56					915365	1571	1
+slope6_skin	283	Port Input	55					915373	1579	2
+slope6_skin	283	Port Input	84					915385	1591	1
+slope6_skin	283	Port Input	48					916895	3101	1
+slope6_skin	283	Port Input	56					916905	3111	1
+slope6_skin	283	Port Input	50					916913	3119	2
+slope6_skin	283	Port Input	67					916923	3129	2
+slope6_skin	284	Save Logfile	Initiate Peak,39.1, ,13	Initiate Peak	39.1	 	13	917293	0	367			0		other	0
+slope6_skin	284	Port Input	48					918733	1440	2
+slope6_skin	284	Port Input	48					918753	1460	2
+slope6_skin	284	Port Input	51					918763	1470	2
+slope6_skin	284	Port Input	77					918773	1480	2
+slope6_skin	284	Port Input	49					922235	4942	1
+slope6_skin	284	Port Input	56					922255	4962	1
+slope6_skin	284	Port Input	54					922264	4971	1
+slope6_skin	284	Port Input	77					922273	4980	2
+slope6_skin	285	Save Logfile	Measurement,39, ,13	Measurement	39	 	13	924673	0	385			0		other	0
+slope6_skin	285	Port Input	49					926183	1510	3
+slope6_skin	285	Port Input	55					926203	1530	2
+slope6_skin	285	Port Input	55					926213	1540	2
+slope6_skin	285	Port Input	77					926223	1550	2
+slope6_skin	286	Save Logfile	Measurement,37.5, ,13	Measurement	37.5	 	13	928623	0	384			0		other	0
+slope6_skin	286	Port Input	49					930173	1550	3
+slope6_skin	286	Port Input	54					930194	1571	1
+slope6_skin	286	Port Input	52					930204	1581	1
+slope6_skin	286	Port Input	77					930214	1591	1
+slope6_skin	287	Save Logfile	Measurement,35.6, ,13	Measurement	35.6	 	13	932613	0	395			0		other	0
+slope6_skin	287	Port Input	49					934173	1560	3
+slope6_skin	287	Port Input	53					934193	1580	2
+slope6_skin	287	Port Input	50					934204	1591	1
+slope6_skin	287	Port Input	77					934213	1600	2
+slope6_skin	288	Save Logfile	Measurement,33.8, ,13	Measurement	33.8	 	13	936613	0	384			0		other	0
+slope6_skin	288	Port Input	49					938175	1562	1
+slope6_skin	288	Port Input	52					938193	1580	3
+slope6_skin	288	Port Input	50					938203	1590	2
+slope6_skin	288	Port Input	77					938213	1600	2
+slope6_skin	289	Save Logfile	Measurement,32.2, ,13	Measurement	32.2	 	13	940613	0	376			0		other	0
+slope6_skin	289	Port Input	49					942165	1552	1
+slope6_skin	289	Port Input	51					942183	1570	3
+slope6_skin	289	Port Input	51					942194	1581	1
+slope6_skin	289	Port Input	77					942204	1591	1
+slope6_skin	290	Save Logfile	Measurement,30.7, ,13	Measurement	30.7	 	13	944603	0	426			0		other	0
+slope6_skin	290	Port Input	49					946164	1561	1
+slope6_skin	290	Port Input	50					946184	1581	1
+slope6_skin	290	Port Input	53					946194	1591	1
+slope6_skin	290	Port Input	77					946204	1601	1
+slope6_skin	291	Save Logfile	Measurement,29.3, ,13	Measurement	29.3	 	13	948606	0	832			0		other	0
+slope6_skin	291	Port Input	49					950664	2058	1
+slope6_skin	291	Port Input	49					950684	2078	1
+slope6_skin	291	Port Input	57					950694	2088	1
+slope6_skin	291	Port Input	77					950704	2098	1
+slope6_skin	292	Save Logfile	Measurement,28.1, ,13	Measurement	28.1	 	13	953103	0	453			0		other	0
+slope6_skin	292	Port Input	49					954654	1551	1
+slope6_skin	292	Port Input	48					954674	1571	1
+slope6_skin	292	Port Input	99					954684	1581	1
+slope6_skin	292	Port Input	77					954694	1591	1
+slope6_skin	293	Save Logfile	Measurement,26.8, ,13	Measurement	26.8	 	13	957093	0	387			0		other	0
+slope6_skin	293	Port Input	49					958654	1561	1
+slope6_skin	293	Port Input	48					958664	1571	1
+slope6_skin	293	Port Input	50					958674	1581	1
+slope6_skin	293	Port Input	77					958684	1591	1
+slope6_skin	294	Save Logfile	Measurement,25.8, ,13	Measurement	25.8	 	13	961093	0	399			0		other	0
+slope6_skin	294	Port Input	48					962654	1561	1
+slope6_skin	294	Port Input	102					962664	1571	1
+slope6_skin	294	Port Input	56					962674	1581	1
+slope6_skin	294	Port Input	77					962684	1591	1
+slope6_skin	295	Save Logfile	Measurement,24.8, ,13	Measurement	24.8	 	13	965093	0	398			0		other	0
+slope6_skin	295	Port Input	48					966654	1561	1
+slope6_skin	295	Port Input	101					966664	1571	1
+slope6_skin	295	Port Input	102					966674	1581	1
+slope6_skin	295	Port Input	77					966684	1591	1
+slope6_skin	296	Save Logfile	Measurement,23.9, ,13	Measurement	23.9	 	13	969093	0	399			0		other	0
+slope6_skin	296	Port Input	48					970644	1551	1
+slope6_skin	296	Port Input	101					970654	1561	1
+slope6_skin	296	Port Input	55					970664	1571	1
+slope6_skin	296	Port Input	77					970674	1581	1
+slope6_skin	297	Save Logfile	Measurement,23.1, ,13	Measurement	23.1	 	13	973083	0	390			0		other	0
+slope6_skin	297	Port Input	48					974644	1561	1
+slope6_skin	297	Port Input	100					974654	1571	1
+slope6_skin	297	Port Input	102					974664	1581	1
+slope6_skin	297	Port Input	77					974674	1591	1
+slope6_skin	298	Save Logfile	Measurement,22.3, ,13	Measurement	22.3	 	13	977083	0	399			0		other	0
+slope6_skin	298	Port Input	48					978644	1561	1
+slope6_skin	298	Port Input	100					978654	1571	1
+slope6_skin	298	Port Input	56					978664	1581	1
+slope6_skin	298	Port Input	77					978674	1591	1
+slope6_skin	299	Save Logfile	Measurement,21.6, ,13	Measurement	21.6	 	13	981083	0	411			0		other	0
+slope6_skin	299	Port Input	48					982634	1551	2
+slope6_skin	299	Port Input	100					982644	1561	1
+slope6_skin	299	Port Input	49					982654	1571	1
+slope6_skin	299	Port Input	77					982664	1581	1
+slope6_skin	300	Save Logfile	Measurement,20.9, ,13	Measurement	20.9	 	13	985073	0	404			0		other	0
+slope6_skin	300	Port Input	48					986634	1561	1
+slope6_skin	300	Port Input	99					986644	1571	1
+slope6_skin	300	Port Input	98					986654	1581	1
+slope6_skin	300	Port Input	77					986664	1591	1
+slope6_skin	301	Save Logfile	Measurement,20.3, ,13	Measurement	20.3	 	13	989073	0	399			0		other	0
+slope6_skin	301	Port Input	48					990634	1561	1
+slope6_skin	301	Port Input	99					990644	1571	1
+slope6_skin	301	Port Input	53					990654	1581	1
+slope6_skin	301	Port Input	77					990664	1591	1
+slope6_skin	302	Save Logfile	Measurement,19.7, ,13	Measurement	19.7	 	13	993073	0	408			0		other	0
+slope6_skin	302	Port Input	48					994624	1551	1
+slope6_skin	302	Port Input	98					994634	1561	1
+slope6_skin	302	Port Input	102					994644	1571	1
+slope6_skin	302	Port Input	77					994654	1581	1
+slope6_skin	303	Save Logfile	Measurement,19.1, ,13	Measurement	19.1	 	13	997063	0	422			0		other	0
+slope6_skin	303	Port Input	48					998635	1572	1
+slope6_skin	303	Port Input	98					998644	1581	1
+slope6_skin	303	Port Input	97					998654	1591	1
+slope6_skin	303	Port Input	77					998664	1601	1
+slope6_skin	304	Save Logfile	Measurement,18.6, ,13	Measurement	18.6	 	13	1001073	0	407			0		other	0
+slope6_skin	304	Port Input	48					1002624	1551	1
+slope6_skin	304	Port Input	98					1002634	1561	1
+slope6_skin	304	Port Input	53					1002644	1571	1
+slope6_skin	304	Port Input	77					1002654	1581	1
+slope6_skin	305	Save Logfile	Measurement,18.1, ,13	Measurement	18.1	 	13	1005063	0	419			0		other	0
+slope6_skin	305	Port Input	48					1006614	1551	1
+slope6_skin	305	Port Input	98					1006624	1561	1
+slope6_skin	305	Port Input	48					1006634	1571	1
+slope6_skin	305	Port Input	77					1006644	1581	1
+slope6_skin	306	Save Logfile	Measurement,17.6, ,13	Measurement	17.6	 	13	1009053	0	408			0		other	0
+slope6_skin	306	Port Input	48					1010614	1561	1
+slope6_skin	306	Port Input	97					1010624	1571	1
+slope6_skin	306	Port Input	98					1010634	1581	1
+slope6_skin	306	Port Input	77					1010644	1591	1
+slope6_skin	307	Save Logfile	Measurement,17.1, ,13	Measurement	17.1	 	13	1013053	0	397			0		other	0
+slope6_skin	307	Port Input	48					1014614	1561	1
+slope6_skin	307	Port Input	97					1014624	1571	1
+slope6_skin	307	Port Input	55					1014634	1581	1
+slope6_skin	307	Port Input	77					1014644	1591	1
+slope6_skin	308	Save Logfile	Measurement,16.7, ,13	Measurement	16.7	 	13	1017053	0	420			0		other	0
+slope6_skin	308	Port Input	48					1018614	1561	2
+slope6_skin	308	Port Input	97					1018624	1571	1
+slope6_skin	308	Port Input	51					1018634	1581	1
+slope6_skin	308	Port Input	77					1018644	1591	2
+slope6_skin	309	Save Logfile	Measurement,16.3, ,13	Measurement	16.3	 	13	1021053	0	411			0		other	0
+slope6_skin	309	Port Input	48					1022604	1551	2
+slope6_skin	309	Port Input	57					1022614	1561	2
+slope6_skin	309	Port Input	102					1022624	1571	1
+slope6_skin	309	Port Input	77					1022634	1581	1
+slope6_skin	310	Save Logfile	Measurement,15.9, ,13	Measurement	15.9	 	13	1025043	0	423			0		other	0
+slope6_skin	310	Port Input	48					1026604	1561	1
+slope6_skin	310	Port Input	57					1026614	1571	2
+slope6_skin	310	Port Input	98					1026624	1581	1
+slope6_skin	310	Port Input	77					1026634	1591	1
+slope6_skin	311	Save Logfile	Measurement,15.5, ,13	Measurement	15.5	 	13	1029043	0	413			0		other	0
+slope6_skin	311	Port Input	48					1030604	1561	2
+slope6_skin	311	Port Input	57					1030614	1571	1
+slope6_skin	311	Port Input	55					1030624	1581	1
+slope6_skin	311	Port Input	77					1030634	1591	1
+slope6_skin	312	Save Logfile	Measurement,15.1, ,13	Measurement	15.1	 	13	1033045	0	403			0		other	0
+slope6_skin	312	Port Input	48					1034594	1549	2
+slope6_skin	312	Port Input	57					1034604	1559	1
+slope6_skin	312	Port Input	52					1034614	1569	1
+slope6_skin	312	Port Input	77					1034624	1579	1
+slope6_skin	313	Save Logfile	Measurement,14.8, ,13	Measurement	14.8	 	13	1037033	0	423			0		other	0
+slope6_skin	313	Port Input	48					1038595	1562	1
+slope6_skin	313	Port Input	57					1038604	1571	2
+slope6_skin	313	Port Input	48					1038614	1581	2
+slope6_skin	313	Port Input	77					1038624	1591	2
+slope6_skin	314	Save Logfile	Measurement,14.4, ,13	Measurement	14.4	 	13	1041035	0	427			0		other	0
+slope6_skin	314	Port Input	48					1042594	1559	2
+slope6_skin	314	Port Input	56					1042604	1569	2
+slope6_skin	314	Port Input	100					1042614	1579	1
+slope6_skin	314	Port Input	77					1042624	1589	2
+slope6_skin	315	Save Logfile	Measurement,14.1, ,13	Measurement	14.1	 	13	1045033	0	4784			0		other	0
+slope6_skin	315	Port Input	48					1050915	5882	1
+slope6_skin	315	Port Input	56					1050924	5891	2
+slope6_skin	315	Port Input	97					1050934	5901	2
+slope6_skin	315	Port Input	77					1050944	5911	2
+slope6_skin	316	Save Logfile	Measurement,13.8, ,13	Measurement	13.8	 	13	1053353	0	432			0		other	0
+slope6_skin	316	Port Input	48					1053815	462	1
+slope6_skin	316	Port Input	56					1053824	471	2
+slope6_skin	316	Port Input	52					1053834	481	2
+slope6_skin	316	Port Input	70					1053845	492	1
+slope6_skin	316	Port Input	48					1054915	1562	1
+slope6_skin	316	Port Input	56					1054924	1571	2
+slope6_skin	316	Port Input	49					1054934	1581	2
+slope6_skin	316	Port Input	77					1054945	1592	1
+slope6_skin	317	Save Logfile	Measurement,12.9, ,13	Measurement	12.9	 	13	1057355	0	562			0		other	0
+slope6_skin	318	Save Logfile	Peak Temperature,12.9, ,13	Peak Temperature	12.9	 	13	1058186	0	455			0		other	0
+slope6_skin	318	Port Input	48					1059735	1549	1
+slope6_skin	318	Port Input	56					1059745	1559	1
+slope6_skin	318	Port Input	49					1059755	1569	1
+slope6_skin	318	Port Input	67					1059765	1579	1
+slope6_skin	318	Port Input	48					1061215	3029	1
+slope6_skin	318	Port Input	48					1061225	3039	1
+slope6_skin	318	Port Input	48					1061234	3048	2
+slope6_skin	318	Port Input	77					1061244	3058	2
+slope6_skin	319	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1061686	0	663			0		other	0
+slope6_skin	319	Port Input	48					1063575	1889	1
+slope6_skin	319	Port Input	57					1063584	1898	2
+slope6_skin	319	Port Input	56					1063595	1909	1
+slope6_skin	319	Port Input	77					1063605	1919	1
+slope6_skin	320	Save Logfile	Measurement,15.2, ,38	Measurement	15.2	 	38	1064046	0	3848			0		other	0
+slope6_skin	320	Port Input	48					1069075	5029	1
+slope6_skin	320	Port Input	97					1069085	5039	1
+slope6_skin	320	Port Input	52					1069095	5049	1
+slope6_skin	320	Port Input	77					1069105	5059	1
+slope6_skin	321	Save Logfile	Measurement,16.4, ,38	Measurement	16.4	 	38	1069515	0	1711			0		other	0
+slope6_skin	321	Port Input	48					1072405	2890	1
+slope6_skin	321	Port Input	99					1072415	2900	1
+slope6_skin	321	Port Input	48					1072425	2910	1
+slope6_skin	321	Port Input	77					1072435	2920	1
+slope6_skin	321	Response	2					1072570	3055	1
+slope6_skin	322	Save Logfile	Measurement,19.2, ,38	Measurement	19.2	 	38	1072845	0	2549			0		other	0
+slope6_skin	322	Response	2					1072845	0	1830
+slope6_skin	322	Port Input	48					1076565	3720	1
+slope6_skin	322	Port Input	100					1076575	3730	1
+slope6_skin	322	Port Input	48					1076585	3740	1
+slope6_skin	322	Port Input	77					1076595	3750	1
+slope6_skin	322	Response	2					1077006	4161	1
+slope6_skin	323	Save Logfile	Measurement,20.8, ,38	Measurement	20.8	 	38	1077008	0	706			0		other	0
+slope6_skin	323	Port Input	48					1078895	1887	1
+slope6_skin	323	Port Input	101					1078905	1897	1
+slope6_skin	323	Port Input	54					1078915	1907	1
+slope6_skin	323	Port Input	77					1078925	1917	1
+slope6_skin	323	Response	2					1079258	2250	2
+slope6_skin	324	Save Logfile	Measurement,23, ,38	Measurement	23	 	38	1079335	0	449			0		other	0
+slope6_skin	324	Port Input	48					1080895	1560	1
+slope6_skin	324	Port Input	102					1080905	1570	1
+slope6_skin	324	Port Input	50					1080915	1580	1
+slope6_skin	324	Port Input	77					1080925	1590	1
+slope6_skin	325	Save Logfile	Measurement,24.2, ,38	Measurement	24.2	 	38	1081335	0	442			0		other	0
+slope6_skin	325	Response	2					1081335	0	337
+slope6_skin	325	Port Input	48					1082895	1560	1
+slope6_skin	325	Port Input	102					1082915	1580	1
+slope6_skin	325	Port Input	99					1082925	1590	1
+slope6_skin	325	Port Input	77					1082935	1600	1
+slope6_skin	326	Save Logfile	Measurement,25.2, ,38	Measurement	25.2	 	38	1083335	0	434			0		other	0
+slope6_skin	326	Port Input	49					1084895	1560	1
+slope6_skin	326	Port Input	48					1084915	1580	1
+slope6_skin	326	Port Input	54					1084925	1590	1
+slope6_skin	326	Port Input	77					1084935	1600	1
+slope6_skin	327	Save Logfile	Measurement,26.2, ,38	Measurement	26.2	 	38	1085335	0	442			0		other	0
+slope6_skin	327	Port Input	49					1086895	1560	1
+slope6_skin	327	Port Input	49					1086915	1580	1
+slope6_skin	327	Port Input	49					1086925	1590	1
+slope6_skin	327	Port Input	77					1086935	1600	1
+slope6_skin	328	Save Logfile	Measurement,27.3, ,38	Measurement	27.3	 	38	1087335	0	437			0		other	0
+slope6_skin	328	Port Input	49					1088885	1550	1
+slope6_skin	328	Port Input	49					1088905	1570	1
+slope6_skin	328	Port Input	98					1088915	1580	1
+slope6_skin	328	Port Input	77					1088925	1590	1
+slope6_skin	329	Save Logfile	Measurement,28.3, ,38	Measurement	28.3	 	38	1089324	0	511			0		other	0
+slope6_skin	329	Port Input	49					1091055	1731	1
+slope6_skin	329	Port Input	50					1091075	1751	1
+slope6_skin	329	Port Input	54					1091085	1761	1
+slope6_skin	329	Port Input	77					1091095	1771	1
+slope6_skin	330	Save Logfile	Measurement,29.4, ,38	Measurement	29.4	 	38	1091495	0	436			0		other	0
+slope6_skin	330	Port Input	49					1093055	1560	1
+slope6_skin	330	Port Input	51					1093075	1580	1
+slope6_skin	330	Port Input	49					1093085	1590	1
+slope6_skin	330	Port Input	77					1093095	1600	1
+slope6_skin	331	Save Logfile	Measurement,30.5, ,38	Measurement	30.5	 	38	1093495	0	443			0		other	0
+slope6_skin	331	Port Input	49					1095055	1560	1
+slope6_skin	331	Port Input	51					1095075	1580	1
+slope6_skin	331	Port Input	98					1095085	1590	1
+slope6_skin	331	Port Input	77					1095095	1600	1
+slope6_skin	332	Save Logfile	Measurement,31.5, ,38	Measurement	31.5	 	38	1095495	0	441			0		other	0
+slope6_skin	332	Port Input	49					1097045	1550	1
+slope6_skin	332	Port Input	52					1097065	1570	1
+slope6_skin	332	Port Input	54					1097075	1580	1
+slope6_skin	332	Port Input	77					1097085	1590	1
+slope6_skin	333	Save Logfile	Measurement,32.6, ,38	Measurement	32.6	 	38	1097485	0	446			0		other	0
+slope6_skin	333	Port Input	49					1099045	1560	1
+slope6_skin	333	Port Input	53					1099065	1580	1
+slope6_skin	333	Port Input	48					1099075	1590	1
+slope6_skin	333	Port Input	77					1099086	1601	1
+slope6_skin	334	Save Logfile	Measurement,33.6, ,38	Measurement	33.6	 	38	1099485	0	442			0		other	0
+slope6_skin	334	Port Input	49					1101045	1560	1
+slope6_skin	334	Port Input	53					1101065	1580	1
+slope6_skin	334	Port Input	97					1101075	1590	1
+slope6_skin	334	Port Input	77					1101085	1600	1
+slope6_skin	335	Save Logfile	Measurement,34.6, ,38	Measurement	34.6	 	38	1101485	0	444			0		other	0
+slope6_skin	335	Port Input	49					1103045	1560	1
+slope6_skin	335	Port Input	54					1103065	1580	1
+slope6_skin	335	Port Input	53					1103075	1590	1
+slope6_skin	335	Port Input	77					1103085	1600	1
+slope6_skin	336	Save Logfile	Measurement,35.7, ,38	Measurement	35.7	 	38	1103485	0	458			0		other	0
+slope6_skin	336	Port Input	49					1105045	1560	1
+slope6_skin	336	Port Input	55					1105065	1580	1
+slope6_skin	336	Port Input	48					1105075	1590	1
+slope6_skin	336	Port Input	77					1105085	1600	1
+slope6_skin	337	Save Logfile	Measurement,36.8, ,38	Measurement	36.8	 	38	1105485	0	445			0		other	0
+slope6_skin	337	Port Input	49					1107045	1560	1
+slope6_skin	337	Port Input	55					1107065	1580	1
+slope6_skin	337	Port Input	97					1107075	1590	1
+slope6_skin	337	Port Input	77					1107085	1600	1
+slope6_skin	338	Save Logfile	Measurement,37.8, ,38	Measurement	37.8	 	38	1107485	0	453			0		other	0
+slope6_skin	338	Port Input	49					1109045	1560	1
+slope6_skin	338	Port Input	56					1109065	1580	1
+slope6_skin	338	Port Input	53					1109075	1590	1
+slope6_skin	338	Port Input	77					1109085	1600	1
+slope6_skin	339	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1111483	0	447			0		other	0
+slope6_skin	339	Port Input	49					1113055	1572	1
+slope6_skin	339	Port Input	56					1113075	1592	1
+slope6_skin	339	Port Input	98					1113085	1602	1
+slope6_skin	339	Port Input	77					1113095	1612	1
+slope6_skin	340	Save Logfile	Measurement,39.5, ,0	Measurement	39.5	 	0	1115493	0	459			0		other	0
+slope6_skin	340	Port Input	49					1117215	1722	1
+slope6_skin	340	Port Input	56					1117235	1742	2
+slope6_skin	340	Port Input	97					1117245	1752	1
+slope6_skin	340	Port Input	77					1117255	1762	1
+slope6_skin	341	Save Logfile	Measurement,39.4, ,0	Measurement	39.4	 	0	1119686	0	486			0		other	0
+slope6_skin	341	Port Input	49					1121375	1689	1
+slope6_skin	341	Port Input	56					1121395	1709	1
+slope6_skin	341	Port Input	57					1121405	1719	1
+slope6_skin	341	Port Input	77					1121415	1729	1
+slope6_skin	342	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1123813	0	458			0		other	0
+slope6_skin	342	Port Input	49					1125405	1592	1
+slope6_skin	342	Port Input	56					1125425	1612	1
+slope6_skin	342	Port Input	97					1125435	1622	1
+slope6_skin	342	Port Input	77					1125445	1632	1
+slope6_skin	343	Save Logfile	Measurement,39.4, ,0	Measurement	39.4	 	0	1127843	0	461			0		other	0
+slope6_skin	343	Port Input	49					1129535	1692	1
+slope6_skin	343	Port Input	56					1129555	1712	1
+slope6_skin	343	Port Input	97					1129565	1722	1
+slope6_skin	343	Port Input	77					1129575	1732	1
+slope6_skin	344	Save Logfile	Measurement,39.4, ,0	Measurement	39.4	 	0	1131973	0	470			0		other	0
+slope6_skin	344	Response	4					1133454	1481	1
+slope6_skin	344	Port Input	49					1133685	1712	1
+slope6_skin	344	Port Input	56					1133705	1732	1
+slope6_skin	344	Port Input	97					1133715	1742	1
+slope6_skin	344	Port Input	77					1133725	1752	1
+slope6_skin	345	Save Logfile	Measurement,39.4, ,0	Measurement	39.4	 	0	1136123	0	465			0		other	0
+slope6_skin	345	Port Input	49					1137685	1562	1
+slope6_skin	345	Port Input	56					1137695	1572	1
+slope6_skin	345	Port Input	97					1137705	1582	1
+slope6_skin	345	Port Input	84					1137715	1592	1
+slope6_skin	345	Port Input	48					1139225	3102	1
+slope6_skin	345	Port Input	53					1139235	3112	1
+slope6_skin	345	Port Input	48					1139245	3122	1
+slope6_skin	345	Port Input	67					1139255	3132	1
+slope6_skin	346	Save Logfile	Initiate Peak,39.4, ,8	Initiate Peak	39.4	 	8	1139623	0	472			0		other	0
+slope6_skin	346	Port Input	48					1141165	1542	1
+slope6_skin	346	Port Input	48					1141185	1562	1
+slope6_skin	346	Port Input	51					1141195	1572	1
+slope6_skin	346	Port Input	77					1141205	1582	1
+slope6_skin	346	Port Input	49					1144665	5042	1
+slope6_skin	346	Port Input	56					1144685	5062	1
+slope6_skin	346	Port Input	57					1144695	5072	1
+slope6_skin	346	Port Input	77					1144705	5082	1
+slope6_skin	347	Save Logfile	Measurement,39.3, ,8	Measurement	39.3	 	8	1147103	0	455			0		other	0
+slope6_skin	347	Port Input	49					1148675	1572	1
+slope6_skin	347	Port Input	55					1148695	1592	1
+slope6_skin	347	Port Input	97					1148705	1602	1
+slope6_skin	347	Port Input	77					1148715	1612	1
+slope6_skin	348	Save Logfile	Measurement,37.8, ,8	Measurement	37.8	 	8	1151113	0	466			0		other	0
+slope6_skin	348	Port Input	49					1152675	1562	1
+slope6_skin	348	Port Input	54					1152695	1582	1
+slope6_skin	348	Port Input	53					1152705	1592	1
+slope6_skin	348	Port Input	77					1152715	1602	1
+slope6_skin	349	Save Logfile	Measurement,35.7, ,8	Measurement	35.7	 	8	1155113	0	473			0		other	0
+slope6_skin	349	Port Input	49					1156835	1722	1
+slope6_skin	349	Port Input	53					1156855	1742	1
+slope6_skin	349	Port Input	51					1156865	1752	1
+slope6_skin	349	Port Input	77					1156875	1762	1
+slope6_skin	350	Save Logfile	Measurement,33.9, ,8	Measurement	33.9	 	8	1159273	0	472			0		other	0
+slope6_skin	350	Port Input	49					1160835	1562	1
+slope6_skin	350	Port Input	52					1160855	1582	1
+slope6_skin	350	Port Input	49					1160865	1592	1
+slope6_skin	350	Port Input	77					1160875	1602	1
+slope6_skin	351	Save Logfile	Measurement,32.1, ,8	Measurement	32.1	 	8	1163273	0	465			0		other	0
+slope6_skin	351	Port Input	49					1164835	1562	1
+slope6_skin	351	Port Input	51					1164855	1582	1
+slope6_skin	351	Port Input	49					1164865	1592	1
+slope6_skin	351	Port Input	77					1164875	1602	1
+slope6_skin	352	Save Logfile	Measurement,30.5, ,8	Measurement	30.5	 	8	1167273	0	461			0		other	0
+slope6_skin	352	Port Input	49					1168825	1552	1
+slope6_skin	352	Port Input	50					1168845	1572	1
+slope6_skin	352	Port Input	51					1168855	1582	1
+slope6_skin	352	Port Input	77					1168865	1592	1
+slope6_skin	353	Save Logfile	Measurement,29.1, ,8	Measurement	29.1	 	8	1171263	0	474			0		other	0
+slope6_skin	353	Port Input	49					1172825	1562	1
+slope6_skin	353	Port Input	49					1172845	1582	1
+slope6_skin	353	Port Input	54					1172855	1592	1
+slope6_skin	353	Port Input	77					1172865	1602	1
+slope6_skin	354	Save Logfile	Measurement,27.8, ,8	Measurement	27.8	 	8	1175263	0	472			0		other	0
+slope6_skin	354	Port Input	49					1176985	1722	1
+slope6_skin	354	Port Input	48					1176995	1732	1
+slope6_skin	354	Port Input	97					1177005	1742	1
+slope6_skin	354	Port Input	77					1177015	1752	1
+slope6_skin	355	Save Logfile	Measurement,26.6, ,8	Measurement	26.6	 	8	1179424	0	697			0		other	0
+slope6_skin	355	Port Input	48					1181315	1891	1
+slope6_skin	355	Port Input	102					1181325	1901	1
+slope6_skin	355	Port Input	102					1181335	1911	1
+slope6_skin	355	Port Input	77					1181345	1921	1
+slope6_skin	356	Save Logfile	Measurement,25.5, ,8	Measurement	25.5	 	8	1183757	0	768			0		other	0
+slope6_skin	356	Port Input	48					1185646	1889	1
+slope6_skin	356	Port Input	102					1185665	1908	1
+slope6_skin	356	Port Input	52					1185675	1918	1
+slope6_skin	356	Port Input	77					1185685	1928	1
+slope6_skin	357	Save Logfile	Measurement,24.4, ,8	Measurement	24.4	 	8	1188095	0	788			0		other	0
+slope6_skin	357	Port Input	48					1189976	1881	1
+slope6_skin	357	Port Input	101					1189985	1890	1
+slope6_skin	357	Port Input	97					1189995	1900	1
+slope6_skin	357	Port Input	77					1190005	1910	1
+slope6_skin	358	Save Logfile	Measurement,23.4, ,8	Measurement	23.4	 	8	1192413	0	468			0		other	0
+slope6_skin	358	Port Input	48					1193975	1562	1
+slope6_skin	358	Port Input	101					1193985	1572	1
+slope6_skin	358	Port Input	49					1193995	1582	1
+slope6_skin	358	Port Input	77					1194005	1592	1
+slope6_skin	359	Save Logfile	Measurement,22.5, ,8	Measurement	22.5	 	8	1196413	0	464			0		other	0
+slope6_skin	359	Port Input	48					1197975	1562	2
+slope6_skin	359	Port Input	100					1197985	1572	1
+slope6_skin	359	Port Input	57					1197995	1582	1
+slope6_skin	359	Port Input	77					1198005	1592	1
+slope6_skin	360	Save Logfile	Measurement,21.7, ,8	Measurement	21.7	 	8	1200413	0	476			0		other	0
+slope6_skin	360	Port Input	48					1202135	1722	1
+slope6_skin	360	Port Input	100					1202145	1732	2
+slope6_skin	360	Port Input	50					1202155	1742	1
+slope6_skin	360	Port Input	77					1202165	1752	1
+slope6_skin	361	Save Logfile	Measurement,21, ,8	Measurement	21	 	8	1204573	0	474			0		other	0
+slope6_skin	361	Port Input	48					1206295	1722	2
+slope6_skin	361	Port Input	99					1206305	1732	1
+slope6_skin	361	Port Input	98					1206315	1742	2
+slope6_skin	361	Port Input	77					1206325	1752	1
+slope6_skin	362	Save Logfile	Measurement,20.3, ,8	Measurement	20.3	 	8	1208733	0	480			0		other	0
+slope6_skin	362	Port Input	48					1210465	1732	2
+slope6_skin	362	Port Input	99					1210475	1742	1
+slope6_skin	362	Port Input	52					1210485	1752	1
+slope6_skin	362	Port Input	77					1210495	1762	1
+slope6_skin	363	Save Logfile	Measurement,19.6, ,8	Measurement	19.6	 	8	1212903	0	476			0		other	0
+slope6_skin	363	Port Input	48					1214625	1722	2
+slope6_skin	363	Port Input	98					1214635	1732	2
+slope6_skin	363	Port Input	101					1214645	1742	2
+slope6_skin	363	Port Input	77					1214655	1752	1
+slope6_skin	364	Save Logfile	Measurement,19, ,8	Measurement	19	 	8	1217063	0	484			0		other	0
+slope6_skin	364	Port Input	48					1218786	1723	1
+slope6_skin	364	Port Input	98					1218795	1732	2
+slope6_skin	364	Port Input	56					1218805	1742	2
+slope6_skin	364	Port Input	77					1218815	1752	2
+slope6_skin	365	Save Logfile	Measurement,18.4, ,8	Measurement	18.4	 	8	1221223	0	489			0		other	0
+slope6_skin	365	Port Input	48					1222955	1732	2
+slope6_skin	365	Port Input	98					1222965	1742	1
+slope6_skin	365	Port Input	50					1222975	1752	2
+slope6_skin	365	Port Input	77					1222985	1762	2
+slope6_skin	366	Save Logfile	Measurement,17.8, ,8	Measurement	17.8	 	8	1225394	0	478			0		other	0
+slope6_skin	366	Port Input	48					1227115	1721	2
+slope6_skin	366	Port Input	97					1227125	1731	2
+slope6_skin	366	Port Input	100					1227135	1741	2
+slope6_skin	366	Port Input	77					1227145	1751	2
+slope6_skin	367	Save Logfile	Measurement,17.3, ,8	Measurement	17.3	 	8	1229553	0	499			0		other	0
+slope6_skin	367	Port Input	48					1231286	1733	1
+slope6_skin	367	Port Input	97					1231295	1742	2
+slope6_skin	367	Port Input	56					1231305	1752	2
+slope6_skin	367	Port Input	77					1231315	1762	2
+slope6_skin	368	Save Logfile	Measurement,16.8, ,8	Measurement	16.8	 	8	1233723	0	575			0		other	0
+slope6_skin	368	Port Input	48					1235446	1723	1
+slope6_skin	368	Port Input	97					1235455	1732	2
+slope6_skin	368	Port Input	51					1235466	1743	1
+slope6_skin	368	Port Input	77					1235476	1753	1
+slope6_skin	369	Save Logfile	Measurement,16.3, ,8	Measurement	16.3	 	8	1237890	0	491			0		other	0
+slope6_skin	369	Port Input	48					1239606	1716	1
+slope6_skin	369	Port Input	57					1239615	1725	2
+slope6_skin	369	Port Input	102					1239626	1736	1
+slope6_skin	369	Port Input	77					1239636	1746	1
+slope6_skin	370	Save Logfile	Measurement,15.9, ,8	Measurement	15.9	 	8	1242043	0	503			0		other	0
+slope6_skin	370	Port Input	48					1243776	1733	1
+slope6_skin	370	Port Input	57					1243786	1743	1
+slope6_skin	370	Port Input	97					1243795	1752	2
+slope6_skin	370	Port Input	77					1243806	1763	1
+slope6_skin	371	Save Logfile	Measurement,15.4, ,8	Measurement	15.4	 	8	1246213	0	503			0		other	0
+slope6_skin	371	Port Input	48					1247936	1723	1
+slope6_skin	371	Port Input	57					1247945	1732	2
+slope6_skin	371	Port Input	54					1247956	1743	1
+slope6_skin	371	Port Input	77					1247966	1753	1
+slope6_skin	372	Save Logfile	Measurement,15, ,8	Measurement	15	 	8	1250373	0	500			0		other	0
+slope6_skin	372	Port Input	48					1252096	1723	1
+slope6_skin	372	Port Input	57					1252106	1733	1
+slope6_skin	372	Port Input	50					1252116	1743	1
+slope6_skin	372	Port Input	77					1252126	1753	1
+slope6_skin	373	Save Logfile	Measurement,14.6, ,8	Measurement	14.6	 	8	1254533	0	489			0		other	0
+slope6_skin	373	Port Input	48					1256266	1733	1
+slope6_skin	373	Port Input	56					1256276	1743	1
+slope6_skin	373	Port Input	101					1256286	1753	1
+slope6_skin	373	Port Input	77					1256296	1763	1
+slope6_skin	374	Save Logfile	Measurement,14.2, ,8	Measurement	14.2	 	8	1258703	0	502			0		other	0
+slope6_skin	374	Port Input	48					1260426	1723	1
+slope6_skin	374	Port Input	56					1260436	1733	1
+slope6_skin	374	Port Input	98					1260446	1743	1
+slope6_skin	374	Port Input	77					1260456	1753	1
+slope6_skin	375	Save Logfile	Measurement,13.9, ,8	Measurement	13.9	 	8	1262863	0	496			0		other	0
+slope6_skin	375	Port Input	48					1264586	1723	1
+slope6_skin	375	Port Input	56					1264596	1733	1
+slope6_skin	375	Port Input	56					1264606	1743	1
+slope6_skin	375	Port Input	77					1264616	1753	1
+slope6_skin	376	Save Logfile	Measurement,13.6, ,8	Measurement	13.6	 	8	1267024	0	581			0		other	0
+slope6_skin	376	Port Input	48					1268756	1732	1
+slope6_skin	376	Port Input	56					1268766	1742	1
+slope6_skin	376	Port Input	52					1268776	1752	1
+slope6_skin	376	Port Input	77					1268786	1762	1
+slope6_skin	377	Save Logfile	Measurement,13.2, ,8	Measurement	13.2	 	8	1271194	0	570			0		other	0
+slope6_skin	377	Port Input	48					1272916	1722	1
+slope6_skin	377	Port Input	56					1272926	1732	1
+slope6_skin	377	Port Input	49					1272936	1742	1
+slope6_skin	377	Port Input	77					1272946	1752	1
+slope6_skin	378	Save Logfile	Measurement,12.9, ,8	Measurement	12.9	 	8	1275354	0	507			0		other	0
+slope6_skin	378	Port Input	48					1277076	1722	1
+slope6_skin	378	Port Input	55					1277086	1732	1
+slope6_skin	378	Port Input	101					1277096	1742	1
+slope6_skin	378	Port Input	77					1277106	1752	1
+slope6_skin	379	Save Logfile	Measurement,12.6, ,8	Measurement	12.6	 	8	1279513	0	517			0		other	0
+slope6_skin	379	Port Input	48					1281246	1733	1
+slope6_skin	379	Port Input	55					1281256	1743	1
+slope6_skin	379	Port Input	98					1281266	1753	1
+slope6_skin	379	Port Input	77					1281276	1763	1
+slope6_skin	380	Save Logfile	Measurement,12.3, ,8	Measurement	12.3	 	8	1283694	0	501			0		other	0
+slope6_skin	380	Port Input	48					1285406	1712	1
+slope6_skin	380	Port Input	55					1285416	1722	1
+slope6_skin	380	Port Input	56					1285426	1732	1
+slope6_skin	380	Port Input	77					1285436	1742	1
+slope6_skin	381	Save Logfile	Measurement,12, ,8	Measurement	12	 	8	1287843	0	510			0		other	0
+slope6_skin	381	Port Input	48					1289566	1723	1
+slope6_skin	381	Port Input	55					1289576	1733	1
+slope6_skin	381	Port Input	53					1289586	1743	1
+slope6_skin	381	Port Input	77					1289596	1753	1
+slope6_skin	382	Save Logfile	Measurement,11.7, ,8	Measurement	11.7	 	8	1292009	0	859			0		other	0
+slope6_skin	382	Port Input	48					1294066	2057	1
+slope6_skin	382	Port Input	55					1294076	2067	1
+slope6_skin	382	Port Input	51					1294086	2077	1
+slope6_skin	382	Port Input	77					1294096	2087	1
+slope6_skin	383	Save Logfile	Measurement,11.5, ,8	Measurement	11.5	 	8	1296505	0	841			0		other	0
+slope6_skin	383	Port Input	48					1298576	2071	1
+slope6_skin	383	Port Input	55					1298586	2081	1
+slope6_skin	383	Port Input	48					1298596	2091	1
+slope6_skin	383	Port Input	77					1298606	2101	1
+slope6_skin	384	Save Logfile	Measurement,11.2, ,8	Measurement	11.2	 	8	1301016	0	840			0		other	0
+slope6_skin	384	Port Input	48					1303056	2040	1
+slope6_skin	384	Port Input	54					1303066	2050	1
+slope6_skin	384	Port Input	100					1303076	2060	1
+slope6_skin	384	Port Input	77					1303086	2070	1
+slope6_skin	385	Save Logfile	Measurement,10.9, ,8	Measurement	10.9	 	8	1305493	0	508			0		other	0
+slope6_skin	385	Port Input	48					1307226	1733	1
+slope6_skin	385	Port Input	54					1307236	1743	1
+slope6_skin	385	Port Input	98					1307246	1753	1
+slope6_skin	385	Port Input	77					1307256	1763	1
+slope6_skin	386	Save Logfile	Measurement,10.7, ,8	Measurement	10.7	 	8	1309663	0	507			0		other	0
+slope6_skin	386	Port Input	48					1311386	1723	1
+slope6_skin	386	Port Input	54					1311396	1733	1
+slope6_skin	386	Port Input	56					1311406	1743	1
+slope6_skin	386	Port Input	77					1311416	1753	1
+slope6_skin	387	Save Logfile	Measurement,10.4, ,8	Measurement	10.4	 	8	1313823	0	521			0		other	0
+slope6_skin	387	Port Input	48					1315546	1723	1
+slope6_skin	387	Port Input	54					1315556	1733	1
+slope6_skin	387	Port Input	54					1315566	1743	1
+slope6_skin	387	Port Input	77					1315576	1753	1
+slope6_skin	388	Save Logfile	Measurement,10.2, ,8	Measurement	10.2	 	8	1317983	0	503			0		other	0
+slope6_skin	388	Port Input	48					1319716	1733	1
+slope6_skin	388	Port Input	54					1319726	1743	1
+slope6_skin	388	Port Input	52					1319736	1753	1
+slope6_skin	388	Port Input	77					1319746	1763	1
+slope6_skin	389	Save Logfile	Measurement,10, ,8	Measurement	10	 	8	1322153	0	520			0		other	0
+slope6_skin	389	Port Input	48					1323876	1723	1
+slope6_skin	389	Port Input	54					1323886	1733	1
+slope6_skin	389	Port Input	49					1323896	1743	1
+slope6_skin	389	Port Input	77					1323906	1753	1
+slope6_skin	390	Save Logfile	Measurement,9.7, ,8	Measurement	9.7	 	8	1326313	0	520			0		other	0
+slope6_skin	390	Port Input	48					1328036	1723	1
+slope6_skin	390	Port Input	53					1328046	1733	1
+slope6_skin	390	Port Input	102					1328056	1743	1
+slope6_skin	390	Port Input	77					1328066	1753	1
+slope6_skin	391	Save Logfile	Measurement,9.5, ,8	Measurement	9.5	 	8	1330473	0	517			0		other	0
+slope6_skin	391	Port Input	48					1332206	1733	1
+slope6_skin	391	Port Input	53					1332216	1743	1
+slope6_skin	391	Port Input	100					1332226	1753	1
+slope6_skin	391	Port Input	77					1332236	1763	1
+slope6_skin	392	Save Logfile	Measurement,9.3, ,8	Measurement	9.3	 	8	1334643	0	524			0		other	0
+slope6_skin	392	Port Input	48					1336366	1723	1
+slope6_skin	392	Port Input	53					1336376	1733	1
+slope6_skin	392	Port Input	98					1336386	1743	1
+slope6_skin	392	Port Input	77					1336396	1753	1
+slope6_skin	393	Save Logfile	Measurement,9.1, ,8	Measurement	9.1	 	8	1338803	0	533			0		other	0
+slope6_skin	393	Port Input	48					1340526	1723	1
+slope6_skin	393	Port Input	53					1340536	1733	1
+slope6_skin	393	Port Input	57					1340546	1743	1
+slope6_skin	393	Port Input	77					1340556	1753	1
+slope6_skin	394	Save Logfile	Measurement,8.9, ,8	Measurement	8.9	 	8	1342963	0	521			0		other	0
+slope6_skin	394	Port Input	48					1344696	1733	1
+slope6_skin	394	Port Input	53					1344706	1743	1
+slope6_skin	394	Port Input	55					1344716	1753	1
+slope6_skin	394	Port Input	77					1344726	1763	1
+slope6_skin	395	Save Logfile	Measurement,8.7, ,8	Measurement	8.7	 	8	1347133	0	507			0		other	0
+slope6_skin	395	Port Input	48					1348856	1723	1
+slope6_skin	395	Port Input	53					1348866	1733	1
+slope6_skin	395	Port Input	53					1348876	1743	1
+slope6_skin	395	Port Input	77					1348886	1753	1
+slope6_skin	396	Save Logfile	Measurement,8.5, ,8	Measurement	8.5	 	8	1351294	0	531			0		other	0
+slope6_skin	396	Port Input	48					1353016	1722	1
+slope6_skin	396	Port Input	53					1353026	1732	1
+slope6_skin	396	Port Input	51					1353036	1742	1
+slope6_skin	396	Port Input	77					1353046	1752	1
+slope6_skin	397	Save Logfile	Measurement,8.3, ,8	Measurement	8.3	 	8	1355454	0	529			0		other	0
+slope6_skin	397	Port Input	48					1357186	1732	1
+slope6_skin	397	Port Input	53					1357196	1742	1
+slope6_skin	397	Port Input	50					1357206	1752	1
+slope6_skin	397	Port Input	77					1357216	1762	1
+slope6_skin	398	Save Logfile	Measurement,8.2, ,8	Measurement	8.2	 	8	1359657	0	586			0		other	0
+slope6_skin	398	Port Input	48					1361346	1689	1
+slope6_skin	398	Port Input	53					1361356	1699	1
+slope6_skin	398	Port Input	50					1361366	1709	1
+slope6_skin	398	Port Input	77					1361376	1719	1
+slope6_skin	399	Save Logfile	Measurement,8.2, ,8	Measurement	8.2	 	8	1363783	0	519			0		other	0
+slope6_skin	399	Port Input	48					1365516	1733	1
+slope6_skin	399	Port Input	53					1365526	1743	1
+slope6_skin	399	Port Input	50					1365536	1753	1
+slope6_skin	399	Port Input	77					1365546	1763	1
+slope6_skin	400	Save Logfile	Measurement,8.2, ,8	Measurement	8.2	 	8	1367953	0	532			0		other	0
+slope6_skin	400	Port Input	48					1369676	1723	1
+slope6_skin	400	Port Input	53					1369686	1733	1
+slope6_skin	400	Port Input	49					1369696	1743	1
+slope6_skin	400	Port Input	77					1369706	1753	1
+slope6_skin	401	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1372113	0	534			0		other	0
+slope6_skin	401	Port Input	48					1373836	1723	1
+slope6_skin	401	Port Input	53					1373846	1733	1
+slope6_skin	401	Port Input	49					1373856	1743	1
+slope6_skin	401	Port Input	77					1373866	1753	1
+slope6_skin	402	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1376273	0	529			0		other	0
+slope6_skin	402	Port Input	48					1378006	1733	1
+slope6_skin	402	Port Input	53					1378016	1743	1
+slope6_skin	402	Port Input	49					1378026	1753	1
+slope6_skin	402	Port Input	77					1378036	1763	1
+slope6_skin	403	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1380443	0	530			0		other	0
+slope6_skin	403	Port Input	48					1382166	1723	2
+slope6_skin	403	Port Input	53					1382177	1734	1
+slope6_skin	403	Port Input	49					1382186	1743	1
+slope6_skin	403	Port Input	77					1382196	1753	1
+slope6_skin	404	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1384603	0	539			0		other	0
+slope6_skin	404	Port Input	48					1386326	1723	2
+slope6_skin	404	Port Input	53					1386336	1733	1
+slope6_skin	404	Port Input	49					1386346	1743	1
+slope6_skin	404	Port Input	77					1386356	1753	2
+slope6_skin	405	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1388763	0	532			0		other	0
+slope6_skin	405	Port Input	48					1390496	1733	2
+slope6_skin	405	Port Input	53					1390506	1743	1
+slope6_skin	405	Port Input	49					1390516	1753	1
+slope6_skin	405	Port Input	77					1390526	1763	2
+slope6_skin	406	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1392933	0	535			0		other	0
+slope6_skin	406	Port Input	48					1394656	1723	2
+slope6_skin	406	Port Input	53					1394666	1733	1
+slope6_skin	406	Port Input	49					1394676	1743	1
+slope6_skin	406	Port Input	77					1394686	1753	1
+slope6_skin	407	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1397093	0	536			0		other	0
+slope6_skin	407	Port Input	48					1398816	1723	2
+slope6_skin	407	Port Input	53					1398826	1733	2
+slope6_skin	407	Port Input	50					1398836	1743	2
+slope6_skin	407	Port Input	77					1398846	1753	1
+slope6_skin	408	Save Logfile	Measurement,8.2, ,8	Measurement	8.2	 	8	1401253	0	537			0		other	0
+slope6_skin	408	Port Input	48					1402987	1734	1
+slope6_skin	408	Port Input	53					1402996	1743	2
+slope6_skin	408	Port Input	49					1403006	1753	2
+slope6_skin	408	Port Input	77					1403016	1763	2
+slope6_skin	409	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1405426	0	852			0		other	0
+slope6_skin	409	Port Input	48					1407477	2051	1
+slope6_skin	409	Port Input	53					1407486	2060	2
+slope6_skin	409	Port Input	49					1407496	2070	2
+slope6_skin	409	Port Input	77					1407506	2080	2
+slope6_skin	410	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1409917	0	927			0		other	0
+slope6_skin	410	Port Input	48					1411977	2060	1
+slope6_skin	410	Port Input	53					1411986	2069	2
+slope6_skin	410	Port Input	49					1411996	2079	2
+slope6_skin	410	Port Input	77					1412006	2089	2
+slope6_skin	411	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1414414	0	561			0		other	0
+slope6_skin	411	Port Input	48					1416136	1722	2
+slope6_skin	411	Port Input	53					1416147	1733	1
+slope6_skin	411	Port Input	49					1416157	1743	1
+slope6_skin	411	Port Input	77					1416167	1753	1
+slope6_skin	412	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1418597	0	538			0		other	0
+slope6_skin	412	Port Input	48					1420307	1710	1
+slope6_skin	412	Port Input	53					1420317	1720	1
+slope6_skin	412	Port Input	49					1420326	1729	2
+slope6_skin	412	Port Input	77					1420336	1739	2
+slope6_skin	413	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1422743	0	549			0		other	0
+slope6_skin	413	Port Input	48					1424467	1724	1
+slope6_skin	413	Port Input	53					1424476	1733	2
+slope6_skin	413	Port Input	49					1424487	1744	1
+slope6_skin	413	Port Input	77					1424496	1753	2
+slope6_skin	414	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1426903	0	551			0		other	0
+slope6_skin	414	Port Input	48					1428627	1724	1
+slope6_skin	414	Port Input	53					1428637	1734	1
+slope6_skin	414	Port Input	49					1428647	1744	1
+slope6_skin	414	Port Input	77					1428657	1754	1
+slope6_skin	415	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1431063	0	554			0		other	0
+slope6_skin	415	Port Input	48					1432797	1734	1
+slope6_skin	415	Port Input	53					1432807	1744	1
+slope6_skin	415	Port Input	49					1432817	1754	1
+slope6_skin	415	Port Input	77					1432827	1764	1
+slope6_skin	416	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1435233	0	576			0		other	0
+slope6_skin	416	Port Input	48					1436957	1724	1
+slope6_skin	416	Port Input	53					1436967	1734	1
+slope6_skin	416	Port Input	49					1436977	1744	1
+slope6_skin	416	Port Input	77					1436987	1754	1
+slope6_skin	417	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1439393	0	563			0		other	0
+slope6_skin	417	Port Input	48					1441117	1724	1
+slope6_skin	417	Port Input	53					1441127	1734	1
+slope6_skin	417	Port Input	49					1441137	1744	1
+slope6_skin	417	Port Input	77					1441147	1754	1
+slope6_skin	418	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1443553	0	559			0		other	0
+slope6_skin	418	Port Input	48					1445287	1734	1
+slope6_skin	418	Port Input	53					1445297	1744	1
+slope6_skin	418	Port Input	49					1445307	1754	1
+slope6_skin	418	Port Input	77					1445317	1764	1
+slope6_skin	419	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1447723	0	552			0		other	0
+slope6_skin	419	Port Input	48					1449447	1724	1
+slope6_skin	419	Port Input	53					1449457	1734	1
+slope6_skin	419	Port Input	49					1449467	1744	1
+slope6_skin	419	Port Input	77					1449477	1754	1
+slope6_skin	420	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1451883	0	551			0		other	0
+slope6_skin	420	Port Input	48					1453607	1724	1
+slope6_skin	420	Port Input	53					1453617	1734	1
+slope6_skin	420	Port Input	49					1453627	1744	1
+slope6_skin	420	Port Input	77					1453637	1754	1
+slope6_skin	421	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1456045	0	563			0		other	0
+slope6_skin	421	Port Input	48					1457777	1732	1
+slope6_skin	421	Port Input	53					1457787	1742	1
+slope6_skin	421	Port Input	49					1457797	1752	1
+slope6_skin	421	Port Input	77					1457807	1762	1
+slope6_skin	422	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1460215	0	551			0		other	0
+slope6_skin	422	Port Input	48					1461937	1722	1
+slope6_skin	422	Port Input	53					1461947	1732	1
+slope6_skin	422	Port Input	48					1461957	1742	1
+slope6_skin	422	Port Input	77					1461967	1752	1
+slope6_skin	423	Save Logfile	Measurement,8, ,8	Measurement	8	 	8	1464375	0	560			0		other	0
+slope6_skin	423	Port Input	48					1466097	1722	1
+slope6_skin	423	Port Input	53					1466107	1732	1
+slope6_skin	423	Port Input	49					1466117	1742	1
+slope6_skin	423	Port Input	77					1466127	1752	1
+slope6_skin	424	Save Logfile	Measurement,8.1, ,8	Measurement	8.1	 	8	1468536	0	565			0		other	0
+slope6_skin	424	Port Input	48					1470267	1731	1
+slope6_skin	424	Port Input	53					1470277	1741	1
+slope6_skin	424	Port Input	48					1470287	1751	1
+slope6_skin	424	Port Input	77					1470297	1761	1
+slope6_skin	425	Save Logfile	Measurement,8, ,8	Measurement	8	 	8	1472715	0	562			0		other	0
+slope6_skin	425	Port Input	48					1474427	1712	1
+slope6_skin	425	Port Input	53					1474437	1722	1
+slope6_skin	425	Port Input	48					1474447	1732	1
+slope6_skin	425	Port Input	77					1474457	1742	1
+slope6_skin	426	Save Logfile	Measurement,8, ,8	Measurement	8	 	8	1476865	0	555			0		other	0
+slope6_skin	426	Port Input	48					1478587	1722	1
+slope6_skin	426	Port Input	53					1478597	1732	1
+slope6_skin	426	Port Input	48					1478607	1742	1
+slope6_skin	426	Port Input	77					1478627	1762	1
+slope6_skin	427	Save Logfile	Measurement,8, ,8	Measurement	8	 	8	1481035	0	558			0		other	0
+slope6_skin	427	Port Input	48					1482757	1722	1
+slope6_skin	427	Port Input	53					1482767	1732	1
+slope6_skin	427	Port Input	48					1482777	1742	1
+slope6_skin	427	Port Input	77					1482787	1752	1
+slope6_skin	428	Save Logfile	Measurement,8, ,8	Measurement	8	 	8	1485194	0	587			0		other	0
+slope6_skin	428	Port Input	48					1486917	1723	1
+slope6_skin	428	Port Input	53					1486927	1733	1
+slope6_skin	428	Port Input	48					1486937	1743	1
+slope6_skin	428	Port Input	77					1486947	1753	1
+slope6_skin	428	Port Input	48					1486977	1783	1
+slope6_skin	428	Port Input	53					1486987	1793	1
+slope6_skin	428	Port Input	48					1486997	1803	1
+slope6_skin	428	Port Input	70					1487007	1813	1
+slope6_skin	429	Save Logfile	Measurement,8, ,8	Measurement	8	 	8	1489354	0	575			0		other	0
+slope6_skin	429	Port Input	48					1491087	1733	1
+slope6_skin	429	Port Input	52					1491097	1743	1
+slope6_skin	429	Port Input	102					1491107	1753	1
+slope6_skin	429	Port Input	77					1491117	1763	1
+slope6_skin	430	Save Logfile	Measurement,7.9, ,8	Measurement	7.9	 	8	1493525	0	568			0		other	0
+slope6_skin	431	Save Logfile	Peak Temperature,7.9, ,8	Peak Temperature	7.9	 	8	1494350	0	557			0		other	0
+slope6_skin	431	Port Input	48					1495987	1637	1
+slope6_skin	431	Port Input	53					1495997	1647	1
+slope6_skin	431	Port Input	55					1496007	1657	1
+slope6_skin	431	Port Input	67					1496017	1667	1
+slope6_skin	431	Port Input	48					1497467	3117	1
+slope6_skin	431	Port Input	48					1497477	3127	1
+slope6_skin	431	Port Input	48					1497487	3137	1
+slope6_skin	431	Port Input	77					1497497	3147	1
+slope6_skin	432	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	1497905	0	565			0		other	0
+slope6_skin	432	Port Input	48					1499577	1672	1
+slope6_skin	432	Port Input	55					1499587	1682	1
+slope6_skin	432	Port Input	55					1499597	1692	1
+slope6_skin	432	Port Input	77					1499607	1702	1
+slope6_skin	433	Save Logfile	Measurement,11.9, ,38	Measurement	11.9	 	38	1500015	0	584			0		other	0
+slope6_skin	433	Port Input	48					1501737	1722	1
+slope6_skin	433	Port Input	56					1501747	1732	1
+slope6_skin	433	Port Input	50					1501757	1742	1
+slope6_skin	433	Port Input	77					1501767	1752	1
+slope6_skin	434	Save Logfile	Measurement,13, ,38	Measurement	13	 	38	1502175	0	583			0		other	0
+slope6_skin	434	Port Input	48					1503907	1732	1
+slope6_skin	434	Port Input	56					1503917	1742	1
+slope6_skin	434	Port Input	100					1503927	1752	1
+slope6_skin	434	Port Input	77					1503937	1762	1
+slope6_skin	435	Save Logfile	Measurement,14.1, ,38	Measurement	14.1	 	38	1504345	0	586			0		other	0
+slope6_skin	435	Port Input	48					1506067	1722	1
+slope6_skin	435	Port Input	57					1506077	1732	1
+slope6_skin	435	Port Input	56					1506087	1742	1
+slope6_skin	435	Port Input	77					1506097	1752	1
+slope6_skin	436	Save Logfile	Measurement,15.2, ,38	Measurement	15.2	 	38	1506505	0	573			0		other	0
+slope6_skin	436	Port Input	48					1508237	1732	1
+slope6_skin	436	Port Input	97					1508247	1742	1
+slope6_skin	436	Port Input	50					1508257	1752	1
+slope6_skin	436	Port Input	77					1508267	1762	1
+slope6_skin	437	Save Logfile	Measurement,16.2, ,38	Measurement	16.2	 	38	1508675	0	576			0		other	0
+slope6_skin	437	Port Input	48					1510397	1722	1
+slope6_skin	437	Port Input	97					1510407	1732	1
+slope6_skin	437	Port Input	101					1510417	1742	1
+slope6_skin	437	Port Input	77					1510427	1752	1
+slope6_skin	438	Save Logfile	Measurement,17.4, ,38	Measurement	17.4	 	38	1510837	0	586			0		other	0
+slope6_skin	438	Port Input	48					1512567	1730	1
+slope6_skin	438	Port Input	98					1512577	1740	1
+slope6_skin	438	Port Input	57					1512587	1750	1
+slope6_skin	438	Port Input	77					1512597	1760	1
+slope6_skin	439	Save Logfile	Measurement,18.5, ,38	Measurement	18.5	 	38	1513005	0	588			0		other	0
+slope6_skin	439	Port Input	48					1514727	1722	1
+slope6_skin	439	Port Input	99					1514737	1732	1
+slope6_skin	439	Port Input	52					1514747	1742	1
+slope6_skin	439	Port Input	77					1514757	1752	1
+slope6_skin	440	Save Logfile	Measurement,19.6, ,38	Measurement	19.6	 	38	1515168	0	774			0		other	0
+slope6_skin	440	Port Input	48					1517057	1889	1
+slope6_skin	440	Port Input	99					1517067	1899	1
+slope6_skin	440	Port Input	102					1517077	1909	1
+slope6_skin	440	Port Input	77					1517087	1919	1
+slope6_skin	441	Save Logfile	Measurement,20.7, ,38	Measurement	20.7	 	38	1517498	0	877			0		other	0
+slope6_skin	441	Port Input	48					1519557	2059	1
+slope6_skin	441	Port Input	100					1519567	2069	1
+slope6_skin	441	Port Input	98					1519577	2079	1
+slope6_skin	441	Port Input	77					1519587	2089	1
+slope6_skin	442	Save Logfile	Measurement,21.9, ,38	Measurement	21.9	 	38	1519995	0	922			0		other	0
+slope6_skin	442	Port Input	48					1522057	2062	1
+slope6_skin	442	Port Input	101					1522067	2072	1
+slope6_skin	442	Port Input	56					1522077	2082	1
+slope6_skin	442	Port Input	77					1522087	2092	1
+slope6_skin	443	Save Logfile	Measurement,23.2, ,38	Measurement	23.2	 	38	1522495	0	917			0		other	0
+slope6_skin	443	Port Input	48					1524557	2062	1
+slope6_skin	443	Port Input	102					1524577	2082	1
+slope6_skin	443	Port Input	53					1524587	2092	1
+slope6_skin	443	Port Input	77					1524597	2102	1
+slope6_skin	444	Save Logfile	Measurement,24.5, ,38	Measurement	24.5	 	38	1525005	0	721			0		other	0
+slope6_skin	444	Port Input	49					1526887	1882	2
+slope6_skin	444	Port Input	48					1526907	1902	1
+slope6_skin	444	Port Input	50					1526917	1912	1
+slope6_skin	444	Port Input	77					1526927	1922	1
+slope6_skin	445	Save Logfile	Measurement,25.8, ,38	Measurement	25.8	 	38	1527325	0	577			0		other	0
+slope6_skin	445	Port Input	49					1529057	1732	1
+slope6_skin	445	Port Input	48					1529077	1752	1
+slope6_skin	445	Port Input	101					1529087	1762	1
+slope6_skin	445	Port Input	77					1529097	1772	1
+slope6_skin	446	Save Logfile	Measurement,27, ,38	Measurement	27	 	38	1529495	0	585			0		other	0
+slope6_skin	446	Port Input	49					1531217	1722	1
+slope6_skin	446	Port Input	49					1531237	1742	1
+slope6_skin	446	Port Input	57					1531247	1752	1
+slope6_skin	446	Port Input	77					1531257	1762	1
+slope6_skin	447	Save Logfile	Measurement,28.1, ,38	Measurement	28.1	 	38	1531655	0	596			0		other	0
+slope6_skin	447	Port Input	49					1533387	1732	1
+slope6_skin	447	Port Input	50					1533407	1752	1
+slope6_skin	447	Port Input	52					1533417	1762	1
+slope6_skin	447	Port Input	77					1533427	1772	1
+slope6_skin	448	Save Logfile	Measurement,29.2, ,38	Measurement	29.2	 	38	1533825	0	676			0		other	0
+slope6_skin	448	Port Input	49					1535717	1892	1
+slope6_skin	448	Port Input	51					1535737	1912	1
+slope6_skin	448	Port Input	48					1535747	1922	1
+slope6_skin	448	Port Input	77					1535757	1932	1
+slope6_skin	449	Save Logfile	Measurement,30.4, ,38	Measurement	30.4	 	38	1536155	0	594			0		other	0
+slope6_skin	449	Port Input	49					1537877	1722	1
+slope6_skin	449	Port Input	51					1537897	1742	1
+slope6_skin	449	Port Input	99					1537907	1752	1
+slope6_skin	449	Port Input	77					1537917	1762	1
+slope6_skin	450	Save Logfile	Measurement,31.6, ,38	Measurement	31.6	 	38	1538315	0	740			0		other	0
+slope6_skin	450	Port Input	49					1540207	1892	2
+slope6_skin	450	Port Input	52					1540227	1912	1
+slope6_skin	450	Port Input	55					1540237	1922	1
+slope6_skin	450	Port Input	77					1540247	1932	1
+slope6_skin	451	Save Logfile	Measurement,32.7, ,38	Measurement	32.7	 	38	1540645	0	584			0		other	0
+slope6_skin	451	Port Input	49					1542377	1732	1
+slope6_skin	451	Port Input	53					1542397	1752	1
+slope6_skin	451	Port Input	51					1542407	1762	1
+slope6_skin	451	Port Input	77					1542417	1772	1
+slope6_skin	452	Save Logfile	Measurement,33.9, ,38	Measurement	33.9	 	38	1542815	0	593			0		other	0
+slope6_skin	452	Port Input	49					1544537	1722	1
+slope6_skin	452	Port Input	53					1544557	1742	1
+slope6_skin	452	Port Input	101					1544567	1752	1
+slope6_skin	452	Port Input	77					1544577	1762	1
+slope6_skin	453	Save Logfile	Measurement,35, ,38	Measurement	35	 	38	1544975	0	981			0		other	0
+slope6_skin	453	Port Input	49					1547207	2232	1
+slope6_skin	453	Port Input	54					1547227	2252	1
+slope6_skin	453	Port Input	97					1547237	2262	1
+slope6_skin	453	Port Input	77					1547247	2272	1
+slope6_skin	454	Save Logfile	Measurement,36.2, ,38	Measurement	36.2	 	38	1547645	0	604			0		other	0
+slope6_skin	454	Port Input	49					1549367	1722	2
+slope6_skin	454	Port Input	55					1549387	1742	1
+slope6_skin	454	Port Input	56					1549397	1752	1
+slope6_skin	454	Port Input	77					1549407	1762	1
+slope6_skin	455	Save Logfile	Measurement,37.6, ,38	Measurement	37.6	 	38	1549805	0	587			0		other	0
+slope6_skin	455	Port Input	49					1551537	1732	1
+slope6_skin	455	Port Input	56					1551557	1752	1
+slope6_skin	455	Port Input	51					1551567	1762	1
+slope6_skin	455	Port Input	77					1551577	1772	1
+slope6_skin	456	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1553973	0	598			0		other	0
+slope6_skin	456	Port Input	49					1555697	1724	1
+slope6_skin	456	Port Input	56					1555717	1744	1
+slope6_skin	456	Port Input	99					1555727	1754	1
+slope6_skin	456	Port Input	77					1555737	1764	2
+slope6_skin	457	Save Logfile	Measurement,39.6, ,0	Measurement	39.6	 	0	1558133	0	586			0		other	0
+slope6_skin	457	Port Input	49					1559867	1734	2
+slope6_skin	457	Port Input	56					1559887	1754	1
+slope6_skin	457	Port Input	100					1559897	1764	1
+slope6_skin	457	Port Input	77					1559907	1774	1
+slope6_skin	458	Save Logfile	Measurement,39.7, ,0	Measurement	39.7	 	0	1562303	0	589			0		other	0
+slope6_skin	458	Port Input	49					1564027	1724	2
+slope6_skin	458	Port Input	56					1564047	1744	1
+slope6_skin	458	Port Input	99					1564057	1754	1
+slope6_skin	458	Port Input	77					1564067	1764	1
+slope6_skin	459	Save Logfile	Measurement,39.6, ,0	Measurement	39.6	 	0	1566463	0	596			0		other	0
+slope6_skin	459	Port Input	49					1568187	1724	2
+slope6_skin	459	Port Input	57					1568207	1744	1
+slope6_skin	459	Port Input	48					1568217	1754	1
+slope6_skin	459	Port Input	77					1568227	1764	2
+slope6_skin	460	Save Logfile	Measurement,40, ,0	Measurement	40	 	0	1570623	0	596			0		other	0
+slope6_skin	460	Port Input	49					1572358	1735	1
+slope6_skin	460	Port Input	57					1572377	1754	2
+slope6_skin	460	Port Input	48					1572387	1764	1
+slope6_skin	460	Port Input	77					1572397	1774	2
+slope6_skin	461	Save Logfile	Measurement,40, ,0	Measurement	40	 	0	1574793	0	615			0		other	0
+slope6_skin	461	Port Input	49					1576517	1724	2
+slope6_skin	461	Port Input	56					1576537	1744	1
+slope6_skin	461	Port Input	102					1576547	1754	1
+slope6_skin	461	Port Input	77					1576557	1764	2
+slope6_skin	462	Save Logfile	Measurement,39.9, ,0	Measurement	39.9	 	0	1578953	0	610			0		other	0
+slope6_skin	462	Port Input	49					1580677	1724	2
+slope6_skin	462	Port Input	56					1580697	1744	2
+slope6_skin	462	Port Input	101					1580707	1754	2
+slope6_skin	462	Port Input	77					1580717	1764	2
+slope6_skin	463	Save Logfile	Measurement,39.8, ,0	Measurement	39.8	 	0	1583113	0	604			0		other	0
+slope6_skin	463	Port Input	49					1584848	1735	1
+slope6_skin	463	Port Input	56					1584867	1754	2
+slope6_skin	463	Port Input	100					1584877	1764	1
+slope6_skin	463	Port Input	77					1584887	1774	2
+slope6_skin	464	Save Logfile	Measurement,39.7, ,0	Measurement	39.7	 	0	1587283	0	611			0		other	0
+slope6_skin	464	Port Input	49					1589008	1725	1
+slope6_skin	464	Port Input	56					1589027	1744	2
+slope6_skin	464	Port Input	100					1589037	1754	2
+slope6_skin	464	Port Input	77					1589047	1764	2
+slope6_skin	465	Save Logfile	Measurement,39.7, ,0	Measurement	39.7	 	0	1591443	0	589			0		other	0
+slope6_skin	465	Port Input	49					1593168	1725	1
+slope6_skin	465	Port Input	56					1593188	1745	1
+slope6_skin	465	Port Input	57					1593197	1754	2
+slope6_skin	465	Port Input	77					1593207	1764	2
+slope6_skin	466	Save Logfile	Measurement,39.3, ,0	Measurement	39.3	 	0	1595604	0	608			0		other	0
+slope6_skin	466	Port Input	49					1597338	1734	1
+slope6_skin	466	Port Input	56					1597358	1754	1
+slope6_skin	466	Port Input	51					1597367	1763	2
+slope6_skin	466	Port Input	77					1597377	1773	2
+slope6_skin	467	Save Logfile	Measurement,38.7, ,0	Measurement	38.7	 	0	1599773	0	620			0		other	0
+slope6_skin	467	Port Input	49					1601498	1725	1
+slope6_skin	467	Port Input	56					1601517	1744	3
+slope6_skin	467	Port Input	55					1601528	1755	1
+slope6_skin	467	Port Input	77					1601538	1765	1
+slope6_skin	468	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1603933	0	609			0		other	0
+slope6_skin	468	Port Input	49					1605658	1725	1
+slope6_skin	468	Port Input	56					1605678	1745	1
+slope6_skin	468	Port Input	55					1605688	1755	1
+slope6_skin	468	Port Input	77					1605698	1765	1
+slope6_skin	469	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1608093	0	603			0		other	0
+slope6_skin	469	Port Input	49					1609828	1735	1
+slope6_skin	469	Port Input	56					1609848	1755	1
+slope6_skin	469	Port Input	56					1609858	1765	1
+slope6_skin	469	Port Input	77					1609868	1775	1
+slope6_skin	470	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	1612263	0	604			0		other	0
+slope6_skin	470	Port Input	49					1613988	1725	1
+slope6_skin	470	Port Input	56					1614008	1745	1
+slope6_skin	470	Port Input	54					1614018	1755	1
+slope6_skin	470	Port Input	77					1614028	1765	1
+slope6_skin	471	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1616423	0	601			0		other	0
+slope6_skin	471	Port Input	49					1618148	1725	1
+slope6_skin	471	Port Input	56					1618168	1745	1
+slope6_skin	471	Port Input	55					1618178	1755	1
+slope6_skin	471	Port Input	77					1618188	1765	1
+slope6_skin	472	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1620583	0	603			0		other	0
+slope6_skin	472	Port Input	49					1622318	1735	1
+slope6_skin	472	Port Input	56					1622338	1755	1
+slope6_skin	472	Port Input	55					1622348	1765	1
+slope6_skin	472	Port Input	77					1622358	1775	1
+slope6_skin	473	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1624753	0	629			0		other	0
+slope6_skin	473	Port Input	49					1626478	1725	1
+slope6_skin	473	Port Input	56					1626498	1745	1
+slope6_skin	473	Port Input	55					1626508	1755	1
+slope6_skin	473	Port Input	77					1626518	1765	1
+slope6_skin	474	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1628914	0	848			0		other	0
+slope6_skin	474	Port Input	49					1630978	2064	1
+slope6_skin	474	Port Input	56					1630998	2084	1
+slope6_skin	474	Port Input	55					1631008	2094	1
+slope6_skin	474	Port Input	77					1631018	2104	1
+slope6_skin	475	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1633416	0	643			0		other	0
+slope6_skin	475	Port Input	49					1635308	1892	1
+slope6_skin	475	Port Input	56					1635323	1907	15
+slope6_skin	475	Port Input	55					1635338	1922	1
+slope6_skin	475	Port Input	77					1635348	1932	1
+slope6_skin	476	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1637743	0	615			0		other	0
+slope6_skin	476	Port Input	49					1639468	1725	1
+slope6_skin	476	Port Input	56					1639488	1745	1
+slope6_skin	476	Port Input	55					1639498	1755	1
+slope6_skin	476	Port Input	77					1639508	1765	1
+slope6_skin	477	Save Logfile	Measurement,39.1, ,0	Measurement	39.1	 	0	1641903	0	632			0		other	0
+slope6_skin	477	Response	2					1643469	1566	1
+slope6_skin	477	Port Input	49					1643628	1725	1
+slope6_skin	477	Port Input	56					1643648	1745	1
+slope6_skin	477	Port Input	54					1643658	1755	1
+slope6_skin	477	Port Input	77					1643668	1765	1
+slope6_skin	477	Response	2					1645499	3596	1
+slope6_skin	478	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1646063	0	626			0		other	0
+slope6_skin	478	Response	2					1647446	1383	1
+slope6_skin	478	Port Input	49					1647818	1755	1
+slope6_skin	478	Port Input	56					1647838	1775	1
+slope6_skin	478	Port Input	54					1647848	1785	1
+slope6_skin	478	Port Input	77					1647858	1795	1
+slope6_skin	479	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1650254	0	623			0		other	0
+slope6_skin	479	Port Input	49					1652138	1884	1
+slope6_skin	479	Port Input	56					1652158	1904	1
+slope6_skin	479	Port Input	54					1652168	1914	1
+slope6_skin	479	Port Input	77					1652178	1924	1
+slope6_skin	480	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1654573	0	1104			0		other	0
+slope6_skin	480	Port Input	49					1656808	2235	1
+slope6_skin	480	Port Input	56					1656828	2255	1
+slope6_skin	480	Port Input	54					1656838	2265	1
+slope6_skin	480	Port Input	77					1656848	2275	1
+slope6_skin	481	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1659243	0	740			0		other	0
+slope6_skin	481	Port Input	49					1661118	1875	1
+slope6_skin	481	Port Input	56					1661138	1895	1
+slope6_skin	481	Port Input	54					1661148	1905	1
+slope6_skin	481	Port Input	77					1661158	1915	1
+slope6_skin	482	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1663553	0	631			0		other	0
+slope6_skin	482	Port Input	49					1665278	1725	1
+slope6_skin	482	Port Input	56					1665298	1745	1
+slope6_skin	482	Port Input	54					1665308	1755	1
+slope6_skin	482	Port Input	77					1665318	1765	1
+slope6_skin	483	Save Logfile	Measurement,39, ,0	Measurement	39	 	0	1667714	0	629			0		other	0
+slope6_skin	483	Port Input	49					1669448	1734	1
+slope6_skin	483	Port Input	56					1669468	1754	1
+slope6_skin	483	Port Input	53					1669478	1764	1
+slope6_skin	483	Port Input	77					1669488	1774	1
+slope6_skin	484	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1671883	0	623			0		other	0
+slope6_skin	484	Port Input	49					1673608	1725	1
+slope6_skin	484	Port Input	56					1673628	1745	1
+slope6_skin	484	Port Input	53					1673638	1755	1
+slope6_skin	484	Port Input	77					1673648	1765	1
+slope6_skin	485	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1676043	0	4755			0		other	0
+slope6_skin	485	Response	4					1681189	5146	1
+slope6_skin	485	Port Input	49					1681938	5895	1
+slope6_skin	485	Port Input	56					1681958	5915	1
+slope6_skin	485	Port Input	53					1681968	5925	1
+slope6_skin	485	Port Input	77					1681978	5935	1
+slope6_skin	486	Save Logfile	Measurement,38.9, ,0	Measurement	38.9	 	0	1684375	0	633			0		other	0
+slope6_skin	486	Port Input	49					1686098	1723	1
+slope6_skin	486	Port Input	56					1686108	1733	1
+slope6_skin	486	Port Input	53					1686118	1743	1
+slope6_skin	486	Port Input	84					1686128	1753	1
+slope6_skin	486	Port Input	48					1687628	3253	1
+slope6_skin	486	Port Input	51					1687648	3273	1
+slope6_skin	486	Port Input	50					1687658	3283	1
+slope6_skin	486	Port Input	67					1687668	3293	1
+slope6_skin	487	Save Logfile	Initiate Peak,38.9, ,5	Initiate Peak	38.9	 	5	1688046	0	836			0		other	0
+slope6_skin	487	Port Input	48					1689958	1912	1
+slope6_skin	487	Port Input	48					1689978	1932	1
+slope6_skin	487	Port Input	51					1689988	1942	1
+slope6_skin	487	Port Input	77					1689998	1952	1
+slope6_skin	487	Port Input	49					1693458	5412	1
+slope6_skin	487	Port Input	56					1693478	5432	1
+slope6_skin	487	Port Input	50					1693488	5442	1
+slope6_skin	487	Port Input	77					1693494	5448	10
+slope6_skin	488	Save Logfile	Measurement,38.6, ,5	Measurement	38.6	 	5	1695903	0	3189			0		other	0
+slope6_skin	488	Port Input	49					1700258	4355	2
+slope6_skin	488	Port Input	55					1700278	4375	1
+slope6_skin	488	Port Input	50					1700288	4385	1
+slope6_skin	488	Port Input	77					1700298	4395	1
+slope6_skin	489	Save Logfile	Measurement,37, ,5	Measurement	37	 	5	1702695	0	2300			0		other	0
+slope6_skin	489	Port Input	49					1706248	3553	2
+slope6_skin	489	Port Input	53					1706268	3573	1
+slope6_skin	489	Port Input	50					1706278	3583	1
+slope6_skin	489	Port Input	77					1706288	3593	1
+slope6_skin	490	Save Logfile	Measurement,33.8, ,5	Measurement	33.8	 	5	1708683	0	647			0		other	0
+slope6_skin	490	Port Input	49					1710578	1895	2
+slope6_skin	490	Port Input	51					1710598	1915	1
+slope6_skin	490	Port Input	97					1710608	1925	1
+slope6_skin	490	Port Input	77					1710618	1935	1
+slope6_skin	491	Save Logfile	Measurement,31.4, ,5	Measurement	31.4	 	5	1713013	0	646			0		other	0
+slope6_skin	491	Port Input	49					1714908	1895	2
+slope6_skin	491	Port Input	50					1714928	1915	1
+slope6_skin	491	Port Input	97					1714938	1925	1
+slope6_skin	491	Port Input	77					1714948	1935	1
+slope6_skin	492	Save Logfile	Measurement,29.8, ,5	Measurement	29.8	 	5	1717343	0	635			0		other	0
+slope6_skin	492	Port Input	49					1719078	1735	1
+slope6_skin	492	Port Input	49					1719098	1755	1
+slope6_skin	492	Port Input	98					1719108	1765	1
+slope6_skin	492	Port Input	77					1719118	1775	1
+slope6_skin	493	Save Logfile	Measurement,28.3, ,5	Measurement	28.3	 	5	1721513	0	638			0		other	0
+slope6_skin	493	Port Input	49					1723408	1895	1
+slope6_skin	493	Port Input	48					1723428	1915	1
+slope6_skin	493	Port Input	101					1723438	1925	1
+slope6_skin	493	Port Input	77					1723448	1935	1
+slope6_skin	494	Save Logfile	Measurement,27, ,5	Measurement	27	 	5	1725853	0	661			0		other	0
+slope6_skin	494	Port Input	49					1727738	1885	2
+slope6_skin	494	Port Input	48					1727748	1895	1
+slope6_skin	494	Port Input	50					1727758	1905	1
+slope6_skin	494	Port Input	77					1727768	1915	1
+slope6_skin	495	Save Logfile	Measurement,25.8, ,5	Measurement	25.8	 	5	1730183	0	651			0		other	0
+slope6_skin	495	Port Input	48					1732068	1885	2
+slope6_skin	495	Port Input	102					1732078	1895	2
+slope6_skin	495	Port Input	54					1732088	1905	1
+slope6_skin	495	Port Input	77					1732098	1915	1
+slope6_skin	496	Save Logfile	Measurement,24.6, ,5	Measurement	24.6	 	5	1734513	0	649			0		other	0
+slope6_skin	496	Port Input	48					1736409	1896	1
+slope6_skin	496	Port Input	101					1736418	1905	1
+slope6_skin	496	Port Input	99					1736428	1915	1
+slope6_skin	496	Port Input	77					1736438	1925	1
+slope6_skin	497	Save Logfile	Measurement,23.6, ,5	Measurement	23.6	 	5	1738849	0	1098			0		other	0
+slope6_skin	497	Port Input	48					1741228	2379	2
+slope6_skin	497	Port Input	101					1741238	2389	1
+slope6_skin	497	Port Input	50					1741248	2399	1
+slope6_skin	497	Port Input	77					1741258	2409	1
+slope6_skin	498	Save Logfile	Measurement,22.6, ,5	Measurement	22.6	 	5	1743667	0	1360			0		other	0
+slope6_skin	498	Port Input	48					1746219	2552	1
+slope6_skin	498	Port Input	100					1746228	2561	1
+slope6_skin	498	Port Input	56					1746238	2571	1
+slope6_skin	498	Port Input	77					1746248	2581	1
+slope6_skin	499	Save Logfile	Measurement,21.6, ,5	Measurement	21.6	 	5	1748657	0	740			0		other	0
+slope6_skin	499	Port Input	48					1750549	1892	1
+slope6_skin	499	Port Input	99					1750558	1901	1
+slope6_skin	499	Port Input	102					1750568	1911	2
+slope6_skin	499	Port Input	77					1750578	1921	1
+slope6_skin	500	Save Logfile	Measurement,20.7, ,5	Measurement	20.7	 	5	1752993	0	654			0		other	0
+slope6_skin	500	Port Input	48					1754879	1886	1
+slope6_skin	500	Port Input	99					1754888	1895	1
+slope6_skin	500	Port Input	55					1754898	1905	2
+slope6_skin	500	Port Input	77					1754908	1915	1
+slope6_skin	501	Save Logfile	Measurement,19.9, ,5	Measurement	19.9	 	5	1757313	0	654			0		other	0
+slope6_skin	501	Port Input	48					1759209	1896	1
+slope6_skin	501	Port Input	99					1759218	1905	1
+slope6_skin	501	Port Input	48					1759228	1915	1
+slope6_skin	501	Port Input	77					1759238	1925	2
+slope6_skin	502	Save Logfile	Measurement,19.2, ,5	Measurement	19.2	 	5	1761653	0	648			0		other	0
+slope6_skin	502	Port Input	48					1763539	1886	1
+slope6_skin	502	Port Input	98					1763548	1895	2
+slope6_skin	502	Port Input	97					1763558	1905	2
+slope6_skin	502	Port Input	77					1763568	1915	2
+slope6_skin	503	Save Logfile	Measurement,18.6, ,5	Measurement	18.6	 	5	1765983	0	652			0		other	0
+slope6_skin	503	Port Input	48					1767869	1886	1
+slope6_skin	503	Port Input	98					1767878	1895	2
+slope6_skin	503	Port Input	51					1767888	1905	2
+slope6_skin	503	Port Input	77					1767898	1915	2
+slope6_skin	504	Save Logfile	Measurement,17.9, ,5	Measurement	17.9	 	5	1770313	0	644			0		other	0
+slope6_skin	504	Port Input	48					1772199	1886	1
+slope6_skin	504	Port Input	97					1772208	1895	2
+slope6_skin	504	Port Input	100					1772219	1906	1
+slope6_skin	504	Port Input	77					1772229	1916	1
+slope6_skin	505	Save Logfile	Measurement,17.3, ,5	Measurement	17.3	 	5	1774643	0	666			0		other	0
+slope6_skin	505	Port Input	48					1776529	1886	1
+slope6_skin	505	Port Input	97					1776538	1895	2
+slope6_skin	505	Port Input	56					1776548	1905	2
+slope6_skin	505	Port Input	77					1776558	1915	2
+slope6_skin	506	Save Logfile	Measurement,16.8, ,5	Measurement	16.8	 	5	1778973	0	653			0		other	0
+slope6_skin	506	Port Input	48					1780859	1886	1
+slope6_skin	506	Port Input	97					1780868	1895	2
+slope6_skin	506	Port Input	50					1780879	1906	1
+slope6_skin	506	Port Input	77					1780888	1915	2
+slope6_skin	507	Save Logfile	Measurement,16.2, ,5	Measurement	16.2	 	5	1783303	0	664			0		other	0
+slope6_skin	507	Port Input	48					1785189	1886	1
+slope6_skin	507	Port Input	57					1785199	1896	1
+slope6_skin	507	Port Input	100					1785209	1906	1
+slope6_skin	507	Port Input	77					1785219	1916	1
+slope6_skin	508	Save Logfile	Measurement,15.7, ,5	Measurement	15.7	 	5	1787633	0	687			0		other	0
+slope6_skin	508	Port Input	48					1789519	1886	1
+slope6_skin	508	Port Input	57					1789529	1896	1
+slope6_skin	508	Port Input	57					1789539	1906	1
+slope6_skin	508	Port Input	77					1789548	1915	2
+slope6_skin	509	Save Logfile	Measurement,15.3, ,5	Measurement	15.3	 	5	1791963	0	659			0		other	0
+slope6_skin	509	Port Input	48					1793849	1886	1
+slope6_skin	509	Port Input	57					1793859	1896	1
+slope6_skin	509	Port Input	52					1793869	1906	1
+slope6_skin	509	Port Input	77					1793879	1916	1
+slope6_skin	510	Save Logfile	Measurement,14.8, ,5	Measurement	14.8	 	5	1796293	0	680			0		other	0
+slope6_skin	510	Port Input	48					1798179	1886	1
+slope6_skin	510	Port Input	56					1798189	1896	1
+slope6_skin	510	Port Input	102					1798199	1906	1
+slope6_skin	510	Port Input	77					1798209	1916	1
+slope6_skin	511	Save Logfile	Measurement,14.3, ,5	Measurement	14.3	 	5	1800623	0	658			0		other	0
+slope6_skin	511	Port Input	48					1802509	1886	1
+slope6_skin	511	Port Input	56					1802519	1896	1
+slope6_skin	511	Port Input	98					1802529	1906	1
+slope6_skin	511	Port Input	77					1802539	1916	1
+slope6_skin	512	Save Logfile	Measurement,13.9, ,5	Measurement	13.9	 	5	1804953	0	695			0		other	0
+slope6_skin	512	Port Input	48					1806839	1886	1
+slope6_skin	512	Port Input	56					1806849	1896	1
+slope6_skin	512	Port Input	55					1806859	1906	1
+slope6_skin	512	Port Input	77					1806869	1916	1
+slope6_skin	513	Save Logfile	Measurement,13.5, ,5	Measurement	13.5	 	5	1809283	0	765			0		other	0
+slope6_skin	513	Port Input	48					1811169	1886	1
+slope6_skin	513	Port Input	56					1811179	1896	1
+slope6_skin	513	Port Input	51					1811189	1906	1
+slope6_skin	513	Port Input	77					1811199	1916	1
+slope6_skin	514	Save Logfile	Measurement,13.1, ,5	Measurement	13.1	 	5	1813613	0	658			0		other	0
+slope6_skin	514	Port Input	48					1815499	1886	1
+slope6_skin	514	Port Input	56					1815509	1896	1
+slope6_skin	514	Port Input	48					1815519	1906	1
+slope6_skin	514	Port Input	77					1815529	1916	1
+slope6_skin	515	Save Logfile	Measurement,12.8, ,5	Measurement	12.8	 	5	1817943	0	673			0		other	0
+slope6_skin	515	Port Input	48					1819829	1886	1
+slope6_skin	515	Port Input	55					1819839	1896	1
+slope6_skin	515	Port Input	99					1819849	1906	1
+slope6_skin	515	Port Input	77					1819859	1916	1
+slope6_skin	516	Save Logfile	Measurement,12.4, ,5	Measurement	12.4	 	5	1822273	0	662			0		other	0
+slope6_skin	516	Port Input	48					1824199	1926	1
+slope6_skin	516	Port Input	55					1824209	1936	1
+slope6_skin	516	Port Input	57					1824219	1946	1
+slope6_skin	516	Port Input	77					1824229	1956	1
+slope6_skin	517	Save Logfile	Measurement,12.1, ,5	Measurement	12.1	 	5	1826643	0	690			0		other	0
+slope6_skin	517	Port Input	48					1828489	1846	1
+slope6_skin	517	Port Input	55					1828499	1856	1
+slope6_skin	517	Port Input	54					1828509	1866	1
+slope6_skin	517	Port Input	77					1828519	1876	1
+slope6_skin	518	Save Logfile	Measurement,11.8, ,5	Measurement	11.8	 	5	1830933	0	682			0		other	0
+slope6_skin	518	Port Input	48					1832819	1886	1
+slope6_skin	518	Port Input	55					1832829	1896	1
+slope6_skin	518	Port Input	51					1832839	1906	1
+slope6_skin	518	Port Input	77					1832849	1916	1
+slope6_skin	519	Save Logfile	Measurement,11.5, ,5	Measurement	11.5	 	5	1835263	0	685			0		other	0
+slope6_skin	519	Port Input	48					1837169	1906	1
+slope6_skin	519	Port Input	54					1837179	1916	1
+slope6_skin	519	Port Input	102					1837189	1926	1
+slope6_skin	519	Port Input	77					1837199	1936	1
+slope6_skin	520	Save Logfile	Measurement,11.1, ,5	Measurement	11.1	 	5	1839613	0	847			0		other	0
+slope6_skin	520	Port Input	48					1841649	2036	1
+slope6_skin	520	Port Input	54					1841659	2046	1
+slope6_skin	520	Port Input	100					1841669	2056	1
+slope6_skin	520	Port Input	77					1841679	2066	1
+slope6_skin	521	Save Logfile	Measurement,10.9, ,5	Measurement	10.9	 	5	1844093	0	747			0		other	0
+slope6_skin	521	Port Input	48					1845979	1886	1
+slope6_skin	521	Port Input	54					1845989	1896	1
+slope6_skin	521	Port Input	97					1845999	1906	1
+slope6_skin	521	Port Input	77					1846009	1916	1
+slope6_skin	522	Save Logfile	Measurement,10.6, ,5	Measurement	10.6	 	5	1848423	0	912			0		other	0
+slope6_skin	522	Port Input	48					1850479	2056	1
+slope6_skin	522	Port Input	54					1850489	2066	1
+slope6_skin	522	Port Input	55					1850499	2076	1
+slope6_skin	522	Port Input	77					1850508	2085	2
+slope6_skin	523	Save Logfile	Measurement,10.3, ,5	Measurement	10.3	 	5	1852926	0	1130			0		other	0
+slope6_skin	523	Port Input	48					1855326	2400	15
+slope6_skin	523	Port Input	54					1855326	2400	15
+slope6_skin	523	Port Input	53					1855349	2423	1
+slope6_skin	523	Port Input	77					1855359	2433	1
+slope6_skin	524	Save Logfile	Measurement,10.1, ,5	Measurement	10.1	 	5	1857775	0	1205			0		other	0
+slope6_skin	524	Port Input	48					1860129	2354	1
+slope6_skin	524	Port Input	54					1860139	2364	1
+slope6_skin	524	Port Input	50					1860149	2374	1
+slope6_skin	524	Port Input	77					1860159	2384	1
+slope6_skin	525	Save Logfile	Measurement,9.8, ,5	Measurement	9.8	 	5	1862573	0	692			0		other	0
+slope6_skin	525	Port Input	48					1864459	1886	1
+slope6_skin	525	Port Input	53					1864469	1896	1
+slope6_skin	525	Port Input	102					1864479	1906	1
+slope6_skin	525	Port Input	77					1864489	1916	1
+slope6_skin	526	Save Logfile	Measurement,9.5, ,5	Measurement	9.5	 	5	1866903	0	689			0		other	0
+slope6_skin	526	Port Input	48					1868789	1886	1
+slope6_skin	526	Port Input	53					1868799	1896	1
+slope6_skin	526	Port Input	100					1868809	1906	1
+slope6_skin	526	Port Input	77					1868819	1916	1
+slope6_skin	527	Save Logfile	Measurement,9.3, ,5	Measurement	9.3	 	5	1871233	0	678			0		other	0
+slope6_skin	527	Port Input	48					1873119	1886	1
+slope6_skin	527	Port Input	53					1873129	1896	1
+slope6_skin	527	Port Input	98					1873139	1906	1
+slope6_skin	527	Port Input	77					1873149	1916	1
+slope6_skin	528	Save Logfile	Measurement,9.1, ,5	Measurement	9.1	 	5	1875564	0	706			0		other	0
+slope6_skin	528	Port Input	48					1877449	1885	1
+slope6_skin	528	Port Input	53					1877459	1895	1
+slope6_skin	528	Port Input	57					1877469	1905	1
+slope6_skin	528	Port Input	77					1877479	1915	1
+slope6_skin	529	Save Logfile	Measurement,8.9, ,5	Measurement	8.9	 	5	1879893	0	698			0		other	0
+slope6_skin	529	Port Input	48					1881779	1886	1
+slope6_skin	529	Port Input	53					1881789	1896	1
+slope6_skin	529	Port Input	55					1881799	1906	1
+slope6_skin	529	Port Input	77					1881809	1916	1
+slope6_skin	530	Save Logfile	Measurement,8.7, ,5	Measurement	8.7	 	5	1884223	0	702			0		other	0
+slope6_skin	530	Port Input	48					1886109	1886	1
+slope6_skin	530	Port Input	53					1886119	1896	1
+slope6_skin	530	Port Input	54					1886129	1906	1
+slope6_skin	530	Port Input	77					1886139	1916	1
+slope6_skin	531	Save Logfile	Measurement,8.6, ,5	Measurement	8.6	 	5	1888553	0	693			0		other	0
+slope6_skin	531	Port Input	48					1890439	1886	1
+slope6_skin	531	Port Input	53					1890449	1896	1
+slope6_skin	531	Port Input	52					1890459	1906	1
+slope6_skin	531	Port Input	77					1890469	1916	1
+slope6_skin	532	Save Logfile	Measurement,8.4, ,5	Measurement	8.4	 	5	1892883	0	702			0		other	0
+slope6_skin	532	Port Input	48					1894769	1886	1
+slope6_skin	532	Port Input	53					1894779	1896	1
+slope6_skin	532	Port Input	51					1894789	1906	1
+slope6_skin	532	Port Input	77					1894799	1916	1
+slope6_skin	533	Save Logfile	Measurement,8.3, ,5	Measurement	8.3	 	5	1897215	0	686			0		other	0
+slope6_skin	533	Port Input	48					1899099	1884	1
+slope6_skin	533	Port Input	53					1899109	1894	1
+slope6_skin	533	Port Input	49					1899119	1904	1
+slope6_skin	533	Port Input	77					1899129	1914	1
+slope6_skin	534	Save Logfile	Measurement,8.1, ,5	Measurement	8.1	 	5	1901543	0	775			0		other	0
+slope6_skin	534	Port Input	48					1903419	1876	1
+slope6_skin	534	Port Input	52					1903439	1896	1
+slope6_skin	534	Port Input	102					1903449	1906	1
+slope6_skin	534	Port Input	77					1903459	1916	1
+slope6_skin	535	Save Logfile	Measurement,7.9, ,5	Measurement	7.9	 	5	1905873	0	707			0		other	0
+slope6_skin	535	Port Input	48					1907759	1886	2
+slope6_skin	535	Port Input	52					1907769	1896	1
+slope6_skin	535	Port Input	100					1907779	1906	1
+slope6_skin	536	Save Logfile	Measurement,7.7, ,5	Measurement	7.7	 	5	1910205	0	687			0		other	0
+slope6_skin	536	Port Input	77					1912089	1884	1
+slope6_skin	536	Port Input	48					1912099	1894	1
+slope6_skin	536	Port Input	52					1912109	1904	1
+slope6_skin	536	Port Input	99					1912119	1914	1
+slope6_skin	537	Save Logfile	Measurement,7.6, ,5	Measurement	7.6	 	5	1914533	0	733			0		other	0
+slope6_skin	537	Port Input	77					1916410	1877	1
+slope6_skin	537	Port Input	48					1916429	1896	1
+slope6_skin	537	Port Input	52					1916439	1906	1
+slope6_skin	537	Port Input	97					1916449	1916	1
+slope6_skin	538	Save Logfile	Measurement,7.4, ,5	Measurement	7.4	 	5	1918864	0	686			0		other	0
+slope6_skin	538	Port Input	77					1920750	1886	1
+slope6_skin	538	Port Input	48					1920759	1895	1
+slope6_skin	538	Port Input	52					1920769	1905	1
+slope6_skin	538	Port Input	57					1920779	1915	1
+slope6_skin	539	Save Logfile	Measurement,7.3, ,5	Measurement	7.3	 	5	1923193	0	698			0		other	0
+slope6_skin	539	Port Input	77					1925080	1887	1
+slope6_skin	539	Port Input	48					1925089	1896	1
+slope6_skin	539	Port Input	52					1925099	1906	1
+slope6_skin	539	Port Input	56					1925109	1916	2
+slope6_skin	540	Save Logfile	Measurement,7.2, ,5	Measurement	7.2	 	5	1927523	0	710			0		other	0
+slope6_skin	540	Port Input	77					1929410	1887	1
+slope6_skin	540	Port Input	48					1929419	1896	2
+slope6_skin	540	Port Input	52					1929429	1906	1
+slope6_skin	540	Port Input	54					1929439	1916	1
+slope6_skin	541	Save Logfile	Measurement,7, ,5	Measurement	7	 	5	1931853	0	696			0		other	0
+slope6_skin	541	Port Input	77					1933739	1886	2
+slope6_skin	541	Port Input	48					1933749	1896	1
+slope6_skin	541	Port Input	52					1933759	1906	2
+slope6_skin	541	Port Input	53					1933769	1916	2
+slope6_skin	542	Save Logfile	Measurement,6.9, ,5	Measurement	6.9	 	5	1936183	0	712			0		other	0
+slope6_skin	542	Port Input	77					1938070	1887	1
+slope6_skin	542	Port Input	48					1938079	1896	2
+slope6_skin	542	Port Input	52					1938089	1906	1
+slope6_skin	542	Port Input	52					1938099	1916	2
+slope6_skin	543	Save Logfile	Measurement,6.8, ,5	Measurement	6.8	 	5	1940513	0	714			0		other	0
+slope6_skin	543	Port Input	77					1942400	1887	1
+slope6_skin	543	Port Input	48					1942409	1896	2
+slope6_skin	543	Port Input	52					1942419	1906	2
+slope6_skin	543	Port Input	50					1942429	1916	2
+slope6_skin	544	Save Logfile	Measurement,6.6, ,5	Measurement	6.6	 	5	1944843	0	739			0		other	0
+slope6_skin	544	Port Input	77					1946730	1887	1
+slope6_skin	544	Port Input	48					1946739	1896	2
+slope6_skin	544	Port Input	52					1946749	1906	2
+slope6_skin	544	Port Input	49					1946759	1916	2
+slope6_skin	545	Save Logfile	Measurement,6.5, ,5	Measurement	6.5	 	5	1949173	0	713			0		other	0
+slope6_skin	545	Port Input	77					1951060	1887	1
+slope6_skin	545	Port Input	48					1951069	1896	2
+slope6_skin	545	Port Input	51					1951079	1906	2
+slope6_skin	545	Port Input	102					1951089	1916	2
+slope6_skin	546	Save Logfile	Measurement,6.3, ,5	Measurement	6.3	 	5	1953503	0	715			0		other	0
+slope6_skin	546	Port Input	77					1955390	1887	1
+slope6_skin	546	Port Input	48					1955400	1897	1
+slope6_skin	546	Port Input	51					1955409	1906	2
+slope6_skin	546	Port Input	101					1955419	1916	2
+slope6_skin	547	Save Logfile	Measurement,6.2, ,5	Measurement	6.2	 	5	1957843	0	841			0		other	0
+slope6_skin	547	Port Input	77					1959890	2047	1
+slope6_skin	547	Port Input	48					1959899	2056	2
+slope6_skin	547	Port Input	51					1959910	2067	1
+slope6_skin	547	Port Input	100					1959919	2076	2
+slope6_skin	548	Save Logfile	Measurement,6.1, ,5	Measurement	6.1	 	5	1962335	0	1173			0		other	0
+slope6_skin	548	Port Input	77					1964710	2375	1
+slope6_skin	548	Port Input	48					1964730	2395	1
+slope6_skin	548	Port Input	51					1964740	2405	1
+slope6_skin	548	Port Input	99					1964750	2415	1
+slope6_skin	549	Save Logfile	Measurement,6, ,5	Measurement	6	 	5	1967163	0	773			0		other	0
+slope6_skin	549	Port Input	77					1969040	1877	1
+slope6_skin	549	Port Input	48					1969060	1897	1
+slope6_skin	549	Port Input	51					1969070	1907	1
+slope6_skin	549	Port Input	97					1969079	1916	2
+slope6_skin	550	Save Logfile	Measurement,5.8, ,5	Measurement	5.8	 	5	1971493	0	695			0		other	0
+slope6_skin	550	Port Input	77					1973370	1877	1
+slope6_skin	550	Port Input	48					1973390	1897	1
+slope6_skin	550	Port Input	51					1973400	1907	1
+slope6_skin	550	Port Input	57					1973410	1917	1
+slope6_skin	551	Save Logfile	Measurement,5.7, ,5	Measurement	5.7	 	5	1975823	0	720			0		other	0
+slope6_skin	551	Port Input	77					1977700	1877	1
+slope6_skin	551	Port Input	48					1977720	1897	1
+slope6_skin	551	Port Input	51					1977730	1907	1
+slope6_skin	551	Port Input	56					1977740	1917	1
+slope6_skin	552	Save Logfile	Measurement,5.6, ,5	Measurement	5.6	 	5	1980153	0	723			0		other	0
+slope6_skin	552	Port Input	77					1982030	1877	1
+slope6_skin	552	Port Input	48					1982050	1897	1
+slope6_skin	552	Port Input	51					1982060	1907	1
+slope6_skin	552	Port Input	55					1982070	1917	1
+slope6_skin	553	Save Logfile	Measurement,5.5, ,5	Measurement	5.5	 	5	1984483	0	731			0		other	0
+slope6_skin	553	Port Input	77					1986370	1887	1
+slope6_skin	553	Port Input	48					1986380	1897	1
+slope6_skin	553	Port Input	51					1986390	1907	1
+slope6_skin	553	Port Input	54					1986400	1917	1
+slope6_skin	554	Save Logfile	Measurement,5.4, ,5	Measurement	5.4	 	5	1988813	0	716			0		other	0
+slope6_skin	554	Port Input	77					1990690	1877	1
+slope6_skin	554	Port Input	48					1990710	1897	1
+slope6_skin	554	Port Input	51					1990720	1907	1
+slope6_skin	554	Port Input	53					1990730	1917	1
+slope6_skin	555	Save Logfile	Measurement,5.3, ,5	Measurement	5.3	 	5	1993143	0	729			0		other	0
+slope6_skin	555	Port Input	77					1995020	1877	1
+slope6_skin	555	Port Input	48					1995040	1897	1
+slope6_skin	555	Port Input	51					1995050	1907	1
+slope6_skin	555	Port Input	52					1995060	1917	1
+slope6_skin	556	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	1997473	0	736			0		other	0
+slope6_skin	556	Port Input	77					1999350	1877	1
+slope6_skin	556	Port Input	48					1999370	1897	1
+slope6_skin	556	Port Input	51					1999380	1907	1
+slope6_skin	556	Port Input	52					1999390	1917	1
+slope6_skin	557	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2001803	0	729			0		other	0
+slope6_skin	557	Port Input	77					2003679	1876	3
+slope6_skin	557	Port Input	48					2003700	1897	1
+slope6_skin	557	Port Input	51					2003710	1907	1
+slope6_skin	557	Port Input	52					2003720	1917	1
+slope6_skin	558	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2006133	0	712			0		other	0
+slope6_skin	558	Port Input	77					2008009	1876	3
+slope6_skin	558	Port Input	48					2008030	1897	1
+slope6_skin	558	Port Input	51					2008040	1907	1
+slope6_skin	558	Port Input	52					2008050	1917	1
+slope6_skin	559	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2010463	0	734			0		other	0
+slope6_skin	559	Port Input	77					2012339	1876	3
+slope6_skin	559	Port Input	48					2012360	1897	1
+slope6_skin	559	Port Input	51					2012370	1907	1
+slope6_skin	559	Port Input	52					2012379	1916	2
+slope6_skin	560	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2014793	0	740			0		other	0
+slope6_skin	560	Port Input	77					2016670	1877	1
+slope6_skin	560	Port Input	48					2016689	1896	2
+slope6_skin	560	Port Input	51					2016700	1907	1
+slope6_skin	560	Port Input	52					2016710	1917	1
+slope6_skin	561	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2019123	0	864			0		other	0
+slope6_skin	561	Port Input	77					2021169	2046	2
+slope6_skin	561	Port Input	48					2021189	2066	2
+slope6_skin	561	Port Input	51					2021200	2077	1
+slope6_skin	561	Port Input	52					2021209	2086	2
+slope6_skin	562	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2023623	0	714			0		other	0
+slope6_skin	562	Port Input	77					2025500	1877	2
+slope6_skin	562	Port Input	48					2025519	1896	2
+slope6_skin	562	Port Input	51					2025530	1907	1
+slope6_skin	562	Port Input	52					2025540	1917	1
+slope6_skin	563	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2027953	0	724			0		other	0
+slope6_skin	563	Port Input	77					2029830	1877	2
+slope6_skin	563	Port Input	48					2029850	1897	1
+slope6_skin	563	Port Input	51					2029860	1907	1
+slope6_skin	563	Port Input	52					2029869	1916	2
+slope6_skin	564	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2032283	0	736			0		other	0
+slope6_skin	564	Port Input	77					2034159	1876	2
+slope6_skin	564	Port Input	48					2034179	1896	2
+slope6_skin	564	Port Input	51					2034189	1906	2
+slope6_skin	564	Port Input	52					2034200	1917	1
+slope6_skin	565	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2036613	0	732			0		other	0
+slope6_skin	565	Port Input	77					2038489	1876	2
+slope6_skin	565	Port Input	48					2038511	1898	1
+slope6_skin	565	Port Input	51					2038520	1907	1
+slope6_skin	565	Port Input	52					2038530	1917	1
+slope6_skin	566	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2040943	0	730			0		other	0
+slope6_skin	566	Port Input	77					2042820	1877	2
+slope6_skin	566	Port Input	48					2042839	1896	3
+slope6_skin	566	Port Input	51					2042849	1906	3
+slope6_skin	566	Port Input	52					2042860	1917	2
+slope6_skin	567	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2045273	0	745			0		other	0
+slope6_skin	567	Port Input	77					2047151	1878	1
+slope6_skin	567	Port Input	48					2047170	1897	2
+slope6_skin	567	Port Input	51					2047180	1907	2
+slope6_skin	567	Port Input	52					2047190	1917	1
+slope6_skin	568	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2049603	0	822			0		other	0
+slope6_skin	568	Port Input	77					2051649	2046	3
+slope6_skin	568	Port Input	48					2051661	2058	1
+slope6_skin	568	Port Input	51					2051670	2067	1
+slope6_skin	568	Port Input	52					2051680	2077	2
+slope6_skin	569	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2054093	0	733			0		other	0
+slope6_skin	569	Port Input	77					2055979	1886	3
+slope6_skin	569	Port Input	48					2055991	1898	1
+slope6_skin	569	Port Input	51					2056000	1907	2
+slope6_skin	569	Port Input	52					2056010	1917	2
+slope6_skin	570	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2058423	0	725			0		other	0
+slope6_skin	570	Port Input	77					2060311	1888	1
+slope6_skin	570	Port Input	48					2060320	1897	2
+slope6_skin	570	Port Input	51					2060330	1907	2
+slope6_skin	570	Port Input	52					2060340	1917	2
+slope6_skin	571	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2062753	0	725			0		other	0
+slope6_skin	571	Port Input	77					2064630	1877	2
+slope6_skin	571	Port Input	48					2064650	1897	2
+slope6_skin	571	Port Input	51					2064660	1907	2
+slope6_skin	571	Port Input	52					2064671	1918	1
+slope6_skin	572	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2067083	0	746			0		other	0
+slope6_skin	572	Port Input	77					2068961	1878	1
+slope6_skin	572	Port Input	48					2068980	1897	2
+slope6_skin	572	Port Input	51					2068991	1908	1
+slope6_skin	572	Port Input	52					2069000	1917	2
+slope6_skin	573	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2071416	0	736			0		other	0
+slope6_skin	573	Port Input	77					2073290	1874	1
+slope6_skin	573	Port Input	48					2073310	1894	2
+slope6_skin	573	Port Input	51					2073320	1904	1
+slope6_skin	573	Port Input	52					2073330	1914	1
+slope6_skin	574	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2075743	0	748			0		other	0
+slope6_skin	574	Port Input	77					2077620	1877	2
+slope6_skin	574	Port Input	48					2077640	1897	1
+slope6_skin	574	Port Input	51					2077650	1907	1
+slope6_skin	574	Port Input	52					2077660	1917	1
+slope6_skin	575	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2080073	0	863			0		other	0
+slope6_skin	575	Port Input	77					2082130	2057	2
+slope6_skin	575	Port Input	48					2082140	2067	1
+slope6_skin	575	Port Input	51					2082150	2077	1
+slope6_skin	575	Port Input	51					2082160	2087	1
+slope6_skin	576	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2084573	0	731			0		other	0
+slope6_skin	576	Port Input	77					2086461	1888	1
+slope6_skin	576	Port Input	48					2086471	1898	1
+slope6_skin	576	Port Input	51					2086480	1907	2
+slope6_skin	576	Port Input	52					2086490	1917	2
+slope6_skin	577	Save Logfile	Measurement,5.2, ,5	Measurement	5.2	 	5	2088903	0	740			0		other	0
+slope6_skin	577	Port Input	77					2091120	2217	2
+slope6_skin	577	Port Input	48					2091131	2228	1
+slope6_skin	577	Port Input	51					2091140	2237	2
+slope6_skin	577	Port Input	51					2091150	2247	1
+slope6_skin	578	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2093563	0	751			0		other	0
+slope6_skin	578	Port Input	77					2095440	1877	2
+slope6_skin	578	Port Input	48					2095461	1898	2
+slope6_skin	578	Port Input	51					2095471	1908	1
+slope6_skin	578	Port Input	51					2095480	1917	2
+slope6_skin	579	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2097893	0	749			0		other	0
+slope6_skin	579	Port Input	77					2099781	1888	2
+slope6_skin	579	Port Input	48					2099791	1898	1
+slope6_skin	579	Port Input	51					2099801	1908	1
+slope6_skin	579	Port Input	51					2099810	1917	2
+slope6_skin	580	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2102224	0	748			0		other	0
+slope6_skin	580	Port Input	77					2104100	1876	1
+slope6_skin	580	Port Input	48					2104120	1896	2
+slope6_skin	580	Port Input	51					2104130	1906	2
+slope6_skin	580	Port Input	51					2104140	1916	2
+slope6_skin	581	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2106553	0	757			0		other	0
+slope6_skin	581	Port Input	77					2108431	1878	1
+slope6_skin	581	Port Input	48					2108450	1897	1
+slope6_skin	581	Port Input	51					2108460	1907	1
+slope6_skin	581	Port Input	51					2108470	1917	1
+slope6_skin	582	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2110883	0	748			0		other	0
+slope6_skin	582	Port Input	77					2112760	1877	2
+slope6_skin	582	Port Input	48					2112781	1898	2
+slope6_skin	582	Port Input	51					2112791	1908	1
+slope6_skin	582	Port Input	51					2112800	1917	2
+slope6_skin	583	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2115215	0	783			0		other	0
+slope6_skin	583	Port Input	77					2117090	1875	2
+slope6_skin	583	Port Input	48					2117110	1895	2
+slope6_skin	583	Port Input	51					2117120	1905	2
+slope6_skin	583	Port Input	51					2117131	1916	2
+slope6_skin	584	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2119544	0	772			0		other	0
+slope6_skin	584	Port Input	77					2121421	1877	1
+slope6_skin	584	Port Input	48					2121440	1896	3
+slope6_skin	584	Port Input	51					2121450	1906	2
+slope6_skin	584	Port Input	51					2121460	1916	2
+slope6_skin	585	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2123874	0	750			0		other	0
+slope6_skin	585	Port Input	77					2125751	1877	1
+slope6_skin	585	Port Input	48					2125770	1896	2
+slope6_skin	585	Port Input	51					2125780	1906	3
+slope6_skin	585	Port Input	51					2125790	1916	2
+slope6_skin	586	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2128203	0	762			0		other	0
+slope6_skin	586	Port Input	77					2130080	1877	2
+slope6_skin	586	Port Input	48					2130100	1897	2
+slope6_skin	586	Port Input	51					2130110	1907	2
+slope6_skin	586	Port Input	51					2130122	1919	1
+slope6_skin	587	Save Logfile	Measurement,5.1, ,5	Measurement	5.1	 	5	2132533	0	772			0		other	0
+slope6_skin	587	Port Input	77					2134411	1878	1
+slope6_skin	587	Port Input	48					2134430	1897	2
+slope6_skin	587	Port Input	51					2134440	1907	3
+slope6_skin	587	Port Input	50					2134450	1917	2
+slope6_skin	588	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	2136864	0	765			0		other	0
+slope6_skin	588	Port Input	77					2138741	1877	1
+slope6_skin	588	Port Input	48					2138761	1897	1
+slope6_skin	588	Port Input	51					2138771	1907	1
+slope6_skin	588	Port Input	50					2138780	1916	2
+slope6_skin	589	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	2141194	0	772			0		other	0
+slope6_skin	589	Port Input	77					2143071	1877	1
+slope6_skin	589	Port Input	48					2143081	1887	1
+slope6_skin	589	Port Input	51					2143101	1907	1
+slope6_skin	589	Port Input	50					2143111	1917	1
+slope6_skin	590	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	2145524	0	751			0		other	0
+slope6_skin	590	Port Input	77					2147401	1877	1
+slope6_skin	590	Port Input	48					2147410	1886	2
+slope6_skin	590	Port Input	51					2147431	1907	1
+slope6_skin	590	Port Input	50					2147441	1917	1
+slope6_skin	591	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	2149853	0	766			0		other	0
+slope6_skin	591	Port Input	77					2151731	1878	1
+slope6_skin	591	Port Input	48					2151741	1888	1
+slope6_skin	591	Port Input	51					2151761	1908	1
+slope6_skin	591	Port Input	50					2151771	1918	1
+slope6_skin	591	Port Input	77					2151961	2108	1
+slope6_skin	591	Port Input	48					2151971	2118	1
+slope6_skin	591	Port Input	51					2151981	2128	1
+slope6_skin	591	Port Input	50					2151991	2138	1
+slope6_skin	592	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	2154183	0	776			0		other	0
+slope6_skin	592	Port Input	70					2156061	1878	1
+slope6_skin	592	Port Input	48					2156081	1898	1
+slope6_skin	592	Port Input	51					2156091	1908	1
+slope6_skin	592	Port Input	50					2156101	1918	1
+slope6_skin	593	Save Logfile	Measurement,5, ,5	Measurement	5	 	5	2158513	0	751			0		other	0
+slope6_skin	594	Save Logfile	Peak Temperature,5, ,5	Peak Temperature	5	 	5	2159504	0	756			0		other	0
+slope6_skin	594	Port Input	77					2161341	1837	1
+slope6_skin	594	Port Input	48					2161351	1847	1
+slope6_skin	594	Port Input	51					2161361	1857	1
+slope6_skin	594	Port Input	57					2161371	1867	1
+slope6_skin	594	Port Input	67					2162831	3327	1
+slope6_skin	594	Port Input	48					2162841	3337	1
+slope6_skin	594	Port Input	48					2162861	3357	2
+slope6_skin	594	Port Input	48					2162871	3367	1
+slope6_skin	595	Save Logfile	Measurement,0, ,38	Measurement	0	 	38	2163284	0	803			0		other	0
+slope6_skin	595	Port Input	77					2165221	1937	1
+slope6_skin	595	Port Input	48					2165231	1947	1
+slope6_skin	595	Port Input	53					2165251	1967	1
+slope6_skin	595	Port Input	99					2165261	1977	1
+slope6_skin	596	Save Logfile	Measurement,9.2, ,38	Measurement	9.2	 	38	2165675	0	767			0		other	0
+slope6_skin	596	Port Input	77					2167551	1876	1
+slope6_skin	596	Port Input	48					2167571	1896	1
+slope6_skin	596	Port Input	54					2167581	1906	1
+slope6_skin	596	Port Input	56					2167591	1916	1
+slope6_skin	597	Save Logfile	Measurement,10.4, ,38	Measurement	10.4	 	38	2168004	0	905			0		other	0
+slope6_skin	597	Port Input	77					2170051	2047	1
+slope6_skin	597	Port Input	48					2170061	2057	1
+slope6_skin	597	Port Input	55					2170081	2077	1
+slope6_skin	597	Port Input	51					2170090	2086	2
+slope6_skin	598	Save Logfile	Measurement,11.5, ,38	Measurement	11.5	 	38	2170504	0	765			0		other	0
+slope6_skin	598	Port Input	77					2172381	1877	1
+slope6_skin	598	Port Input	48					2172401	1897	1
+slope6_skin	598	Port Input	56					2172411	1907	1
+slope6_skin	598	Port Input	48					2172420	1916	2
+slope6_skin	599	Save Logfile	Measurement,12.8, ,38	Measurement	12.8	 	38	2172834	0	787			0		other	0
+slope6_skin	599	Port Input	77					2174711	1877	1
+slope6_skin	599	Port Input	48					2174731	1897	1
+slope6_skin	599	Port Input	56					2174741	1907	1
+slope6_skin	599	Port Input	98					2174751	1917	1
+slope6_skin	600	Save Logfile	Measurement,13.9, ,38	Measurement	13.9	 	38	2175164	0	794			0		other	0
+slope6_skin	600	Port Input	77					2177051	1887	1
+slope6_skin	600	Port Input	48					2177061	1897	1
+slope6_skin	600	Port Input	57					2177081	1917	1
+slope6_skin	600	Port Input	55					2177091	1927	1
+slope6_skin	601	Save Logfile	Measurement,15.1, ,38	Measurement	15.1	 	38	2177504	0	796			0		other	0
+slope6_skin	601	Port Input	77					2179541	2037	1
+slope6_skin	601	Port Input	48					2179561	2057	1
+slope6_skin	601	Port Input	97					2179571	2067	1
+slope6_skin	601	Port Input	51					2179581	2077	1
+slope6_skin	602	Save Logfile	Measurement,16.3, ,38	Measurement	16.3	 	38	2179995	0	790			0		other	0
+slope6_skin	602	Port Input	77					2181881	1886	1
+slope6_skin	602	Port Input	48					2181901	1906	1
+slope6_skin	602	Port Input	98					2181911	1916	1
+slope6_skin	602	Port Input	48					2181921	1926	1
+slope6_skin	603	Save Logfile	Measurement,17.6, ,38	Measurement	17.6	 	38	2182335	0	778			0		other	0
+slope6_skin	603	Port Input	77					2184211	1876	1
+slope6_skin	603	Port Input	48					2184231	1896	1
+slope6_skin	603	Port Input	98					2184241	1906	1
+slope6_skin	603	Port Input	99					2184251	1916	1
+slope6_skin	604	Save Logfile	Measurement,18.8, ,38	Measurement	18.8	 	38	2184664	0	1208			0		other	0
+slope6_skin	604	Port Input	77					2187051	2387	1
+slope6_skin	604	Port Input	48					2187061	2397	1
+slope6_skin	604	Port Input	99					2187071	2407	2
+slope6_skin	604	Port Input	56					2187081	2417	1
+slope6_skin	605	Save Logfile	Measurement,20, ,38	Measurement	20	 	38	2187494	0	1219			0		other	0
+slope6_skin	605	Port Input	77					2189871	2377	1
+slope6_skin	605	Port Input	48					2189891	2397	1
+slope6_skin	605	Port Input	100					2189901	2407	1
+slope6_skin	605	Port Input	55					2189911	2417	1
+slope6_skin	606	Save Logfile	Measurement,21.5, ,38	Measurement	21.5	 	38	2190324	0	1252			0		other	0
+slope6_skin	606	Port Input	77					2192701	2377	1
+slope6_skin	606	Port Input	48					2192721	2397	2
+slope6_skin	606	Port Input	101					2192731	2407	1
+slope6_skin	606	Port Input	53					2192741	2417	1
+slope6_skin	607	Save Logfile	Measurement,22.9, ,38	Measurement	22.9	 	38	2193155	0	787			0		other	0
+slope6_skin	607	Port Input	77					2195031	1876	1
+slope6_skin	607	Port Input	48					2195061	1906	1
+slope6_skin	607	Port Input	102					2195071	1916	1
+slope6_skin	607	Port Input	52					2195081	1926	1
+slope6_skin	608	Save Logfile	Measurement,24.4, ,38	Measurement	24.4	 	38	2195485	0	795			0		other	0
+slope6_skin	608	Port Input	77					2197361	1876	1
+slope6_skin	608	Port Input	49					2197391	1906	1
+slope6_skin	608	Port Input	48					2197401	1916	1
+slope6_skin	608	Port Input	48					2197411	1926	1
+slope6_skin	609	Save Logfile	Measurement,25.6, ,38	Measurement	25.6	 	38	2197815	0	859			0		other	0
+slope6_skin	609	Port Input	77					2199861	2046	1
+slope6_skin	609	Port Input	49					2199891	2076	1
+slope6_skin	609	Port Input	48					2199901	2086	1
+slope6_skin	609	Port Input	99					2199911	2096	1
+slope6_skin	610	Save Logfile	Measurement,26.8, ,38	Measurement	26.8	 	38	2200315	0	786			0		other	0
+slope6_skin	610	Port Input	77					2202191	1876	1
+slope6_skin	610	Port Input	49					2202221	1906	1
+slope6_skin	610	Port Input	49					2202231	1916	1
+slope6_skin	610	Port Input	57					2202241	1926	1
+slope6_skin	611	Save Logfile	Measurement,28.1, ,38	Measurement	28.1	 	38	2202644	0	786			0		other	0
+slope6_skin	611	Port Input	77					2204521	1877	1
+slope6_skin	611	Port Input	49					2204551	1907	1
+slope6_skin	611	Port Input	50					2204561	1917	1
+slope6_skin	611	Port Input	53					2204571	1927	1
+slope6_skin	612	Save Logfile	Measurement,29.3, ,38	Measurement	29.3	 	38	2204974	0	797			0		other	0
+slope6_skin	612	Port Input	77					2206861	1887	1
+slope6_skin	612	Port Input	49					2206891	1917	1
+slope6_skin	612	Port Input	51					2206901	1927	1
+slope6_skin	612	Port Input	49					2206911	1937	1
+slope6_skin	613	Save Logfile	Measurement,30.5, ,38	Measurement	30.5	 	38	2207314	0	784			0		other	0
+slope6_skin	613	Port Input	77					2209191	1877	1
+slope6_skin	613	Port Input	49					2209221	1907	1
+slope6_skin	613	Port Input	51					2209231	1917	1
+slope6_skin	613	Port Input	100					2209241	1927	1
+slope6_skin	614	Save Logfile	Measurement,31.7, ,38	Measurement	31.7	 	38	2209644	0	807			0		other	0
+slope6_skin	614	Port Input	77					2211691	2047	1
+slope6_skin	614	Port Input	49					2211721	2077	1
+slope6_skin	614	Port Input	52					2211731	2087	1
+slope6_skin	614	Port Input	97					2211741	2097	1
+slope6_skin	615	Save Logfile	Measurement,33, ,38	Measurement	33	 	38	2212144	0	807			0		other	0
+slope6_skin	615	Port Input	77					2214181	2037	1
+slope6_skin	615	Port Input	49					2214211	2067	1
+slope6_skin	615	Port Input	53					2214221	2077	1
+slope6_skin	615	Port Input	54					2214231	2087	1
+slope6_skin	616	Save Logfile	Measurement,34.2, ,38	Measurement	34.2	 	38	2214634	0	776			0		other	0
+slope6_skin	616	Port Input	77					2216521	1887	1
+slope6_skin	616	Port Input	49					2216551	1917	1
+slope6_skin	616	Port Input	54					2216561	1927	1
+slope6_skin	616	Port Input	52					2216571	1937	1
+slope6_skin	617	Save Logfile	Measurement,35.6, ,38	Measurement	35.6	 	38	2216974	0	784			0		other	0
+slope6_skin	617	Port Input	77					2218851	1877	1
+slope6_skin	617	Port Input	49					2218881	1907	1
+slope6_skin	617	Port Input	55					2218891	1917	1
+slope6_skin	617	Port Input	48					2218901	1927	1
+slope6_skin	618	Save Logfile	Measurement,36.8, ,38	Measurement	36.8	 	38	2219304	0	795			0		other	0
+slope6_skin	618	Port Input	77					2221351	2047	1
+slope6_skin	618	Port Input	49					2221381	2077	1
+slope6_skin	618	Port Input	55					2221391	2087	1
+slope6_skin	618	Port Input	99					2221401	2097	1
+slope6_skin	619	Save Logfile	Measurement,38, ,38	Measurement	38	 	38	2221804	0	816			0		other	0
+slope6_skin	619	Port Input	77					2223841	2037	1
+slope6_skin	619	Port Input	49					2223871	2067	1
+slope6_skin	619	Port Input	56					2223881	2077	1
+slope6_skin	619	Port Input	56					2223891	2087	1
+slope6_skin	620	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	2226293	0	805			0		other	0
+slope6_skin	620	Port Input	77					2228341	2048	1
+slope6_skin	620	Port Input	49					2228371	2078	1
+slope6_skin	620	Port Input	56					2228381	2088	1
+slope6_skin	620	Port Input	98					2228391	2098	1
+slope6_skin	621	Save Logfile	Measurement,39.5, ,0	Measurement	39.5	 	0	2230793	0	819			0		other	0
+slope6_skin	621	Port Input	77					2232841	2048	1
+slope6_skin	621	Port Input	49					2232871	2078	1
+slope6_skin	621	Port Input	56					2232881	2088	1
+slope6_skin	621	Port Input	56					2232891	2098	1
+slope6_skin	622	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	2235293	0	815			0		other	0
+slope6_skin	622	Port Input	77					2237331	2038	1
+slope6_skin	622	Port Input	49					2237361	2068	1
+slope6_skin	622	Port Input	56					2237371	2078	1
+slope6_skin	622	Port Input	56					2237381	2088	1
+slope6_skin	623	Save Logfile	Measurement,39.2, ,0	Measurement	39.2	 	0	2239783	0	791			0		other	0
+slope6_skin	623	Response	3					2241120	1337	2
+slope6_skin	623	Port Input	77					2241661	1878	1
+slope6_skin	623	Port Input	49					2241691	1908	1
+slope6_skin	623	Port Input	56					2241701	1918	1
+slope6_skin	623	Port Input	98					2241711	1928	1
+slope6_skin	624	Save Logfile	Measurement,39.5, ,0	Measurement	39.5	 	0	2244113	0	824			0		other	0
+slope6_skin	625	Save Logfile	Exit program,39.5	Exit program	39.5			2245107	0	781			0		other	0

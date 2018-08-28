@@ -1,0 +1,534 @@
+time	time_uncertainty	Event	Temperature	VAS	Target_temperature
+858.8	1.2	Initialised	0	0	0
+2723.4	2.4	Measurement	38	0	38
+3004.6	2.3	Measurement	38	0	0
+3264.3	2	Measurement	38	0	0
+3530.3	2.1	Measurement	38	0	0
+3797.3	2.2	Measurement	38	0	0
+4260.9	136.6	Measurement	38	0	0
+4745	188.5	Measurement	38	0	0
+4946.3	2.4	Raise Temperature	38	0	0
+5508.5	13.7	Measurement	38	0	0
+5529.2	2.8	Raise Temperature	38	0	0
+6083.3	2.9	Measurement	39.1	0	0
+6347.3	3.4	Measurement	39.7	0	0
+6361.9	3.3	Raise Temperature	39.7	0	0
+6916.3	3.3	Measurement	40.1	0	0
+7181.3	3.4	Measurement	40.6	0	0
+7444.3	3.5	Measurement	41.1	0	0
+7461	3.7	Raise Temperature	41.1	0	0
+8019.3	4.1	Measurement	41	0	0
+8277.3	3.9	Measurement	41.6	0	0
+8543.3	4.1	Measurement	42.1	0	0
+8810.5	4.2	Measurement	42.2	0	0
+9076.3	4.5	VAS Change	42.1	51	0
+9093	8	Measurement	42.1	0	0
+9361.3	4.4	Measurement	42	0	0
+9626.3	552.2	Measurement	42	0	0
+10442.3	242.1	Measurement	42	0	0
+10941.4	374	Measurement	42	0	0
+11574.4	5	Measurement	42	0	0
+11841.3	5	Measurement	42	0	0
+12107.3	5.1	VAS Change	42	53	0
+12124	5.1	Measurement	42	0	0
+12390.5	5.4	VAS Change	42	54	0
+12407.2	5.2	Measurement	42	0	0
+12673.4	6.3	Measurement	42	0	0
+12940.5	5.6	Measurement	42	0	0
+13206.3	6.1	Measurement	42	0	0
+13223.2	5.5	Raise Temperature	42	0	0
+13779.4	5.8	Measurement	42	0	0
+13789.5	5.8	Raise Temperature	42	0	0
+14346.3	6	Measurement	43.1	0	0
+14605.3	7.9	Measurement	43.6	0	0
+14622.2	6.2	Raise Temperature	43.6	0	0
+15179.3	6.5	Measurement	44.1	0	0
+15438.3	7.1	Measurement	44.5	0	0
+15454.8	6.6	Raise Temperature	44.5	0	0
+16012.3	7	Measurement	45.2	0	0
+16037.7	6.9	Raise Temperature	45.2	0	0
+16595.3	7	Measurement	46.1	0	0
+16875.6	10.6	Measurement	46.7	0	0
+17154.3	8.2	Measurement	47.1	0	0
+17170.2	7.2	Raise Temperature	47.1	0	0
+17728.3	8.8	Measurement	47.1	0	0
+18003.3	10.2	Measurement	47.6	0	0
+18269.3	9.3	Measurement	48.1	0	0
+18536.3	9.6	Measurement	48.2	0	0
+18802.3	8.4	Measurement	48.1	0	0
+19068.3	9	Measurement	48	0	0
+19335.3	9	Measurement	48	0	0
+19601.3	10.2	Measurement	48	0	0
+19868.3	15.7	Measurement	48	0	0
+20151.3	9.5	Measurement	48	0	0
+20417.3	9.4	Measurement	48	0	0
+20684.3	10	Measurement	48	0	0
+20950.3	29.1	Measurement	48	0	0
+21233.3	9.7	Measurement	48	0	0
+21250.4	9.3	Raise Temperature	48	0	0
+21811.3	9.3	VAS Change	48	55	0
+21833.2	9.4	Measurement	48	0	0
+22099.4	11.1	VAS Change	48.6	56	0
+22116.4	9.4	Measurement	48.6	0	0
+22383.3	9.9	VAS Change	49.2	57	0
+22399.6	9.8	Measurement	49.2	0	0
+22666.3	10.2	Measurement	49.2	0	0
+22932.3	11.1	Measurement	49.1	0	0
+23199.3	10.7	VAS Change	49	58	0
+23215.5	10.7	Measurement	49	0	0
+23489.3	10.4	Measurement	49	0	0
+23765.3	10.3	Measurement	49	0	0
+24031.3	11.3	Measurement	49	0	0
+24048.3	11	Raise Temperature	49	0	0
+24611.3	10.5	VAS Change	49	59	0
+24631.1	10.9	Measurement	49	0	0
+24897.3	11.4	Measurement	49.6	0	0
+25164.3	11.3	VAS Change	50.2	60	0
+25180.7	10.8	Measurement	50.2	0	0
+25197.4	11	Raise Temperature	50.2	0	0
+25759.3	11.3	Measurement	50.1	0	0
+26030.4	13.9	Measurement	50.6	0	0
+26313.3	13.2	VAS Change	51.2	62	0
+26329.8	11.4	Measurement	51.2	0	0
+26596.3	11.9	Measurement	51.2	0	0
+26862.3	11.8	VAS Change	51.1	64	0
+26879.4	11.8	Measurement	51.1	0	0
+27146.3	14.1	VAS Change	51	66	0
+27179.1	12.1	Measurement	51	0	0
+27445.5	12.8	Measurement	51	0	0
+27462.3	12.1	Raise Temperature	51	0	0
+28025.3	13.6	VAS Change	51.1	70	0
+28045.1	12.2	Measurement	51.1	0	0
+28311.3	12.8	Measurement	51.7	0	0
+28578.3	13.9	VAS Change	52.2	71	0
+28594.7	12.5	Measurement	52.2	0	0
+28878.3	34.6	Measurement	52.2	0	0
+29177.5	16.5	VAS Change	52.1	72	0
+29210.9	12.6	Measurement	52.1	0	0
+29481.3	13.7	Measurement	52.1	0	0
+29760.3	22.5	Measurement	52	0	0
+30043.3	13.7	VAS Change	52.1	74	0
+30060.2	12.9	Measurement	52.1	0	0
+30326.3	14.5	VAS Change	52.1	77	0
+30343.3	13.6	Measurement	52.1	0	0
+30610.3	13.9	VAS Change	52.1	78	0
+30643.2	13.1	Measurement	52.1	0	0
+30909.3	14	VAS Change	52.1	79	0
+30926.2	13.6	Measurement	52.1	0	0
+31192.3	14.1	Measurement	52.1	0	0
+31209.4	13.4	Raise Temperature	52.1	0	0
+31774.3	13.9	VAS Change	52.1	81	0
+31792.2	13.9	Measurement	52.1	0	0
+32058.3	14.3	Measurement	52.7	0	0
+32325.3	15.7	Measurement	53.2	0	0
+32609.3	15	VAS Change	53.2	80	0
+32641.6	14	Measurement	53.2	0	0
+32908.3	14.7	VAS Change	53.1	79	0
+32941.3	14.9	Measurement	53.1	0	0
+33224.3	14.7	Measurement	53.1	0	0
+33507.3	15.6	VAS Change	53.1	78	0
+33540.9	14.6	Measurement	53.1	0	0
+33824.3	16.5	Measurement	53.1	0	0
+34107.3	15.5	Measurement	52.6	0	0
+34390.3	16.6	Measurement	52.8	0	0
+34673.3	15	Measurement	53.2	0	0
+34956.4	16.1	Measurement	53.1	0	0
+35239.4	15.7	Measurement	53.1	0	0
+35522.4	15.9	Measurement	53.1	0	0
+35806.3	16.1	Measurement	53.1	0	0
+35839.2	15.7	Lower Temperature	53.1	0	0
+36406.5	16	Measurement	53.1	0	0
+36438.7	15.6	Lower Temperature	53.1	0	0
+37005.3	17.3	Measurement	51.9	0	0
+37038.2	16.1	Lower Temperature	51.9	0	0
+37605.4	16.8	Measurement	50.9	0	0
+37637.8	16.9	Lower Temperature	50.9	0	0
+38206.5	17.5	VAS Change	49.9	77	0
+38237.3	17.4	Measurement	49.9	0	0
+38270.6	17.9	Lower Temperature	49.9	0	0
+38839.4	19.2	VAS Change	48.9	74	0
+38870.1	17.7	Measurement	48.9	0	0
+38903.5	17.4	Lower Temperature	48.9	0	0
+39472.3	18.2	VAS Change	47.8	72	0
+39503	18.5	Measurement	47.8	0	0
+39536.3	18.2	Lower Temperature	47.8	0	0
+40105.3	19.3	VAS Change	46.8	70	0
+40135.8	17.8	Measurement	46.8	0	0
+40169.2	17.6	Lower Temperature	46.8	0	0
+40738.3	19.3	VAS Change	45.9	68	0
+40768.7	18.5	Measurement	45.9	0	0
+40802	18.5	Lower Temperature	45.9	0	0
+41372.4	20.5	VAS Change	44.8	67	0
+41401.5	18.5	Measurement	44.8	0	0
+41434.8	19.4	Lower Temperature	44.8	0	0
+42005.3	20.9	Measurement	43.8	0	0
+42034.4	20	Lower Temperature	43.8	0	0
+42605.4	20.4	VAS Change	42.8	65	0
+42633.9	18.9	Measurement	42.8	0	0
+42667.2	19.2	Lower Temperature	42.8	0	0
+43237.3	21.8	VAS Change	41.8	63	0
+43266.7	19.7	Measurement	41.8	0	0
+43300.1	20.9	Lower Temperature	41.8	0	0
+43873.2	29.2	VAS Change	40.8	61	0
+43916.2	20	Measurement	40.8	0	0
+43949.6	20.1	Lower Temperature	40.8	0	0
+44521.3	20.9	Measurement	39.8	0	0
+44549.1	20.2	Lower Temperature	39.8	0	0
+45122.4	22.2	Measurement	38.9	0	0
+45148.7	20.3	Lower Temperature	38.9	0	0
+45720.3	21.3	Measurement	37.8	0	0
+45748.2	20.2	Lower Temperature	37.8	0	0
+46321.3	22.6	VAS Change	36.8	54	0
+46347.7	20.6	Measurement	36.8	0	0
+46381.1	44.1	Lower Temperature	36.8	0	0
+46978.3	47.4	VAS Change	35.9	51	0
+47030.5	21.1	Measurement	35.9	0	0
+47314.3	22.9	Measurement	35.1	0	0
+47597.3	22.9	VAS Change	34.9	50	0
+47630	22.5	Measurement	34.9	0	0
+47914.3	22.8	VAS Change	35	48	0
+47946.4	22	Measurement	35	0	0
+48229.3	23.6	Measurement	35	0	0
+48512.3	22.5	VAS Change	35	47	0
+48546	22.1	Measurement	35	0	0
+48829.3	22.6	Measurement	35	0	0
+49112.3	24.4	Measurement	35	0	0
+49395.3	24.1	VAS Change	35	45	0
+49428.7	22.3	Measurement	35	0	0
+49712.3	23.3	VAS Change	35	43	0
+49745.1	23.5	Measurement	35	0	0
+50032.3	45.4	VAS Change	35	40	0
+50094.8	24.4	Measurement	35	0	0
+50379.3	22.9	VAS Change	35	37	0
+50411.2	22.9	Measurement	35	0	0
+50695.3	23.6	VAS Change	35	36	0
+50727.6	22.7	Measurement	35	0	0
+51012.3	24.4	VAS Change	35	35	0
+51044.1	23.7	Measurement	35	0	0
+51327.3	23.4	Measurement	35	0	0
+51610.3	24.6	Measurement	35.1	0	0
+51893.3	24.8	VAS Change	35	33	0
+51926.7	23.9	Measurement	35	0	0
+52210.4	24.5	VAS Change	35	28	0
+52243.2	23.7	Measurement	35	0	0
+52526.3	25.1	VAS Change	35.1	24	0
+52559.6	23.9	Measurement	35.1	0	0
+52842.3	46.2	Measurement	35.1	0	0
+52892.7	23.5	Lower Temperature	35.1	0	0
+53468.3	24.7	Measurement	35	0	0
+53758.3	25.1	VAS Change	34.2	23	0
+53792	24.3	Measurement	34.2	0	0
+54075.3	35.6	VAS Change	33.9	22	0
+54125	24.9	Measurement	33.9	0	0
+54408.3	25.4	VAS Change	34	21	0
+54441.5	24.6	Measurement	34	0	0
+54724.3	25.7	Measurement	34	0	0
+55007.3	26.6	VAS Change	34	20	0
+55041	25	Measurement	34	0	0
+55324.4	26	Measurement	34	0	0
+55607.4	27.1	Measurement	34	0	0
+55890.4	25.9	Measurement	34	0	0
+55923.7	24.4	Raise Temperature	34	0	0
+56499.3	26.3	Measurement	34.1	0	0
+56539.9	25.8	Raise Temperature	34.1	0	0
+57117.3	28	Measurement	35.2	0	0
+57156.1	25.2	Raise Temperature	35.2	0	0
+57732.3	27.4	Measurement	36.2	0	0
+57772.3	25.2	Raise Temperature	36.2	0	0
+58348.3	28.2	Measurement	37.2	0	0
+58638.4	27.5	Measurement	37.8	0	0
+58921.3	28.3	Measurement	38.2	0	0
+59204.3	28	Measurement	38.2	0	0
+59487.3	29	Measurement	38.1	0	0
+59771.3	29	VAS Change	38.1	18	0
+59804	27.6	Measurement	38.1	0	0
+60087.3	29.2	VAS Change	38.1	16	0
+60120.6	28.1	Measurement	38.1	0	0
+60403.3	29.6	Measurement	38.1	0	0
+60686.3	29.9	VAS Change	38.1	13	0
+60720	27.9	Measurement	38.1	0	0
+61003.4	28.4	VAS Change	38.1	12	0
+61036.4	27.7	Measurement	38.1	0	0
+61320.3	29.4	VAS Change	38.1	11	0
+61352.8	28.6	Measurement	38.1	0	0
+61637.3	29.5	VAS Change	38.1	10	0
+61685.9	28.4	Measurement	38.1	0	0
+61969.3	32.2	VAS Change	38.1	9	0
+62019	27.8	Measurement	38.1	0	0
+62302.3	29.5	VAS Change	38.1	7	0
+62335.4	27.6	Measurement	38.1	0	0
+62618.6	44.8	VAS Change	38	6	0
+62668.5	28.1	Measurement	38	0	0
+62951.5	48.5	Measurement	38.1	0	0
+63268.6	46.9	VAS Change	38	4	0
+63334.6	28.9	Measurement	38	0	0
+63628.3	29.4	VAS Change	38	3	0
+63667.7	29.3	Measurement	38	0	0
+63952.3	29.9	Measurement	38	0	0
+64251.3	29.5	Measurement	38	0	0
+64534.3	30.8	Measurement	38.1	0	0
+64833.3	33.6	Measurement	38	0	0
+65134.3	30.3	Measurement	38	0	0
+65434.3	29.1	Measurement	38	0	0
+65717.3	31.3	Measurement	38	0	0
+66017.4	31.1	Measurement	38	0	0
+66316.3	30.2	Measurement	38	0	0
+66365.6	28.9	Lower Temperature	38	0	0
+66948.3	30.4	Measurement	38	0	0
+66981.8	30.4	Lower Temperature	38	0	0
+67565.3	30.6	Measurement	36.9	0	0
+67614.7	29.3	Lower Temperature	36.9	0	0
+68198.3	30.8	Measurement	35.9	0	0
+68247.5	31	Lower Temperature	35.9	0	0
+69083.4	52.7	Measurement	34.9	0	0
+69146.8	30.1	Lower Temperature	34.9	0	0
+69981.3	32.3	Measurement	33.9	0	0
+70029.5	30.3	Lower Temperature	33.9	0	0
+70872.7	37.9	Measurement	33	0	0
+70928.8	30.8	Lower Temperature	33	0	0
+71764.3	196.5	Measurement	31.9	0	0
+71978	582.5	Lower Temperature	31.9	0	0
+73365.4	33.4	VAS Change	31	5	0
+73410.2	31.8	Measurement	31	0	0
+73460.2	34.8	Lower Temperature	31	0	0
+74306.6	515.4	VAS Change	30	8	0
+74825.8	456.3	Measurement	30	0	0
+75292.1	32.9	Lower Temperature	30	0	0
+76134.8	85.1	Measurement	29	0	0
+76224.7	32.9	Lower Temperature	29	0	0
+77062.4	54.6	Measurement	28	0	0
+77124	34.8	Lower Temperature	28	0	0
+77964.8	35.5	Measurement	27	0	0
+78006.7	34.5	Lower Temperature	27	0	0
+78846.4	35.7	Measurement	26	0	0
+78889.3	34.7	Lower Temperature	26	0	0
+79729.4	35.6	Measurement	25	0	0
+79772	34.9	Lower Temperature	25	0	0
+80612.4	37.4	VAS Change	24	9	0
+80654.6	35.6	Measurement	24	0	0
+80704.6	37	Lower Temperature	24	0	0
+81546.4	37.6	Measurement	23	0	0
+81603.9	35.4	Lower Temperature	23	0	0
+82444.4	38.6	Measurement	22	0	0
+82486.6	36.6	Lower Temperature	22	0	0
+83328.4	38	Measurement	21	0	0
+83369.2	36.6	Lower Temperature	21	0	0
+84211.4	37.7	VAS Change	20.1	10	0
+84251.8	37.2	Measurement	20.1	0	0
+84301.8	39.5	Lower Temperature	20.1	0	0
+85146.4	38.9	VAS Change	19	13	0
+85201.1	37.7	Measurement	19	0	0
+85251.1	40.9	Lower Temperature	19	0	0
+86097.4	51.5	VAS Change	18.1	14	0
+86167	38.5	Measurement	18.1	0	0
+86217	38.5	Lower Temperature	18.1	0	0
+87062.7	58.3	VAS Change	17.1	16	0
+87132.9	38.8	Measurement	17.1	0	0
+87182.9	51.3	Lower Temperature	17.1	0	0
+88040.6	48.5	VAS Change	16.1	18	0
+88098.9	40	Measurement	16.1	0	0
+88148.9	39	Lower Temperature	16.1	0	0
+89000.6	43.1	VAS Change	15.1	22	0
+89048.2	40.1	Measurement	15.1	0	0
+89098.1	40.9	Lower Temperature	15.1	0	0
+89944.4	41.1	VAS Change	14.1	24	0
+89997.4	39.4	Measurement	14.1	0	0
+90047.4	41.3	Lower Temperature	14.1	0	0
+90893.4	40.8	VAS Change	13.2	35	0
+90946.7	39.4	Measurement	13.2	0	0
+90996.7	43.3	Lower Temperature	13.2	0	0
+91845.4	53.5	VAS Change	12.2	36	0
+91912.6	41.8	Measurement	12.2	0	0
+91962.6	43.2	Lower Temperature	12.2	0	0
+92810.4	42.4	VAS Change	11.2	42	0
+92861.9	40.5	Measurement	11.2	0	0
+93162.4	42.9	VAS Change	10.6	45	0
+93211.6	40.7	Measurement	10.6	0	0
+93512.4	41.5	VAS Change	10.2	51	0
+93561.3	41.7	Measurement	10.2	0	0
+93862.4	43	VAS Change	10.3	52	0
+93911	41.9	Measurement	10.3	0	0
+94212.4	42.7	Measurement	10.3	0	0
+94511.3	43.6	Measurement	10.3	0	0
+94811.4	61.8	Measurement	10.3	0	0
+95144.4	43.9	Measurement	10.3	0	0
+95444.4	43	Measurement	10.3	0	0
+95493.2	42.7	Lower Temperature	10.3	0	0
+96341.3	45.6	Measurement	10.2	0	0
+96392.5	41.6	Lower Temperature	10.2	0	0
+97239.3	44.6	Measurement	9.3	0	0
+97291.8	42.8	Lower Temperature	9.3	0	0
+98140.6	57.8	VAS Change	8.3	56	0
+98207.8	43.3	Measurement	8.3	0	0
+98257.8	65.3	Lower Temperature	8.3	0	0
+99129.7	72.3	VAS Change	7.3	59	0
+99207	43.9	Measurement	7.3	0	0
+99507.4	45.6	VAS Change	6.8	63	0
+99556.7	43.1	Measurement	6.8	0	0
+99857.4	45.7	VAS Change	6.4	66	0
+99906.4	43.2	Measurement	6.4	0	0
+100207.4	45.9	VAS Change	6.4	70	0
+100256.2	43.9	Measurement	6.4	0	0
+100557.4	45.4	VAS Change	6.4	72	0
+100605.9	45.1	Measurement	6.4	0	0
+100906.5	46.2	VAS Change	6.4	75	0
+100955.6	45.4	Measurement	6.4	0	0
+101256.4	45.4	VAS Change	6.4	77	0
+101305.3	43.4	Measurement	6.4	0	0
+101606.5	46.6	Measurement	6.4	0	0
+101922.4	47.9	VAS Change	6.4	79	0
+101988.2	44.7	Measurement	6.4	0	0
+102289.5	46.8	Measurement	6.4	0	0
+102605.5	48.2	Measurement	6.4	0	0
+102922.4	48	Measurement	6.4	0	0
+103238.4	46.5	VAS Change	6.4	80	0
+103303.8	44.1	Measurement	6.4	0	0
+103604.4	47.9	VAS Change	6.4	81	0
+103670.2	46.6	Measurement	6.4	0	0
+103720.2	48.4	Lower Temperature	6.4	0	0
+104575.4	48.4	VAS Change	6.4	84	0
+104636.1	46.6	Measurement	6.4	0	0
+104937.4	48.6	VAS Change	5.8	85	0
+105002.5	47.3	Measurement	5.8	0	0
+105303.4	47.7	Measurement	5.4	0	0
+105619.3	48.4	Measurement	5.4	0	0
+105936.4	48.8	VAS Change	5.4	86	0
+106001.7	47.7	Measurement	5.4	0	0
+106319.4	49.5	VAS Change	5.4	87	0
+106384.8	46.4	Measurement	5.4	0	0
+106685.4	49.7	VAS Change	5.4	90	0
+106751.2	47.1	Measurement	5.4	0	0
+107052.4	47.1	VAS Change	5.4	92	0
+107117.6	46.2	Measurement	5.4	0	0
+107419.1	48.1	VAS Change	5.4	93	0
+107483.9	47	Measurement	5.4	0	0
+107785.4	50	VAS Change	5.4	95	0
+107850.3	47.8	Measurement	5.4	0	0
+108168.4	49.2	VAS Change	5.4	96	0
+108233.4	47.1	Measurement	5.4	0	0
+108534.3	50	Measurement	5.4	0	0
+108850.4	51.4	VAS Change	5.4	100	0
+108916.2	48.2	Measurement	5.4	0	0
+109233.3	48.7	Measurement	5.4	0	0
+109550.5	91	Measurement	5.4	0	0
+109900.5	77.9	Measurement	5.4	0	0
+110249.6	79.1	Measurement	5.4	0	0
+110582.7	78.3	Measurement	5.4	0	0
+110664.9	46.5	Raise Temperature	5.4	0	0
+111516.3	51.6	Measurement	5.4	0	0
+111580.8	48.3	Raise Temperature	5.4	0	0
+112434.4	51	VAS Change	6.5	96	0
+112496.7	49.3	Measurement	6.5	0	0
+112563.4	51	Raise Temperature	6.5	0	0
+113422.4	52.9	VAS Change	7.4	95	0
+113479.3	49.9	Measurement	7.4	0	0
+113546	51.9	Raise Temperature	7.4	0	0
+114403.4	53.9	VAS Change	8.4	89	0
+114461.9	50.2	Measurement	8.4	0	0
+114528.5	52.7	Raise Temperature	8.4	0	0
+115386.4	54.3	VAS Change	9.4	83	0
+115444.5	49.8	Measurement	9.4	0	0
+115511.1	53.4	Raise Temperature	9.4	0	0
+116369.4	54.1	VAS Change	10.4	79	0
+116427.1	51.4	Measurement	10.4	0	0
+116493.7	53.6	Raise Temperature	10.4	0	0
+117352.4	53.3	VAS Change	11.4	75	0
+117426.3	52.6	Measurement	11.4	0	0
+117492.9	54.4	Raise Temperature	11.4	0	0
+118352.4	54	VAS Change	12.4	73	0
+118425.5	49.4	Measurement	12.4	0	0
+118492.2	53.1	Raise Temperature	12.4	0	0
+119350.4	54.1	VAS Change	13.4	66	0
+119408.1	51.9	Measurement	13.4	0	0
+119474.7	54.6	Raise Temperature	13.4	0	0
+120334.4	55.8	VAS Change	14.3	65	0
+120407.3	54	Measurement	14.3	0	0
+120474	55.3	Raise Temperature	14.3	0	0
+121335.4	55.1	VAS Change	15.4	62	0
+121406.5	54.9	Measurement	15.4	0	0
+121473.2	55.4	Raise Temperature	15.4	0	0
+122333.8	66.6	VAS Change	16.4	63	0
+122405.9	55.5	Measurement	16.4	0	0
+122472.4	61.7	Raise Temperature	16.4	0	0
+123340.5	56.2	Measurement	17.3	0	0
+123405.1	53.4	Raise Temperature	17.3	0	0
+124263.3	54.6	Measurement	18.3	0	0
+124321	54	Raise Temperature	18.3	0	0
+125180.4	56.9	VAS Change	19.3	64	0
+125253.6	54.8	Measurement	19.3	0	0
+125320.2	57	Raise Temperature	19.3	0	0
+126182.4	60.7	Measurement	20.3	0	0
+126503.4	57.9	Measurement	20.8	0	0
+126820.4	59.1	Measurement	21.3	0	0
+127136.3	58	Measurement	21.3	0	0
+127453.3	58.1	Measurement	21.3	0	0
+127769.3	58.7	Measurement	21.3	0	0
+128085.4	58	Measurement	21.3	0	0
+128402.4	58.3	Measurement	21.2	0	0
+128717.4	58.9	Measurement	21.2	0	0
+129035.4	58.7	Measurement	21.2	0	0
+129351.4	57.8	Measurement	21.2	0	0
+129668.4	58.4	Measurement	21.2	0	0
+129983.3	61	Measurement	21.2	0	0
+130300.4	59	VAS Change	21.2	63	0
+130366.3	56.7	Measurement	21.2	0	0
+130683.4	59.9	Measurement	21.2	0	0
+131000.4	66.2	Measurement	21.2	0	0
+131332.4	59	Measurement	21.2	0	0
+131648.4	61.3	Measurement	21.2	0	0
+131965.4	59.1	VAS Change	21.2	62	0
+132031.7	57.4	Measurement	21.2	0	0
+132348.4	61.3	Measurement	21.2	0	0
+132664.4	58.5	Measurement	21.2	0	0
+132982.4	62.1	VAS Change	21.2	63	0
+133047.6	56.7	Measurement	21.2	0	0
+133364.8	75.8	Measurement	21.2	0	0
+133731.8	88.6	Measurement	21.2	0	0
+134081.4	100.3	Measurement	21.2	0	0
+134481.8	63.3	VAS Change	21.2	62	0
+134563.1	57.9	Measurement	21.2	0	0
+134879.4	60.6	Measurement	21.2	0	0
+135196.4	60.8	Measurement	21.1	0	0
+135512.4	62.4	VAS Change	21.2	63	0
+135579	57.8	Measurement	21.2	0	0
+135895.4	499.8	Measurement	21.2	0	0
+136411.7	445.7	Subject Response	21.2	0	0
+137172.6	65.1	Measurement	0	0	38
+137394.6	63.7	Measurement	29.6	0	38
+137627.6	60.7	Measurement	30	0	38
+137843.6	61.2	Measurement	31.3	0	38
+138060.6	61	Measurement	32.4	0	38
+138276.6	82.7	Measurement	33.6	0	38
+138526.7	452.3	Measurement	34.7	0	38
+139142.6	393.9	Measurement	36	0	38
+139693	65.1	Measurement	38.6	0	38
+140025.4	457.3	Measurement	38.3	0	0
+140741.5	486.2	VAS Change	38.3	66	0
+141241.3	126	Measurement	38.3	0	0
+141625.9	128	VAS Change	38.3	65	0
+141774.3	125.8	Measurement	38.3	0	0
+142158.9	132	Measurement	38.2	0	0
+142558.6	129.5	Measurement	38.2	0	0
+142706.9	121.5	Lower Temperature	38.2	0	0
+143632.6	129.4	Measurement	38.1	0	0
+143772.8	127.3	Lower Temperature	38.1	0	0
+144703.4	65.9	VAS Change	37.1	52	0
+144771.9	58.2	Measurement	37.1	0	0
+144864.9	68.2	Lower Temperature	37.1	0	0
+145792.5	89.7	VAS Change	36.1	7	0
+145887.7	62.7	Measurement	36.1	0	0
+145954.4	162.8	Lower Temperature	36.1	0	0
+146982.4	71.5	VAS Change	35.1	0	0
+147070.1	67.1	Measurement	35.1	0	0
+147403.4	64.4	Measurement	34.4	0	0
+147736.4	63.9	Measurement	34	0	0
+148052.4	64.3	Measurement	34.1	0	0
+148386.4	63.5	Measurement	34.1	0	0
+148719.4	64.3	Measurement	34.1	0	0
+149052.4	65.7	Measurement	34.1	0	0
+149385.4	64.3	Measurement	34.1	0	0
+149718.4	64	Measurement	34.1	0	0
+150051.4	63.8	Measurement	34.1	0	0
+150384.5	63.5	Measurement	34.1	0	0
+150450.9	60.9	Exit program	34.1	0	0
+

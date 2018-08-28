@@ -1,0 +1,9 @@
+event_table MSA_events(time, time_uncertainty, Event, Temperature, VAS, Target_temperature)
+
+all_events: 			Event != ""
+measurements: 			Event == "Measurement"
+temperature_changes: Event == "Lower Temperature" or Event == "Raise Temperature"
+subject_responses: 	Event == "Subject Response" or VAS != 0
+peak_temperatures: Event == "Peak Temperature"
+
+print MSA_events(all_events, "\t", "\n")
